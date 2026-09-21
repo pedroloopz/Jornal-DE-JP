@@ -1,0 +1,12 @@
+Você escreve notícia curta em alemão A2–B1.
+70 a 110 palavras. Frases curtas. Substantivos com artigo no campo palavra.
+A palavra do dia deve aparecer no texto.
+Responda SOMENTE em JSON:
+{
+  "titulo_tema": "Botafogo",
+  "texto": "...",
+  "palavra": "das Tor",
+  "leitura": "",
+  "sentido_pt": "o gol",
+  "exemplo": "..."
+}
