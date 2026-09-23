@@ -1,5 +1,5 @@
 {
-  "last_update_id": 0,
+  "last_update_id": 950900659,
   "skip_date": null,
   "nivel_jp": "N3-N2",
   "nivel_de": "A2-B1",
@@ -22,13 +22,7 @@
     "jp": 0,
     "de": 0
   },
-  "quizzes": {
-    "5014796066688598280": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-22"
-    }
-  },
+  "quizzes": {},
   "pendentes": [],
   "pedir_resumo": false,
   "log": [
@@ -37,6 +31,13 @@
       "t": "nova",
       "lang": "de",
       "ok": null,
+      "nota": null
+    },
+    {
+      "d": "2026-09-22",
+      "t": "quiz",
+      "lang": "de",
+      "ok": true,
       "nota": null
     }
   ],
