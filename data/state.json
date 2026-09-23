@@ -4,10 +4,10 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "jp",
-  "revisao_aberta": null,
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Politik",
-    "jp": "見込み"
+    "jp": "極限"
   },
   "ultima_frase": {
     "de": {
@@ -15,19 +15,25 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "今年の利益は増加する見込みです。",
+      "frase": "極限の状態でも人間性を見失ってはいけない。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 0,
+    "jp": 1,
     "de": 0
   },
   "dominadas": {
     "jp": 0,
     "de": 0
   },
-  "quizzes": {},
+  "quizzes": {
+    "5017206166111912125": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-09-23"
+    }
+  },
   "pendentes": [],
   "pedir_resumo": false,
   "log": [
@@ -58,11 +64,19 @@
       "lang": "jp",
       "ok": false,
       "nota": null
+    },
+    {
+      "d": "2026-09-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
     "2026-09-22-21:00",
-    "2026-09-22-06:30"
+    "2026-09-22-06:30",
+    "2026-09-23-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -99,6 +113,18 @@
       "tema": "bolsa",
       "data": "2026-09-22",
       "proxima": "2026-09-23",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-23-06:30-jp",
+      "palavra": "極限",
+      "leitura": "",
+      "sentido_pt": "limite",
+      "exemplo": "極限の状態でも人間性を見失ってはいけない。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-09-23",
+      "proxima": "2026-09-24",
       "acertos": 0
     }
   ]
