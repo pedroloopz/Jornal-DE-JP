@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Politik",
+    "de": "Aktie",
     "jp": "極限"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Er interessiert sich sehr für die Politik in Brasilien.",
+      "frase": "Jeder Investor kauft heute eine neue Aktie.",
       "leitura": ""
     },
     "jp": {
@@ -31,6 +31,11 @@
     "5017206166111912125": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-23"
+    },
+    "5017206166111912126": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-23"
     }
   },
@@ -71,12 +76,20 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-23",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
     "2026-09-22-21:00",
     "2026-09-22-06:30",
-    "2026-09-23-06:30"
+    "2026-09-23-06:30",
+    "2026-09-23-08:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -88,7 +101,12 @@
     "https://www.fool.com/investing/2026/09/22/if-you-buy-monster-beverage-with-10000-today-could/?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/22/google-goes-nuclear-with-power-upgrade-agreement-in-georgia/?.tsrc=rss",
     "https://stocktwits.com/news-articles/markets/equity/nvda-stock-is-at-its-cheapest-in-more-than-a-decade-what-is-holding-nvidia-back/cZM5Ty5RB7K?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html?.tsrc=rss",
+    "https://finance.yahoo.com/video/ai-magic-sends-markets-higher-143210140.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/crusoe-thinking-machines-lab-partner-150700602.html?.tsrc=rss",
+    "https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/jamf-takes-apple-management-ai-150000490.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/apple-takes-ai-fight-straight-144625209.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -123,6 +141,18 @@
       "exemplo": "極限の状態でも人間性を見失ってはいけない。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-09-23",
+      "proxima": "2026-09-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-23-08:00-de",
+      "palavra": "die Aktie",
+      "leitura": "",
+      "sentido_pt": "a ação",
+      "exemplo": "Jeder Investor kauft heute eine neue Aktie.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-09-23",
       "proxima": "2026-09-24",
       "acertos": 0
