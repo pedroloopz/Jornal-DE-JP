@@ -3,14 +3,19 @@
   "skip_date": null,
   "nivel_jp": "N3-N2",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
+  "ultimo_lang": "jp",
   "revisao_aberta": null,
   "ultima_palavra": {
-    "de": "Politik"
+    "de": "Politik",
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
       "frase": "Er interessiert sich sehr für die Politik in Brasilien.",
+      "leitura": ""
+    },
+    "jp": {
+      "frase": "今年の利益は増加する見込みです。",
       "leitura": ""
     }
   },
@@ -22,7 +27,13 @@
     "jp": 0,
     "de": 0
   },
-  "quizzes": {},
+  "quizzes": {
+    "5014796066688598282": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-09-22"
+    }
+  },
   "pendentes": [],
   "pedir_resumo": false,
   "log": [
@@ -39,17 +50,30 @@
       "lang": "de",
       "ok": true,
       "nota": null
+    },
+    {
+      "d": "2026-09-22",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-22-21:00"
+    "2026-09-22-21:00",
+    "2026-09-22-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/22/haddad-propoe-mudar-curriculo-do-ensino-medio-em-sp-para-preparar-trabalhadores-para-industria-40.ghtml",
     "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/eleicoes-20226-luis-cesar-bueno-promete-reformulacao-da-ueg.ghtml",
     "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/22/caiado-fala-em-resgatar-territorios-no-combate-ao-crime-organizado-soberania-brasileira-hoje-esta-entregue.ghtml",
-    "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-presidente-22-setembro.ghtml"
+    "https://g1.globo.com/pb/paraiba/eleicoes/2026/noticia/2026/09/22/quaest-paraiba-presidente-22-setembro.ghtml",
+    "https://finance.yahoo.com/video/meta-ai-agent-just-got-214556275.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/22/if-you-buy-monster-beverage-with-10000-today-could/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/22/google-goes-nuclear-with-power-upgrade-agreement-in-georgia/?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/nvda-stock-is-at-its-cheapest-in-more-than-a-decade-what-is-holding-nvidia-back/cZM5Ty5RB7K?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-sb-energy-50-221736610.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -60,6 +84,18 @@
       "exemplo": "Er interessiert sich sehr für die Politik in Brasilien.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-09-22",
+      "proxima": "2026-09-23",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-22-06:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "今年の利益は増加する見込みです。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-09-22",
       "proxima": "2026-09-23",
       "acertos": 0
