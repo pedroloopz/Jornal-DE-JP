@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "極限"
+    "jp": "平等"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "極限の状態でも人間性を見失ってはいけない。",
+      "frase": "社会全体で平等な権利を求めています。",
       "leitura": ""
     }
   },
@@ -36,6 +36,11 @@
     "5017206166111912126": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-23"
+    },
+    "5017206166111912129": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-09-23"
     }
   },
@@ -83,13 +88,21 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
     "2026-09-22-21:00",
     "2026-09-22-06:30",
     "2026-09-23-06:30",
-    "2026-09-23-08:00"
+    "2026-09-23-08:00",
+    "2026-09-23-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -106,7 +119,12 @@
     "https://finance.yahoo.com/technology/ai/articles/crusoe-thinking-machines-lab-partner-150700602.html?.tsrc=rss",
     "https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/jamf-takes-apple-management-ai-150000490.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/apple-takes-ai-fight-straight-144625209.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/apple-takes-ai-fight-straight-144625209.html?.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/09/23/fux-da-10-dias-para-senado-se-manifestar-em-acao-que-pede-informacoes-sobre-visitas-de-esposa-de-moraes-e-vorcaro.ghtml",
+    "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/09/23/corregedoria-do-cnj-cancela-r-47-bilhoes-em-precatorios-de-empresas-que-venderam-credito-ao-banco-master.ghtml",
+    "https://g1.globo.com/ce/ceara/eleicoes/2026/noticia/2026/09/23/quaest-ce-presidente-23-setembro.ghtml"
   ],
   "palavras": [
     {
@@ -153,6 +171,18 @@
       "exemplo": "Jeder Investor kauft heute eine neue Aktie.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-09-23",
+      "proxima": "2026-09-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-23-12:30-jp",
+      "palavra": "平等",
+      "leitura": "",
+      "sentido_pt": "igualdade",
+      "exemplo": "社会全体で平等な権利を求めています。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-09-23",
       "proxima": "2026-09-24",
       "acertos": 0
