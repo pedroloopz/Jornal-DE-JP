@@ -7,7 +7,7 @@
   "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Tor",
-    "jp": "住民"
+    "jp": "見方"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この地域には多くの住民が住んでいます。",
+      "frase": "この変更により若い選手が活躍する見方が広がっている。",
       "leitura": ""
     }
   },
@@ -59,6 +59,11 @@
       "data": "2026-09-23"
     },
     "5019457965925597456": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-09-24"
+    },
+    "5019457965925597457": {
       "correta": 1,
       "lang": "jp",
       "data": "2026-09-24"
@@ -143,6 +148,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-24",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -154,7 +166,8 @@
     "2026-09-23-17:30",
     "2026-09-23-19:30",
     "2026-09-23-21:00",
-    "2026-09-24-06:30"
+    "2026-09-24-06:30",
+    "2026-09-24-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -196,7 +209,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/tartarugas-do-itamaraty-devem-ser-retiradas-de-espelho-dagua-do-palacio-apos-36-anos.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quinta-feira-24-de-setembro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/ex-deputado-distrital-e-atual-candidato-a-cldf-e-condenado-por-matar-um-adolescente-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/receita-do-df-investiga-esquema-de-fraude-fiscal-suspeito-de-movimentar-cerca-de-r-500-milhoes.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/receita-do-df-investiga-esquema-de-fraude-fiscal-suspeito-de-movimentar-cerca-de-r-500-milhoes.ghtml",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHdkelk3ZjZZd3FSRkZKNDRhNzdvX0NFSEZ3QnN1Nkt1Z0ppRlY1YVJMLVV0cWxveG0wWkllcnR2VGp6Sk53Uzd0cXBIdUNaVC1qSm1IQ05yWEZ4dldzLXA1RXVlS2NvWkJOWlhjbzl1MzhtblR2aG5hcDBIWDF3VlRKN2I0eWVmTkNXa0JOZVB0ZG1uQ1NhQTB5UDhfQ1haZzBBalVnXzUtUnQ2RlMtMEZMSFJxQWl5VnJ6WWNJVXpIY09mbFE?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn0gH8AUFVX3lxTE45T2RpWFdZMHZDRGgxTmJNSmprRTNyQXhIb2JUV203N2hvQTRRTlQ4cHY1ZVRNclZ5NkQwdlhFS0I1V2MzQm40c0VySEdRamxrNzR3d0NJaFBzVWVZZEJGNkhkVUF0TEo2Y2JTcXdpTWUyZmRVeXZQdVBoeUtiUGxVNlJXUWR1NXMxRUNkcko1QUllMFZ5R1pGNExmYmNjRTlPX3VSN2cwN2FweTlna0lOQkpFYnBLbG1qaTZ2bFgybzlSaThhaWN4WkNJTVktNDRQTzU1UUpBLUxDbEo3dkVVc2xfRHdZYXRLYzNWZ1RQX21kdE5LWHpnc2h0Ng?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbHdoZDhWZEU0N290WWs5a2drWU9oWVRkWnB4MGhteUdSNlB5RXVWTXFBMGlXaktKYXZOQVVMeHJpNWdCVEpFYjd6UmxhMEZHRklQNDQzSWJoMWlTOXQ1TnJ6WjlpM1B2ck92TWZ1NnJuMzJZVGM4dlB1a1pidVpCM05hMXpOU0x3WEFLZzdrUkU1TmFKSGNwRjlBUGMxVE1BdkpQa0NjYWZQaGMxVTlZVlJHZGZ6MDFhTnVUcDRpSDZKclVOcFFlZVZaNm9fSTNLVFBqTGZMS1hhWHR3SXFrS2ZRbk5CbVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmZKWjFHNWp5TDFNQnNlM1h4MWZZU3dDeWdjcEwtVEJxNWFLekxNWkNGRDMzNTJmQU9JRjdXWmpEVGdLN0NQYVExZGczSUVSNTF2XzE0aVdQLUdNazlJQ3lOM1dCSzZJaWVjYjZyNHNBNThEVXdyWC1KQ2dqcFZ3aVQwWmVoU0hnbVdfWlA5V2VvWFNIYUVUZ1NLSUg2SERQM3g0V20zZUpTTm5IQ01FODVJdE5rMHhnY1V2dDUzQXfSAcYBQVVfeXFMTk0zVGotZWl4WEVzNlFDY0RpTWV4eDV0SnRNUWNqRHhPWU5rRG9jRnFoUF81SFJfdnFKQ2p2NFFTSkFPNWx0ZTZQZjJqV0l5WDRPcjQ4eW1nSzU5M01tS19YdjdTa0FzcE9BcjVxZXowOGh6RWZqX0NwbFFYQXF5NDlPSVBtcTVFYmxTQ1Q0eFpfck83Yk1VeUhwLTF2dmxPR1JUWEk2VGZVRVBJbXV6U0VIMmpSMWN3WE93Q0VkSF9pVFRKZF9B?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHl0OGdXZ3RZM0pJUlF2S1hzRURuUkFNaTN5bVZtc005b2FNSFVjUzVkRzRRTURpSFFmMF9jZFh2dks5NW5uVXNLdlYtalZwU0c0SmpfQTlQN251dFBHUHVsNmNLWDh2b3pNNGw3ZVg0S3pNbWxSZzhuT2l3eDVQVGkya3d2RzAwak41UnpMQ3hSYTJHdmpnZjBmWU5pZmdLNnNGWVdLMm5Sc3JKbDFCazZ1OVdsYmZuU053NnVIanZEdnhLdXlxc1l5aG5KTmo3?oc=5"
   ],
   "palavras": [
     {
@@ -303,6 +321,18 @@
       "exemplo": "この地域には多くの住民が住んでいます。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-09-24",
+      "proxima": "2026-09-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-24-12:30-jp",
+      "palavra": "見方",
+      "leitura": "みかた",
+      "sentido_pt": "ponto de vista",
+      "exemplo": "この変更により若い選手が活躍する見方が広がっている。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-09-24",
       "proxima": "2026-09-25",
       "acertos": 0
