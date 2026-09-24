@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Umfrage",
-    "jp": "平等"
+    "jp": "予測"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "社会全体で平等な権利を求めています。",
-      "leitura": ""
+      "frase": "専門家は来年の経済成長を予測しています。",
+      "leitura": "せんもんかはらいねんのけいざいせちょうをよそくしています。"
     }
   },
   "obra_idx": {
@@ -46,6 +46,11 @@
     "5017206166111912131": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-23"
+    },
+    "5017206166111912133": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-09-23"
     }
   },
@@ -107,6 +112,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -115,7 +127,8 @@
     "2026-09-23-06:30",
     "2026-09-23-08:00",
     "2026-09-23-12:30",
-    "2026-09-23-17:30"
+    "2026-09-23-17:30",
+    "2026-09-23-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -142,7 +155,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/23/tcdf-determina-bloqueio-de-ate-r-27-bilhoes-em-bens-de-ex-dirigentes-do-brb-no-caso-master.ghtml",
     "https://g1.globo.com/politica/noticia/2026/09/23/pgr-defende-regime-semiaberto-para-debora-do-batom.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-presidente-23-setembro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-avaliacao-governo-23-setembro.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-avaliacao-governo-23-setembro.ghtml",
+    "https://www.fool.com/investing/2026/09/23/amd-is-up-187-this-year-and-nvidia-is-up-22-prediction-nvidia-wins-the-next-12-months/?.tsrc=rss",
+    "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-15-5-231619206.html?.tsrc=rss",
+    "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-today-sept-23-ionq-surges-on-quantum-breakthrough-and-nvidia-partnership/?.tsrc=rss",
+    "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -213,6 +231,18 @@
       "exemplo": "Die Umfrage zeigt das aktuelle Ergebnis.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-09-23",
+      "proxima": "2026-09-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-23-19:30-jp",
+      "palavra": "予測",
+      "leitura": "よそく",
+      "sentido_pt": "previsão",
+      "exemplo": "専門家は来年の経済成長を予測しています。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-09-23",
       "proxima": "2026-09-24",
       "acertos": 0
