@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Tor",
+    "de": "Wahl",
     "jp": "見方"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Botafogo schießt ein wunderbares Tor im Stadion.",
+      "frase": "Die Wahl findet im nächsten Jahr statt.",
       "leitura": ""
     },
     "jp": {
@@ -66,6 +66,11 @@
     "5019457965925597457": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-24"
+    },
+    "5022020437903671569": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-24"
     }
   },
@@ -155,6 +160,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-24",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -167,7 +179,8 @@
     "2026-09-23-19:30",
     "2026-09-23-21:00",
     "2026-09-24-06:30",
-    "2026-09-24-12:30"
+    "2026-09-24-12:30",
+    "2026-09-24-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -214,7 +227,12 @@
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn0gH8AUFVX3lxTE45T2RpWFdZMHZDRGgxTmJNSmprRTNyQXhIb2JUV203N2hvQTRRTlQ4cHY1ZVRNclZ5NkQwdlhFS0I1V2MzQm40c0VySEdRamxrNzR3d0NJaFBzVWVZZEJGNkhkVUF0TEo2Y2JTcXdpTWUyZmRVeXZQdVBoeUtiUGxVNlJXUWR1NXMxRUNkcko1QUllMFZ5R1pGNExmYmNjRTlPX3VSN2cwN2FweTlna0lOQkpFYnBLbG1qaTZ2bFgybzlSaThhaWN4WkNJTVktNDRQTzU1UUpBLUxDbEo3dkVVc2xfRHdZYXRLYzNWZ1RQX21kdE5LWHpnc2h0Ng?oc=5",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbHdoZDhWZEU0N290WWs5a2drWU9oWVRkWnB4MGhteUdSNlB5RXVWTXFBMGlXaktKYXZOQVVMeHJpNWdCVEpFYjd6UmxhMEZHRklQNDQzSWJoMWlTOXQ1TnJ6WjlpM1B2ck92TWZ1NnJuMzJZVGM4dlB1a1pidVpCM05hMXpOU0x3WEFLZzdrUkU1TmFKSGNwRjlBUGMxVE1BdkpQa0NjYWZQaGMxVTlZVlJHZGZ6MDFhTnVUcDRpSDZKclVOcFFlZVZaNm9fSTNLVFBqTGZMS1hhWHR3SXFrS2ZRbk5CbVk?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYmZKWjFHNWp5TDFNQnNlM1h4MWZZU3dDeWdjcEwtVEJxNWFLekxNWkNGRDMzNTJmQU9JRjdXWmpEVGdLN0NQYVExZGczSUVSNTF2XzE0aVdQLUdNazlJQ3lOM1dCSzZJaWVjYjZyNHNBNThEVXdyWC1KQ2dqcFZ3aVQwWmVoU0hnbVdfWlA5V2VvWFNIYUVUZ1NLSUg2SERQM3g0V20zZUpTTm5IQ01FODVJdE5rMHhnY1V2dDUzQXfSAcYBQVVfeXFMTk0zVGotZWl4WEVzNlFDY0RpTWV4eDV0SnRNUWNqRHhPWU5rRG9jRnFoUF81SFJfdnFKQ2p2NFFTSkFPNWx0ZTZQZjJqV0l5WDRPcjQ4eW1nSzU5M01tS19YdjdTa0FzcE9BcjVxZXowOGh6RWZqX0NwbFFYQXF5NDlPSVBtcTVFYmxTQ1Q0eFpfck83Yk1VeUhwLTF2dmxPR1JUWEk2VGZVRVBJbXV6U0VIMmpSMWN3WE93Q0VkSF9pVFRKZF9B?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHl0OGdXZ3RZM0pJUlF2S1hzRURuUkFNaTN5bVZtc005b2FNSFVjUzVkRzRRTURpSFFmMF9jZFh2dks5NW5uVXNLdlYtalZwU0c0SmpfQTlQN251dFBHUHVsNmNLWDh2b3pNNGw3ZVg0S3pNbWxSZzhuT2l3eDVQVGkya3d2RzAwak41UnpMQ3hSYTJHdmpnZjBmWU5pZmdLNnNGWVdLMm5Sc3JKbDFCazZ1OVdsYmZuU053NnVIanZEdnhLdXlxc1l5aG5KTmo3?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeHl0OGdXZ3RZM0pJUlF2S1hzRURuUkFNaTN5bVZtc005b2FNSFVjUzVkRzRRTURpSFFmMF9jZFh2dks5NW5uVXNLdlYtalZwU0c0SmpfQTlQN251dFBHUHVsNmNLWDh2b3pNNGw3ZVg0S3pNbWxSZzhuT2l3eDVQVGkya3d2RzAwak41UnpMQ3hSYTJHdmpnZjBmWU5pZmdLNnNGWVdLMm5Sc3JKbDFCazZ1OVdsYmZuU053NnVIanZEdnhLdXlxc1l5aG5KTmo3?oc=5",
+    "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml",
+    "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-presidente-24-de-setembro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/24/datafolha-numero-da-urna-presidente.ghtml",
+    "https://g1.globo.com/se/sergipe/eleicoes/2026/noticia/2026/09/24/quaest-se-avaliacao-governo-24-setembro.ghtml",
+    "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-ro-avaliacao-governo-24-de-setembro.ghtml"
   ],
   "palavras": [
     {
@@ -333,6 +351,18 @@
       "exemplo": "この変更により若い選手が活躍する見方が広がっている。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-09-24",
+      "proxima": "2026-09-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-24-17:30-de",
+      "palavra": "die Wahl",
+      "leitura": "",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl findet im nächsten Jahr statt.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-09-24",
       "proxima": "2026-09-25",
       "acertos": 0
