@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Umfrage",
+    "de": "Tor",
     "jp": "予測"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Umfrage zeigt das aktuelle Ergebnis.",
+      "frase": "Botafogo schießt ein wunderbares Tor im Stadion.",
       "leitura": ""
     },
     "jp": {
@@ -51,6 +51,11 @@
     "5017206166111912133": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-23"
+    },
+    "5017206166111912134": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-23"
     }
   },
@@ -119,6 +124,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-23",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -128,7 +140,8 @@
     "2026-09-23-08:00",
     "2026-09-23-12:30",
     "2026-09-23-17:30",
-    "2026-09-23-19:30"
+    "2026-09-23-19:30",
+    "2026-09-23-21:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -160,7 +173,12 @@
     "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-15-5-231619206.html?.tsrc=rss",
     "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-today-sept-23-ionq-surges-on-quantum-breakthrough-and-nvidia-partnership/?.tsrc=rss",
-    "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html?.tsrc=rss"
+    "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTRPa1V0LURqU2U2Q3BEUnV5WVJrQmswNm5KaXdOdXBSSmZDdHZXLVh0VHRja2UzRkRJWU5oYmlFNDZMMmc2cUlpSlIteC1aeXBTMGpVOG83c2FNenZGVVI2WUgxZ2Z1cFIxWHdKY0dxeDJyOHNiRDhKQ0JEU3pDcFVGV3Z0eUVWUnFtV2dmdi1vRGJnejN4YVZ4ekJJZmdqcnY5NXlkdkZ0VjJLVkFZUVJJamN0YTF0Ym5LLWxidmFzRXN5M0lpbjR2YkRfTDdRdk5SSEtSY3FkVlFCeGfSAewBQVVfeXFMTUxBdE1NeXN5MHBGQzlvX3JDZTZUZmpxMFdOeFl5SDNZUW9zMWxqaHRYYmFjeEpYQVFiVTJGbFI1T1haOWxrYUhSV2xvZmhBR1JVbFNDUmoxdDNsM0RRakNkYXd3aGRyay1DbjktWUpueUhFQ1N4UFg5SFlTUXdWQ0NrcW9HWEJTV3A1V1czLTFBVHZNbzJyTTc2VWthejlUbGFLZC1hQ3BMTU5jM2RfMVBsWHBKbFRZT1hvZmdoWlJNYW03OHBYeC0wMzBFWG4yRkM1c08yLUpkczY0a3JBX0ljamo5OWJxYVY5THk?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNXh6M1FVZzBpOVFpcDNWVnh6VjZFVUQ4ZjlSdURGQWxsendUUlYyT0tWSldTWlJUYUpWZkZUaXFRRnAteG1uMTJZSVRLNzFIbW1kS3c1clozVGxwRElzdmFKc1Fub3RKZ3c2ZjNpaXFueklLTXV4QWhwN0MwT2pVN21USGlkWTBUa09INjVsYnRnYU82QTQ5VWhfbXRDMFAxdWZsZUV2M2t2MlptUVFHb3kzUDJVSG1hZkdtalBIRHVtNUFnN09NQlBXVkFpSXB6cDhfOTFaTVNVRkVub1RUMmZ6dkg0TUIyWnZIc3l4ZkdtN3pjdlp3NEtB?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXM2UzhWdDEzSHlEOEtpTjJDSk9vRWtWVVl2V3N4aklLWjN4WW5acjBpQjZORVA2SS1FM1BoOFpoaXBfSVBCLVk3eXN5NGJQWUstcFJxekNEYXE5a3N1TzRXWkpCaVlVMXIwNHJHNlcxN0xuaDZVR2RURXN6Y1FWcXRLNVdPaFBiM1NOZE84SzFxOVhka1VrUFJTQTF0ODNiSlIyOXNnMy1DaXUyVFlBNE1TZ2dWVzM4R3dWR3NlN2RBRzYtSUdUUW41b3NSMGF2Tl8yNw?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzBYVjltYmRQRWVuckttT3duTGdYT2J0ajF2bXd0N0QwQVd3X0FrM1QyZGg2dElINE92d1RVUlBHQ1dYb25ZLWpneThQdWRacjBET2hIYUdfeXN2QUNsZ0FDRVRmb2d2VmU2ODhEY01zODlsOFNrZkhkbDMybTNaLXVvZVNfNm5waGxhODFxcnl2cnA1bmp5SHJXOVV6bUw0M1FpT3NNT1hYVElINVdwd2ZYd3hleGlublBPWEJsOGtwRjFRb1dFSldZVEFDSkdP?oc=5"
   ],
   "palavras": [
     {
@@ -243,6 +261,18 @@
       "exemplo": "専門家は来年の経済成長を予測しています。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-09-23",
+      "proxima": "2026-09-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-23-21:00-de",
+      "palavra": "das Tor",
+      "leitura": "",
+      "sentido_pt": "o gol",
+      "exemplo": "Botafogo schießt ein wunderbares Tor im Stadion.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-09-23",
       "proxima": "2026-09-24",
       "acertos": 0
