@@ -153,26 +153,38 @@ def escolher_pintura(st):
 
 
 def canal_pintura(st):
-    """Bot e canal proprios da pintura (segredo PINTURA_TELEGRAM_TOKEN). O id do canal e
-    descoberto sozinho quando o bot vira administrador dele e fica salvo no estado."""
+    """Bot proprio da pintura (segredo PINTURA_TELEGRAM_TOKEN). Destino: o canal onde o bot
+    e administrador; enquanto nao houver canal, a conversa privada de quem deu /start.
+    Descoberto sozinho e salvo no estado; se um canal aparecer depois, passa a usar o canal."""
     token = os.environ.get("PINTURA_TELEGRAM_TOKEN", "").strip()
     if not token:
         return TG, CHAT
     base = f"https://api.telegram.org/bot{token}"
-    canal = os.environ.get("PINTURA_CHAT_ID", "").strip() or st.get("canal_pintura")
-    if canal:
-        return base, canal
-    ups = requests.get(f"{base}/getUpdates", timeout=30,
-                       params={"allowed_updates": json.dumps(["my_chat_member", "channel_post"])}).json()
-    for u in reversed(ups.get("result", [])):
-        chat = (u.get("my_chat_member") or u.get("channel_post") or {}).get("chat", {})
-        if chat.get("type") == "channel":
-            st["canal_pintura"] = chat["id"]
-            print("canal da pintura:", chat.get("title"), chat["id"])
-            return base, chat["id"]
+    fixo = os.environ.get("PINTURA_CHAT_ID", "").strip()
+    if fixo:
+        return base, fixo
+    atual = st.get("canal_pintura")
+    if isinstance(atual, int) or (isinstance(atual, dict) and atual.get("tipo") == "canal"):
+        return base, atual if isinstance(atual, int) else atual["id"]
+    try:
+        ups = requests.get(f"{base}/getUpdates", timeout=30, params={"allowed_updates": json.dumps(
+            ["message", "my_chat_member", "channel_post"])}).json().get("result", [])
+    except Exception:
+        ups = []
+    for u in ups:
+        mcm = u.get("my_chat_member") or {}
+        chat = (mcm or u.get("channel_post") or u.get("message") or {}).get("chat", {})
+        if chat.get("type") == "channel" and (not mcm or mcm.get("new_chat_member", {}).get("status") == "administrator"):
+            st["canal_pintura"] = {"id": chat["id"], "tipo": "canal", "nome": chat.get("title", "")}
+        elif chat.get("type") == "private" and not (st.get("canal_pintura") or {}).get("tipo") == "canal":
+            st["canal_pintura"] = {"id": chat["id"], "tipo": "privado", "nome": chat.get("first_name", "")}
+    destino = st.get("canal_pintura")
+    if destino:
+        print("pintura vai para:", destino)
+        return base, destino["id"]
     nome = requests.get(f"{base}/getMe", timeout=30).json().get("result", {}).get("username", "?")
-    raise RuntimeError(f"Canal da pintura nao encontrado. Adicione @{nome} como administrador do canal "
-                       "(com permissao de publicar) e rode de novo.")
+    raise RuntimeError(f"Bot da pintura sem destino. Mande /start para @{nome} ou adicione-o como "
+                       "administrador do canal (com permissao de publicar) e rode de novo.")
 
 
 def seculo(ano):
