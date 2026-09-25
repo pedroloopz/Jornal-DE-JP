@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Wahl",
-    "jp": "見方"
+    "jp": "描写"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この変更により若い選手が活躍する見方が広がっている。",
+      "frase": "その小説の風景描写はとても美しい。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 1,
+    "jp": 2,
     "de": 0
   },
   "dominadas": {
@@ -71,6 +71,11 @@
     "5022020437903671569": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-24"
+    },
+    "5022020437903671570": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-09-24"
     }
   },
@@ -167,6 +172,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-24",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -180,7 +192,8 @@
     "2026-09-23-21:00",
     "2026-09-24-06:30",
     "2026-09-24-12:30",
-    "2026-09-24-17:30"
+    "2026-09-24-17:30",
+    "2026-09-24-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -363,6 +376,18 @@
       "exemplo": "Die Wahl findet im nächsten Jahr statt.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-09-24",
+      "proxima": "2026-09-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-24-19:30-jp",
+      "palavra": "描写",
+      "leitura": "びょうしゃ",
+      "sentido_pt": "descrição",
+      "exemplo": "その小説の風景描写はとても美しい。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-09-24",
       "proxima": "2026-09-25",
       "acertos": 0
