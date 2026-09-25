@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Gewinn",
-    "jp": "描写"
+    "jp": "延長"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "その小説の風景描写はとても美しい。",
+      "frase": "会議の期間が三日間延長されました。",
       "leitura": ""
     }
   },
@@ -82,6 +82,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-09-24"
+    },
+    "5024272237717356839": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-09-25"
     }
   },
   "pendentes": [],
@@ -191,6 +196,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-25",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -206,7 +218,8 @@
     "2026-09-24-12:30",
     "2026-09-24-17:30",
     "2026-09-24-19:30",
-    "2026-09-24-21:00"
+    "2026-09-24-21:00",
+    "2026-09-25-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -263,7 +276,12 @@
     "https://finance.yahoo.com/markets/stocks/articles/why-garmin-grmn-good-investment-232046603.html?.tsrc=rss",
     "https://finance.yahoo.com/technology/articles/could-john-ternus-product-strategy-230117249.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/24/voo-or-vti-better-long-term-investment-history/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/24/why-fervo-energy-stock-is-up-today/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/09/24/why-fervo-energy-stock-is-up-today/?.tsrc=rss",
+    "https://g1.globo.com/politica/ao-vivo/conselho-do-mpf-gonet-caso-master.ghtml",
+    "https://g1.globo.com/economia/noticia/2026/09/25/na-mira-de-lula-bets-planejam-ampliar-apostas-para-pontos-fisicos-governo-previa-regulamentacao.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-julga-atuacao-de-paulo-gonet-no-caso-banco-master.ghtml",
+    "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
+    "https://g1.globo.com/saude/noticia/2026/09/25/ia-vai-decidir-sua-vez-na-fila-do-sus-propostas-de-candidatos-da-esquerda-a-direita-nao-sao-simples-de-implementar.ghtml"
   ],
   "palavras": [
     {
@@ -420,6 +438,18 @@
       "tema": "bolsa",
       "data": "2026-09-24",
       "proxima": "2026-09-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-25-06:30-jp",
+      "palavra": "延長",
+      "leitura": "えんちょう",
+      "sentido_pt": "prorrogação, extensão",
+      "exemplo": "会議の期間が三日間延長されました。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-09-25",
+      "proxima": "2026-09-26",
       "acertos": 0
     }
   ]
