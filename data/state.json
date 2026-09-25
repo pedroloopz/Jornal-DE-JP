@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Gewinn",
+    "de": "Wetter",
     "jp": "延長"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Viele Investoren hoffen auf einen großen Gewinn.",
+      "frase": "Das Wetter in Brasília ist heute sehr warm.",
       "leitura": ""
     },
     "jp": {
@@ -86,6 +86,11 @@
     "5024272237717356839": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-25"
+    },
+    "5024272237717356841": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-25"
     }
   },
@@ -203,6 +208,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-25",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -219,7 +231,8 @@
     "2026-09-24-17:30",
     "2026-09-24-19:30",
     "2026-09-24-21:00",
-    "2026-09-25-06:30"
+    "2026-09-25-06:30",
+    "2026-09-25-08:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -281,7 +294,12 @@
     "https://g1.globo.com/economia/noticia/2026/09/25/na-mira-de-lula-bets-planejam-ampliar-apostas-para-pontos-fisicos-governo-previa-regulamentacao.ghtml",
     "https://g1.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-julga-atuacao-de-paulo-gonet-no-caso-banco-master.ghtml",
     "https://g1.globo.com/trabalho-e-carreira/noticia/2026/09/25/stf-mantem-suspensao-de-multas-da-nr-1-sobre-saude-mental-no-trabalho-por-mais-90-dias.ghtml",
-    "https://g1.globo.com/saude/noticia/2026/09/25/ia-vai-decidir-sua-vez-na-fila-do-sus-propostas-de-candidatos-da-esquerda-a-direita-nao-sao-simples-de-implementar.ghtml"
+    "https://g1.globo.com/saude/noticia/2026/09/25/ia-vai-decidir-sua-vez-na-fila-do-sus-propostas-de-candidatos-da-esquerda-a-direita-nao-sao-simples-de-implementar.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/corpo-queimado-de-recem-nascido-e-encontrado-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/25/monobloco-cleber-e-cauan-e-festival-tram4u-animam-fim-de-semana-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/arruda-inelegivel-decisao-do-tse-se-baseou-em-condenacao-de-junho-na-justica-do-df-relembre.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-no-df-63percent-nao-sabem-o-numero-de-urna-do-candidato-a-governador-em-que-querem-votar.ghtml"
   ],
   "palavras": [
     {
@@ -448,6 +466,18 @@
       "exemplo": "会議の期間が三日間延長されました。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-09-25",
+      "proxima": "2026-09-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-25-08:00-de",
+      "palavra": "das Wetter",
+      "leitura": "",
+      "sentido_pt": "o tempo",
+      "exemplo": "Das Wetter in Brasília ist heute sehr warm.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-09-25",
       "proxima": "2026-09-26",
       "acertos": 0
