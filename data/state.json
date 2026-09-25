@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Wetter",
+    "de": "Sieg",
     "jp": "成長"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Wetter in Brasília ist heute sehr warm.",
+      "frase": "Die Fans feiern jeden Sieg ihres Teams.",
       "leitura": ""
     },
     "jp": {
@@ -96,6 +96,11 @@
     "5024272237717356843": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-25"
+    },
+    "5024272237717356858": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-25"
     }
   },
@@ -227,6 +232,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-25",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -245,7 +257,8 @@
     "2026-09-24-21:00",
     "2026-09-25-06:30",
     "2026-09-25-08:00",
-    "2026-09-25-12:30"
+    "2026-09-25-12:30",
+    "2026-09-25-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -317,7 +330,12 @@
     "https://finance.yahoo.com/technology/ai/articles/ahead-u-ipo-british-ai-183359808.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/25/costco-beat-on-earnings-about-usd0-15-a-share-of-it-was-a-one-time-tariff-refund/?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/25/sundar-pichai-reported-alphabets-cloud-backlog-hit/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/palantirs-latest-250-target-comes-183851496.html?.tsrc=rss"
+    "https://finance.yahoo.com/markets/stocks/articles/palantirs-latest-250-target-comes-183851496.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkRSemM5YlZOSVZrc0VPd3JHUVhYcGNxRTJ1YkFpYzhwR1lYSWg1MHljZExKSmdyb3JHQ0xhRXZkZ3NxUW5XQWpSYm5FcXdZdkNOa1g2VHV4YS1BSGNRcjF1Tkt2VXJQY2c5aF8zd055WHAtZmpBaEo0SzZOR3Z0X2hON0xfTExYcmREeWNaeVBKd1E5YU5zb2hmcnNlYS1iTTdoRi13eldKMy0yWkJvVDlBTWRnT0xjM3kxRzR0a3FqT1c0b0J0cl9PaHVIV0ZMblFaNFVvcUE3aXduQklkT1ln0gHwAUFVX3lxTFBiUE0wSWxMRjJGcW01bWFpNGFBV2F1cktYY2IwdkJSX0pEdUxieUxtTkZrYjE4UmVuRk5HZFRmeld4T2JmMVJCbnZ5R1hRZWVxRUlySWthZEdscVdwNXYyZXVPeU5oR2FRWU1rRnlJUnhBYXJ6VTRnMEM3aGNHUkJmN2ZtRjdTc0JMczFveEYtZ3pGVVAyckl6Q2JHS3p6czktdHZob3B5N2lpVjlyZ21MQ1Rwc3B0Q2JRd2hwYnRvV0JoMFNaZGRxV3dIWnREd2VFYzdUeUk4X1BSNkZMQkdHd1RsamdFZmRQdGY0cnRJdg?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QdIBvwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzhsektvVzZSQ2JQby1GVzA4TDdrdmN4VWN4UGhXS0Rrc0FfVjhLNUNKc1JDVlpub3Q5cjh4Ykl3cjNMS0UzbnRDQmVFYW1XRDd5aUMzRFRFZnk2SmxQQUcyQ1VjbGQ2RWlvYVBxenJUeTVUU2daYkt3S19KNnI2b0dLNHd0RVVSNkZ0ZVpJblJ1YUtBeG15eFJfLVlxRWhvbF9sWmRzMnVaVm0tZVZGb1lYTUZLdWxXZDlsMGRPRFg0WWtZblVmTHpjNTBLdmpXekdCTUp1bVBkdTlKZmJGOEVNcGFyd1ZnZmJhV0NiTmhDZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTmx3UFBsMVBhY0htYWpiX01fQlZwN0QteU1kVXBNUzJzUV9PQWZubjdyUE1xUVl4blhjOXZRa1dIU3Q0UlJROF9MWk1TVjRpcUoxWU9BOVh0OHU4UjFIM3JpSVp3Wkg3Vm55X2R3SVNobFRLVExzVERteTVpVXFKekRNZ2ZNMWJ4V0VBSUdLUUpVNWJPcGtfRU9OTzJFbDRUa1Vzc1pGVGVfRm9vMnIwRzNoRmRfU3lyaDREQnJ0T25HY19YUElhRDgxcFQyZkxWOFluOVQxNVZwVnBJcmM4RVczZk5JdTZjSnZMLVluYl9VYlE?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTJGczhxZ3BQWWV1SmlJV0c2aGhIZmFLcjlhenhFMmgzcDRuUzdPWnBCZHFJdk03bWNiMmJjVXEtZGlDbGVON3NoZDJRcFVhZzdkWVk3dVZaWmpSZEZOTjhmbmNzRXhSRzdnanhWZXU3bFVsWkN3cFl0VDJVSnNyRmltUDBIc296NzkyZTBORGloeFRxeXk5MEdodTA2Y0h0YnF1YXdZSdIBtgFBVV95cUxNampRdHZhNlloZ1h4Y2Y1dFlFWkRQN1VVNGJTUWdKNHJmVXpROURCMG1KenFKeDFTclBhMG56SE9neEEtcEx4WnlUUll3aWVncGtmLWNIcEVKZzNvZURhX3hUYmpoeUxIRHg1T3FQR09USm81MjN2OU9YSlhSU0RxQjlLb2dfMm5jSEx0Qlp6WG9tODRxVzZvcU8zcmZoaHpiZHVSdFFTSEI3R1RoZXY4Y3NSMl9PUQ?oc=5"
   ],
   "palavras": [
     {
@@ -508,6 +526,18 @@
       "exemplo": "この企業の売上高は順調に成長しています。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-09-25",
+      "proxima": "2026-09-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-25-17:30-de",
+      "palavra": "der Sieg",
+      "leitura": "",
+      "sentido_pt": "a vitória",
+      "exemplo": "Die Fans feiern jeden Sieg ihres Teams.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-09-25",
       "proxima": "2026-09-26",
       "acertos": 0
