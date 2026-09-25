@@ -39,7 +39,8 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
-        run: python send.py
+        shell: bash
+        run: python send.py 2>&1 | tee run.log
 
       - name: salvar estado
         if: always()
@@ -51,3 +52,19 @@ jobs:
           git commit -m "respostas $(date -u +%FT%H:%M)"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
+
+      - name: Avisar falha no Telegram
+        if: failure()
+        shell: bash
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          ERRO=$(tail -n 15 run.log 2>/dev/null | cut -c1-200 | tail -c 1500)
+          # erro visivel no resumo da execucao (e legivel pela API do GitHub)
+          echo "::error title=respostas::$(echo "$ERRO" | sed ':a;N;$!ba;s/%/%25/g;s/\n/%0A/g')"
+          curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            --data-urlencode text="⚠️ As respostas do jornal FALHARAM.
+          ${ERRO:-sem detalhes no log}
+          Log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
