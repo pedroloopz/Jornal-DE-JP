@@ -88,8 +88,8 @@ REGRAS = ("Voce escreve para um canal de Telegram em portugues do Brasil, para u
 
 
 # ================================================================ TELEGRAM
-def tg(metodo, **kw):
-    r = requests.post(f"{TG}/{metodo}", timeout=60, **kw)
+def tg(metodo, base=TG, **kw):
+    r = requests.post(f"{base}/{metodo}", timeout=60, **kw)
     if not r.ok:
         raise RuntimeError(f"Telegram recusou ({metodo}): {r.text[:300]}")
     return r.json()
@@ -152,6 +152,29 @@ def escolher_pintura(st):
     raise RuntimeError("Nenhuma pintura nova encontrada no Art Institute of Chicago.")
 
 
+def canal_pintura(st):
+    """Bot e canal proprios da pintura (segredo PINTURA_TELEGRAM_TOKEN). O id do canal e
+    descoberto sozinho quando o bot vira administrador dele e fica salvo no estado."""
+    token = os.environ.get("PINTURA_TELEGRAM_TOKEN", "").strip()
+    if not token:
+        return TG, CHAT
+    base = f"https://api.telegram.org/bot{token}"
+    canal = os.environ.get("PINTURA_CHAT_ID", "").strip() or st.get("canal_pintura")
+    if canal:
+        return base, canal
+    ups = requests.get(f"{base}/getUpdates", timeout=30,
+                       params={"allowed_updates": json.dumps(["my_chat_member", "channel_post"])}).json()
+    for u in reversed(ups.get("result", [])):
+        chat = (u.get("my_chat_member") or u.get("channel_post") or {}).get("chat", {})
+        if chat.get("type") == "channel":
+            st["canal_pintura"] = chat["id"]
+            print("canal da pintura:", chat.get("title"), chat["id"])
+            return base, chat["id"]
+    nome = requests.get(f"{base}/getMe", timeout=30).json().get("result", {}).get("username", "?")
+    raise RuntimeError(f"Canal da pintura nao encontrado. Adicione @{nome} como administrador do canal "
+                       "(com permissao de publicar) e rode de novo.")
+
+
 def seculo(ano):
     if not ano:
         return ""
@@ -191,7 +214,8 @@ def pintura(st):
     rodape = f'\n<a href="https://www.artic.edu/artworks/{p["id"]}">Art Institute of Chicago</a>'
     espaco = 1024 - len(re.sub(r"<[^>]+>", "", cabecalho + rodape)) - 30
     legenda = cabecalho + f"\n<blockquote>{e(limitar(out['historia'].strip(), espaco))}</blockquote>" + rodape
-    tg("sendPhoto", data={"chat_id": CHAT, "caption": legenda, "parse_mode": "HTML"},
+    base, canal = canal_pintura(st)
+    tg("sendPhoto", base=base, data={"chat_id": canal, "caption": legenda, "parse_mode": "HTML"},
        files={"photo": ("pintura.jpg", img.content, "image/jpeg")})
     st["pinturas"].append(p["id"])
     print("pintura enviada:", p["id"], p["title"])

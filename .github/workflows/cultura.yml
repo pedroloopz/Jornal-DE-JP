@@ -38,6 +38,7 @@ jobs:
           TIPO: ${{ inputs.tipo || (github.event.schedule == '0 13 * * *' && 'pintura' || 'musica') }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PINTURA_TELEGRAM_TOKEN: ${{ secrets.PINTURA_TELEGRAM_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
         run: python cultura/cultura.py 2>&1 | tee run.log
