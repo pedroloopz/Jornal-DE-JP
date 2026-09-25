@@ -1,8 +1,14 @@
 {
  "pinturas": [
-  43145
+  43145,
+  105466
  ],
  "musicas": [
   25
- ]
+ ],
+ "canal_pintura": {
+  "id": 8636318055,
+  "tipo": "privado",
+  "nome": "Pedro"
+ }
 }
