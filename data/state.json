@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Wetter",
-    "jp": "延長"
+    "jp": "成長"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "会議の期間が三日間延長されました。",
-      "leitura": ""
+      "frase": "この企業の売上高は順調に成長しています。",
+      "leitura": "このきぎょうのうりあげだかはじゅんちょうにせいちょうしています。"
     }
   },
   "obra_idx": {
@@ -91,6 +91,11 @@
     "5024272237717356841": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-25"
+    },
+    "5024272237717356843": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-09-25"
     }
   },
@@ -215,6 +220,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-25",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -232,7 +244,8 @@
     "2026-09-24-19:30",
     "2026-09-24-21:00",
     "2026-09-25-06:30",
-    "2026-09-25-08:00"
+    "2026-09-25-08:00",
+    "2026-09-25-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -299,7 +312,12 @@
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/25/monobloco-cleber-e-cauan-e-festival-tram4u-animam-fim-de-semana-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/arruda-inelegivel-decisao-do-tse-se-baseou-em-condenacao-de-junho-na-justica-do-df-relembre.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-no-df-63percent-nao-sabem-o-numero-de-urna-do-candidato-a-governador-em-que-querem-votar.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-no-df-63percent-nao-sabem-o-numero-de-urna-do-candidato-a-governador-em-que-querem-votar.ghtml",
+    "https://247wallst.com/investing/2026/09/25/apple-just-gained-10-in-a-month-what-will-it-take-for-aapl-stock-to-finally-hit-350/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/ahead-u-ipo-british-ai-183359808.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/25/costco-beat-on-earnings-about-usd0-15-a-share-of-it-was-a-one-time-tariff-refund/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/25/sundar-pichai-reported-alphabets-cloud-backlog-hit/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/palantirs-latest-250-target-comes-183851496.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -478,6 +496,18 @@
       "exemplo": "Das Wetter in Brasília ist heute sehr warm.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-09-25",
+      "proxima": "2026-09-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-25-12:30-jp",
+      "palavra": "成長",
+      "leitura": "せいちょう",
+      "sentido_pt": "crescimento",
+      "exemplo": "この企業の売上高は順調に成長しています。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-09-25",
       "proxima": "2026-09-26",
       "acertos": 0
