@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Regierung",
+    "de": "Gewinn",
     "jp": "決意"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Regierung plant neue Gesetze für das Land.",
+      "frase": "Jeder Investor hofft auf einen guten Gewinn am Ende des Jahres.",
       "leitura": ""
     },
     "jp": {
@@ -111,6 +111,11 @@
     "5026225807886909772": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-26"
+    },
+    "5028477607700594996": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-26"
     }
   },
@@ -305,6 +310,13 @@
       "lang": "jp",
       "ok": true,
       "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -329,7 +341,8 @@
     "2026-09-25-21:00",
     "2026-09-26-06:30",
     "2026-09-26-08:00",
-    "2026-09-26-12:30"
+    "2026-09-26-12:30",
+    "2026-09-26-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -421,7 +434,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/26/propostas-candidatos-presidencia-bets-apostas.ghtml",
     "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml",
     "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2026/09/26/eleicoes-governador-1o-turno-analise-felipe-nunes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/26/proibicao-das-bets-governo-preve-advertencia-multa-e-suspensao-das-atividades-para-empresas-que-descumprirem-regras.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/09/26/proibicao-das-bets-governo-preve-advertencia-multa-e-suspensao-das-atividades-para-empresas-que-descumprirem-regras.ghtml",
+    "https://www.fool.com/investing/2026/09/26/energy-transfer-vs-mplx-which-pipeline-giants-high/?.tsrc=rss",
+    "https://finance.yahoo.com/m/5965a4a9-81fb-3731-a3e2-a523923c075e/%E2%80%98don%E2%80%99t-ship-products-until.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/26/nvidia-is-weighing-a-usd10-billion-stake-in-anthropic-s-ipo-it-would-be-buying-its-own-demand/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/26/this-nuclear-stock-could-make-patient-investors-ri/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -684,6 +702,18 @@
       "exemplo": "彼は困難に負けず、目標を達成する決意をした。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-09-26",
+      "proxima": "2026-09-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-26-17:30-de",
+      "palavra": "der Gewinn",
+      "leitura": "",
+      "sentido_pt": "o lucro",
+      "exemplo": "Jeder Investor hofft auf einen guten Gewinn am Ende des Jahres.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-09-26",
       "proxima": "2026-09-27",
       "acertos": 0
