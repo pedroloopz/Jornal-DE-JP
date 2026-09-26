@@ -1,13 +1,13 @@
 {
-  "last_update_id": 950900665,
+  "last_update_id": 950900666,
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Märchen",
-    "jp": "関与"
+    "jp": "成果"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は事件への関与を調べています。",
-      "leitura": "けいさつはじけんへのかんよをしらべています。"
+      "frase": "毎日の努力が成果となって現れた。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -103,10 +103,10 @@
       "lang": "jp",
       "data": "2026-09-25"
     },
-    "5026524037531042046": {
+    "5026225807886909760": {
       "correta": 1,
-      "lang": "de",
-      "data": "2026-09-25"
+      "lang": "jp",
+      "data": "2026-09-26"
     }
   },
   "pendentes": [],
@@ -265,6 +265,20 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "quiz",
+      "lang": "de",
+      "ok": true,
+      "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -286,7 +300,8 @@
     "2026-09-25-12:30",
     "2026-09-25-17:30",
     "2026-09-25-19:30",
-    "2026-09-25-21:00"
+    "2026-09-25-21:00",
+    "2026-09-26-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -368,7 +383,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/carro-capota-na-epia-sul-no-df-apos-bater-em-outro-veiculo-passageira-e-levada-a-hospital.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-25-de-setembro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/policia-identifica-mae-de-recem-nascido-encontrado-carbonizado-no-df.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/policia-identifica-mae-de-recem-nascido-encontrado-carbonizado-no-df.ghtml",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlV1NTNpVDUzZUp6ZlRjd0FmMlJmbXVWSHRnR0FwYWI3NzhSN2VnQ1k2SEJESV9LZFJLRkZoM3ZQWTRyS0tUZlc4cGJia1lTS21xbHlxZUhEWEtfbUhGVzhjaDVqQnRiVV8yOXpLbUdaQlZvOXNsbUVnLVBITVB6WjR4LXNaXzBxRUhNMmNCbVVHOXJBUk1QbFhmc3N0UENFSUpLRWZMTWxOaFFFb0VhOFhqV1BrSmtpdnpsNFFDMzRrcXJsODFJcG91R2NGWU0xU3kySW53SWI0X3E5SkhIaUo5OWVlZG55MHc?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdaMnlnWjc0ckV0UHY5UnlKdVhoUVRVUWdaTnQ1TFVfRHQ2ZEVuSm9EUjk3VGhUbUxnQi1sT0l5NUJBWEZvbVMxVl9FMk9nUF9rUVBJdHhYYnNEU2llUzJxMXNGc3hEYjFOVGg0TWxTMGdkX2RZMGUtSm1vWnEzQmg4eFJ1akVTcWk1UzlpeHdSMmJaSUZJMXRacGdTVXRIYm9PODBfU3I0NUxvVlktejdn0gG0AUFVX3lxTE9uR2FROUNIWExzLVZmc3dsWTVkQ0d4UHRZNEk3NTRaWkdzVHZqeFBXMGRxOUw3WEo1U1c3MjJnTGcwQjNRV0pHWW5PRHJha2NnemVpdzFoNkdoY3pOT1d3d29vdUdKNFZGdEJtZTQ3OVU2a0NYbkpMeUpWUWFralNqTjgzeFk2OWZlbGQ3S1JSYVh4OGpfbTJYMWktR1MwNFFhVFBpTGl1MTAtcVE3RjduYmpWMg?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFpMelpwWDNpdzdqT3BmeTh6RDYtMzlWckJucGd1aFFkcDBfRU9hdGl3c1BUSGc4cXNPNkJZbktzaGIxNkJ6SGF4UEM0YzctU2w2RVRsR3NFR0FnYjdnck5DQ0FRNE9wQVBPZmhsRjVFQlUwMXZQVHJGM1BWNC02SkQzb3lOX0tOMzJ4OWxrSnpXemVHTlBPUUN4V1E4X01XQXdYUnNQTkJ1RUplejMxTkhLOHRiRVBUVTljUTRXTmgwUndTRlRPYlhxbTNTeDNjWGV3cXEyQ292djVlaE5YN3QxbnVwZ0lneDNfajYtYw?oc=5",
+    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHdQdnBkV1NraGt2TEJMU2JmaEpqRHA1eXdBdnl4ZWpjeVZFZGdISzFwRDZDTW9sZ2lyUGd4RFVTeXlPVkg0UDRaX2dTS0ZaV19KRW9RdGRxYU1uRDRRS1NWXzdoUVNPbUk1UjJxRXZKcjBpVVVIdWdsSTM3T3Q3N1kwV0owY21ZMVNnRUFzWmw5clpMNUhVNXZPZkxveUVPQlhSUkVCSGN5VXVVMEhGLUpRRlZ4UWhwS2hCMXNaOTdGV1pheDRCcUw0VjhjSi01cnc?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUxjSm5lS0k0Z1l4ZV9HMUllUE9ZWG1Pc0FTRllPLWt4YjAwcklmUjk0N0hrRjBlRnA2NVp1VktDMEVkT1FLLVQ1cTIwUXRSal9DN2JWSlZJalRwTWExZHkxNFhRQlM0VXIySW5HRU5EU3FHbGFFWU4wTWtvbWFTeGtkT2FmbnFtX0c5WGtsM29CS3dzNmRNQkJjdVdva1dsRDBVY21QbUlnS0hoWHBqcFBHdFRER3VQ?oc=5"
   ],
   "palavras": [
     {
@@ -597,6 +617,18 @@
       "tema": "literatura",
       "data": "2026-09-25",
       "proxima": "2026-09-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-26-06:30-jp",
+      "palavra": "成果",
+      "leitura": "せいか",
+      "sentido_pt": "resultado",
+      "exemplo": "毎日の努力が成果となって現れた。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-09-26",
+      "proxima": "2026-09-27",
       "acertos": 0
     }
   ]
