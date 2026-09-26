@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Sieg",
-    "jp": "成長"
+    "jp": "関与"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この企業の売上高は順調に成長しています。",
-      "leitura": "このきぎょうのうりあげだかはじゅんちょうにせいちょうしています。"
+      "frase": "警察は事件への関与を調べています。",
+      "leitura": "けいさつはじけんへのかんよをしらべています。"
     }
   },
   "obra_idx": {
@@ -101,6 +101,11 @@
     "5024272237717356858": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-25"
+    },
+    "5026524037531042044": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-09-25"
     }
   },
@@ -239,6 +244,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-25",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -258,7 +270,8 @@
     "2026-09-25-06:30",
     "2026-09-25-08:00",
     "2026-09-25-12:30",
-    "2026-09-25-17:30"
+    "2026-09-25-17:30",
+    "2026-09-25-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -335,7 +348,12 @@
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QdIBvwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QQ?oc=5",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzhsektvVzZSQ2JQby1GVzA4TDdrdmN4VWN4UGhXS0Rrc0FfVjhLNUNKc1JDVlpub3Q5cjh4Ykl3cjNMS0UzbnRDQmVFYW1XRDd5aUMzRFRFZnk2SmxQQUcyQ1VjbGQ2RWlvYVBxenJUeTVUU2daYkt3S19KNnI2b0dLNHd0RVVSNkZ0ZVpJblJ1YUtBeG15eFJfLVlxRWhvbF9sWmRzMnVaVm0tZVZGb1lYTUZLdWxXZDlsMGRPRFg0WWtZblVmTHpjNTBLdmpXekdCTUp1bVBkdTlKZmJGOEVNcGFyd1ZnZmJhV0NiTmhDZw?oc=5",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTmx3UFBsMVBhY0htYWpiX01fQlZwN0QteU1kVXBNUzJzUV9PQWZubjdyUE1xUVl4blhjOXZRa1dIU3Q0UlJROF9MWk1TVjRpcUoxWU9BOVh0OHU4UjFIM3JpSVp3Wkg3Vm55X2R3SVNobFRLVExzVERteTVpVXFKekRNZ2ZNMWJ4V0VBSUdLUUpVNWJPcGtfRU9OTzJFbDRUa1Vzc1pGVGVfRm9vMnIwRzNoRmRfU3lyaDREQnJ0T25HY19YUElhRDgxcFQyZkxWOFluOVQxNVZwVnBJcmM4RVczZk5JdTZjSnZMLVluYl9VYlE?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTJGczhxZ3BQWWV1SmlJV0c2aGhIZmFLcjlhenhFMmgzcDRuUzdPWnBCZHFJdk03bWNiMmJjVXEtZGlDbGVON3NoZDJRcFVhZzdkWVk3dVZaWmpSZEZOTjhmbmNzRXhSRzdnanhWZXU3bFVsWkN3cFl0VDJVSnNyRmltUDBIc296NzkyZTBORGloeFRxeXk5MEdodTA2Y0h0YnF1YXdZSdIBtgFBVV95cUxNampRdHZhNlloZ1h4Y2Y1dFlFWkRQN1VVNGJTUWdKNHJmVXpROURCMG1KenFKeDFTclBhMG56SE9neEEtcEx4WnlUUll3aWVncGtmLWNIcEVKZzNvZURhX3hUYmpoeUxIRHg1T3FQR09USm81MjN2OU9YSlhSU0RxQjlLb2dfMm5jSEx0Qlp6WG9tODRxVzZvcU8zcmZoaHpiZHVSdFFTSEI3R1RoZXY4Y3NSMl9PUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTJGczhxZ3BQWWV1SmlJV0c2aGhIZmFLcjlhenhFMmgzcDRuUzdPWnBCZHFJdk03bWNiMmJjVXEtZGlDbGVON3NoZDJRcFVhZzdkWVk3dVZaWmpSZEZOTjhmbmNzRXhSRzdnanhWZXU3bFVsWkN3cFl0VDJVSnNyRmltUDBIc296NzkyZTBORGloeFRxeXk5MEdodTA2Y0h0YnF1YXdZSdIBtgFBVV95cUxNampRdHZhNlloZ1h4Y2Y1dFlFWkRQN1VVNGJTUWdKNHJmVXpROURCMG1KenFKeDFTclBhMG56SE9neEEtcEx4WnlUUll3aWVncGtmLWNIcEVKZzNvZURhX3hUYmpoeUxIRHg1T3FQR09USm81MjN2OU9YSlhSU0RxQjlLb2dfMm5jSEx0Qlp6WG9tODRxVzZvcU8zcmZoaHpiZHVSdFFTSEI3R1RoZXY4Y3NSMl9PUQ?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/bebe-carbonizado-mae-e-companheiro-sao-presos-e-vao-responder-por-infanticidio-policia-do-df-procura-terceiro-envolvido.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/carro-capota-na-epia-sul-no-df-apos-bater-em-outro-veiculo-passageira-e-levada-a-hospital.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-25-de-setembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/policia-identifica-mae-de-recem-nascido-encontrado-carbonizado-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -538,6 +556,18 @@
       "exemplo": "Die Fans feiern jeden Sieg ihres Teams.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-09-25",
+      "proxima": "2026-09-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-25-19:30-jp",
+      "palavra": "関与",
+      "leitura": "かんよ",
+      "sentido_pt": "envolvimento",
+      "exemplo": "警察は事件への関与を調べています。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-09-25",
       "proxima": "2026-09-26",
       "acertos": 0
