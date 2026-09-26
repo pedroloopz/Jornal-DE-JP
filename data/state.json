@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Märchen",
+    "de": "Regierung",
     "jp": "成果"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Märchen von Hänsel und Gretel ist sehr alt.",
+      "frase": "Die Regierung plant neue Gesetze für das Land.",
       "leitura": ""
     },
     "jp": {
@@ -106,6 +106,11 @@
     "5026225807886909760": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-09-26"
+    },
+    "5026225807886909762": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-26"
     }
   },
@@ -279,6 +284,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -301,7 +313,8 @@
     "2026-09-25-17:30",
     "2026-09-25-19:30",
     "2026-09-25-21:00",
-    "2026-09-26-06:30"
+    "2026-09-26-06:30",
+    "2026-09-26-08:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -388,7 +401,12 @@
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdaMnlnWjc0ckV0UHY5UnlKdVhoUVRVUWdaTnQ1TFVfRHQ2ZEVuSm9EUjk3VGhUbUxnQi1sT0l5NUJBWEZvbVMxVl9FMk9nUF9rUVBJdHhYYnNEU2llUzJxMXNGc3hEYjFOVGg0TWxTMGdkX2RZMGUtSm1vWnEzQmg4eFJ1akVTcWk1UzlpeHdSMmJaSUZJMXRacGdTVXRIYm9PODBfU3I0NUxvVlktejdn0gG0AUFVX3lxTE9uR2FROUNIWExzLVZmc3dsWTVkQ0d4UHRZNEk3NTRaWkdzVHZqeFBXMGRxOUw3WEo1U1c3MjJnTGcwQjNRV0pHWW5PRHJha2NnemVpdzFoNkdoY3pOT1d3d29vdUdKNFZGdEJtZTQ3OVU2a0NYbkpMeUpWUWFralNqTjgzeFk2OWZlbGQ3S1JSYVh4OGpfbTJYMWktR1MwNFFhVFBpTGl1MTAtcVE3RjduYmpWMg?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFpMelpwWDNpdzdqT3BmeTh6RDYtMzlWckJucGd1aFFkcDBfRU9hdGl3c1BUSGc4cXNPNkJZbktzaGIxNkJ6SGF4UEM0YzctU2w2RVRsR3NFR0FnYjdnck5DQ0FRNE9wQVBPZmhsRjVFQlUwMXZQVHJGM1BWNC02SkQzb3lOX0tOMzJ4OWxrSnpXemVHTlBPUUN4V1E4X01XQXdYUnNQTkJ1RUplejMxTkhLOHRiRVBUVTljUTRXTmgwUndTRlRPYlhxbTNTeDNjWGV3cXEyQ292djVlaE5YN3QxbnVwZ0lneDNfajYtYw?oc=5",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHdQdnBkV1NraGt2TEJMU2JmaEpqRHA1eXdBdnl4ZWpjeVZFZGdISzFwRDZDTW9sZ2lyUGd4RFVTeXlPVkg0UDRaX2dTS0ZaV19KRW9RdGRxYU1uRDRRS1NWXzdoUVNPbUk1UjJxRXZKcjBpVVVIdWdsSTM3T3Q3N1kwV0owY21ZMVNnRUFzWmw5clpMNUhVNXZPZkxveUVPQlhSUkVCSGN5VXVVMEhGLUpRRlZ4UWhwS2hCMXNaOTdGV1pheDRCcUw0VjhjSi01cnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUxjSm5lS0k0Z1l4ZV9HMUllUE9ZWG1Pc0FTRllPLWt4YjAwcklmUjk0N0hrRjBlRnA2NVp1VktDMEVkT1FLLVQ1cTIwUXRSal9DN2JWSlZJalRwTWExZHkxNFhRQlM0VXIySW5HRU5EU3FHbGFFWU4wTWtvbWFTeGtkT2FmbnFtX0c5WGtsM29CS3dzNmRNQkJjdVdva1dsRDBVY21QbUlnS0hoWHBqcFBHdFRER3VQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUxjSm5lS0k0Z1l4ZV9HMUllUE9ZWG1Pc0FTRllPLWt4YjAwcklmUjk0N0hrRjBlRnA2NVp1VktDMEVkT1FLLVQ1cTIwUXRSal9DN2JWSlZJalRwTWExZHkxNFhRQlM0VXIySW5HRU5EU3FHbGFFWU4wTWtvbWFTeGtkT2FmbnFtX0c5WGtsM29CS3dzNmRNQkJjdVdva1dsRDBVY21QbUlnS0hoWHBqcFBHdFRER3VQ?oc=5",
+    "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/26/propostas-candidatos-presidencia-bets-apostas.ghtml",
+    "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2026/09/26/eleicoes-governador-1o-turno-analise-felipe-nunes.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/09/26/proibicao-das-bets-governo-preve-advertencia-multa-e-suspensao-das-atividades-para-empresas-que-descumprirem-regras.ghtml"
   ],
   "palavras": [
     {
@@ -627,6 +645,18 @@
       "exemplo": "毎日の努力が成果となって現れた。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-09-26",
+      "proxima": "2026-09-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-26-08:00-de",
+      "palavra": "die Regierung",
+      "leitura": "di re-gui-rung",
+      "sentido_pt": "o governo",
+      "exemplo": "Die Regierung plant neue Gesetze für das Land.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-09-26",
       "proxima": "2026-09-27",
       "acertos": 0
