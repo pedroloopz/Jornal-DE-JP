@@ -1,17 +1,17 @@
 {
-  "last_update_id": 950900667,
+  "last_update_id": 950900668,
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Gewinn",
+    "de": "Hauptstadt",
     "jp": "見通し"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Jeder Investor hofft auf einen guten Gewinn am Ende des Jahres.",
+      "frase": "Brasília ist die Hauptstadt von Brasilien.",
       "leitura": ""
     },
     "jp": {
@@ -118,9 +118,9 @@
       "lang": "de",
       "data": "2026-09-26"
     },
-    "5028477607700595001": {
+    "5028477607700595007": {
       "correta": 1,
-      "lang": "jp",
+      "lang": "de",
       "data": "2026-09-26"
     }
   },
@@ -329,6 +329,20 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "quiz",
+      "lang": "jp",
+      "ok": true,
+      "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -355,7 +369,8 @@
     "2026-09-26-08:00",
     "2026-09-26-12:30",
     "2026-09-26-17:30",
-    "2026-09-26-19:30"
+    "2026-09-26-19:30",
+    "2026-09-26-21:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -457,7 +472,12 @@
     "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-senado-26-setembro.ghtml",
     "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-avaliacao-governo-26-setembro.ghtml",
     "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml",
-    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml"
+    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/27/pesquisas-quaest-governos-centro-oeste-25-de-setembro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/justica-solta-mae-de-recem-nascido-encontrado-carbonizado-no-df-companheiro-continua-preso.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/26/tre-df-condena-celina-leao-por-uso-de-bens-publicos-em-propaganda-eleitoral.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/pensada-para-carros-testada-pelo-clima-como-o-planejamento-de-brasilia-afeta-a-mobilidade-em-tempos-de-aquecimento-global.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/moradores-se-mobilizam-contra-construcao-de-novos-caps-em-areas-residenciais-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -744,6 +764,18 @@
       "exemplo": "来週、政府とクラブの代表者が会談する見通しです。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-09-26",
+      "proxima": "2026-09-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-26-21:00-de",
+      "palavra": "die Hauptstadt",
+      "leitura": "",
+      "sentido_pt": "a capital",
+      "exemplo": "Brasília ist die Hauptstadt von Brasilien.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-09-26",
       "proxima": "2026-09-27",
       "acertos": 0
