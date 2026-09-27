@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Hauptstadt",
+    "de": "Zukunft",
     "jp": "投資家"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Brasília ist die Hauptstadt von Brasilien.",
+      "frase": "Botafogo plant eine große Zukunft für den Verein.",
       "leitura": ""
     },
     "jp": {
@@ -126,6 +126,11 @@
     "5030729407514280272": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-27"
+    },
+    "5030729407514280275": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-27"
     }
   },
@@ -355,6 +360,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -383,7 +395,8 @@
     "2026-09-26-17:30",
     "2026-09-26-19:30",
     "2026-09-26-21:00",
-    "2026-09-27-06:30"
+    "2026-09-27-06:30",
+    "2026-09-27-08:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -495,7 +508,12 @@
     "https://stocktwits.com/news-articles/markets/equity/apple-iphone-watch-feature-haptics-5-7b-patent-infringement-case/cZMiFdwRBfI?.tsrc=rss",
     "https://app.moby.co/home/news/news-peru-wants-to-unlock-a-copper-boom-permits-are-in-the-way?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "https://www.fool.com/investing/2026/09/27/greg-abel-just-broke-berkshires-14-quarter-streak/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/27/the-math-doesnt-lie-what-it-really-costs-to-genera/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/09/27/the-math-doesnt-lie-what-it-really-costs-to-genera/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVhEa2tVNGVuUHNmZmxHTnJid2hreEh6MDZJcnJHR2FmZkxyYzBNOHNjSDE3TFZocE02QzYzSG1uTkhiejRDdVNZUDlVWl9SQks1ZjBvNEJWLVRtN2dQYnByWmNHRkJXVUxrbGIzMGhPeklqSWpqeTVJWXFVWnpuVzZzWjJsTlp4U0QtUWI0cmZGOFJZUTZ2eFoySmR4dDJhNUNOZ0Z4WnVrMTRKeHppeUlEUDVqMW9hSC16d1p6dFJNVGRS?oc=5",
+    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX0dXS01QRDlYN3AzTkZLT1pXQnFROG5OYklCZ0JNdUV2SDZaUnREMklqV0VWWnI5cmVHZjJSYTlzSW5QRmNodktBMzBHQXB3YktsY3FwMk1PUGM4Q19GT3BZVGVVXy1fd1Y1TzVjekU5NnRmQXJERnlpb1ZfOG5rWUhPX0p5by15ZTdFOE1VamJJYlk4UkM3cmJFRlRmTXNKcUFvWWV2eVVCSEJYTl9VZDhGb1F2elppTm1DLXpEOXFqX09QMzhTcHg3SWRNN2xKX2ZId01aQU8tVkU0VXFZakV5S1NuTEstRmszZVl2cDbSAf8BQVVfeXFMTTIyV0JaVUVHaHVzRExpTmk2bGhyRXdWYnVFWEY1YUhvWEhUZVd1QVc4SGFrUkhlTVlLRkdtQmJ3ZVI3QXpMa0ZVdVZvQldPNmtZRVJYRndiWkJGbW0wa3lIdTJ3LWlwVndOajN1QkVuYjZOTVBCNjZXd1JaQU4tam43cTFheXF2bERyUEU1dllYWXVVUmpfM2tBS05CNEF3T3RrcS1IRTFmZEgxdDdJdnFSQ2xxczQ3TnpHWmVibUMtOEYteWJrYVlocENobWxXS2xDbjRQZkFfd1NBZ2ZMdFh0MHluemZqVXNZdGhoUERkQmxPbFBaSi1aSU01dVV3?oc=5",
+    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0Vza1VPd3hteUVEb1puYVBlS1FnRDMzWG9oaHJVQ3JubFFZbkJFZHNKRDNWX3htd0xMRlc2NkU1Y1FCYnQ4OU40SG1OX0NINmMxV01JeWtnWkdwcENYWXZaenNqVzlTY0M3eDBqZHV1Y3BUclk0WEdMaHJ2UDAxci0tNEI2RkZqMzdacmhBM1NKSm13b0FWQkdfb0ZacUtmTDNRUE51V05xZjhTMG5mNldhMHNoeXRveEpsZ1NmNS1XYmYyeTRabDg4Y2ludDMtTmdkcHdVVVFqWFkzNnBHbTR2Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzhNRlpiWHltaWhzaVlxYm5MQm9wd09iWVN4bkJuMGU4VW11QVZHV29GZnRzWTU2TVBjaGY5TkRwTVJJZnN0Q0NIWnlQSGVPckxyUHVNUkcxc3E1MUZDVXZ1MXNKeDdUMlBtRGRVMTdRZERrR2FnZjFiR2oxcDdnMU44VUlqUTRmaUlMNHFkRXU5UmwxV1BzRFVWUXM3bThJYUUxYzVrTXB3MENDQl9PRFd2dG1WUjFUQVBmRjRKY3NzNkt4LU83cU9hUTkzbWdmUDVtekJ0ZXR6Z1NlU3VGb0I5dU9PN1I4a0YyVF8yM1lVV3h3TUVkaFo0WHRnS0hJVGJ1dDZDQ2YzY2lhM1dHaUJB?oc=5",
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVHM0b1NiX3VYaDJFYjg0U2pyT25KRmt4T3BqX0lqVzJIMW10eTRQOEpWX1ZaMnBoYTRSZWc3d00zNEVRbnFhaktsalpGWWp0SWNoNk1XdmcycG9iTDdQTGdZbzRPNHZLa1ZaZzdoRzJWcHhGbEhYOFIwcFR2MDNwcGEzT3c5d1kwemZxX0o0X19IS1RwY2dyWG1JWlhwbHE3RmRST3QzT3hmQ0J2S0ZPcUlTXzlHX3FqUFRDVF9aeDlUaUt5VThNdlhGeFFvUWNzZWN6S2VDT2FfUmNaaGpwd3VlbEFkYXNjdGZTZWlMeDYtTUJTd0Z3NzZQTmF6SEY4aWt2YWlTMNIBlgJBVV95cUxNcEJkcnJ5ZjktN1hRcm5iVFBGQWdBb3IwakkxY3IxQlFGelRpbkJYX3dNVmFPcTQ5Wnl1STNRbGpSb3VZdlQ1WURGMy1fOHhjU0Z4QmRmcmptNjNpN0sySHYwTHRuUDJzNGhXY0FiM3h6Tk1LWWJkbUZ2VWdSMldRa0htdENGWnFPeGdFVW9fT3JMeTRiNDg4Q3Bwa2NIU18ySzVRY3ZfMkh3YWVoVnZLRTJzR0p1ZnlYRzFtWXlMSUd2eVMwQTVwOHIxdnpNdnBMTmdxZXdFQm5laktTYlNLcDRFbmlpSk93OEJ4OG54elYxYWFDMFJ2N0xkTnEwTi1iQi10WEpfcFJrWDRaYTZILVRDdmR1QQ?oc=5"
   ],
   "palavras": [
     {
@@ -806,6 +824,18 @@
       "exemplo": "投資家は会社の業績を慎重に分析する。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-09-27",
+      "proxima": "2026-09-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-27-08:00-de",
+      "palavra": "die Zukunft",
+      "leitura": "di tsukunft",
+      "sentido_pt": "o futuro",
+      "exemplo": "Botafogo plant eine große Zukunft für den Verein.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-09-27",
       "proxima": "2026-09-28",
       "acertos": 0
