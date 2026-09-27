@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Hauptstadt",
-    "jp": "見通し"
+    "jp": "投資家"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "来週、政府とクラブの代表者が会談する見通しです。",
-      "leitura": "らいしゅう、せいふとくらぶのだいひょうしゃがかいだんするみとおしです。"
+      "frase": "投資家は会社の業績を慎重に分析する。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -122,6 +122,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-09-26"
+    },
+    "5030729407514280272": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-09-27"
     }
   },
   "pendentes": [],
@@ -343,6 +348,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -370,7 +382,8 @@
     "2026-09-26-12:30",
     "2026-09-26-17:30",
     "2026-09-26-19:30",
-    "2026-09-26-21:00"
+    "2026-09-26-21:00",
+    "2026-09-27-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -477,7 +490,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/justica-solta-mae-de-recem-nascido-encontrado-carbonizado-no-df-companheiro-continua-preso.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/26/tre-df-condena-celina-leao-por-uso-de-bens-publicos-em-propaganda-eleitoral.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/pensada-para-carros-testada-pelo-clima-como-o-planejamento-de-brasilia-afeta-a-mobilidade-em-tempos-de-aquecimento-global.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/moradores-se-mobilizam-contra-construcao-de-novos-caps-em-areas-residenciais-no-df.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/moradores-se-mobilizam-contra-construcao-de-novos-caps-em-areas-residenciais-no-df.ghtml",
+    "https://247wallst.com/investing/2026/09/27/after-39-years-working-for-the-same-company-he-had-accumulated-10-8-million-shares-of-stock-on-september-15-2008-those-shares-were-worth-nothing-the-story-of-how-dick-fuld-lost-up-to-80-of-his-ne/?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/apple-iphone-watch-feature-haptics-5-7b-patent-infringement-case/cZMiFdwRBfI?.tsrc=rss",
+    "https://app.moby.co/home/news/news-peru-wants-to-unlock-a-copper-boom-permits-are-in-the-way?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/27/greg-abel-just-broke-berkshires-14-quarter-streak/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/27/the-math-doesnt-lie-what-it-really-costs-to-genera/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -778,6 +796,18 @@
       "tema": "brasilia",
       "data": "2026-09-26",
       "proxima": "2026-09-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-27-06:30-jp",
+      "palavra": "投資家",
+      "leitura": "とうしか",
+      "sentido_pt": "investidor",
+      "exemplo": "投資家は会社の業績を慎重に分析する。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-09-27",
+      "proxima": "2026-09-28",
       "acertos": 0
     }
   ]
