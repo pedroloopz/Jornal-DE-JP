@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Zukunft",
-    "jp": "投資家"
+    "jp": "可能性"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "投資家は会社の業績を慎重に分析する。",
+      "frase": "車が故障した可能性が高いです。",
       "leitura": ""
     }
   },
@@ -131,6 +131,11 @@
     "5030729407514280275": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-27"
+    },
+    "5030729407514280279": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-09-27"
     }
   },
@@ -367,6 +372,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -396,7 +408,8 @@
     "2026-09-26-19:30",
     "2026-09-26-21:00",
     "2026-09-27-06:30",
-    "2026-09-27-08:00"
+    "2026-09-27-08:00",
+    "2026-09-27-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -513,7 +526,12 @@
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX0dXS01QRDlYN3AzTkZLT1pXQnFROG5OYklCZ0JNdUV2SDZaUnREMklqV0VWWnI5cmVHZjJSYTlzSW5QRmNodktBMzBHQXB3YktsY3FwMk1PUGM4Q19GT3BZVGVVXy1fd1Y1TzVjekU5NnRmQXJERnlpb1ZfOG5rWUhPX0p5by15ZTdFOE1VamJJYlk4UkM3cmJFRlRmTXNKcUFvWWV2eVVCSEJYTl9VZDhGb1F2elppTm1DLXpEOXFqX09QMzhTcHg3SWRNN2xKX2ZId01aQU8tVkU0VXFZakV5S1NuTEstRmszZVl2cDbSAf8BQVVfeXFMTTIyV0JaVUVHaHVzRExpTmk2bGhyRXdWYnVFWEY1YUhvWEhUZVd1QVc4SGFrUkhlTVlLRkdtQmJ3ZVI3QXpMa0ZVdVZvQldPNmtZRVJYRndiWkJGbW0wa3lIdTJ3LWlwVndOajN1QkVuYjZOTVBCNjZXd1JaQU4tam43cTFheXF2bERyUEU1dllYWXVVUmpfM2tBS05CNEF3T3RrcS1IRTFmZEgxdDdJdnFSQ2xxczQ3TnpHWmVibUMtOEYteWJrYVlocENobWxXS2xDbjRQZkFfd1NBZ2ZMdFh0MHluemZqVXNZdGhoUERkQmxPbFBaSi1aSU01dVV3?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0Vza1VPd3hteUVEb1puYVBlS1FnRDMzWG9oaHJVQ3JubFFZbkJFZHNKRDNWX3htd0xMRlc2NkU1Y1FCYnQ4OU40SG1OX0NINmMxV01JeWtnWkdwcENYWXZaenNqVzlTY0M3eDBqZHV1Y3BUclk0WEdMaHJ2UDAxci0tNEI2RkZqMzdacmhBM1NKSm13b0FWQkdfb0ZacUtmTDNRUE51V05xZjhTMG5mNldhMHNoeXRveEpsZ1NmNS1XYmYyeTRabDg4Y2ludDMtTmdkcHdVVVFqWFkzNnBHbTR2Zw?oc=5",
     "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzhNRlpiWHltaWhzaVlxYm5MQm9wd09iWVN4bkJuMGU4VW11QVZHV29GZnRzWTU2TVBjaGY5TkRwTVJJZnN0Q0NIWnlQSGVPckxyUHVNUkcxc3E1MUZDVXZ1MXNKeDdUMlBtRGRVMTdRZERrR2FnZjFiR2oxcDdnMU44VUlqUTRmaUlMNHFkRXU5UmwxV1BzRFVWUXM3bThJYUUxYzVrTXB3MENDQl9PRFd2dG1WUjFUQVBmRjRKY3NzNkt4LU83cU9hUTkzbWdmUDVtekJ0ZXR6Z1NlU3VGb0I5dU9PN1I4a0YyVF8yM1lVV3h3TUVkaFo0WHRnS0hJVGJ1dDZDQ2YzY2lhM1dHaUJB?oc=5",
-    "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVHM0b1NiX3VYaDJFYjg0U2pyT25KRmt4T3BqX0lqVzJIMW10eTRQOEpWX1ZaMnBoYTRSZWc3d00zNEVRbnFhaktsalpGWWp0SWNoNk1XdmcycG9iTDdQTGdZbzRPNHZLa1ZaZzdoRzJWcHhGbEhYOFIwcFR2MDNwcGEzT3c5d1kwemZxX0o0X19IS1RwY2dyWG1JWlhwbHE3RmRST3QzT3hmQ0J2S0ZPcUlTXzlHX3FqUFRDVF9aeDlUaUt5VThNdlhGeFFvUWNzZWN6S2VDT2FfUmNaaGpwd3VlbEFkYXNjdGZTZWlMeDYtTUJTd0Z3NzZQTmF6SEY4aWt2YWlTMNIBlgJBVV95cUxNcEJkcnJ5ZjktN1hRcm5iVFBGQWdBb3IwakkxY3IxQlFGelRpbkJYX3dNVmFPcTQ5Wnl1STNRbGpSb3VZdlQ1WURGMy1fOHhjU0Z4QmRmcmptNjNpN0sySHYwTHRuUDJzNGhXY0FiM3h6Tk1LWWJkbUZ2VWdSMldRa0htdENGWnFPeGdFVW9fT3JMeTRiNDg4Q3Bwa2NIU18ySzVRY3ZfMkh3YWVoVnZLRTJzR0p1ZnlYRzFtWXlMSUd2eVMwQTVwOHIxdnpNdnBMTmdxZXdFQm5laktTYlNLcDRFbmlpSk93OEJ4OG54elYxYWFDMFJ2N0xkTnEwTi1iQi10WEpfcFJrWDRaYTZILVRDdmR1QQ?oc=5"
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVHM0b1NiX3VYaDJFYjg0U2pyT25KRmt4T3BqX0lqVzJIMW10eTRQOEpWX1ZaMnBoYTRSZWc3d00zNEVRbnFhaktsalpGWWp0SWNoNk1XdmcycG9iTDdQTGdZbzRPNHZLa1ZaZzdoRzJWcHhGbEhYOFIwcFR2MDNwcGEzT3c5d1kwemZxX0o0X19IS1RwY2dyWG1JWlhwbHE3RmRST3QzT3hmQ0J2S0ZPcUlTXzlHX3FqUFRDVF9aeDlUaUt5VThNdlhGeFFvUWNzZWN6S2VDT2FfUmNaaGpwd3VlbEFkYXNjdGZTZWlMeDYtTUJTd0Z3NzZQTmF6SEY4aWt2YWlTMNIBlgJBVV95cUxNcEJkcnJ5ZjktN1hRcm5iVFBGQWdBb3IwakkxY3IxQlFGelRpbkJYX3dNVmFPcTQ5Wnl1STNRbGpSb3VZdlQ1WURGMy1fOHhjU0Z4QmRmcmptNjNpN0sySHYwTHRuUDJzNGhXY0FiM3h6Tk1LWWJkbUZ2VWdSMldRa0htdENGWnFPeGdFVW9fT3JMeTRiNDg4Q3Bwa2NIU18ySzVRY3ZfMkh3YWVoVnZLRTJzR0p1ZnlYRzFtWXlMSUd2eVMwQTVwOHIxdnpNdnBMTmdxZXdFQm5laktTYlNLcDRFbmlpSk93OEJ4OG54elYxYWFDMFJ2N0xkTnEwTi1iQi10WEpfcFJrWDRaYTZILVRDdmR1QQ?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/video-carro-pega-fogo-proximo-ao-lago-paranoa-em-brasilia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/rodoviarios-anunciam-paralisacao-a-partir-desta-segunda-feira-28-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/dia-nacional-da-doacao-de-orgaos-df-ja-fez-319-transplantes-em-2026-quase-2-mil-pessoas-estao-na-fila.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/pensada-para-carros-testada-pelo-clima-moradores-do-df-acumulam-prejuizos-de-tempestades-e-alagamentos.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/memes-medo-e-desinformacao-por-que-os-caps-ainda-enfrentam-resistencia-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -836,6 +854,18 @@
       "exemplo": "Botafogo plant eine große Zukunft für den Verein.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-09-27",
+      "proxima": "2026-09-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-27-12:30-jp",
+      "palavra": "可能性",
+      "leitura": "かのうせい",
+      "sentido_pt": "possibilidade",
+      "exemplo": "車が故障した可能性が高いです。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-09-27",
       "proxima": "2026-09-28",
       "acertos": 0
