@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Gewinn",
-    "jp": "決意"
+    "jp": "見通し"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は困難に負けず、目標を達成する決意をした。",
-      "leitura": "かれはこんなんにまけず、もくひょうをたっするけついをした。"
+      "frase": "来週、政府とクラブの代表者が会談する見通しです。",
+      "leitura": "らいしゅう、せいふとくらぶのだいひょうしゃがかいだんするみとおしです。"
     }
   },
   "obra_idx": {
@@ -116,6 +116,11 @@
     "5028477607700594996": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-09-26"
+    },
+    "5028477607700595001": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-09-26"
     }
   },
@@ -317,6 +322,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-26",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -342,7 +354,8 @@
     "2026-09-26-06:30",
     "2026-09-26-08:00",
     "2026-09-26-12:30",
-    "2026-09-26-17:30"
+    "2026-09-26-17:30",
+    "2026-09-26-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -439,7 +452,12 @@
     "https://finance.yahoo.com/m/5965a4a9-81fb-3731-a3e2-a523923c075e/%E2%80%98don%E2%80%99t-ship-products-until.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/26/nvidia-is-weighing-a-usd10-billion-stake-in-anthropic-s-ipo-it-would-be-buying-its-own-demand/?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/26/this-nuclear-stock-could-make-patient-investors-ri/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/09/26/this-nuclear-stock-could-make-patient-investors-ri/?.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/09/26/futebol-sempre-viveu-sem-bets-diz-ministro-dos-esportes-governo-planeja-se-reuniur-com-clubes-para-discutir-medidas.ghtml",
+    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-senado-26-setembro.ghtml",
+    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-avaliacao-governo-26-setembro.ghtml",
+    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml",
+    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml"
   ],
   "palavras": [
     {
@@ -714,6 +732,18 @@
       "exemplo": "Jeder Investor hofft auf einen guten Gewinn am Ende des Jahres.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-09-26",
+      "proxima": "2026-09-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-26-19:30-jp",
+      "palavra": "見通し",
+      "leitura": "みとおし",
+      "sentido_pt": "previsão, perspectiva",
+      "exemplo": "来週、政府とクラブの代表者が会談する見通しです。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-09-26",
       "proxima": "2026-09-27",
       "acertos": 0
