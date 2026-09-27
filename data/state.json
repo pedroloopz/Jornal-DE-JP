@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Zukunft",
+    "de": "Buch",
     "jp": "可能性"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Botafogo plant eine große Zukunft für den Verein.",
+      "frase": "Ich lese jeden Tag ein gutes Buch.",
       "leitura": ""
     },
     "jp": {
@@ -21,7 +21,7 @@
   },
   "obra_idx": {
     "jp": 3,
-    "de": 1
+    "de": 2
   },
   "dominadas": {
     "jp": 0,
@@ -136,6 +136,11 @@
     "5030729407514280279": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-27"
+    },
+    "5030692625414357233": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-09-27"
     }
   },
@@ -379,6 +384,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -409,7 +421,8 @@
     "2026-09-26-21:00",
     "2026-09-27-06:30",
     "2026-09-27-08:00",
-    "2026-09-27-12:30"
+    "2026-09-27-12:30",
+    "2026-09-27-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -866,6 +879,18 @@
       "exemplo": "車が故障した可能性が高いです。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-09-27",
+      "proxima": "2026-09-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-27-17:30-de",
+      "palavra": "das Buch",
+      "leitura": "",
+      "sentido_pt": "o livro",
+      "exemplo": "Ich lese jeden Tag ein gutes Buch.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-09-27",
       "proxima": "2026-09-28",
       "acertos": 0
