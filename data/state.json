@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Buch",
+    "de": "Kandidat",
     "jp": "体制"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Ich lese jeden Tag ein gutes Buch.",
+      "frase": "Der Kandidat spricht mit den Wählern.",
       "leitura": ""
     },
     "jp": {
@@ -146,6 +146,11 @@
     "5030692625414357240": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-27"
+    },
+    "5030692625414357241": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-09-27"
     }
   },
@@ -403,6 +408,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-27",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -435,7 +447,8 @@
     "2026-09-27-08:00",
     "2026-09-27-12:30",
     "2026-09-27-17:30",
-    "2026-09-27-19:30"
+    "2026-09-27-19:30",
+    "2026-09-27-21:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -562,7 +575,12 @@
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZXhsaUY5eDhieTdqUVRFdjdpQUo2X3ZkWDRzR1BBTS1VbTFZYVNQTzhBTEd3MmJ3aG1SVXhYaUJoaFZmdVB0Q1NMb05mUDQ1YVpYTEc0cE52SDQ0bGN5aGFJOTcxdENBLWU4dzJjSnlMYWd0LWNWT3JsQWhwUUJUd0JRUVcxVUlCV1FmRVBYYkplLWp4VW42YmVGVlU2N0pHV3N4MkJYY2RfWnM0SGt3SWx6Rk1fd2dKckxLaENTTm5DaWxzVVdSNzFhUnFsUEtHSVFIN0doMUUyMVNVM090SXBxSGV6dw?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDdGc3NBRDE1WUE5QkI4d2xTRmphMFlWMlFJcjRCNkdldHdpQnZQMU81RTJDeFRKalJRd091UjhlRHNMQVNZc1Q2VzFyT1Bwa2tSTVZaLXNlbm82ZG80WllkTmxEbWF6cjVGdDNqMlYtZVptZzJVSDUyTV9KYWlBWGhZYmxDcTgzaGZFOU50YWdPSHpHYjRscFhGNlNEelZSMlN2cHFEUkFtNjE4Z2FIdUlLczB3TFJndnJ3LTN3c1lyUWZ1aUphRzBJNNIB0AFBVV95cUxQVTVnUUdyQW1TWlZ5b2t1dXhSU1JCVEZMSzkwNzZtMHlmaGlpZlZpRFpXUEY4c1hBQS1uNkwtYnQwZHE4T2kwVGh6b3pNWmNnZFhGRkJQQ1hSajA1RVcxcU9odERSSFFkLUtRS0gzeXd2cFNoQUZld0dNNVpYbnJYTmxyQmU3WDdLanVWX003WnUydzUzajJkcnAtcDJxWEhMMnY2WUdZcGRXZ2VQX3AtT3VOT25ZbUE5cXVTMkMxZ0IwVDg0Znl0a2E3TTVZQlpI?oc=5",
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNUlRbEpveHpHT1E4cTJMem5KY3BaYkNVdS1KbkppTEZmRkQ5bk1SbkJSNHFhMUNEQmVZazlXV2tUa1R3OFBESHVmbjRKYWNQNWNSZ0QyZWlhbE1JOHdncXM1RDh3dW5iYzlRTzRYaFdVUkdfZmx3MlA1VmNFWVpMYkJ3Si0xeTBwRkNRNVRqYjVRRWV1YkdyamJJRmJxZkZsRGZQN0o1ZV9jRVhl?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0xScnZOMDNBUnlTNnlVdzl6bTN6RlN4X2EwakFwLS1PZmZ5dW1PZjJaSGRlZWltam8xR2FUVUlLanEzSnpKeVB5NTl6SGxVaXV3SDAtTHZRVGVkaElDbUdRNTByMVhUU1lTTWFQQS0tazFHMGFLNVBpemlULUxNQ2UzQWJpYTlEbXMtWmRTVnlVOUdyckZqN2xLdFhYc1cyS3lvaFM0UnlmYmc0MnhZbUp4VzNpN2pRdkJza2pvR1doSHctN1BLVXFwWUpWdkRVREJjcjBuY3Fkci1kSGfSAewBQVVfeXFMTlhoR0NRVzFfSEhmbFdoVExrOFJIV2NOVElrUWstcWQxVnFmSUlZaGFlUVg0MmNoWUpwYTc2OEs2YThOaXZ5UlBlLThUcEw0N2Q2M1paN255NjZaeFg2ckNfZndUZFRDWWRnbHpDclFlU1Y0VzZLeEFIQWJyc2t2bUIyeFhNck1jZVg1SnFIanNhandNX19UTjJVek8xLUVsRW55QjJ6alZSeXY3UEwzY0hWYUt3eUlveGtSVFZDZmtmZUpyWXA3cERYSnRaelRJNlBCLW5UVXlJTXBrSEJ3WmMtT0FPeWp5ZnEyRW4?oc=5"
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM0xScnZOMDNBUnlTNnlVdzl6bTN6RlN4X2EwakFwLS1PZmZ5dW1PZjJaSGRlZWltam8xR2FUVUlLanEzSnpKeVB5NTl6SGxVaXV3SDAtTHZRVGVkaElDbUdRNTByMVhUU1lTTWFQQS0tazFHMGFLNVBpemlULUxNQ2UzQWJpYTlEbXMtWmRTVnlVOUdyckZqN2xLdFhYc1cyS3lvaFM0UnlmYmc0MnhZbUp4VzNpN2pRdkJza2pvR1doSHctN1BLVXFwWUpWdkRVREJjcjBuY3Fkci1kSGfSAewBQVVfeXFMTlhoR0NRVzFfSEhmbFdoVExrOFJIV2NOVElrUWstcWQxVnFmSUlZaGFlUVg0MmNoWUpwYTc2OEs2YThOaXZ5UlBlLThUcEw0N2Q2M1paN255NjZaeFg2ckNfZndUZFRDWWRnbHpDclFlU1Y0VzZLeEFIQWJyc2t2bUIyeFhNck1jZVg1SnFIanNhandNX19UTjJVek8xLUVsRW55QjJ6alZSeXY3UEwzY0hWYUt3eUlveGtSVFZDZmtmZUpyWXA3cERYSnRaelRJNlBCLW5UVXlJTXBrSEJ3WmMtT0FPeWp5ZnEyRW4?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/09/28/flavio-bolsonaro-acusa-cnbb-de-participar-de-fake-news-bispos-dizem-que-mentira-nao-se-combate-com-mentira.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/28/nova-pesquisa-quaest-da-eleicao-presidencial-sai-nesta-segunda-28.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/reta-final-das-eleicoes-tem-guerra-juridica-entre-presidenciaveis-tse-ja-recebeu-ao-menos-450-acoes.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/avaliacao-de-lula-nao-melhora-durante-a-campanha-mostram-pesquisas-saiba-como-foi-com-outros-presidentes.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/09/28/governo-tem-reuniao-com-clubes-nesta-semana-para-discutir-impactos-da-proibicao-das-bets.ghtml"
   ],
   "palavras": [
     {
@@ -921,6 +939,18 @@
       "exemplo": "新しい体制でチームを立て直す。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-09-27",
+      "proxima": "2026-09-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-27-21:00-de",
+      "palavra": "der Kandidat",
+      "leitura": "",
+      "sentido_pt": "o candidato",
+      "exemplo": "Der Kandidat spricht mit den Wählern.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-09-27",
       "proxima": "2026-09-28",
       "acertos": 0
