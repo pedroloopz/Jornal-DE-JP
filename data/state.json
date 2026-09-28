@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Kandidat",
+    "de": "Markt",
     "jp": "立場"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Der Kandidat spricht mit den Wählern.",
+      "frase": "Experten analysieren den Markt genau.",
       "leitura": ""
     },
     "jp": {
@@ -156,6 +156,11 @@
     "5032944425228042669": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-28"
+    },
+    "5032944425228042670": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-09-28"
     }
   },
@@ -427,6 +432,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-28",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -461,7 +473,8 @@
     "2026-09-27-17:30",
     "2026-09-27-19:30",
     "2026-09-27-21:00",
-    "2026-09-28-06:30"
+    "2026-09-28-06:30",
+    "2026-09-28-08:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -593,7 +606,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/28/nova-pesquisa-quaest-da-eleicao-presidencial-sai-nesta-segunda-28.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/reta-final-das-eleicoes-tem-guerra-juridica-entre-presidenciaveis-tse-ja-recebeu-ao-menos-450-acoes.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/avaliacao-de-lula-nao-melhora-durante-a-campanha-mostram-pesquisas-saiba-como-foi-com-outros-presidentes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/28/governo-tem-reuniao-com-clubes-nesta-semana-para-discutir-impactos-da-proibicao-das-bets.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/09/28/governo-tem-reuniao-com-clubes-nesta-semana-para-discutir-impactos-da-proibicao-das-bets.ghtml",
+    "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/28/bond-market-repeating-pattern-great-recession/?.tsrc=rss",
+    "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
+    "https://www.trefis.com/articles/616741/what-you-actually-pay-to-join-the-aapl-run-3/2026-09-28?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/28/jensen-huang-just-gave-investors-150-billion-reaso/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -976,6 +994,18 @@
       "exemplo": "彼らは自分たちが食べられる立場にあることに気づいた。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-09-28",
+      "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-28-08:00-de",
+      "palavra": "der Markt",
+      "leitura": "der Markt",
+      "sentido_pt": "o mercado",
+      "exemplo": "Experten analysieren den Markt genau.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
       "acertos": 0
