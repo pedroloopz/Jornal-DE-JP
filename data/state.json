@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Markt",
-    "jp": "立場"
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼らは自分たちが食べられる立場にあることに気づいた。",
-      "leitura": "かれらはじぶんたちがたべられるたちばにあることにきづいた。"
+      "frase": "来週までに新しい法律が承認される見込みです。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -161,6 +161,11 @@
     "5032944425228042670": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-09-28"
+    },
+    "5032944425228042674": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-09-28"
     }
   },
@@ -439,6 +444,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-28",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -474,7 +486,8 @@
     "2026-09-27-19:30",
     "2026-09-27-21:00",
     "2026-09-28-06:30",
-    "2026-09-28-08:00"
+    "2026-09-28-08:00",
+    "2026-09-28-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -611,7 +624,12 @@
     "https://www.fool.com/investing/2026/09/28/bond-market-repeating-pattern-great-recession/?.tsrc=rss",
     "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
     "https://www.trefis.com/articles/616741/what-you-actually-pay-to-join-the-aapl-run-3/2026-09-28?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/28/jensen-huang-just-gave-investors-150-billion-reaso/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/09/28/jensen-huang-just-gave-investors-150-billion-reaso/?.tsrc=rss",
+    "https://g1.globo.com/economia/noticia/2026/09/28/bets-ilegais-foram-criadas-aponta-levantamento.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/09/28/o-que-e-a-rockbridge-network-a-rede-conservadora-dos-eua-que-virou-tema-na-eleicao-no-brasil.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/ricardo-salles-desiste-da-disputa-pelo-senado-a-6-dias-da-votacao-entenda-o-que-acontece-com-os-votos.ghtml",
+    "https://g1.globo.com/economia/noticia/2026/09/28/governo-amplia-fiscalizacao-de-precos-de-combustiveis-e-preve-multas-de-ate-r-500-milhoes-contra-praticas-abusivas.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-os-candidatos-a-deputado-federal-em-cada-estado-e-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -1006,6 +1024,18 @@
       "exemplo": "Experten analysieren den Markt genau.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-09-28",
+      "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-28-12:30-jp",
+      "palavra": "見込み",
+      "leitura": "",
+      "sentido_pt": "perspectiva",
+      "exemplo": "来週までに新しい法律が承認される見込みです。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
       "acertos": 0
