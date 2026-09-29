@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Unfall",
-    "jp": "見込み"
+    "jp": "期待"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": "Der Unfall war schwer."
     },
     "jp": {
-      "frase": "来週までに新しい法律が承認される見込みです。",
+      "frase": "今後の株価の回復に対する期待が高まっています。",
       "leitura": ""
     }
   },
@@ -171,6 +171,11 @@
     "5032944425228042676": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-09-28"
+    },
+    "5032944425228042680": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-09-28"
     }
   },
@@ -463,6 +468,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-28",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -500,7 +512,8 @@
     "2026-09-28-06:30",
     "2026-09-28-08:00",
     "2026-09-28-12:30",
-    "2026-09-28-17:30"
+    "2026-09-28-17:30",
+    "2026-09-28-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -647,7 +660,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/homem-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-filho-morre-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/iml-aponta-que-bebe-encontrado-carbonizado-no-df-nasceu-com-vida-policia-identifica-homem-que-ateou-fogo.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/coronel-da-pm-do-df-jorge-naime-e-encontrado-desacordado-em-cela-da-papudinha-e-levado-a-hospital.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/motorista-embriagado-atropela-e-mata-jovem-de-23-anos-no-df-video.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/motorista-embriagado-atropela-e-mata-jovem-de-23-anos-no-df-video.ghtml",
+    "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-got-wish-mega-020123983.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/09/28/meta-hasn-t-split-its-stock-since-its-ipo-would-a-stock-split-get-it-into-the-dow/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/zacks-tool-strong-ai-stocks-231700002.html?.tsrc=rss",
+    "https://247wallst.com/investing/2026/09/28/nvidias-glass-packaging-push-could-reshape-ai-chips/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -1066,6 +1084,18 @@
       "exemplo": "Der Unfall passierte auf der Brücke.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-09-28",
+      "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-28-19:30-jp",
+      "palavra": "期待",
+      "leitura": "きたい",
+      "sentido_pt": "expectativa",
+      "exemplo": "今後の株価の回復に対する期待が高まっています。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
       "acertos": 0
