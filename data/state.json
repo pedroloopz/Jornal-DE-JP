@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Markt",
+    "de": "Unfall",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Experten analysieren den Markt genau.",
-      "leitura": ""
+      "frase": "Der Unfall passierte auf der Brücke.",
+      "leitura": "Der Unfall war schwer."
     },
     "jp": {
       "frase": "来週までに新しい法律が承認される見込みです。",
@@ -166,6 +166,11 @@
     "5032944425228042674": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-28"
+    },
+    "5032944425228042676": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-09-28"
     }
   },
@@ -451,6 +456,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-28",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -487,7 +499,8 @@
     "2026-09-27-21:00",
     "2026-09-28-06:30",
     "2026-09-28-08:00",
-    "2026-09-28-12:30"
+    "2026-09-28-12:30",
+    "2026-09-28-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -629,7 +642,12 @@
     "https://g1.globo.com/mundo/noticia/2026/09/28/o-que-e-a-rockbridge-network-a-rede-conservadora-dos-eua-que-virou-tema-na-eleicao-no-brasil.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/ricardo-salles-desiste-da-disputa-pelo-senado-a-6-dias-da-votacao-entenda-o-que-acontece-com-os-votos.ghtml",
     "https://g1.globo.com/economia/noticia/2026/09/28/governo-amplia-fiscalizacao-de-precos-de-combustiveis-e-preve-multas-de-ate-r-500-milhoes-contra-praticas-abusivas.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-os-candidatos-a-deputado-federal-em-cada-estado-e-no-df.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-os-candidatos-a-deputado-federal-em-cada-estado-e-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/juiz-manda-soltar-candidato-a-deputado-federal-preso-no-df-por-pintar-muro-da-unb-sem-aval.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/homem-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-filho-morre-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/iml-aponta-que-bebe-encontrado-carbonizado-no-df-nasceu-com-vida-policia-identifica-homem-que-ateou-fogo.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/coronel-da-pm-do-df-jorge-naime-e-encontrado-desacordado-em-cela-da-papudinha-e-levado-a-hospital.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/motorista-embriagado-atropela-e-mata-jovem-de-23-anos-no-df-video.ghtml"
   ],
   "palavras": [
     {
@@ -1036,6 +1054,18 @@
       "exemplo": "来週までに新しい法律が承認される見込みです。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-09-28",
+      "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-28-17:30-de",
+      "palavra": "der Unfall",
+      "leitura": "In Brasília gab es einen Unfall.",
+      "sentido_pt": "o acidente",
+      "exemplo": "Der Unfall passierte auf der Brücke.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
       "acertos": 0
