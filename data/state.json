@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Gegner",
-    "jp": "期待"
+    "jp": "回復"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "今後の株価の回復に対する期待が高まっています。",
+      "frase": "患者の回復が順調に進んでいる。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5017206166111912126": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-23"
-    },
     "5017206166111912129": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-09-28"
+    },
+    "5035266602375840176": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-09-29"
     }
   },
   "pendentes": [],
@@ -482,6 +482,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-29",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -521,7 +528,8 @@
     "2026-09-28-12:30",
     "2026-09-28-17:30",
     "2026-09-28-19:30",
-    "2026-09-28-21:00"
+    "2026-09-28-21:00",
+    "2026-09-29-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -678,7 +686,12 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxnV21BeEZINmRPZlFkTmdZVzdYZXRsT1BEZklqcGFyV0FqWnJYczh5OFRQaGJwaXhNWWw4NkoyajRsLThqOUNGdlNiRk9IX1paaDhmMDA0NFEydlVOa21JUTVZYzFFX29SRHF2RHI0SEQxSXJEeWVzOVljMXk2NVRDeXZ3X3ZsSFF0ekx4bmFVaF9zQ184VklQcVBxZ3BQc0pEbg?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUwxZHA3Y1QzVnpOYnE4YUJXbnRfeHZacllnLWhyNGJFLU1ydE13WHZ2aC14am1FQUxCVENlSzdvMnhMZGVEd2ZkSU9hVHpqam5LQ2ZoQmtZZmY1a2VKQjhlVkppa1FUaVpNNmNSN3gzQnpiNHZPVWVaSXNkWHlQOVVuaWdjYWJMeUowNVlfQzFwOGllQ3V4eTJqU1g1dHFIdE1WSVZUYUl5dmZVN2J5NHNGdmFES3VQdFk2REVHMTNEcEo1TnR1TDlUZ2XSAdsBQVVfeXFMT2pyTG0wZGFseHZCaVVxbUQ1LWx6MHhNZ05IRy1ZTFgxeGdkb1FWUUtfeWNMQXJ6Q08xeHhlY3Q5eXczVFNLYkw0Zl9Ga0w5ejJXVzZlMmhyZWJ1MFJLMHo3QjdvMWZ6WG9fUHJfVU1GLXVSaTlKNjljbEFOSjRkRzFzVWpEaWxwMi1FdUNLajBBWkREbHFZUmVpYllaT1pqRnUxQTNkUzEyTUcyRzFxZE1yMFFONXhwNUx1cVptNEUwbjU5djkxS1plcG5xeWtPa2V6TnlmR2lTRlQw?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczhKbkhUR21xdnJBRWtldERaM3dFNG5nS3RzU0JGVHRaeUVJbnFSQmQwaE9VaERzMXlFVVlZc0N3eEoxV2x5b2UxeDd0clpCaDlaODF3UmpfeEJKMG5FVldpYmNLZ1lia1E4OEF5bWxuSy1TUmNkLUJwdTVqR1pTalFqYnJITkNoc2liTXlzRzAxeGE2cWR4QVp1Z0hRSkpuWDl1Nkdpa3FwNk85U2NzYU5sYWlTQzlNdXl2cC1oNjZmbVJXV1Br?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUh6NWlCNFFRekhVTUJQOTNIb21aVVlYa095dkFyczlnQXRUV1NlVnp5RGNvZU1wTUNmbkljYWtPTkpOYmJBTTYwRm9aenVjekJWWlVoZkg5UEx6TGhuS0IwLW1ac1oxR1dsUlJpQ2lINi1yS3F2YWlLZHZZS3NCV3VXb3VKSmphM1oxcHJoZWpzdE43MDFqdDdmdDlyMVAxeUtyYkQxX004SVhUUm1JXzEzelIyZGNVbzA5MHlJVC1qaE5nTGd3R2FIMVlTU0lfSEI2YVpTYjFXcEZ2WGpSYVNzbEvSAfMBQVVfeXFMT1NFaFZvUzFhTU9CTWdkUzJYdzMxWExHakpDdUdqYWdWZzNTS2dWOUs3RFNyWjNDbmpGLTNSdjNyN1h5R1ZlcDd6bkxFbk5xVlBhRWFoNGFzX0pjS3V3RHY0VjRja2RZYTcwM2d2Z2U2TnZDRlpzVnlfZ1FMZ2ZhSjYzWGxVeXRMdlVTNnpVMnM5T3JsY3pTWW1nOWUwbGlFTGtBSjEwSWRWc1Npa3JZNjFia2sxV1lvU1A1RV9HV2V5QV9lU3l1U3dUWGpiY2JnWUNiNDhnMGRJdXhma2VndmxBTWFiSXVQRTRyMlJoU2otSG9V?oc=5"
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUh6NWlCNFFRekhVTUJQOTNIb21aVVlYa095dkFyczlnQXRUV1NlVnp5RGNvZU1wTUNmbkljYWtPTkpOYmJBTTYwRm9aenVjekJWWlVoZkg5UEx6TGhuS0IwLW1ac1oxR1dsUlJpQ2lINi1yS3F2YWlLZHZZS3NCV3VXb3VKSmphM1oxcHJoZWpzdE43MDFqdDdmdDlyMVAxeUtyYkQxX004SVhUUm1JXzEzelIyZGNVbzA5MHlJVC1qaE5nTGd3R2FIMVlTU0lfSEI2YVpTYjFXcEZ2WGpSYVNzbEvSAfMBQVVfeXFMT1NFaFZvUzFhTU9CTWdkUzJYdzMxWExHakpDdUdqYWdWZzNTS2dWOUs3RFNyWjNDbmpGLTNSdjNyN1h5R1ZlcDd6bkxFbk5xVlBhRWFoNGFzX0pjS3V3RHY0VjRja2RZYTcwM2d2Z2U2TnZDRlpzVnlfZ1FMZ2ZhSjYzWGxVeXRMdlVTNnpVMnM5T3JsY3pTWW1nOWUwbGlFTGtBSjEwSWRWc1Npa3JZNjFia2sxV1lvU1A1RV9HV2V5QV9lU3l1U3dUWGpiY2JnWUNiNDhnMGRJdXhma2VndmxBTWFiSXVQRTRyMlJoU2otSG9V?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/corpo-de-militar-do-df-e-encontrado-carbonizado-em-carro-no-entorno.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/crianca-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-pai-recebe-alta-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/video-mostra-homem-colocando-fogo-em-entulho-aonde-estava-corpo-de-bebe-encontrado-carbonizado-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-terca-feira-29-de-setembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/29/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml"
   ],
   "palavras": [
     {
@@ -1123,6 +1136,18 @@
       "tema": "botafogo",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-29-06:30-jp",
+      "palavra": "回復",
+      "leitura": "かいふく",
+      "sentido_pt": "recuperação",
+      "exemplo": "患者の回復が順調に進んでいる。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-09-29",
+      "proxima": "2026-09-30",
       "acertos": 0
     }
   ]
