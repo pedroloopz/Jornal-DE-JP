@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Unfall",
+    "de": "Gegner",
     "jp": "期待"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Der Unfall passierte auf der Brücke.",
-      "leitura": "Der Unfall war schwer."
+      "frase": "Die Mannschaft kennt jetzt ihre Gegner in der ersten Phase.",
+      "leitura": ""
     },
     "jp": {
       "frase": "今後の株価の回復に対する期待が高まっています。",
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5017206166111912125": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-09-23"
-    },
     "5017206166111912126": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5032944425228042680": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-28"
+    },
+    "5035196225041728423": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-28"
     }
   },
@@ -475,6 +475,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-28",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -513,7 +520,8 @@
     "2026-09-28-08:00",
     "2026-09-28-12:30",
     "2026-09-28-17:30",
-    "2026-09-28-19:30"
+    "2026-09-28-19:30",
+    "2026-09-28-21:00"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -665,7 +673,12 @@
     "https://www.fool.com/investing/2026/09/28/meta-hasn-t-split-its-stock-since-its-ipo-would-a-stock-split-get-it-into-the-dow/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/zacks-tool-strong-ai-stocks-231700002.html?.tsrc=rss",
-    "https://247wallst.com/investing/2026/09/28/nvidias-glass-packaging-push-could-reshape-ai-chips/?.tsrc=rss"
+    "https://247wallst.com/investing/2026/09/28/nvidias-glass-packaging-push-could-reshape-ai-chips/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakhrOE1xX2xyWTNNYVFLeTZKVERheVVJbXVyaVFhSF9YLUh2OGI1bGhHN2N3WXpxcVJ3WHBfZVNleUVKeWYwU0xIM2VsN2ljUTN0c3pxUmpJT2ZNQ0RNcnoyaVFDR2d4b05IOUhnTnllYVFaVF9yYUdHN1B6WFo5aWRQRzVDa2ZKSTFVX0Z1VjhrUVdmdFVmOXJUdjF2NmpYRS1JdXdyZHFfcXh0MERJU1Jucw?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxnV21BeEZINmRPZlFkTmdZVzdYZXRsT1BEZklqcGFyV0FqWnJYczh5OFRQaGJwaXhNWWw4NkoyajRsLThqOUNGdlNiRk9IX1paaDhmMDA0NFEydlVOa21JUTVZYzFFX29SRHF2RHI0SEQxSXJEeWVzOVljMXk2NVRDeXZ3X3ZsSFF0ekx4bmFVaF9zQ184VklQcVBxZ3BQc0pEbg?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUwxZHA3Y1QzVnpOYnE4YUJXbnRfeHZacllnLWhyNGJFLU1ydE13WHZ2aC14am1FQUxCVENlSzdvMnhMZGVEd2ZkSU9hVHpqam5LQ2ZoQmtZZmY1a2VKQjhlVkppa1FUaVpNNmNSN3gzQnpiNHZPVWVaSXNkWHlQOVVuaWdjYWJMeUowNVlfQzFwOGllQ3V4eTJqU1g1dHFIdE1WSVZUYUl5dmZVN2J5NHNGdmFES3VQdFk2REVHMTNEcEo1TnR1TDlUZ2XSAdsBQVVfeXFMT2pyTG0wZGFseHZCaVVxbUQ1LWx6MHhNZ05IRy1ZTFgxeGdkb1FWUUtfeWNMQXJ6Q08xeHhlY3Q5eXczVFNLYkw0Zl9Ga0w5ejJXVzZlMmhyZWJ1MFJLMHo3QjdvMWZ6WG9fUHJfVU1GLXVSaTlKNjljbEFOSjRkRzFzVWpEaWxwMi1FdUNLajBBWkREbHFZUmVpYllaT1pqRnUxQTNkUzEyTUcyRzFxZE1yMFFONXhwNUx1cVptNEUwbjU5djkxS1plcG5xeWtPa2V6TnlmR2lTRlQw?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczhKbkhUR21xdnJBRWtldERaM3dFNG5nS3RzU0JGVHRaeUVJbnFSQmQwaE9VaERzMXlFVVlZc0N3eEoxV2x5b2UxeDd0clpCaDlaODF3UmpfeEJKMG5FVldpYmNLZ1lia1E4OEF5bWxuSy1TUmNkLUJwdTVqR1pTalFqYnJITkNoc2liTXlzRzAxeGE2cWR4QVp1Z0hRSkpuWDl1Nkdpa3FwNk85U2NzYU5sYWlTQzlNdXl2cC1oNjZmbVJXV1Br?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUh6NWlCNFFRekhVTUJQOTNIb21aVVlYa095dkFyczlnQXRUV1NlVnp5RGNvZU1wTUNmbkljYWtPTkpOYmJBTTYwRm9aenVjekJWWlVoZkg5UEx6TGhuS0IwLW1ac1oxR1dsUlJpQ2lINi1yS3F2YWlLZHZZS3NCV3VXb3VKSmphM1oxcHJoZWpzdE43MDFqdDdmdDlyMVAxeUtyYkQxX004SVhUUm1JXzEzelIyZGNVbzA5MHlJVC1qaE5nTGd3R2FIMVlTU0lfSEI2YVpTYjFXcEZ2WGpSYVNzbEvSAfMBQVVfeXFMT1NFaFZvUzFhTU9CTWdkUzJYdzMxWExHakpDdUdqYWdWZzNTS2dWOUs3RFNyWjNDbmpGLTNSdjNyN1h5R1ZlcDd6bkxFbk5xVlBhRWFoNGFzX0pjS3V3RHY0VjRja2RZYTcwM2d2Z2U2TnZDRlpzVnlfZ1FMZ2ZhSjYzWGxVeXRMdlVTNnpVMnM5T3JsY3pTWW1nOWUwbGlFTGtBSjEwSWRWc1Npa3JZNjFia2sxV1lvU1A1RV9HV2V5QV9lU3l1U3dUWGpiY2JnWUNiNDhnMGRJdXhma2VndmxBTWFiSXVQRTRyMlJoU2otSG9V?oc=5"
   ],
   "palavras": [
     {
@@ -1096,6 +1109,18 @@
       "exemplo": "今後の株価の回復に対する期待が高まっています。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-09-28",
+      "proxima": "2026-09-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-28-21:00-de",
+      "palavra": "der Gegner",
+      "leitura": "",
+      "sentido_pt": "o adversário",
+      "exemplo": "Die Mannschaft kennt jetzt ihre Gegner in der ersten Phase.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-09-28",
       "proxima": "2026-09-29",
       "acertos": 0
