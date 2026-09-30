@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Kurs",
-    "jp": "表現"
+    "jp": "計画"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この小説の表現はとても面白いです。",
-      "leitura": ""
+      "frase": "警察は捜査の計画を変更した。",
+      "leitura": "けいかく"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5019457965925597457": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-09-24"
-    },
     "5022020437903671569": {
       "correta": 0,
       "lang": "de",
@@ -177,6 +172,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-09-29"
+    },
+    "5037518402189525238": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-09-30"
     }
   },
   "pendentes": [],
@@ -524,6 +524,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-30",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -569,7 +576,8 @@
     "2026-09-29-12:30",
     "2026-09-29-17:30",
     "2026-09-29-19:30",
-    "2026-09-29-21:00"
+    "2026-09-29-21:00",
+    "2026-09-30-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -746,7 +754,12 @@
     "https://www.thestreet.com/investing/stocks/nvidia-burry-buyback-ai-risks?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/29/history-says-nvidia-s-record-usd150-billion-buyback-is-good-news-for-the-stock/?.tsrc=rss",
     "https://www.thestreet.com/investing/are-index-funds-overweight-in-tech?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/29/schwab-s-dividend-etf-has-nearly-quadrupled-its-payout-since-2012/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/09/29/schwab-s-dividend-etf-has-nearly-quadrupled-its-payout-since-2012/?.tsrc=rss",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/09/30/eua-vao-exigir-redes-sociais-abertas-de-jornalistas-que-pedirem-visto.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/mais-da-metade-das-propostas-dos-candidatos-a-presidencia-para-a-saude-ja-existem-no-sus-aponta-estudo.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml"
   ],
   "palavras": [
     {
@@ -1263,6 +1276,18 @@
       "tema": "bolsa",
       "data": "2026-09-29",
       "proxima": "2026-09-30",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-30-06:30-jp",
+      "palavra": "計画",
+      "leitura": "",
+      "sentido_pt": "plano",
+      "exemplo": "警察は捜査の計画を変更した。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-09-30",
+      "proxima": "2026-10-01",
       "acertos": 0
     }
   ]
