@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Maßnahme",
-    "jp": "候補者"
+    "jp": "執着"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "候補者たちは新しい政策について議論しました。",
+      "frase": "彼は名誉への執着を捨てきれなかった。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 5,
+    "jp": 6,
     "de": 4
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5026524037531042044": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-09-25"
-    },
     "5026225807886909762": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5039541091267772654": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-01"
+    },
+    "5039541091267772683": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-01"
     }
   },
@@ -573,6 +573,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-01",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -625,7 +632,8 @@
     "2026-09-30-17:30",
     "2026-09-30-19:30",
     "2026-09-30-21:00",
-    "2026-10-01-08:00"
+    "2026-10-01-08:00",
+    "2026-10-01-12:30"
   ],
   "links_usados": [
     "https://finance.yahoo.com/video/meta-ai-agent-just-got-214556275.html?.tsrc=rss",
@@ -1426,6 +1434,18 @@
       "exemplo": "Die neue Maßnahme hilft vielen Frauen.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-01",
+      "proxima": "2026-10-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-01-12:30-jp",
+      "palavra": "執着",
+      "leitura": "しゅうちゃく",
+      "sentido_pt": "obsessão, apego",
+      "exemplo": "彼は名誉への執着を捨てきれなかった。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-01",
       "proxima": "2026-10-02",
       "acertos": 0
