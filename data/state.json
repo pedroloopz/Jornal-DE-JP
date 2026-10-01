@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Stadt",
+    "de": "Ticket",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Brasília ist eine sehr moderne Stadt in Brasilien.",
+      "frase": "Ich kaufe das Ticket für das Spiel.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5022020437903671572": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-24"
-    },
     "5024272237717356839": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5037518402189525244": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-09-30"
+    },
+    "5037289291454087386": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-09-30"
     }
   },
@@ -545,6 +545,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-09-30",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -593,7 +600,8 @@
     "2026-09-29-21:00",
     "2026-09-30-06:30",
     "2026-09-30-08:00",
-    "2026-09-30-12:30"
+    "2026-09-30-12:30",
+    "2026-09-30-17:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/09/22/moraes-arquiva-investigacao-contra-ex-diretores-da-prf-acusados-de-tentar-impedir-deslocamento-de-eleitores-em-2022.ghtml",
@@ -785,7 +793,12 @@
     "https://www.benzinga.com/markets/prediction-markets/26/09/62091668/amazon-synopsys-1-billion-aws-custom-chips?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "https://app.moby.co/home/news/news-cannabis-investors-were-betting-on-washington-then-washington-hit-pause?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "https://www.fool.com/investing/2026/09/30/the-sec-just-granted-a-temporary-innovation-exempt/?.tsrc=rss",
-    "https://finance.yahoo.com/m/d6ca315b-f3cd-32f0-bb1c-aab2385963ae/ftc-reportedly-probes-openai.html?.tsrc=rss"
+    "https://finance.yahoo.com/m/d6ca315b-f3cd-32f0-bb1c-aab2385963ae/ftc-reportedly-probes-openai.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0Fub3M1TGZsd0FKb2lwQ0FDS3ZuQ2IwOFFlQkNxQzgxTnJvWGhMZHdMd0VqX3pSUFQ1REVBeEsyUFA5b3RTUG1oR1lVdk9RSTQtamhWM3k0QUdFWUJTTWZHSm5ZMm1mMjVjODNGWVhmR2xjWDNNQjl3cndvWG04TWlXRjlfSDNqM3pSUEotVmNfdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNGhpX2hhUXV5cUN1My1FUnBOYnNVcTIyTmJVVG12U0ljWENVVnJPWjJ3azg0RERHTE1EWGprT2RHbjVlV3pMSDBEenBUcDNaaHQydjY1Y2c2bkpBRjExMHRjX3VSMXFVZDc1ajNNWTdoWUhiRXgxUHFNUmExbC1HM0JnVVpHeUZBOC1ORkViMTItaWd6ODRPLV93ck1hMHRFd3pPNGJqQldLQWtaX0cxQk1ubnFOY3FQc2ZwYzctTUstck8xUERULXJhTmk1dFIybXRuVw?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDhOSHUtek53ekVCMHVXT254YV9WUlQwNEx3MWF2Z1gxTXBzNEtTaV9Sb3REUXQ0RHNaYXV0Q1FxOVN1Z0V0SkFuTzVuVTl1NkZKR01lVC1Wb0hXb3RDN0NNcmhTR3JESmNEeWZZamJval9OUnpEa0NnbDhJcFVQMUtoQ24wQlRwdXVQZk4xSzJ4S1FxaWEyUDMtRnMtOW1UVlI4WFd2OVBzV01tR2ZIQ3I3UmhlWUF00gG7AUFVX3lxTE9EdVM2bi0xMlFZT1EtRVpOREhaRlRkZWE3ZEJmdlJSRmsyazdPaEVXb3B5Q3NLeVYxZ3R2Qjd1ajlBRzRydHpKTGJoUTN2VjNzQlJPdlhJM045WnpQQWkwYkYwT1d1T1JFaU5UZW8xbzU4YUprRllXQ3RtSFZrM2Jldk5XZmM4OWc1S3F2NERnSEZROGhQTmRwcG5yTk85UGUzRko0Rm1GTE5qWjgyeVg3U1I5T1lPQ1Yxdlk?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjJjTzhvT2pTVFI2RW13c0hmbnRzRDBUU3FmWXpLZ1ozaWY1QWZGckRSX2dMQTZBTTBIOWRzTy1hOEY5XzZ5TUc3djY3alh3REtQY0k1RXh3emlkX0pIU1c2WW1oY2YwSGg1M1pqcmYzQ2NxREw3V1N4WWhlcmFMU3BhTkpIbktZU3RKVGprOERLLXlr?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQmpFOW1GbEJlRFJ0RzVOOE9UUFhWU3lQUkU1OHNGQTFwNlVpckZMeDJiWXY3ZnhhOTZJVHQwWldBb25EelRVSGFDRW5xN2NyNG5hakVrQzVsc1pzY1NTZW1ZdzhhYm9wd0FGcjJIbEduZU5xN2RvdmpCazVPZHkzeDZySGxmR3lwa2IwdjB0N3ZQWW0xdEVTaFBVZ0Q1YzNyS2RpSW80U3M4cWpJQ2lLajcySmLSAboBQVVfeXFMT3BvTnAyLUkyX1VkbkotbkNCVDBLQVIzckJzd0w0Y194cmFGY3M0Q0xFWDViX3B2dHVkUUZCMWx0Qmt5S0JjcGRZWm1YaEZyb2VvcDZIRDF0NEdHVi04d2dUOTNlMklRM1hrdzJZTHZSMkxfWlN0R3hzRWc4R1BIR09LS2VYTWxqdWVjNnVHWDZZNGtNZF9kX3gwUFFjTGxwbXo0dGJKT1RQWmZzNWpSNHN3OVZlZXJnNjN3?oc=5"
   ],
   "palavras": [
     {
@@ -1336,6 +1349,18 @@
       "exemplo": "今年中に市場が回復する見込みです。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-09-30",
+      "proxima": "2026-10-01",
+      "acertos": 0
+    },
+    {
+      "id": "2026-09-30-17:30-de",
+      "palavra": "das Ticket",
+      "leitura": "",
+      "sentido_pt": "o ingresso",
+      "exemplo": "Ich kaufe das Ticket für das Spiel.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-09-30",
       "proxima": "2026-10-01",
       "acertos": 0
