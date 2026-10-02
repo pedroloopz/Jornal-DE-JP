@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Wetter",
+    "de": "Ticket",
     "jp": "成績"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Wetter in Brasilia ist heute sehr warm.",
+      "frase": "Ich habe ein Ticket für das Spiel gekauft.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5030729407514280272": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-09-27"
-    },
     "5030729407514280275": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5044406971386561719": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-02"
+    },
+    "5044406971386561721": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-02"
     }
   },
@@ -608,6 +608,13 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-02",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -665,14 +672,10 @@
     "2026-10-01-17:30",
     "2026-10-01-19:30",
     "2026-10-01-21:00",
-    "2026-10-02-06:30"
+    "2026-10-02-06:30",
+    "2026-10-02-08:00"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/09/23/amd-is-up-187-this-year-and-nvidia-is-up-22-prediction-nvidia-wins-the-next-12-months/?.tsrc=rss",
-    "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-15-5-231619206.html?.tsrc=rss",
-    "https://www.fool.com/coverage/stock-market-today/2026/09/23/stock-market-today-sept-23-ionq-surges-on-quantum-breakthrough-and-nvidia-partnership/?.tsrc=rss",
-    "https://finance.yahoo.com/m/cad78429-3538-3029-9d64-374cfc9c9655/ionq-wants-to-be-the-nvidia.html?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTRPa1V0LURqU2U2Q3BEUnV5WVJrQmswNm5KaXdOdXBSSmZDdHZXLVh0VHRja2UzRkRJWU5oYmlFNDZMMmc2cUlpSlIteC1aeXBTMGpVOG83c2FNenZGVVI2WUgxZ2Z1cFIxWHdKY0dxeDJyOHNiRDhKQ0JEU3pDcFVGV3Z0eUVWUnFtV2dmdi1vRGJnejN4YVZ4ekJJZmdqcnY5NXlkdkZ0VjJLVkFZUVJJamN0YTF0Ym5LLWxidmFzRXN5M0lpbjR2YkRfTDdRdk5SSEtSY3FkVlFCeGfSAewBQVVfeXFMTUxBdE1NeXN5MHBGQzlvX3JDZTZUZmpxMFdOeFl5SDNZUW9zMWxqaHRYYmFjeEpYQVFiVTJGbFI1T1haOWxrYUhSV2xvZmhBR1JVbFNDUmoxdDNsM0RRakNkYXd3aGRyay1DbjktWUpueUhFQ1N4UFg5SFlTUXdWQ0NrcW9HWEJTV3A1V1czLTFBVHZNbzJyTTc2VWthejlUbGFLZC1hQ3BMTU5jM2RfMVBsWHBKbFRZT1hvZmdoWlJNYW03OHBYeC0wMzBFWG4yRkM1c08yLUpkczY0a3JBX0ljamo5OWJxYVY5THk?oc=5",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNXh6M1FVZzBpOVFpcDNWVnh6VjZFVUQ4ZjlSdURGQWxsendUUlYyT0tWSldTWlJUYUpWZkZUaXFRRnAteG1uMTJZSVRLNzFIbW1kS3c1clozVGxwRElzdmFKc1Fub3RKZ3c2ZjNpaXFueklLTXV4QWhwN0MwT2pVN21USGlkWTBUa09INjVsYnRnYU82QTQ5VWhfbXRDMFAxdWZsZUV2M2t2MlptUVFHb3kzUDJVSG1hZkdtalBIRHVtNUFnN09NQlBXVkFpSXB6cDhfOTFaTVNVRkVub1RUMmZ6dkg0TUIyWnZIc3l4ZkdtN3pjdlp3NEtB?oc=5",
@@ -867,7 +870,12 @@
     "https://www.fool.com/investing/2026/10/02/10-year-treasury-notes-yield-52-right-now-heres-wh/?.tsrc=rss",
     "https://www.trefis.com/articles/617300/how-much-upside-is-left-in-apple-stock/2026-10-02?.tsrc=rss",
     "https://www.cryptoprowl.com/releases/robinhoods-tokenized-stocks-are-becoming-a-new-memecoin-trade-report-7210?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/nvidia-well-positioned-ai-bottleneck-151204721.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-well-positioned-ai-bottleneck-151204721.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnVyRE1SVEdlZENaa2pNeDdueG1OTW4wTDVVWlhEbkJtSE5kRTFaOE15TmJ3LW1taGVSd1h2QnNaakV1MzM3QnIzak5BeDBwVTJYQUJPay1tSVZINGdESmdEWGk1RVJKU2QyeHFGT3RSR2VlQWYxR2hFRlZFemhBTW1wdjc5ZFpJQlJhdzFNQk12N3dZN3hfb1djbVBsMVBaYTNSWU1XTUFnRFdBd2JQb1NxLURrSk9HNi03RGRDdXRQWDluU0JfMk5aVGdZUXNrM1VNQ1AyZ3fSAecBQVVfeXFMUHJBenJkaWl1VjR6bFJLaFVsSS1SaU5PSHBmdU9vdFRGTkhOQ0xtS0J4NzVzV0piWXJNRlhqOUVhVTV0RGpoVXlJN2YtNzRNMFo5XzlrSEo4QTMteE1FckVNWGxhV0Jwbmg3VENrUXBmNHlsNGxNRUZfM3VfdW5yV0FpRzRDS3l0SlJfaHAySWVSWnd5c280bzBxSU1MSG1pZk1nSjlXUnlPbDJCRGRDajFxTkxpenJnSzZINk9pTXljMVIxWkx0bE5EZ2ZEWS1vbVY5dUd2RU1sVU5aVjlKVjZsNlFmaktr?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOd0FEdDBrMmEyeVN5OF9tTzhmRXVtMXBnSmVoRUI1RFpqeGtuUkFydUZyeWhtemsxTUx1UnRkZ18tLXAtSHZJdnBfMTVzM01IR1VJMDZKajBiLWExR3d6cWxVMld1M3B6bmFScXZsbkhXdjA5azlFQWN3MU9mS0p5djN4RVhPVU9XZjlKeGxfREpxRTk5NUlmMmowMTVSNVM2MFpRMVpobnd6QXo2WlF4dVVLV0luOXAwUU9HTDBPQlVsTzNtb1ZQRWpLcFNQU2JzUXhQb21GNU1SSURiNFI2YzFuRC1JVzRaQjdNeUxaMDFjbER5?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmh6SG5NMnQ5Qmd4ME1naDA5bm1oQV9tbHNDa05mcVE2cG85eXV6Yi1LSzhBWXNUUGFsMTJjYnN5U3hIQWZiQmJtb3VPS2F3OFY2RkVoMS1GbjR6WGJXV3A2ZTRsMUduN0I1QTVvalROTUhnNXVpOEotVDRRTVo5aDJfX19SWFZfVEhfUF9IRWluVHJhR0FJcFhZQnlkNVZhd2pqVUlKODFSYVZMOWZKQXRSNzNUY1RyTnBqa01kZ0NRYVphT2RfR0xnOA?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxObllqdFpocVZVTmVrVVBlU2NwX1hyVVFCZ2o5aDVIdUh2SHBVSHNVZWZIbFFmSG0xbEJ6dzBwdERJcmk1NGs3bEpOdmxidDJtUWRMckdLNl9jVzYyY1lzVGNNS0kza3lNTkFNSEFXX3lmX2FJTjZwQW1xUFRfamFhaTI4RGZuUkNuYmdObjVCSUtySzhXZzZwTktaQWIzWjdFbTljd3lIcVQyZG80ZjNKemxLMFVUVTlURUhLekpxOUF3bUVkY29uYjFsd0lEdW_SAd4BQVVfeXFMTkxtTm9qRU1XMExOaWllZmVHZXo1d3BlZldpWDJyWnZpT2lNbEkyTVU2aVdneUR4U1JhRGVVLW1wWjc5eVBmVlB2YVR2dkdxbjIwbGFnd0RmU2VkeHpyRXlkV2dCLXIyTV9sZDVCaWI2SU1RaVpiNTBYZjkyWjN3RkEycndMY2tzbGhkZklmdFlUMlROZWd4dlM2RjMwVzBuMmhhbnRpLWYtalU0WHVOQU1tU04tZTZPZDVoQlYtZS01Z1ZkLXZuNHE5d2lzVlktNjNrcTdOS2EzclQwbmdB?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDlHVEM5TEswRy1wYmp3WVMtUGZZWk13alJDSzhHdmZvdWJheHZCOGFjTDFYYnBLdEZGWlp2NzJiQXhBSi1JOGZ4SldJQlJVdk5VQTlwUnRJYVFIOTlVWmZIbmhkdmFCRVlpa2hiaFNsRGdlQ0xja0ZTZlp5LVl0WW9CVzRUOHNodnF3UUZNSGxRZlBGSzcwYzBFc1lmT2R3VV9XSU9oeFFVSlZrVEVzTDFuX3FtQjAzZHN1eU5PcHFWZG8wZXNsbHZULWRBeXA0RzFoN2E1Wi1GcWl5T0ZiSTRsYkIwWWZQa1EyOVZR?oc=5"
   ],
   "palavras": [
     {
@@ -1526,6 +1534,18 @@
       "exemplo": "彼は今期の素晴らしい成績で賞を受賞した。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-02",
+      "proxima": "2026-10-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-02-08:00-de",
+      "palavra": "das Ticket",
+      "leitura": "",
+      "sentido_pt": "o ingresso",
+      "exemplo": "Ich habe ein Ticket für das Spiel gekauft.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-02",
       "proxima": "2026-10-03",
       "acertos": 0
