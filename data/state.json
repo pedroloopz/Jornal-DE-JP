@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Wetter",
-    "jp": "憤り"
+    "jp": "成績"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "メディア団体は司法介入に対して深い憤りを表明した。",
+      "frase": "彼は今期の素晴らしい成績で賞を受賞した。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5028477607700595007": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-26"
-    },
     "5030729407514280272": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-01"
+    },
+    "5044406971386561719": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-10-02"
     }
   },
   "pendentes": [],
@@ -601,6 +601,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -657,14 +664,10 @@
     "2026-10-01-12:30",
     "2026-10-01-17:30",
     "2026-10-01-19:30",
-    "2026-10-01-21:00"
+    "2026-10-01-21:00",
+    "2026-10-02-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-governador-2-turno-23-setembro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/23/tcdf-determina-bloqueio-de-ate-r-27-bilhoes-em-bens-de-ex-dirigentes-do-brb-no-caso-master.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/23/pgr-defende-regime-semiaberto-para-debora-do-batom.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-presidente-23-setembro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/23/quaest-df-avaliacao-governo-23-setembro.ghtml",
     "https://www.fool.com/investing/2026/09/23/amd-is-up-187-this-year-and-nvidia-is-up-22-prediction-nvidia-wins-the-next-12-months/?.tsrc=rss",
     "https://www.thestreet.com/crypto/markets/billionaire-tim-draper-takes-aim-at-apple-metas-bitcoin-free-balance-sheets?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-15-5-231619206.html?.tsrc=rss",
@@ -859,7 +862,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/02/datafolha-no-df-30percent-ainda-estao-indecisos-29percent-podem-mudar-voto-e-51percent-nao-sabem-numero-do-candidato-ao-governo.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/candidatos-do-df-falam-em-fortalecer-a-saude-publica-e-novos-concursos.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/homem-e-detido-apos-abandonar-mochila-proximo-ao-stf-operacao-com-esquadrao-antibomba-mobiliza-area.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/df-volta-a-registrar-dia-mais-quente-do-ano-nesta-quinta-termometro-chegou-a-364-oc.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/df-volta-a-registrar-dia-mais-quente-do-ano-nesta-quinta-termometro-chegou-a-364-oc.ghtml",
+    "https://www.fool.com/investing/2026/10/02/cybersecurity-stocks-are-soaring-this-one-bargain/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/02/10-year-treasury-notes-yield-52-right-now-heres-wh/?.tsrc=rss",
+    "https://www.trefis.com/articles/617300/how-much-upside-is-left-in-apple-stock/2026-10-02?.tsrc=rss",
+    "https://www.cryptoprowl.com/releases/robinhoods-tokenized-stocks-are-becoming-a-new-memecoin-trade-report-7210?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-well-positioned-ai-bottleneck-151204721.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -1508,6 +1516,18 @@
       "tema": "brasilia",
       "data": "2026-10-01",
       "proxima": "2026-10-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-02-06:30-jp",
+      "palavra": "成績",
+      "leitura": "せいせき",
+      "sentido_pt": "desempenho / resultado",
+      "exemplo": "彼は今期の素晴らしい成績で賞を受賞した。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-10-02",
+      "proxima": "2026-10-03",
       "acertos": 0
     }
   ]
