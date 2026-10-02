@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Investor",
-    "jp": "執着"
+    "jp": "憤り"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は名誉への執着を捨てきれなかった。",
+      "frase": "メディア団体は司法介入に対して深い憤りを表明した。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5026225807886909772": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-09-26"
-    },
     "5028477607700594996": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5041792891081458090": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-01"
+    },
+    "5041792891081458093": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-01"
     }
   },
@@ -587,6 +587,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-01",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -641,14 +648,10 @@
     "2026-09-30-21:00",
     "2026-10-01-08:00",
     "2026-10-01-12:30",
-    "2026-10-01-17:30"
+    "2026-10-01-17:30",
+    "2026-10-01-19:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/video/ai-magic-sends-markets-higher-143210140.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/crusoe-thinking-machines-lab-partner-150700602.html?.tsrc=rss",
-    "https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/jamf-takes-apple-management-ai-150000490.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/apple-takes-ai-fight-straight-144625209.html?.tsrc=rss",
     "https://g1.globo.com/politica/noticia/2026/09/23/fux-da-10-dias-para-senado-se-manifestar-em-acao-que-pede-informacoes-sobre-visitas-de-esposa-de-moraes-e-vorcaro.ghtml",
     "https://g1.globo.com/mundo/ao-vivo/assembleia-geral-da-onu-2026.ghtml",
     "https://g1.globo.com/politica/noticia/2026/09/23/stf-conclui-julgamento-e-decide-igualar-licenca-maternidade-de-maes-biologica-e-adotivas.ghtml",
@@ -843,7 +846,12 @@
     "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/01/worst-performing-magnificent-seven-stock-2026/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-gets-fair-220550617.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/chinese-state-funds-backed-purchases-215942410.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/chinese-state-funds-backed-purchases-215942410.html?.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/10/01/associacoes-de-imprensa-manifestam-profunda-indignacao-com-intervencao-judicial-em-regras-do-debate-da-globo.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/lula-diz-que-flavio-bolsonaro-e-vira-lata-e-mandou-irmao-aos-eua-para-falar-mal-do-brasil.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/01/lula-lamenta-morte-de-lito-sousa-uma-das-grandes-referencias-da-internet-brasileira.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/globo-cancela-debate-com-candidatos-a-presidencia-da-republica.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/datafolha-a-tres-dias-do-1o-turno-82percent-estao-totalmente-decididos-sobre-voto-para-presidente.ghtml"
   ],
   "palavras": [
     {
@@ -1466,6 +1474,18 @@
       "exemplo": "Jeder Investor sucht nach guten Aktien.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-01",
+      "proxima": "2026-10-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-01-19:30-jp",
+      "palavra": "憤り",
+      "leitura": "いきどおり",
+      "sentido_pt": "indignação",
+      "exemplo": "メディア団体は司法介入に対して深い憤りを表明した。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-01",
       "proxima": "2026-10-02",
       "acertos": 0
