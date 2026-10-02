@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Ticket",
-    "jp": "成績"
+    "jp": "脅威"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は今期の素晴らしい成績で賞を受賞した。",
-      "leitura": ""
+      "frase": "政府はその脅威について調査を進めています。",
+      "leitura": "せいふはそのきょういについてちょうーさをすすめています。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5030729407514280275": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-27"
-    },
     "5030729407514280279": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5044406971386561721": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-02"
+    },
+    "5044406971386561725": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-02"
     }
   },
@@ -615,6 +615,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -673,14 +680,10 @@
     "2026-10-01-19:30",
     "2026-10-01-21:00",
     "2026-10-02-06:30",
-    "2026-10-02-08:00"
+    "2026-10-02-08:00",
+    "2026-10-02-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn?oc=5",
-    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTTRPa1V0LURqU2U2Q3BEUnV5WVJrQmswNm5KaXdOdXBSSmZDdHZXLVh0VHRja2UzRkRJWU5oYmlFNDZMMmc2cUlpSlIteC1aeXBTMGpVOG83c2FNenZGVVI2WUgxZ2Z1cFIxWHdKY0dxeDJyOHNiRDhKQ0JEU3pDcFVGV3Z0eUVWUnFtV2dmdi1vRGJnejN4YVZ4ekJJZmdqcnY5NXlkdkZ0VjJLVkFZUVJJamN0YTF0Ym5LLWxidmFzRXN5M0lpbjR2YkRfTDdRdk5SSEtSY3FkVlFCeGfSAewBQVVfeXFMTUxBdE1NeXN5MHBGQzlvX3JDZTZUZmpxMFdOeFl5SDNZUW9zMWxqaHRYYmFjeEpYQVFiVTJGbFI1T1haOWxrYUhSV2xvZmhBR1JVbFNDUmoxdDNsM0RRakNkYXd3aGRyay1DbjktWUpueUhFQ1N4UFg5SFlTUXdWQ0NrcW9HWEJTV3A1V1czLTFBVHZNbzJyTTc2VWthejlUbGFLZC1hQ3BMTU5jM2RfMVBsWHBKbFRZT1hvZmdoWlJNYW03OHBYeC0wMzBFWG4yRkM1c08yLUpkczY0a3JBX0ljamo5OWJxYVY5THk?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNXh6M1FVZzBpOVFpcDNWVnh6VjZFVUQ4ZjlSdURGQWxsendUUlYyT0tWSldTWlJUYUpWZkZUaXFRRnAteG1uMTJZSVRLNzFIbW1kS3c1clozVGxwRElzdmFKc1Fub3RKZ3c2ZjNpaXFueklLTXV4QWhwN0MwT2pVN21USGlkWTBUa09INjVsYnRnYU82QTQ5VWhfbXRDMFAxdWZsZUV2M2t2MlptUVFHb3kzUDJVSG1hZkdtalBIRHVtNUFnN09NQlBXVkFpSXB6cDhfOTFaTVNVRkVub1RUMmZ6dkg0TUIyWnZIc3l4ZkdtN3pjdlp3NEtB?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSXM2UzhWdDEzSHlEOEtpTjJDSk9vRWtWVVl2V3N4aklLWjN4WW5acjBpQjZORVA2SS1FM1BoOFpoaXBfSVBCLVk3eXN5NGJQWUstcFJxekNEYXE5a3N1TzRXWkpCaVlVMXIwNHJHNlcxN0xuaDZVR2RURXN6Y1FWcXRLNVdPaFBiM1NOZE84SzFxOVhka1VrUFJTQTF0ODNiSlIyOXNnMy1DaXUyVFlBNE1TZ2dWVzM4R3dWR3NlN2RBRzYtSUdUUW41b3NSMGF2Tl8yNw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzBYVjltYmRQRWVuckttT3duTGdYT2J0ajF2bXd0N0QwQVd3X0FrM1QyZGg2dElINE92d1RVUlBHQ1dYb25ZLWpneThQdWRacjBET2hIYUdfeXN2QUNsZ0FDRVRmb2d2VmU2ODhEY01zODlsOFNrZkhkbDMybTNaLXVvZVNfNm5waGxhODFxcnl2cnA1bmp5SHJXOVV6bUw0M1FpT3NNT1hYVElINVdwd2ZYd3hleGlublBPWEJsOGtwRjFRb1dFSldZVEFDSkdP?oc=5",
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/24/musical-que-homenageia-trajetoria-de-moraes-moreira-em-forma-de-cordel-chega-a-brasilia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/tartarugas-do-itamaraty-devem-ser-retiradas-de-espelho-dagua-do-palacio-apos-36-anos.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quinta-feira-24-de-setembro-de-2026.ghtml",
@@ -875,7 +878,12 @@
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOd0FEdDBrMmEyeVN5OF9tTzhmRXVtMXBnSmVoRUI1RFpqeGtuUkFydUZyeWhtemsxTUx1UnRkZ18tLXAtSHZJdnBfMTVzM01IR1VJMDZKajBiLWExR3d6cWxVMld1M3B6bmFScXZsbkhXdjA5azlFQWN3MU9mS0p5djN4RVhPVU9XZjlKeGxfREpxRTk5NUlmMmowMTVSNVM2MFpRMVpobnd6QXo2WlF4dVVLV0luOXAwUU9HTDBPQlVsTzNtb1ZQRWpLcFNQU2JzUXhQb21GNU1SSURiNFI2YzFuRC1JVzRaQjdNeUxaMDFjbER5?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmh6SG5NMnQ5Qmd4ME1naDA5bm1oQV9tbHNDa05mcVE2cG85eXV6Yi1LSzhBWXNUUGFsMTJjYnN5U3hIQWZiQmJtb3VPS2F3OFY2RkVoMS1GbjR6WGJXV3A2ZTRsMUduN0I1QTVvalROTUhnNXVpOEotVDRRTVo5aDJfX19SWFZfVEhfUF9IRWluVHJhR0FJcFhZQnlkNVZhd2pqVUlKODFSYVZMOWZKQXRSNzNUY1RyTnBqa01kZ0NRYVphT2RfR0xnOA?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxObllqdFpocVZVTmVrVVBlU2NwX1hyVVFCZ2o5aDVIdUh2SHBVSHNVZWZIbFFmSG0xbEJ6dzBwdERJcmk1NGs3bEpOdmxidDJtUWRMckdLNl9jVzYyY1lzVGNNS0kza3lNTkFNSEFXX3lmX2FJTjZwQW1xUFRfamFhaTI4RGZuUkNuYmdObjVCSUtySzhXZzZwTktaQWIzWjdFbTljd3lIcVQyZG80ZjNKemxLMFVUVTlURUhLekpxOUF3bUVkY29uYjFsd0lEdW_SAd4BQVVfeXFMTkxtTm9qRU1XMExOaWllZmVHZXo1d3BlZldpWDJyWnZpT2lNbEkyTVU2aVdneUR4U1JhRGVVLW1wWjc5eVBmVlB2YVR2dkdxbjIwbGFnd0RmU2VkeHpyRXlkV2dCLXIyTV9sZDVCaWI2SU1RaVpiNTBYZjkyWjN3RkEycndMY2tzbGhkZklmdFlUMlROZWd4dlM2RjMwVzBuMmhhbnRpLWYtalU0WHVOQU1tU04tZTZPZDVoQlYtZS01Z1ZkLXZuNHE5d2lzVlktNjNrcTdOS2EzclQwbmdB?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDlHVEM5TEswRy1wYmp3WVMtUGZZWk13alJDSzhHdmZvdWJheHZCOGFjTDFYYnBLdEZGWlp2NzJiQXhBSi1JOGZ4SldJQlJVdk5VQTlwUnRJYVFIOTlVWmZIbmhkdmFCRVlpa2hiaFNsRGdlQ0xja0ZTZlp5LVl0WW9CVzRUOHNodnF3UUZNSGxRZlBGSzcwYzBFc1lmT2R3VV9XSU9oeFFVSlZrVEVzTDFuX3FtQjAzZHN1eU5PcHFWZG8wZXNsbHZULWRBeXA0RzFoN2E1Wi1GcWl5T0ZiSTRsYkIwWWZQa1EyOVZR?oc=5"
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRDlHVEM5TEswRy1wYmp3WVMtUGZZWk13alJDSzhHdmZvdWJheHZCOGFjTDFYYnBLdEZGWlp2NzJiQXhBSi1JOGZ4SldJQlJVdk5VQTlwUnRJYVFIOTlVWmZIbmhkdmFCRVlpa2hiaFNsRGdlQ0xja0ZTZlp5LVl0WW9CVzRUOHNodnF3UUZNSGxRZlBGSzcwYzBFc1lmT2R3VV9XSU9oeFFVSlZrVEVzTDFuX3FtQjAzZHN1eU5PcHFWZG8wZXNsbHZULWRBeXA0RzFoN2E1Wi1GcWl5T0ZiSTRsYkIwWWZQa1EyOVZR?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/10/02/governo-eua-embaixada-brasilia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/justica-mantem-prisao-preventiva-de-pedro-turra-reu-por-briga-que-matou-jovem-de-16-anos-no-df.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-2-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/policiamento-embaixada-eua-brasilia.ghtml"
   ],
   "palavras": [
     {
@@ -1546,6 +1554,18 @@
       "exemplo": "Ich habe ein Ticket für das Spiel gekauft.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-02",
+      "proxima": "2026-10-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-02-12:30-jp",
+      "palavra": "脅威",
+      "leitura": "きょうい",
+      "sentido_pt": "ameaça",
+      "exemplo": "政府はその脅威について調査を進めています。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-02",
       "proxima": "2026-10-03",
       "acertos": 0
