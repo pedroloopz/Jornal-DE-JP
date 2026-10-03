@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Werk",
-    "jp": "脅威"
+    "jp": "頑固"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "政府はその脅威について調査を進めています。",
-      "leitura": "せいふはそのきょういについてちょうーさをすすめています。"
+      "frase": "彼は自分の意見を曲げない頑固な人です。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5030692625414357233": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-27"
-    },
     "5030692625414357240": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5046658771200246691": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-02"
+    },
+    "5046658771200246692": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-02"
     }
   },
@@ -629,6 +629,13 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
@@ -689,14 +696,10 @@
     "2026-10-02-06:30",
     "2026-10-02-08:00",
     "2026-10-02-12:30",
-    "2026-10-02-17:30"
+    "2026-10-02-17:30",
+    "2026-10-02-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/24/musical-que-homenageia-trajetoria-de-moraes-moreira-em-forma-de-cordel-chega-a-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/tartarugas-do-itamaraty-devem-ser-retiradas-de-espelho-dagua-do-palacio-apos-36-anos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quinta-feira-24-de-setembro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/ex-deputado-distrital-e-atual-candidato-a-cldf-e-condenado-por-matar-um-adolescente-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/24/receita-do-df-investiga-esquema-de-fraude-fiscal-suspeito-de-movimentar-cerca-de-r-500-milhoes.ghtml",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaHdkelk3ZjZZd3FSRkZKNDRhNzdvX0NFSEZ3QnN1Nkt1Z0ppRlY1YVJMLVV0cWxveG0wWkllcnR2VGp6Sk53Uzd0cXBIdUNaVC1qSm1IQ05yWEZ4dldzLXA1RXVlS2NvWkJOWlhjbzl1MzhtblR2aG5hcDBIWDF3VlRKN2I0eWVmTkNXa0JOZVB0ZG1uQ1NhQTB5UDhfQ1haZzBBalVnXzUtUnQ2RlMtMEZMSFJxQWl5VnJ6WWNJVXpIY09mbFE?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU1fNzhZRFRPYVJ2MHpTajcxdVB1Qnd6VWlOQ2VhdWpIMnBiVzFVZzJUbkVpVjludUFkTTcwdi1qa0ZzSXFuU0VtNG5kU094YXJMcnRNaDZQOFdCUHhjS2JmQTFVcmVVSXNMVG83ODFFd2NtVmVhMERiOU9JYUs0MURKSV9CVUFta0xFRWxzVEZ4U0dsa2JCbloyNV9DZXdTeHc5dXZyTm5qaGR3eWwyVWJycTdCcVNseXBJTG9taXBUbkdZSGU2VThYSjdGcFhmYVJJR2tYVkVaQmNaWnp2S2xUNFpYMUhDSjQyOHBn0gH8AUFVX3lxTE45T2RpWFdZMHZDRGgxTmJNSmprRTNyQXhIb2JUV203N2hvQTRRTlQ4cHY1ZVRNclZ5NkQwdlhFS0I1V2MzQm40c0VySEdRamxrNzR3d0NJaFBzVWVZZEJGNkhkVUF0TEo2Y2JTcXdpTWUyZmRVeXZQdVBoeUtiUGxVNlJXUWR1NXMxRUNkcko1QUllMFZ5R1pGNExmYmNjRTlPX3VSN2cwN2FweTlna0lOQkpFYnBLbG1qaTZ2bFgybzlSaThhaWN4WkNJTVktNDRQTzU1UUpBLUxDbEo3dkVVc2xfRHdZYXRLYzNWZ1RQX21kdE5LWHpnc2h0Ng?oc=5",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbHdoZDhWZEU0N290WWs5a2drWU9oWVRkWnB4MGhteUdSNlB5RXVWTXFBMGlXaktKYXZOQVVMeHJpNWdCVEpFYjd6UmxhMEZHRklQNDQzSWJoMWlTOXQ1TnJ6WjlpM1B2ck92TWZ1NnJuMzJZVGM4dlB1a1pidVpCM05hMXpOU0x3WEFLZzdrUkU1TmFKSGNwRjlBUGMxVE1BdkpQa0NjYWZQaGMxVTlZVlJHZGZ6MDFhTnVUcDRpSDZKclVOcFFlZVZaNm9fSTNLVFBqTGZMS1hhWHR3SXFrS2ZRbk5CbVk?oc=5",
@@ -891,7 +894,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/justica-mantem-prisao-preventiva-de-pedro-turra-reu-por-briga-que-matou-jovem-de-16-anos-no-df.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-2-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/policiamento-embaixada-eua-brasilia.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/policiamento-embaixada-eua-brasilia.ghtml",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnpFM2p6ek5KQXRPOEZGNjlsSnRSQmhkbzVrcFdTanJhaElha0RNc0hOelZkOXl4bWljOTBPZzNvdG9HSWpocVZZRTFBbGJ6WE9aYXNkLTlLZXhHYy1tOHlyQjJYRWNaamRWY3dBa1VYcFByZm1oT0p4R0RzMWhYWVo5Zk41Ui1aNEluZ1Y1LVdZN1RPVW5iLVdZbjNPTU13b1Z4Q1JSZHVtYklQN0dQV1pEOER4OHppZi0wYU5ScWYtX1NVSkHSAcsBQVVfeXFMUDhQNk9DMU1KZWlYVTlGZU1HNlY5eDJJRVllMlpRVlJfeTVtbXhIbnB5aGEtYUtyLTlGeHlONEVjbmNpMUlhT0J6MkxHWjNWcDcxT0JsdmNXWjM3Z01wR29TZnZQak9YNUF3YzFmYWlRdlRYX3ZCaEVCbUhTajM5MGZINFpubnhLX2NXckZIUzFyeDJCUTh3QjExMHYwRDZPX2U1aURWaUd2S2VQSWdmTWwxSGIyaEVnQWQxVFVnY3pPTHduVXRhY3Z0QlE?oc=5",
+    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdERVU3JQemI3VFV1R3hGV01NekljUloyaXR2SVBNYmRINDlWMjJ3Z3VEcHZXNjBKUVlncHcxaVJmS3hhMEFEdTdTUEc1clpXY19GaHJNZlZncVA0NkhsS05tVXFJWk9wNzVTSzNoUW15XzFtTzZNRk9qRDR1bWx4UE45MGVPUzkwOWU4LUtsaHJQdXRCTDlaWkZMWnVtbzUxeVd4eHpqbG55VmVhN1dvaG8xRFVyM2JHS2tZMDBXOEdXMUdaUm96cUpwZlAxTUpWV2ZDY3JIbVY1dU1MMmJMUWtUMG1yOTU5b3hfV2l1anNMVGs5M0x2Yi15UmJZNk1Rdmx3?oc=5",
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxObTlsaG9SZGlpbEZuakZHMFdRSnY2UVRjdzdyT2ExMGdjMUI1SVRyVGg5MWpBclpCWS1Rd2lpbW9VMzFqdkF6RGNtbUR2b2Jkd2RackE0Yk1OU015MGpSWVVYd0R4UjM4bVJGNmlQSlJhemtkNkY5QkJ6aWVTWmdiX2lxdDZoNFFYZHRXUUxiRkRGdFA5YUwtWVZoT3d4WDdHeHRtWmFzOWhOREkzcVQ2VjhxT2ktbEVtYXpVQndTNmtvQ1hNWmJ4SmJ2RlpHRUxranRwSWF3V1NXZFo1a21kR3dxcnB0a2xoSkJJRlFVSVpkYTZ2SFpZazRoajhWbEYxMEUyZmtDVmVQaUct?oc=5",
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeEM4N2taQkhzQUdQSmdVZTJhNW55RVkyN3ZMN2E5NGJkSi1QdWpJYkpWWXFkNDJXZ01RVTctdWhtS3VwZThuUlpZZTk2M1psSmJUQ21tRnZ3Ni14MjI5TXdJSlh1V21RSEo3cVRVTS1RXzd2WEZMSGdTQndTOGtWdFliUzFTbWtwMEd5a21pMzNZY2tUc09mUHFNeTBWd3VMbVltWER1Sk1tc2dHRW1PNVlyaDRPb3FEN0dGNFZXR2Q2ano2XzZHVExGQUNfNmdV0gHfAUFVX3lxTE1OUExDcDE2SlROZXdiYnFLZlIyRmpRLVhuWVliQ1htam5vX0hpRFR2WmlYSW9wUUgzckRadm9RQ1ZVZlV4OEhMLTBNTmllQ2JqZFd6aGgyak5BbXdjMEJ5OUtUMmJyQmcxTzdZNEo4NlFOMmw4b0FOZGFyQUJ6c1NBWHBXenNSY0ZubUQxaExlUzl3cm84ZS1XLUI5T1RCMXIyQ3pYdnFRZzBmVlU0Vzl1TDZqek5FcWdvRDZLUXA3MnctM0tfNWdzTXBuQTB4MFpUdlV6RExsUFhmYmhoZmc?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhLWklUbmxyeVlRY252SUk4SHNkVXVhSWoyOVRPSllxSVhiTjcyZWk1OXVsNWstTWNtNmdJT09DUEppdE9nX1daLXN6ZlJVaWluRGViYmhIQWRIOFUyT1FoU19OU3RlMm5URGdZVU9zV0N0c1hLOHZfdUdha0xLOEk2bFdjRndBbFFYc01yZ3ExYTM4dnN1Q3dTLUdQOWxiZ1F4QzNsSU4waVhiY3NrY0pGZW1YSDVsV3ZYdVZLVQ?oc=5"
   ],
   "palavras": [
     {
@@ -1586,6 +1594,18 @@
       "exemplo": "Das Werk von Hoffmann ist weltberühmt.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-02",
+      "proxima": "2026-10-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-02-19:30-jp",
+      "palavra": "頑固",
+      "leitura": "がんこ",
+      "sentido_pt": "teimosia",
+      "exemplo": "彼は自分の意見を曲げない頑固な人です。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-02",
       "proxima": "2026-10-03",
       "acertos": 0
