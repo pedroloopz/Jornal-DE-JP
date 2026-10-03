@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Partei",
-    "jp": "頑固"
+    "jp": "償い"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は自分の意見を曲げない頑固な人です。",
-      "leitura": ""
+      "frase": "彼は自分の過ちの償いとして、ボランティア活動を始めた。",
+      "leitura": "かれはじぶんのあやまりのつぐないとして、ボランティアかつどうをはじめた。"
     }
   },
   "obra_idx": {
-    "jp": 6,
+    "jp": 7,
     "de": 5
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5030692625414357241": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-27"
-    },
     "5032944425228042669": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-02"
+    },
+    "5048910571013931385": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-03"
     }
   },
   "pendentes": [],
@@ -643,10 +643,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-22-21:00",
     "2026-09-22-06:30",
     "2026-09-23-06:30",
     "2026-09-23-08:00",
@@ -705,7 +711,8 @@
     "2026-10-02-12:30",
     "2026-10-02-17:30",
     "2026-10-02-19:30",
-    "2026-10-02-21:00"
+    "2026-10-02-21:00",
+    "2026-10-03-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/ro/rondonia/eleicoes/2026/noticia/2026/09/24/quaest-rondonia-senado-24-de-setembro.ghtml",
@@ -1628,6 +1635,18 @@
       "tema": "politica",
       "data": "2026-10-02",
       "proxima": "2026-10-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-03-06:30-jp",
+      "palavra": "償い",
+      "leitura": "つぐない",
+      "sentido_pt": "compensação",
+      "exemplo": "彼は自分の過ちの償いとして、ボランティア活動を始めた。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-10-03",
+      "proxima": "2026-10-04",
       "acertos": 0
     }
   ]
