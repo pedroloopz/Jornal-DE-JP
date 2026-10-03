@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Risiko",
-    "jp": "償い"
+    "jp": "確認"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は自分の過ちの償いとして、ボランティア活動を始めた。",
-      "leitura": "かれはじぶんのあやまりのつぐないとして、ボランティアかつどうをはじめた。"
+      "frase": "安全を確認してから、投票所に入ってください。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5032944425228042670": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-28"
-    },
     "5032944425228042674": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5048910571013931386": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-03"
+    },
+    "5048910571013931391": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-03"
     }
   },
@@ -657,10 +657,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-23-06:30",
     "2026-09-23-08:00",
     "2026-09-23-12:30",
     "2026-09-23-17:30",
@@ -719,14 +725,10 @@
     "2026-10-02-19:30",
     "2026-10-02-21:00",
     "2026-10-03-06:30",
-    "2026-10-03-08:00"
+    "2026-10-03-08:00",
+    "2026-10-03-12:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/articles/ionq-prem-quantum-system-nvidia-002115947.html?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/why-garmin-grmn-good-investment-232046603.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/articles/could-john-ternus-product-strategy-230117249.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/24/voo-or-vti-better-long-term-investment-history/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/24/why-fervo-energy-stock-is-up-today/?.tsrc=rss",
     "https://g1.globo.com/politica/ao-vivo/conselho-do-mpf-gonet-caso-master.ghtml",
     "https://g1.globo.com/economia/noticia/2026/09/25/na-mira-de-lula-bets-planejam-ampliar-apostas-para-pontos-fisicos-governo-previa-regulamentacao.ghtml",
     "https://g1.globo.com/politica/noticia/2026/09/25/conselho-do-mpf-julga-atuacao-de-paulo-gonet-no-caso-banco-master.ghtml",
@@ -921,7 +923,12 @@
     "https://247wallst.com/investing/2026/10/03/rise-of-the-machines-ai-agents-now-burn-5x-more-tokens-than-humans-and-the-gap-is-widening-fast/?.tsrc=rss",
     "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/03/heres-who-won-the-drone-dominance-gauntlet-2-conte/?.tsrc=rss",
-    "https://247wallst.com/investing/2026/10/03/is-the-ai-bull-market-about-to-crash-this-risk-indicator-is-saying-yes/?.tsrc=rss"
+    "https://247wallst.com/investing/2026/10/03/is-the-ai-bull-market-about-to-crash-this-risk-indicator-is-saying-yes/?.tsrc=rss",
+    "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-eleitores-com-deficiencia-contam-com-recursos-de-acessibilidade-nas-eleicoes.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/para-quais-cargos-serao-as-eleicoes-de-2026-entenda-o-que-os-eleitores-vao-escolher-nas-urnas.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/sem-citar-flavio-lula-diz-que-enfrenta-chefe-de-quadrilha-e-associa-adversario-ao-crime-organizado.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/03/tse-verifica-sistemas-para-as-eleicoes-e-emite-zeresima-do-sistema-de-totalizacao-de-votos.ghtml"
   ],
   "palavras": [
     {
@@ -1664,6 +1671,18 @@
       "exemplo": "Das Risiko an der Börse ist heute sehr hoch.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-03",
+      "proxima": "2026-10-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-03-12:30-jp",
+      "palavra": "確認",
+      "leitura": "かくにん",
+      "sentido_pt": "confirmação",
+      "exemplo": "安全を確認してから、投票所に入ってください。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-03",
       "proxima": "2026-10-04",
       "acertos": 0
