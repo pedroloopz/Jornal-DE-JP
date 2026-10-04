@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Gerechtigkeit",
+    "de": "Politik",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Michael Kohlhaas kämpft für die Gerechtigkeit.",
-      "leitura": ""
+      "frase": "Die Politik in Brasilien ist sehr dynamisch.",
+      "leitura": "Die Politik ist wichtig."
     },
     "jp": {
       "frase": "多くのサポーターがスタジアムに集まる見込みです。",
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5035266602375840179": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-09-29"
-    },
     "5035266602375840181": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5051047566351794399": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-04"
+    },
+    "5051047566351794402": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-04"
     }
   },
@@ -706,10 +706,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-04",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-24-12:30",
     "2026-09-24-17:30",
     "2026-09-24-19:30",
     "2026-09-24-21:00",
@@ -768,14 +774,10 @@
     "2026-10-03-21:00",
     "2026-10-04-06:30",
     "2026-10-04-08:00",
-    "2026-10-04-12:30"
+    "2026-10-04-12:30",
+    "2026-10-04-17:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlV1NTNpVDUzZUp6ZlRjd0FmMlJmbXVWSHRnR0FwYWI3NzhSN2VnQ1k2SEJESV9LZFJLRkZoM3ZQWTRyS0tUZlc4cGJia1lTS21xbHlxZUhEWEtfbUhGVzhjaDVqQnRiVV8yOXpLbUdaQlZvOXNsbUVnLVBITVB6WjR4LXNaXzBxRUhNMmNCbVVHOXJBUk1QbFhmc3N0UENFSUpLRWZMTWxOaFFFb0VhOFhqV1BrSmtpdnpsNFFDMzRrcXJsODFJcG91R2NGWU0xU3kySW53SWI0X3E5SkhIaUo5OWVlZG55MHc?oc=5",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDdaMnlnWjc0ckV0UHY5UnlKdVhoUVRVUWdaTnQ1TFVfRHQ2ZEVuSm9EUjk3VGhUbUxnQi1sT0l5NUJBWEZvbVMxVl9FMk9nUF9rUVBJdHhYYnNEU2llUzJxMXNGc3hEYjFOVGg0TWxTMGdkX2RZMGUtSm1vWnEzQmg4eFJ1akVTcWk1UzlpeHdSMmJaSUZJMXRacGdTVXRIYm9PODBfU3I0NUxvVlktejdn0gG0AUFVX3lxTE9uR2FROUNIWExzLVZmc3dsWTVkQ0d4UHRZNEk3NTRaWkdzVHZqeFBXMGRxOUw3WEo1U1c3MjJnTGcwQjNRV0pHWW5PRHJha2NnemVpdzFoNkdoY3pOT1d3d29vdUdKNFZGdEJtZTQ3OVU2a0NYbkpMeUpWUWFralNqTjgzeFk2OWZlbGQ3S1JSYVh4OGpfbTJYMWktR1MwNFFhVFBpTGl1MTAtcVE3RjduYmpWMg?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUFpMelpwWDNpdzdqT3BmeTh6RDYtMzlWckJucGd1aFFkcDBfRU9hdGl3c1BUSGc4cXNPNkJZbktzaGIxNkJ6SGF4UEM0YzctU2w2RVRsR3NFR0FnYjdnck5DQ0FRNE9wQVBPZmhsRjVFQlUwMXZQVHJGM1BWNC02SkQzb3lOX0tOMzJ4OWxrSnpXemVHTlBPUUN4V1E4X01XQXdYUnNQTkJ1RUplejMxTkhLOHRiRVBUVTljUTRXTmgwUndTRlRPYlhxbTNTeDNjWGV3cXEyQ292djVlaE5YN3QxbnVwZ0lneDNfajYtYw?oc=5",
-    "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbHdQdnBkV1NraGt2TEJMU2JmaEpqRHA1eXdBdnl4ZWpjeVZFZGdISzFwRDZDTW9sZ2lyUGd4RFVTeXlPVkg0UDRaX2dTS0ZaV19KRW9RdGRxYU1uRDRRS1NWXzdoUVNPbUk1UjJxRXZKcjBpVVVIdWdsSTM3T3Q3N1kwV0owY21ZMVNnRUFzWmw5clpMNUhVNXZPZkxveUVPQlhSUkVCSGN5VXVVMEhGLUpRRlZ4UWhwS2hCMXNaOTdGV1pheDRCcUw0VjhjSi01cnc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQUxjSm5lS0k0Z1l4ZV9HMUllUE9ZWG1Pc0FTRllPLWt4YjAwcklmUjk0N0hrRjBlRnA2NVp1VktDMEVkT1FLLVQ1cTIwUXRSal9DN2JWSlZJalRwTWExZHkxNFhRQlM0VXIySW5HRU5EU3FHbGFFWU4wTWtvbWFTeGtkT2FmbnFtX0c5WGtsM29CS3dzNmRNQkJjdVdva1dsRDBVY21QbUlnS0hoWHBqcFBHdFRER3VQ?oc=5",
     "https://g1.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-governo-prorroga-subvencao-ao-diesel.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/26/propostas-candidatos-presidencia-bets-apostas.ghtml",
     "https://g1.globo.com/rr/roraima/eleicoes/2026/noticia/2026/09/26/candidatura-de-helio-lopes-em-roraima-por-que-partidos-buscam-ampliar-bancadas-no-senado-com-nomes-fora-de-redutos-eleitorais.ghtml",
@@ -970,7 +972,12 @@
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmlTdmRTX2JvbVMzSmotMnVtY2hZSDdlM1dnX21wRTR3SDZiMjhiV1l3ZjJYekNoTXdfbmtuZWNOTWdna1dLdjA2VlEya0dTOXlYRHRBU28wcHJqRW04dE9pSTFkSDRHY3c2Zjh5d0lUSHM2SF8zVG50M01lQXh5U1BTbTVkazB5dlZaWjZucG00c21kV054MXdIdXhvQTRfQS1sS3MyelJmNWptdll4YXVaV1RkeXY3dWR4c0prRDRrNmdWRUJ3RHh2cWFPUDNsM3JLc3dHVWREeldQamc4dzBPM1lGZ041?oc=5",
     "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVGhvam5tY0xSTlpNbkxfZV83Nm0tbVZaR3N6ejFZZ1hEdDdDSFZDT2JMRnpzTkEtUGtfNmpzOXRhQ2J1a21ZNUZiWDg3aUhoRWMySjNlTkF5RDEwT3lxVm9pWTRLUEw0bXY4MG5iZkFiQlRVVnhXakJwdlN0enU1TXlnT212YTdiTU9IT3ZPMXBsSExUd1J4dGNxOC0xV0Z1UndzTGZPSXpBT2VWQlBPT0ZnaFdXOEhtSkhCMnNMbF80MWVwbDloVHdYcGxQN3VBLW81RFZUNlh5aFNqUGRudFhoa0I2RS1sU2hYMVFiM2ZZQS1qVGpTRnhJTdIBigJBVV95cUxQNURZX0RTXzhLQkM5U1VrUlVEcWJWQmpmcTU2Mlozd2t0M09BLWdCWXBZWFNwemhMZTNIVlZveDRuTWJEOHRFMlkyMnp1bjdYaWVzMnpLN3laLWYzRmJxaWNfWkZIRktWbnlzR3lXbnoyVHVNU2NhbHBlMEMzLWpnTXF1bTctcVptV19XTXVvYUN4dUFqTzhvNkJvOG1fdDJVWUJleTY1RWFwV2tibFBjQ3pwd3hmemFKRkw1aFBIaURuNTlLWXI3MlFsdzZiVndVek91YVlYTTItdm5ETEhDTG9vcHE1SG94djFUVm1BV3FpbHNWb3ZmdTJiaWtuTFoyYzAzZjl3a1BHUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YM3Z2bUV0RkMwS09SWE9BUDYwZlZhaXRuUTF0ZS1VZWIwZFBzNTlGZEczZGVOSjF2bEV2QzZlSUZrb0ZpQ0Z4eUUtb3duSy1JVWd0a2F1dVJnVDNFaGc?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTBmSFJHblpnMGhFNWdCZXhOTTBVRkZFSEJUTkVqcXg3Z25IRkdtQVdVWVE1cWZSTFJfRWowVHBONEJFVUZCT014QWlwX21QNFdaWkIteDlMRUxGd1RtTVBGcU9HOTRHcGJiZzFwNVNDdnRlY3R2T1dfZzNNNDl5VGtDMU5NOGpxMmFRRmR0dXZuVGJ6elVUQXM5T1VIcVNKUWRmRVVDN2dDVlZwVnAteGVVNjd6enFMYUN1dUxR?oc=5"
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTBmSFJHblpnMGhFNWdCZXhOTTBVRkZFSEJUTkVqcXg3Z25IRkdtQVdVWVE1cWZSTFJfRWowVHBONEJFVUZCT014QWlwX21QNFdaWkIteDlMRUxGd1RtTVBGcU9HOTRHcGJiZzFwNVNDdnRlY3R2T1dfZzNNNDl5VGtDMU5NOGpxMmFRRmR0dXZuVGJ6elVUQXM5T1VIcVNKUWRmRVVDN2dDVlZwVnAteGVVNjd6enFMYUN1dUxR?oc=5",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/quem-e-eduarda-campopiano-a-deputada-estadual-mais-votada-de-sao-paulo.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/felicio-ramuth-e-o-1o-vice-reeleito-em-sp-em-28-anos-conheca-o-numero-2-do-estado.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml"
   ],
   "palavras": [
     {
@@ -1797,6 +1804,18 @@
       "exemplo": "多くのサポーターがスタジアムに集まる見込みです。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-04",
+      "proxima": "2026-10-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-04-17:30-de",
+      "palavra": "die Politik",
+      "leitura": "",
+      "sentido_pt": "a política",
+      "exemplo": "Die Politik in Brasilien ist sehr dynamisch.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-04",
       "proxima": "2026-10-05",
       "acertos": 0
