@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Stimmabgabe",
+    "de": "Spiel",
     "jp": "転換期"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Stimmabgabe findet am Sonntag statt.",
+      "frase": "Das Spiel beginnt um zwanzig Uhr.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5032944425228042680": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-09-28"
-    },
     "5035196225041728423": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5048795766538109185": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-03"
+    },
+    "5048795766538109186": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-03"
     }
   },
@@ -678,10 +678,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-03",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-23-17:30",
     "2026-09-23-19:30",
     "2026-09-23-21:00",
     "2026-09-24-06:30",
@@ -740,14 +746,10 @@
     "2026-10-03-08:00",
     "2026-10-03-12:30",
     "2026-10-03-17:30",
-    "2026-10-03-19:30"
+    "2026-10-03-19:30",
+    "2026-10-03-21:00"
   ],
   "links_usados": [
-    "https://247wallst.com/investing/2026/09/25/apple-just-gained-10-in-a-month-what-will-it-take-for-aapl-stock-to-finally-hit-350/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/ahead-u-ipo-british-ai-183359808.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/25/costco-beat-on-earnings-about-usd0-15-a-share-of-it-was-a-one-time-tariff-refund/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/25/sundar-pichai-reported-alphabets-cloud-backlog-hit/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/palantirs-latest-250-target-comes-183851496.html?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkRSemM5YlZOSVZrc0VPd3JHUVhYcGNxRTJ1YkFpYzhwR1lYSWg1MHljZExKSmdyb3JHQ0xhRXZkZ3NxUW5XQWpSYm5FcXdZdkNOa1g2VHV4YS1BSGNRcjF1Tkt2VXJQY2c5aF8zd055WHAtZmpBaEo0SzZOR3Z0X2hON0xfTExYcmREeWNaeVBKd1E5YU5zb2hmcnNlYS1iTTdoRi13eldKMy0yWkJvVDlBTWRnT0xjM3kxRzR0a3FqT1c0b0J0cl9PaHVIV0ZMblFaNFVvcUE3aXduQklkT1ln0gHwAUFVX3lxTFBiUE0wSWxMRjJGcW01bWFpNGFBV2F1cktYY2IwdkJSX0pEdUxieUxtTkZrYjE4UmVuRk5HZFRmeld4T2JmMVJCbnZ5R1hRZWVxRUlySWthZEdscVdwNXYyZXVPeU5oR2FRWU1rRnlJUnhBYXJ6VTRnMEM3aGNHUkJmN2ZtRjdTc0JMczFveEYtZ3pGVVAyckl6Q2JHS3p6czktdHZob3B5N2lpVjlyZ21MQ1Rwc3B0Q2JRd2hwYnRvV0JoMFNaZGRxV3dIWnREd2VFYzdUeUk4X1BSNkZMQkdHd1RsamdFZmRQdGY0cnRJdg?oc=5",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QdIBvwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QQ?oc=5",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzhsektvVzZSQ2JQby1GVzA4TDdrdmN4VWN4UGhXS0Rrc0FfVjhLNUNKc1JDVlpub3Q5cjh4Ykl3cjNMS0UzbnRDQmVFYW1XRDd5aUMzRFRFZnk2SmxQQUcyQ1VjbGQ2RWlvYVBxenJUeTVUU2daYkt3S19KNnI2b0dLNHd0RVVSNkZ0ZVpJblJ1YUtBeG15eFJfLVlxRWhvbF9sWmRzMnVaVm0tZVZGb1lYTUZLdWxXZDlsMGRPRFg0WWtZblVmTHpjNTBLdmpXekdCTUp1bVBkdTlKZmJGOEVNcGFyd1ZnZmJhV0NiTmhDZw?oc=5",
@@ -942,7 +944,12 @@
     "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/03/why-im-building-my-entire-retirement-around-divide/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/03/youtube-s-lead-over-netflix-in-tv-viewing-keeps-growing-is-netflix-stock-a-sell/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/03/youtube-s-lead-over-netflix-in-tv-viewing-keeps-growing-is-netflix-stock-a-sell/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaTY3RFJOWjl1YlZXcnZrMG9kQW5NYmVjSTNlaU93OUsyOENIZ3ZjSVpDVG4wWC1SYXJfM3BhdHBvUHNaWGVEck5TVWZkWVd4amlySUY2WU00UExXQXVnZXVfUTZGUUNXV2t6X0Vpby02RURXbFlSdC12QktHcUNZRmRHdFYwUUltbnFmZHl2eWhiZE1EN3pCbmZjd1UyRzNPdWpXNTU1NWpEd2RkdkpnaHp2UUk0dGhWZURSazQ3S0dpc3hOeXdQaWhvTTVVOXB1bHRQVlRWUFJiZjF1ckN0SVBwZFNNT0xjYUN2YmY3OUhhc0JE0gGDAkFVX3lxTE4waGdPNFozd3BDNGRhUGNQLVdKTjBiWjVTQXhSMHVZV1ZKcm1nUlFnc1QtZ1FOc1RJNFBVamFpR2wwc2lBSjdkMTR4S0dLeV9xWlJfQWFCNFA4Z3RmS3pyT1ZMLVl0T1ByQVlxc3NRa3JiaHFaaVBQeG1YbXoxajN1UVViVWNxTkVTTDJxUG5JdXlEbFBYeVZodjRkbVI1OG9JdnBITWN6STF1d19DWWh3Qm1RZmkxWGJMWkp1dFR2QXBSZ3ByNTFiN3lfOEhBNjAwMmtmWXdrZlhJYUZza2dReEpoNEMySzlPRnJ2em02X2p4d2hGSG8yc3ZsWTlNMFVPLTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzEwR1lpZkJFeTd2NjVfeng1S0lJZnl0UG85XzFLQkoxam5qcUV2TDdkUkl3MDVmeGJZSmktcXBPQnUyRmZrN1MzTEZnZmFRemEwbi1uWDBFeDQ2NWxlRER6cnFnV3dudEU2bDZxclZJb1FGWHJsVjNVTW92bjMwNDc4YXZiMmJET1kzM1lkeGktY1BqeV9yQ0lOd2RCUUtN?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3JBLTdkdldSUUVzalhValQ2bjNtdG5lbjJydHJPTU5xOUIzZUFocW5aLXNuRmpUeUZkb3pBNXlDNDkyTy01UjIxa0lLZ3VMLW40c08wUk82dTBaVlhZOUQ3TWhDVDF3b2NSZjRMMjkyWHR3NGVyejhmNnoxZzNBMWtwSGJGbDMtT0lYXzF2U0lTMkEyd3p3OE5leDNPUS16a0JEY2xmb2dCek90bHhJd2ExcG9Ud0ttVmNuMlZuT0VtZmZqaC1nUThtUVF6TlJ0RlZFRQ?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG1maUlzRmhWNERFODZWeVlTa2ZJN0t1cmlXNWVLRl9NcTVUaTVBZUIxeV9ST2wyTkloazNTbDFQckdjYm9nd20zbWFsZ01TR2RuSHNXeHpfcDZLeWxWMXdaS2hxY2VKZWRuZkpaQTdYTGdnQ000eDR6TXhITGVkb3ZSTGJIQVZGT2NJMg?oc=5",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlRIeU04dHhuNHBtRGw2S3JPUllEeTRQbXpfVnhlQVZQZk14blZrb2xSZUM0dVBNTlBjWmpSOG5qSHJGVkhyM0tXNTJKTDhyVkM3akEtREJpdWdBamp4ajBydmdHWGtBbVZjbVBHZ2Njc3c5Y1ZkVV9xVldWRjZYNmVYcnU?oc=5"
   ],
   "palavras": [
     {
@@ -1721,6 +1728,18 @@
       "exemplo": "今は市場にとって大きな転換期です。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-03",
+      "proxima": "2026-10-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-03-21:00-de",
+      "palavra": "das Spiel",
+      "leitura": "",
+      "sentido_pt": "o jogo",
+      "exemplo": "Das Spiel beginnt um zwanzig Uhr.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-03",
       "proxima": "2026-10-04",
       "acertos": 0
