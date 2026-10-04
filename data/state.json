@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Spiel",
-    "jp": "転換期"
+    "jp": "投票"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "今は市場にとって大きな転換期です。",
+      "frase": "日曜日は市民全員が投票に行きます。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5035196225041728423": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-28"
-    },
     "5035266602375840176": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-03"
+    },
+    "5048795766538109190": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-04"
     }
   },
   "pendentes": [],
@@ -685,10 +685,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-04",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-23-19:30",
     "2026-09-23-21:00",
     "2026-09-24-06:30",
     "2026-09-24-12:30",
@@ -747,14 +753,10 @@
     "2026-10-03-12:30",
     "2026-10-03-17:30",
     "2026-10-03-19:30",
-    "2026-10-03-21:00"
+    "2026-10-03-21:00",
+    "2026-10-04-06:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVkRSemM5YlZOSVZrc0VPd3JHUVhYcGNxRTJ1YkFpYzhwR1lYSWg1MHljZExKSmdyb3JHQ0xhRXZkZ3NxUW5XQWpSYm5FcXdZdkNOa1g2VHV4YS1BSGNRcjF1Tkt2VXJQY2c5aF8zd055WHAtZmpBaEo0SzZOR3Z0X2hON0xfTExYcmREeWNaeVBKd1E5YU5zb2hmcnNlYS1iTTdoRi13eldKMy0yWkJvVDlBTWRnT0xjM3kxRzR0a3FqT1c0b0J0cl9PaHVIV0ZMblFaNFVvcUE3aXduQklkT1ln0gHwAUFVX3lxTFBiUE0wSWxMRjJGcW01bWFpNGFBV2F1cktYY2IwdkJSX0pEdUxieUxtTkZrYjE4UmVuRk5HZFRmeld4T2JmMVJCbnZ5R1hRZWVxRUlySWthZEdscVdwNXYyZXVPeU5oR2FRWU1rRnlJUnhBYXJ6VTRnMEM3aGNHUkJmN2ZtRjdTc0JMczFveEYtZ3pGVVAyckl6Q2JHS3p6czktdHZob3B5N2lpVjlyZ21MQ1Rwc3B0Q2JRd2hwYnRvV0JoMFNaZGRxV3dIWnREd2VFYzdUeUk4X1BSNkZMQkdHd1RsamdFZmRQdGY0cnRJdg?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QdIBvwFBVV95cUxPM19vbm9uZGpmZXlqQ09MNmRFbGZJcGZRemY2b3hPRUVaWDBzeHV6Z3l6cTIxM0V6Q1YzNEZSYmhZTDV5bXRFNHA3SkVlR1NSeWVIaGxSNmF5Y2lqTjRGUGRLMWdBVFpNamRqNWxNWkFPTG5mdzV1TnFRODRCT2lWTDJnWGFGeHBBRlRUS0F2ZmdBazY1dFYxZk5UTmVhWlY2QXZTMjBxV0ZvMFg1S3ZqY1dDUlpwbWdhSjhFTE03QQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzhsektvVzZSQ2JQby1GVzA4TDdrdmN4VWN4UGhXS0Rrc0FfVjhLNUNKc1JDVlpub3Q5cjh4Ykl3cjNMS0UzbnRDQmVFYW1XRDd5aUMzRFRFZnk2SmxQQUcyQ1VjbGQ2RWlvYVBxenJUeTVUU2daYkt3S19KNnI2b0dLNHd0RVVSNkZ0ZVpJblJ1YUtBeG15eFJfLVlxRWhvbF9sWmRzMnVaVm0tZVZGb1lYTUZLdWxXZDlsMGRPRFg0WWtZblVmTHpjNTBLdmpXekdCTUp1bVBkdTlKZmJGOEVNcGFyd1ZnZmJhV0NiTmhDZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTmx3UFBsMVBhY0htYWpiX01fQlZwN0QteU1kVXBNUzJzUV9PQWZubjdyUE1xUVl4blhjOXZRa1dIU3Q0UlJROF9MWk1TVjRpcUoxWU9BOVh0OHU4UjFIM3JpSVp3Wkg3Vm55X2R3SVNobFRLVExzVERteTVpVXFKekRNZ2ZNMWJ4V0VBSUdLUUpVNWJPcGtfRU9OTzJFbDRUa1Vzc1pGVGVfRm9vMnIwRzNoRmRfU3lyaDREQnJ0T25HY19YUElhRDgxcFQyZkxWOFluOVQxNVZwVnBJcmM4RVczZk5JdTZjSnZMLVluYl9VYlE?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTJGczhxZ3BQWWV1SmlJV0c2aGhIZmFLcjlhenhFMmgzcDRuUzdPWnBCZHFJdk03bWNiMmJjVXEtZGlDbGVON3NoZDJRcFVhZzdkWVk3dVZaWmpSZEZOTjhmbmNzRXhSRzdnanhWZXU3bFVsWkN3cFl0VDJVSnNyRmltUDBIc296NzkyZTBORGloeFRxeXk5MEdodTA2Y0h0YnF1YXdZSdIBtgFBVV95cUxNampRdHZhNlloZ1h4Y2Y1dFlFWkRQN1VVNGJTUWdKNHJmVXpROURCMG1KenFKeDFTclBhMG56SE9neEEtcEx4WnlUUll3aWVncGtmLWNIcEVKZzNvZURhX3hUYmpoeUxIRHg1T3FQR09USm81MjN2OU9YSlhSU0RxQjlLb2dfMm5jSEx0Qlp6WG9tODRxVzZvcU8zcmZoaHpiZHVSdFFTSEI3R1RoZXY4Y3NSMl9PUQ?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/bebe-carbonizado-mae-e-companheiro-sao-presos-e-vao-responder-por-infanticidio-policia-do-df-procura-terceiro-envolvido.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-df-presidente-25-setembro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/carro-capota-na-epia-sul-no-df-apos-bater-em-outro-veiculo-passageira-e-levada-a-hospital.ghtml",
@@ -949,7 +951,12 @@
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzEwR1lpZkJFeTd2NjVfeng1S0lJZnl0UG85XzFLQkoxam5qcUV2TDdkUkl3MDVmeGJZSmktcXBPQnUyRmZrN1MzTEZnZmFRemEwbi1uWDBFeDQ2NWxlRER6cnFnV3dudEU2bDZxclZJb1FGWHJsVjNVTW92bjMwNDc4YXZiMmJET1kzM1lkeGktY1BqeV9yQ0lOd2RCUUtN?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3JBLTdkdldSUUVzalhValQ2bjNtdG5lbjJydHJPTU5xOUIzZUFocW5aLXNuRmpUeUZkb3pBNXlDNDkyTy01UjIxa0lLZ3VMLW40c08wUk82dTBaVlhZOUQ3TWhDVDF3b2NSZjRMMjkyWHR3NGVyejhmNnoxZzNBMWtwSGJGbDMtT0lYXzF2U0lTMkEyd3p3OE5leDNPUS16a0JEY2xmb2dCek90bHhJd2ExcG9Ud0ttVmNuMlZuT0VtZmZqaC1nUThtUVF6TlJ0RlZFRQ?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaG1maUlzRmhWNERFODZWeVlTa2ZJN0t1cmlXNWVLRl9NcTVUaTVBZUIxeV9ST2wyTkloazNTbDFQckdjYm9nd20zbWFsZ01TR2RuSHNXeHpfcDZLeWxWMXdaS2hxY2VKZWRuZkpaQTdYTGdnQ000eDR6TXhITGVkb3ZSTGJIQVZGT2NJMg?oc=5",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlRIeU04dHhuNHBtRGw2S3JPUllEeTRQbXpfVnhlQVZQZk14blZrb2xSZUM0dVBNTlBjWmpSOG5qSHJGVkhyM0tXNTJKTDhyVkM3akEtREJpdWdBamp4ajBydmdHWGtBbVZjbVBHZ2Njc3c5Y1ZkVV9xVldWRjZYNmVYcnU?oc=5"
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYlRIeU04dHhuNHBtRGw2S3JPUllEeTRQbXpfVnhlQVZQZk14blZrb2xSZUM0dVBNTlBjWmpSOG5qSHJGVkhyM0tXNTJKTDhyVkM3akEtREJpdWdBamp4ajBydmdHWGtBbVZjbVBHZ2Njc3c5Y1ZkVV9xVldWRjZYNmVYcnU?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/04/expedito-mendonca-pco-vota-na-asa-norte-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/04/paula-belmonte-psdb-vota-no-lago-norte-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/04/kiko-caputo-novo-vota-no-lago-sul-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/04/celina-leao-pp-vota-no-lago-norte-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -1742,6 +1749,18 @@
       "tema": "botafogo",
       "data": "2026-10-03",
       "proxima": "2026-10-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-04-06:30-jp",
+      "palavra": "投票",
+      "leitura": "とうひょう",
+      "sentido_pt": "votação",
+      "exemplo": "日曜日は市民全員が投票に行きます。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-10-04",
+      "proxima": "2026-10-05",
       "acertos": 0
     }
   ]
