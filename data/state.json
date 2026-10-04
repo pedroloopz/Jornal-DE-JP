@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Stimmabgabe",
-    "jp": "確認"
+    "jp": "転換期"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "安全を確認してから、投票所に入ってください。",
+      "frase": "今は市場にとって大きな転換期です。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5032944425228042676": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-28"
-    },
     "5032944425228042680": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5048910571013931393": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-03"
+    },
+    "5048795766538109185": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-03"
     }
   },
@@ -671,10 +671,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-23-12:30",
     "2026-09-23-17:30",
     "2026-09-23-19:30",
     "2026-09-23-21:00",
@@ -733,14 +739,10 @@
     "2026-10-03-06:30",
     "2026-10-03-08:00",
     "2026-10-03-12:30",
-    "2026-10-03-17:30"
+    "2026-10-03-17:30",
+    "2026-10-03-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/25/corpo-queimado-de-recem-nascido-e-encontrado-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/09/25/monobloco-cleber-e-cauan-e-festival-tram4u-animam-fim-de-semana-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/arruda-inelegivel-decisao-do-tse-se-baseou-em-condenacao-de-junho-na-justica-do-df-relembre.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/25/datafolha-no-df-63percent-nao-sabem-o-numero-de-urna-do-candidato-a-governador-em-que-querem-votar.ghtml",
     "https://247wallst.com/investing/2026/09/25/apple-just-gained-10-in-a-month-what-will-it-take-for-aapl-stock-to-finally-hit-350/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/ahead-u-ipo-british-ai-183359808.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/25/costco-beat-on-earnings-about-usd0-15-a-share-of-it-was-a-one-time-tariff-refund/?.tsrc=rss",
@@ -935,7 +937,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/03/mpt-do-df-recomenda-que-iges-retire-limite-de-duas-horas-para-trabalhadores-de-plantao-irem-votar.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-senado-3-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-governador-3-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/quaest-df-senado-3-outubro.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/quaest-df-senado-3-outubro.ghtml",
+    "https://www.fool.com/investing/2026/10/03/3-no-brainer-stocks-to-buy-if-data-center-expendit/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/03/why-im-building-my-entire-retirement-around-divide/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/03/youtube-s-lead-over-netflix-in-tv-viewing-keeps-growing-is-netflix-stock-a-sell/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -1702,6 +1709,18 @@
       "exemplo": "Die Stimmabgabe findet am Sonntag statt.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-03",
+      "proxima": "2026-10-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-03-19:30-jp",
+      "palavra": "転換期",
+      "leitura": "てんかんき",
+      "sentido_pt": "ponto de virada",
+      "exemplo": "今は市場にとって大きな転換期です。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-03",
       "proxima": "2026-10-04",
       "acertos": 0
