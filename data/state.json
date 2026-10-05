@@ -4,10 +4,10 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "予測"
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "専門家は選挙の結果の予測が難しいと言っている。",
+      "frase": "今年の売上増加は見込みどおりに進んでいます。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5037518402189525238": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-09-30"
-    },
     "5037518402189525239": {
       "correta": 0,
       "lang": "de",
@@ -174,6 +169,11 @@
       "data": "2026-10-04"
     },
     "5053108742631981287": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-05"
+    },
+    "5053108742631981290": {
       "correta": 0,
       "lang": "jp",
       "data": "2026-10-05"
@@ -734,10 +734,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-05",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-06:30",
     "2026-09-25-08:00",
     "2026-09-25-12:30",
     "2026-09-25-17:30",
@@ -796,14 +802,10 @@
     "2026-10-04-17:30",
     "2026-10-04-19:30",
     "2026-10-04-21:00",
-    "2026-10-05-06:30"
+    "2026-10-05-06:30",
+    "2026-10-05-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/09/26/futebol-sempre-viveu-sem-bets-diz-ministro-dos-esportes-governo-planeja-se-reuniur-com-clubes-para-discutir-medidas.ghtml",
-    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-senado-26-setembro.ghtml",
-    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-avaliacao-governo-26-setembro.ghtml",
-    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-presidente-26-setembro.ghtml",
-    "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-governo-26-setembro.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/27/pesquisas-quaest-governos-centro-oeste-25-de-setembro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/justica-solta-mae-de-recem-nascido-encontrado-carbonizado-no-df-companheiro-continua-preso.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/26/tre-df-condena-celina-leao-por-uso-de-bens-publicos-em-propaganda-eleitoral.ghtml",
@@ -998,7 +1000,12 @@
     "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/eventual-vitoria-de-flavio-reedita-e-empodera-eixo-de-poder-do-governo-bolsonaro.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/segundo-turno-das-eleicoes-2026-veja-data-candidatos-e-informacoes-sobre-a-proxima-votacao.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/segundo-turno-das-eleicoes-2026-veja-data-candidatos-e-informacoes-sobre-a-proxima-votacao.ghtml",
+    "https://www.fool.com/investing/2026/10/05/this-magnificent-seven-stock-could-be-overdue-for-a-big-rally/?.tsrc=rss",
+    "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-outperforms-broader-market-204503183.html?.tsrc=rss",
+    "https://finance.yahoo.com/m/687e77fb-486c-339d-9a49-1b7cbc3224cb/nvidia-stock-hits-record-as.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/05/elon-musk-confirmed-terafab-talks-with-tsmc-intel-has-been-its-only-named-chip-partner/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -1873,6 +1880,18 @@
       "exemplo": "専門家は選挙の結果の予測が難しいと言っている。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-05",
+      "proxima": "2026-10-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-05-12:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "今年の売上増加は見込みどおりに進んでいます。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-05",
       "proxima": "2026-10-06",
       "acertos": 0
