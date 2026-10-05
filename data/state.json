@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "雰囲気"
+    "jp": "予測"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "その古い図書館は静かな雰囲気がある。",
+      "frase": "専門家は選挙の結果の予測が難しいと言っている。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5035266602375840185": {
-      "correta": 1,
-      "lang": "de",
-      "data": "2026-09-29"
-    },
     "5037518402189525238": {
       "correta": 1,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-04"
+    },
+    "5053108742631981287": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-05"
     }
   },
   "pendentes": [],
@@ -727,10 +727,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-05",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-24-21:00",
     "2026-09-25-06:30",
     "2026-09-25-08:00",
     "2026-09-25-12:30",
@@ -789,14 +795,10 @@
     "2026-10-04-12:30",
     "2026-10-04-17:30",
     "2026-10-04-19:30",
-    "2026-10-04-21:00"
+    "2026-10-04-21:00",
+    "2026-10-05-06:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/09/26/energy-transfer-vs-mplx-which-pipeline-giants-high/?.tsrc=rss",
-    "https://finance.yahoo.com/m/5965a4a9-81fb-3731-a3e2-a523923c075e/%E2%80%98don%E2%80%99t-ship-products-until.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/26/nvidia-is-weighing-a-usd10-billion-stake-in-anthropic-s-ipo-it-would-be-buying-its-own-demand/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/26/i-d-put-usd10-000-into-these-3-vanguard-funds-and-not-touch-it-for-20-years/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/26/this-nuclear-stock-could-make-patient-investors-ri/?.tsrc=rss",
     "https://g1.globo.com/politica/noticia/2026/09/26/futebol-sempre-viveu-sem-bets-diz-ministro-dos-esportes-governo-planeja-se-reuniur-com-clubes-para-discutir-medidas.ghtml",
     "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-senado-26-setembro.ghtml",
     "https://g1.globo.com/pa/para/eleicoes/2026/noticia/2026/09/26/quaest-pa-avaliacao-governo-26-setembro.ghtml",
@@ -991,7 +993,12 @@
     "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/04/2-super-semiconductor-stocks-to-buy-and-hold-throu/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-watch-020606838.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/04/walmart-yields-less-than-1-the-surprising-reason-w/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/04/walmart-yields-less-than-1-the-surprising-reason-w/?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-x-lula-no-2o-turno-quem-cercou-os-candidatos-em-discurso-apos-a-apuracao.ghtml",
+    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml",
+    "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml",
+    "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/eventual-vitoria-de-flavio-reedita-e-empodera-eixo-de-poder-do-governo-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/segundo-turno-das-eleicoes-2026-veja-data-candidatos-e-informacoes-sobre-a-proxima-votacao.ghtml"
   ],
   "palavras": [
     {
@@ -1856,6 +1863,18 @@
       "tema": "bolsa",
       "data": "2026-10-04",
       "proxima": "2026-10-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-05-06:30-jp",
+      "palavra": "予測",
+      "leitura": "よそく",
+      "sentido_pt": "previsão",
+      "exemplo": "専門家は選挙の結果の予測が難しいと言っている。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-10-05",
+      "proxima": "2026-10-06",
       "acertos": 0
     }
   ]
