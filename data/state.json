@@ -4,14 +4,14 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Tor",
+    "de": "Erzählung",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Er schoss das wichtige Tor im Finale.",
+      "frase": "Diese Erzählung ist sehr spannend.",
       "leitura": ""
     },
     "jp": {
@@ -21,18 +21,13 @@
   },
   "obra_idx": {
     "jp": 8,
-    "de": 6
+    "de": 7
   },
   "dominadas": {
     "jp": 0,
     "de": 0
   },
   "quizzes": {
-    "5037518402189525244": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-09-30"
-    },
     "5037289291454087386": {
       "correta": 0,
       "lang": "de",
@@ -175,6 +170,11 @@
     },
     "5053108742631981291": {
       "correta": 0,
+      "lang": "de",
+      "data": "2026-10-05"
+    },
+    "5053108742631981292": {
+      "correta": 1,
       "lang": "de",
       "data": "2026-10-05"
     }
@@ -748,10 +748,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-05",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-12:30",
     "2026-09-25-17:30",
     "2026-09-25-19:30",
     "2026-09-25-21:00",
@@ -810,7 +816,8 @@
     "2026-10-04-21:00",
     "2026-10-05-06:30",
     "2026-10-05-12:30",
-    "2026-10-05-17:30"
+    "2026-10-05-17:30",
+    "2026-10-05-21:00"
   ],
   "links_usados": [
     "https://247wallst.com/investing/2026/09/27/after-39-years-working-for-the-same-company-he-had-accumulated-10-8-million-shares-of-stock-on-september-15-2008-those-shares-were-worth-nothing-the-story-of-how-dick-fuld-lost-up-to-80-of-his-ne/?.tsrc=rss",
@@ -1911,6 +1918,18 @@
       "exemplo": "Er schoss das wichtige Tor im Finale.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-05",
+      "proxima": "2026-10-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-05-21:00-de",
+      "palavra": "die Erzählung",
+      "leitura": "",
+      "sentido_pt": "a narrativa",
+      "exemplo": "Diese Erzählung ist sehr spannend.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-10-05",
       "proxima": "2026-10-06",
       "acertos": 0
