@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Wahl",
-    "jp": "決定"
+    "jp": "代表作"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "裁判所は重要な決定を下した。",
-      "leitura": "さいばんしょはじゅうようなけっていを下した。"
+      "frase": "この本は彼の代表作として知られています。",
+      "leitura": "このほんはかれのだいひょうさくとしてしられています。"
     }
   },
   "obra_idx": {
-    "jp": 8,
+    "jp": 9,
     "de": 7
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5039541091267772635": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-30"
-    },
     "5039541091267772654": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5055360542445666656": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-06"
+    },
+    "5055360542445666662": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-06"
     }
   },
@@ -769,10 +769,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-06",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-21:00",
     "2026-09-26-06:30",
     "2026-09-26-08:00",
     "2026-09-26-12:30",
@@ -831,7 +837,8 @@
     "2026-10-05-17:30",
     "2026-10-05-21:00",
     "2026-10-06-06:30",
-    "2026-10-06-08:00"
+    "2026-10-06-08:00",
+    "2026-10-06-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/video-carro-pega-fogo-proximo-ao-lago-paranoa-em-brasilia.ghtml",
@@ -1968,6 +1975,18 @@
       "exemplo": "Die Wahl in Brasilien ist sehr wichtig für die Bürger.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-06",
+      "proxima": "2026-10-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-06-12:30-jp",
+      "palavra": "代表作",
+      "leitura": "",
+      "sentido_pt": "obra representativa",
+      "exemplo": "この本は彼の代表作として知られています。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-06",
       "proxima": "2026-10-07",
       "acertos": 0
