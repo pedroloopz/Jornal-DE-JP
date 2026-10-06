@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Erzählung",
-    "jp": "見込み"
+    "jp": "決定"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "今年の売上増加は見込みどおりに進んでいます。",
-      "leitura": ""
+      "frase": "裁判所は重要な決定を下した。",
+      "leitura": "さいばんしょはじゅうようなけっていを下した。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5037289291454087386": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-30"
-    },
     "5037289291454087388": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-10-05"
+    },
+    "5055360542445666653": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-10-06"
     }
   },
   "pendentes": [],
@@ -755,10 +755,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-06",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-17:30",
     "2026-09-25-19:30",
     "2026-09-25-21:00",
     "2026-09-26-06:30",
@@ -817,14 +823,10 @@
     "2026-10-05-06:30",
     "2026-10-05-12:30",
     "2026-10-05-17:30",
-    "2026-10-05-21:00"
+    "2026-10-05-21:00",
+    "2026-10-06-06:30"
   ],
   "links_usados": [
-    "https://247wallst.com/investing/2026/09/27/after-39-years-working-for-the-same-company-he-had-accumulated-10-8-million-shares-of-stock-on-september-15-2008-those-shares-were-worth-nothing-the-story-of-how-dick-fuld-lost-up-to-80-of-his-ne/?.tsrc=rss",
-    "https://stocktwits.com/news-articles/markets/equity/apple-iphone-watch-feature-haptics-5-7b-patent-infringement-case/cZMiFdwRBfI?.tsrc=rss",
-    "https://app.moby.co/home/news/news-peru-wants-to-unlock-a-copper-boom-permits-are-in-the-way?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/27/greg-abel-just-broke-berkshires-14-quarter-streak/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/27/the-math-doesnt-lie-what-it-really-costs-to-genera/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVhEa2tVNGVuUHNmZmxHTnJid2hreEh6MDZJcnJHR2FmZkxyYzBNOHNjSDE3TFZocE02QzYzSG1uTkhiejRDdVNZUDlVWl9SQks1ZjBvNEJWLVRtN2dQYnByWmNHRkJXVUxrbGIzMGhPeklqSWpqeTVJWXFVWnpuVzZzWjJsTlp4U0QtUWI0cmZGOFJZUTZ2eFoySmR4dDJhNUNOZ0Z4WnVrMTRKeHppeUlEUDVqMW9hSC16d1p6dFJNVGRS?oc=5",
     "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX0dXS01QRDlYN3AzTkZLT1pXQnFROG5OYklCZ0JNdUV2SDZaUnREMklqV0VWWnI5cmVHZjJSYTlzSW5QRmNodktBMzBHQXB3YktsY3FwMk1PUGM4Q19GT3BZVGVVXy1fd1Y1TzVjekU5NnRmQXJERnlpb1ZfOG5rWUhPX0p5by15ZTdFOE1VamJJYlk4UkM3cmJFRlRmTXNKcUFvWWV2eVVCSEJYTl9VZDhGb1F2elppTm1DLXpEOXFqX09QMzhTcHg3SWRNN2xKX2ZId01aQU8tVkU0VXFZakV5S1NuTEstRmszZVl2cDbSAf8BQVVfeXFMTTIyV0JaVUVHaHVzRExpTmk2bGhyRXdWYnVFWEY1YUhvWEhUZVd1QVc4SGFrUkhlTVlLRkdtQmJ3ZVI3QXpMa0ZVdVZvQldPNmtZRVJYRndiWkJGbW0wa3lIdTJ3LWlwVndOajN1QkVuYjZOTVBCNjZXd1JaQU4tam43cTFheXF2bERyUEU1dllYWXVVUmpfM2tBS05CNEF3T3RrcS1IRTFmZEgxdDdJdnFSQ2xxczQ3TnpHWmVibUMtOEYteWJrYVlocENobWxXS2xDbjRQZkFfd1NBZ2ZMdFh0MHluemZqVXNZdGhoUERkQmxPbFBaSi1aSU01dVV3?oc=5",
     "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0Vza1VPd3hteUVEb1puYVBlS1FnRDMzWG9oaHJVQ3JubFFZbkJFZHNKRDNWX3htd0xMRlc2NkU1Y1FCYnQ4OU40SG1OX0NINmMxV01JeWtnWkdwcENYWXZaenNqVzlTY0M3eDBqZHV1Y3BUclk0WEdMaHJ2UDAxci0tNEI2RkZqMzdacmhBM1NKSm13b0FWQkdfb0ZacUtmTDNRUE51V05xZjhTMG5mNldhMHNoeXRveEpsZ1NmNS1XYmYyeTRabDg4Y2ludDMtTmdkcHdVVVFqWFkzNnBHbTR2Zw?oc=5",
@@ -1019,7 +1021,12 @@
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR19kWUQxZU51U1dNekg4N1NZVEwxTTg2M0dfYnJ6dy1pM2ROR242cVZOMGRneHhfQXhoVE5vZ2EtR1U2dWNjelJEN29uSU5DVmtrM2tRTXdRUkhFLXkzT1QyajRQaUNxYWk2TnJ1ZDBmLWlSRGlQSWdiTHFWQkM3UGZrV1psQTh0QlhTSzJLaHplOEUwWVZzTE9IMXZGWUQ3MUthWU56QjVJcVNrNExYOFlnRDlaM1IzbG5Yd0stNjQ2ZE9tdndOOWwwU1U2UGJGTThSYW8tMTdxd3V5YjhBOEZtUW96bUdCOTVEeHFzUGlwZVh0VE9SVVNB0gGIAkFVX3lxTFBtR0V1ZGs5dzhOcE1hT2xIeC11OVF1Qm8wa0YtOEVMOWRSeFRsc0FIeGE4dFZIa3ZvX0dOQkFfOFd0b2I0eUF0Y2RjczVYMjFjYk0xbXNSSWlTSUo4ZE5JUmRFTURwWWo1eENpd1dQTnQxNHRFX0k4OWFzU2YtbEZyaEdlOEM5MVNRMjVGZnhtWUVGVDVTR1BjZW42dU1KaXZHRF9GVUFoRkVwN0xJb0V1Y3pqU3lvZlpfaTNNUnFheG1FRDFqTEYtdEhJTV9ZZ1V1WjYxQ0FIVXBGeVdOMGFYZkZ2eFFvMWtoeDdmYjI4ekhEUG44YWxrOEJfUkdoV2dfNmNBZFNGWg?oc=5",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlREdUNVaDZqeUNHYWFNLWdfUGpfakxCclZIWEF2dS01cFV1YXI5MG9td0Y4bkhJd2paS1VHbkZDUnM3WjNPbWFNemR2RGxwcDB2WlpMbG1uTEptblA2V3dtRmRWdkRIU3dNNHkyTktIMXE3VW96QkNBWWtOWGRjaEE5X1NRUExadTMzZkNoaU5ZNXpBNXJlZGh0WmozWVdvQTJHSUJ6c3JuZHF4TmVQb09zdWFZVzlyUW1yQ3NsRlJBVkdSaFhudU9pYnJodG5VSEQybS11UUZmQ21VQmtmZHRWWE1vMU0?oc=5",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYjJzV2dNUWJrWU53VmhlNWxsRlF2anRRU21WQXZOMW1KUHc1V0dnTzNPOHJ0S0hxQUs0bFUwTGs4VmJhM3M5QWxFckhJVkV5cFhCbHV3d3hfU3p0MlFaZ3RmTDAtQzJPVUhDSDc0akpPLUxiNzA4Q3c5dUM0NExBWTdIcjhPSEJXU0J6Y1NrSHNxN0l3a1p4U1kwdXJKYXRXMWdSa3RpS3RWMWlpSGE5U2V1SURrZ3JuUnVqNkQxQ0h1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjluRjRDM0g1N0h5RXVXZk0zTzZaQVgwYmUwVDRRTm5UckZYd2U4UTItUWtlT3Noa1ZHQUZDSE5MdGg5OUhrM01GZTFuRDJqN0szZkRXSGRfb1VrdUlaMDNucndxdHZfQkpFR3l6V1ltTzJ2RHgzSHZZd1JpcDg0RWV0ZlRjRXdfazgyRzBSZnZJTUM4QlR5TkVhZHNDQmRycGpsOTRLbVh1ZlRsVTNITGRYUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjluRjRDM0g1N0h5RXVXZk0zTzZaQVgwYmUwVDRRTm5UckZYd2U4UTItUWtlT3Noa1ZHQUZDSE5MdGg5OUhrM01GZTFuRDJqN0szZkRXSGRfb1VrdUlaMDNucndxdHZfQkpFR3l6V1ltTzJ2RHgzSHZZd1JpcDg0RWV0ZlRjRXdfazgyRzBSZnZJTUM4QlR5TkVhZHNDQmRycGpsOTRLbVh1ZlRsVTNITGRYUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlscWZkdkhZX1dsMDh1b294b1NQWE95ZUNicnNuSm5EblBnaGFfdWlwbjBsZVpTRkdUWmNBdkZxWjM5Y1MtRmpEVWhaMzJTdVpHcnVrMzJpRTJNUW16Zkk4S195Q2ZhNFFyOUdmOUZHdFdMellNYzdwcTZvNkJadGdvTUc0bmw1ZnlFcldFS1ZVS3ZEMk5QSTlhbzlZQ3NTRUNxLXVmYk5wUkludGdETF9EWWczS1k?oc=5",
+    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVZGQ0dnN2Uya3dMOWxOUjE5d25HcGk2QzlTRjQ5WmpmeXNjcXJRcnBxNFpRdTZ2UGVrRXJ3TkJ4YlJDUmE0ZVRwV2ZnQ3hjSGFVR1RXc0diUUVkSzVSYVIyZWtYbTJtcTFPX1pPMXk2MXdsQl9mbl9rZmE0RzRhVzZwUUlxLXZNVTJSQU1IRVZPam41dWk1WHhQSEhzM2h3bE5aZDdJS1NaQ25uWW1IS29kRFAxdVVYdGFzSnZsMUZndDRwclNCbFhPeThsNnV0VGZlV09BNHBXSGlDNVVsODFUZVRNMHNpS1JqM3NR0gH8AUFVX3lxTFBXWVJ3VnlQcG0za1VZTmI3cTFWajFLQlJiRVpGR0RLUnhNZ0pXQUZmaWZvVDVjUWlndTE4TGd0Mjc5bkQzMTNiMGtGRDJNYWJIVEtkRXNLZFRJN1RYaDhDWkpmdGJpZnJjUFQzY0Z6S0tqeS1YcnduOG1CcjV5UGlwRlZueXhQVEFYTEFBWEM4T0tHVjhKV29JUDRPZGdwdVl1SzByZWtSY0t6eUlRaXZlX2tQYldrS283Y0xobVVsV2s0dTNaYjVlNHQ4Q2l2eTg3eGJhUzBFc1lWeFpOVnZscnppTGlULWtjMU1YVk0wd2FhQTFLNndFRktwdA?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVN4S1ZTNzF5TUpyVmlUTHFUcjhoeXRQdTluRFAzMHVBdVQzRHIwcnhDOThkREhVV3ZWb1lQRFYzVE1CbUt5ZnJzSjdidW9CRTduUHoxTXl1QlNsSzF1cmZ5ZGQ2b2ZkSnFCaXdMNE14bWlXVEpTWjVNSThSWlh0aW5GYUJpTk0wYVk0QWFzT0pDWEp2UDhGem5GWThRazYtM3FLLS1IZmRUUEEydzlHS3Y5TjBBUFYxVHVEM2c5ZEd0MkxPVjNkT2lWck1nT1RGUmhGTmpZUWhwaTh4SnRjR1RiWWc0Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZXBJQThsbjdpdXZOa09VN0FWZG1yQU5jZ2RfS3RRY2wzNzlQamI0MEJlMUlUUGFZeGYzZnhyTGtVRlAyMHpxXzc5MlhBQXppYXEycE5vd09qV0JZMmxHNXB1aDNnUUlUQkR0QS1tRXRPSExGZjZVZ0YwTDZhcktrWlVHZU5Uc093SGIyRWN5d3VIS0NjX1VXN0VaRjBxbTAxMm1zcXNXNjZfUFhscnItRll2MTNlQ3pJc29kTHluSkpoNmJSZ0VyZTJuRE5Qajg3aXJ2MlRBN1hza2VsNVFNdnZCYi0za0V4eFluUnZOczlnbWlIM05NdUhn0gGIAkFVX3lxTE05MGVkaXBPTFlXYjNJQ1UwUk1XYVMtVWVqMVZaQmRYODJ4QzFSRUNSeXh1UHVMUXExd1N1SmpMclB1SFVjWUVyTUxxZzg5M1lLY19MbVdHTHNOeXV2LTZGNkh3bEdxY3Y2LVVrVkFYXzJ5NHk5a29vOUVXUTlQQmJaZWRiWTJmWEplN2ZWT2w5aEY2NGRpNjR3ak5lWFVoU2hrXzE1TmlDVVBhLWZoam1sZVl6ekxGZlJ0SVNyd0tXT0tJT0d1cHZNRG13bmJBZUd2aTRxOUR2QVE1dUJzZjBMVDNCODNndG4zNFpYNWJMX1FhdUZNdkppUlJSUDBZTW96ZjQyUVZnSw?oc=5",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmJGa01tb1dSZURkRFBsTm4xQlFkQ3JlOFRsSmtnWmtqSER3aGd6R003UEdFT2lGMXNJR0dWVlV3ckhGSU5WSHkxQ1BrWVpqc1NZcmRQS2E0Q3E5dVJ1NllmWGZHVHFnMFFMZ3FTTzVJdXo3am1mdjhDVFBjNTQyS201ZV9YY09BWUpKdWU3VlVtYm41LVpScnl6Q1pLU0VqSGEzMXN1amhGeWI3X0dZaS1YWm82TmhfTGZ6R0VNdGtIaWNjS1hTSUhtUnp0cmp4T2VscW15TU9tRXg1WkxSaW13Q094SGdY?oc=5"
   ],
   "palavras": [
     {
@@ -1932,6 +1939,18 @@
       "tema": "literatura",
       "data": "2026-10-05",
       "proxima": "2026-10-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-06-06:30-jp",
+      "palavra": "決定",
+      "leitura": "けってい",
+      "sentido_pt": "decisão",
+      "exemplo": "裁判所は重要な決定を下した。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-06",
+      "proxima": "2026-10-07",
       "acertos": 0
     }
   ]
