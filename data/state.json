@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Erzählung",
+    "de": "Wahl",
     "jp": "決定"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Diese Erzählung ist sehr spannend.",
+      "frase": "Die Wahl in Brasilien ist sehr wichtig für die Bürger.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5037289291454087388": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-09-30"
-    },
     "5039541091267772635": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5055360542445666653": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-06"
+    },
+    "5055360542445666656": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-06"
     }
   },
@@ -762,10 +762,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-06",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-19:30",
     "2026-09-25-21:00",
     "2026-09-26-06:30",
     "2026-09-26-08:00",
@@ -824,14 +830,10 @@
     "2026-10-05-12:30",
     "2026-10-05-17:30",
     "2026-10-05-21:00",
-    "2026-10-06-06:30"
+    "2026-10-06-06:30",
+    "2026-10-06-08:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLVhEa2tVNGVuUHNmZmxHTnJid2hreEh6MDZJcnJHR2FmZkxyYzBNOHNjSDE3TFZocE02QzYzSG1uTkhiejRDdVNZUDlVWl9SQks1ZjBvNEJWLVRtN2dQYnByWmNHRkJXVUxrbGIzMGhPeklqSWpqeTVJWXFVWnpuVzZzWjJsTlp4U0QtUWI0cmZGOFJZUTZ2eFoySmR4dDJhNUNOZ0Z4WnVrMTRKeHppeUlEUDVqMW9hSC16d1p6dFJNVGRS?oc=5",
-    "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQX0dXS01QRDlYN3AzTkZLT1pXQnFROG5OYklCZ0JNdUV2SDZaUnREMklqV0VWWnI5cmVHZjJSYTlzSW5QRmNodktBMzBHQXB3YktsY3FwMk1PUGM4Q19GT3BZVGVVXy1fd1Y1TzVjekU5NnRmQXJERnlpb1ZfOG5rWUhPX0p5by15ZTdFOE1VamJJYlk4UkM3cmJFRlRmTXNKcUFvWWV2eVVCSEJYTl9VZDhGb1F2elppTm1DLXpEOXFqX09QMzhTcHg3SWRNN2xKX2ZId01aQU8tVkU0VXFZakV5S1NuTEstRmszZVl2cDbSAf8BQVVfeXFMTTIyV0JaVUVHaHVzRExpTmk2bGhyRXdWYnVFWEY1YUhvWEhUZVd1QVc4SGFrUkhlTVlLRkdtQmJ3ZVI3QXpMa0ZVdVZvQldPNmtZRVJYRndiWkJGbW0wa3lIdTJ3LWlwVndOajN1QkVuYjZOTVBCNjZXd1JaQU4tam43cTFheXF2bERyUEU1dllYWXVVUmpfM2tBS05CNEF3T3RrcS1IRTFmZEgxdDdJdnFSQ2xxczQ3TnpHWmVibUMtOEYteWJrYVlocENobWxXS2xDbjRQZkFfd1NBZ2ZMdFh0MHluemZqVXNZdGhoUERkQmxPbFBaSi1aSU01dVV3?oc=5",
-    "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ0Vza1VPd3hteUVEb1puYVBlS1FnRDMzWG9oaHJVQ3JubFFZbkJFZHNKRDNWX3htd0xMRlc2NkU1Y1FCYnQ4OU40SG1OX0NINmMxV01JeWtnWkdwcENYWXZaenNqVzlTY0M3eDBqZHV1Y3BUclk0WEdMaHJ2UDAxci0tNEI2RkZqMzdacmhBM1NKSm13b0FWQkdfb0ZacUtmTDNRUE51V05xZjhTMG5mNldhMHNoeXRveEpsZ1NmNS1XYmYyeTRabDg4Y2ludDMtTmdkcHdVVVFqWFkzNnBHbTR2Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbzhNRlpiWHltaWhzaVlxYm5MQm9wd09iWVN4bkJuMGU4VW11QVZHV29GZnRzWTU2TVBjaGY5TkRwTVJJZnN0Q0NIWnlQSGVPckxyUHVNUkcxc3E1MUZDVXZ1MXNKeDdUMlBtRGRVMTdRZERrR2FnZjFiR2oxcDdnMU44VUlqUTRmaUlMNHFkRXU5UmwxV1BzRFVWUXM3bThJYUUxYzVrTXB3MENDQl9PRFd2dG1WUjFUQVBmRjRKY3NzNkt4LU83cU9hUTkzbWdmUDVtekJ0ZXR6Z1NlU3VGb0I5dU9PN1I4a0YyVF8yM1lVV3h3TUVkaFo0WHRnS0hJVGJ1dDZDQ2YzY2lhM1dHaUJB?oc=5",
-    "https://news.google.com/rss/articles/CBMihwJBVV95cUxPVHM0b1NiX3VYaDJFYjg0U2pyT25KRmt4T3BqX0lqVzJIMW10eTRQOEpWX1ZaMnBoYTRSZWc3d00zNEVRbnFhaktsalpGWWp0SWNoNk1XdmcycG9iTDdQTGdZbzRPNHZLa1ZaZzdoRzJWcHhGbEhYOFIwcFR2MDNwcGEzT3c5d1kwemZxX0o0X19IS1RwY2dyWG1JWlhwbHE3RmRST3QzT3hmQ0J2S0ZPcUlTXzlHX3FqUFRDVF9aeDlUaUt5VThNdlhGeFFvUWNzZWN6S2VDT2FfUmNaaGpwd3VlbEFkYXNjdGZTZWlMeDYtTUJTd0Z3NzZQTmF6SEY4aWt2YWlTMNIBlgJBVV95cUxNcEJkcnJ5ZjktN1hRcm5iVFBGQWdBb3IwakkxY3IxQlFGelRpbkJYX3dNVmFPcTQ5Wnl1STNRbGpSb3VZdlQ1WURGMy1fOHhjU0Z4QmRmcmptNjNpN0sySHYwTHRuUDJzNGhXY0FiM3h6Tk1LWWJkbUZ2VWdSMldRa0htdENGWnFPeGdFVW9fT3JMeTRiNDg4Q3Bwa2NIU18ySzVRY3ZfMkh3YWVoVnZLRTJzR0p1ZnlYRzFtWXlMSUd2eVMwQTVwOHIxdnpNdnBMTmdxZXdFQm5laktTYlNLcDRFbmlpSk93OEJ4OG54elYxYWFDMFJ2N0xkTnEwTi1iQi10WEpfcFJrWDRaYTZILVRDdmR1QQ?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/video-carro-pega-fogo-proximo-ao-lago-paranoa-em-brasilia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/rodoviarios-anunciam-paralisacao-a-partir-desta-segunda-feira-28-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/dia-nacional-da-doacao-de-orgaos-df-ja-fez-319-transplantes-em-2026-quase-2-mil-pessoas-estao-na-fila.ghtml",
@@ -1026,7 +1028,12 @@
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVZGQ0dnN2Uya3dMOWxOUjE5d25HcGk2QzlTRjQ5WmpmeXNjcXJRcnBxNFpRdTZ2UGVrRXJ3TkJ4YlJDUmE0ZVRwV2ZnQ3hjSGFVR1RXc0diUUVkSzVSYVIyZWtYbTJtcTFPX1pPMXk2MXdsQl9mbl9rZmE0RzRhVzZwUUlxLXZNVTJSQU1IRVZPam41dWk1WHhQSEhzM2h3bE5aZDdJS1NaQ25uWW1IS29kRFAxdVVYdGFzSnZsMUZndDRwclNCbFhPeThsNnV0VGZlV09BNHBXSGlDNVVsODFUZVRNMHNpS1JqM3NR0gH8AUFVX3lxTFBXWVJ3VnlQcG0za1VZTmI3cTFWajFLQlJiRVpGR0RLUnhNZ0pXQUZmaWZvVDVjUWlndTE4TGd0Mjc5bkQzMTNiMGtGRDJNYWJIVEtkRXNLZFRJN1RYaDhDWkpmdGJpZnJjUFQzY0Z6S0tqeS1YcnduOG1CcjV5UGlwRlZueXhQVEFYTEFBWEM4T0tHVjhKV29JUDRPZGdwdVl1SzByZWtSY0t6eUlRaXZlX2tQYldrS283Y0xobVVsV2s0dTNaYjVlNHQ4Q2l2eTg3eGJhUzBFc1lWeFpOVnZscnppTGlULWtjMU1YVk0wd2FhQTFLNndFRktwdA?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVN4S1ZTNzF5TUpyVmlUTHFUcjhoeXRQdTluRFAzMHVBdVQzRHIwcnhDOThkREhVV3ZWb1lQRFYzVE1CbUt5ZnJzSjdidW9CRTduUHoxTXl1QlNsSzF1cmZ5ZGQ2b2ZkSnFCaXdMNE14bWlXVEpTWjVNSThSWlh0aW5GYUJpTk0wYVk0QWFzT0pDWEp2UDhGem5GWThRazYtM3FLLS1IZmRUUEEydzlHS3Y5TjBBUFYxVHVEM2c5ZEd0MkxPVjNkT2lWck1nT1RGUmhGTmpZUWhwaTh4SnRjR1RiWWc0Zw?oc=5",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZXBJQThsbjdpdXZOa09VN0FWZG1yQU5jZ2RfS3RRY2wzNzlQamI0MEJlMUlUUGFZeGYzZnhyTGtVRlAyMHpxXzc5MlhBQXppYXEycE5vd09qV0JZMmxHNXB1aDNnUUlUQkR0QS1tRXRPSExGZjZVZ0YwTDZhcktrWlVHZU5Uc093SGIyRWN5d3VIS0NjX1VXN0VaRjBxbTAxMm1zcXNXNjZfUFhscnItRll2MTNlQ3pJc29kTHluSkpoNmJSZ0VyZTJuRE5Qajg3aXJ2MlRBN1hza2VsNVFNdnZCYi0za0V4eFluUnZOczlnbWlIM05NdUhn0gGIAkFVX3lxTE05MGVkaXBPTFlXYjNJQ1UwUk1XYVMtVWVqMVZaQmRYODJ4QzFSRUNSeXh1UHVMUXExd1N1SmpMclB1SFVjWUVyTUxxZzg5M1lLY19MbVdHTHNOeXV2LTZGNkh3bEdxY3Y2LVVrVkFYXzJ5NHk5a29vOUVXUTlQQmJaZWRiWTJmWEplN2ZWT2w5aEY2NGRpNjR3ak5lWFVoU2hrXzE1TmlDVVBhLWZoam1sZVl6ekxGZlJ0SVNyd0tXT0tJT0d1cHZNRG13bmJBZUd2aTRxOUR2QVE1dUJzZjBMVDNCODNndG4zNFpYNWJMX1FhdUZNdkppUlJSUDBZTW96ZjQyUVZnSw?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmJGa01tb1dSZURkRFBsTm4xQlFkQ3JlOFRsSmtnWmtqSER3aGd6R003UEdFT2lGMXNJR0dWVlV3ckhGSU5WSHkxQ1BrWVpqc1NZcmRQS2E0Q3E5dVJ1NllmWGZHVHFnMFFMZ3FTTzVJdXo3am1mdjhDVFBjNTQyS201ZV9YY09BWUpKdWU3VlVtYm41LVpScnl6Q1pLU0VqSGEzMXN1amhGeWI3X0dZaS1YWm82TmhfTGZ6R0VNdGtIaWNjS1hTSUhtUnp0cmp4T2VscW15TU9tRXg1WkxSaW13Q094SGdY?oc=5"
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmJGa01tb1dSZURkRFBsTm4xQlFkQ3JlOFRsSmtnWmtqSER3aGd6R003UEdFT2lGMXNJR0dWVlV3ckhGSU5WSHkxQ1BrWVpqc1NZcmRQS2E0Q3E5dVJ1NllmWGZHVHFnMFFMZ3FTTzVJdXo3am1mdjhDVFBjNTQyS201ZV9YY09BWUpKdWU3VlVtYm41LVpScnl6Q1pLU0VqSGEzMXN1amhGeWI3X0dZaS1YWm82TmhfTGZ6R0VNdGtIaWNjS1hTSUhtUnp0cmp4T2VscW15TU9tRXg1WkxSaW13Q094SGdY?oc=5",
+    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/coligacao-paes-denuncia-panfletos.ghtml",
+    "https://g1.globo.com/politica/ao-vivo/senado-pec-do-fim-da-escala-6x1.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/06/proibicao-das-bets-o-que-empresas-argumentam-e-o-que-a-agu-respondeu-veja-ponto-a-ponto.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/06/brasileiro-preso-por-usar-fantasia-do-ice-teve-de-pagar-fianca-de-r-295-mil.ghtml"
   ],
   "palavras": [
     {
@@ -1949,6 +1956,18 @@
       "exemplo": "裁判所は重要な決定を下した。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-06",
+      "proxima": "2026-10-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-06-08:00-de",
+      "palavra": "die Wahl",
+      "leitura": "",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl in Brasilien ist sehr wichtig für die Bürger.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-06",
       "proxima": "2026-10-07",
       "acertos": 0
