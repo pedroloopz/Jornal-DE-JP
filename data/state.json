@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Wahl",
+    "de": "Aktie",
     "jp": "代表作"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Wahl in Brasilien ist sehr wichtig für die Bürger.",
+      "frase": "Jede Aktie bringt neue Chancen.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5039541091267772654": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-01"
-    },
     "5039541091267772683": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5055360542445666662": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-06"
+    },
+    "5055360542445666669": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-06"
     }
   },
@@ -776,10 +776,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-06",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-26-06:30",
     "2026-09-26-08:00",
     "2026-09-26-12:30",
     "2026-09-26-17:30",
@@ -838,14 +844,10 @@
     "2026-10-05-21:00",
     "2026-10-06-06:30",
     "2026-10-06-08:00",
-    "2026-10-06-12:30"
+    "2026-10-06-12:30",
+    "2026-10-06-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/video-carro-pega-fogo-proximo-ao-lago-paranoa-em-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/rodoviarios-anunciam-paralisacao-a-partir-desta-segunda-feira-28-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/dia-nacional-da-doacao-de-orgaos-df-ja-fez-319-transplantes-em-2026-quase-2-mil-pessoas-estao-na-fila.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/pensada-para-carros-testada-pelo-clima-moradores-do-df-acumulam-prejuizos-de-tempestades-e-alagamentos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/27/memes-medo-e-desinformacao-por-que-os-caps-ainda-enfrentam-resistencia-no-df.ghtml",
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSFZfQmZXTG9rc3RyaUE3eEVEZnB3dkt6alpjbDd6MDQ0SnE4b3g0X1IwSTVPLXJ1amQ1U0t2bVRSZUhwVHpyQUF4YTRyXy02aExUX0tEVlpxM2FXWkhpZWNLQWdqUVpsZkxDcDB0X0pUTjQwaTlxdnIycjVZQ0U1Rl9Ha2lOZFY5WDFiRlFXYzIwWjNoX0VLU0wydHB0c3EwZmN5am5JTW45akt5dDlWWHc3S0dXeUYwdm5ERHQ4dW0wUmI0YTZZNnFhcmFTbS1GM2c?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZXhsaUY5eDhieTdqUVRFdjdpQUo2X3ZkWDRzR1BBTS1VbTFZYVNQTzhBTEd3MmJ3aG1SVXhYaUJoaFZmdVB0Q1NMb05mUDQ1YVpYTEc0cE52SDQ0bGN5aGFJOTcxdENBLWU4dzJjSnlMYWd0LWNWT3JsQWhwUUJUd0JRUVcxVUlCV1FmRVBYYkplLWp4VW42YmVGVlU2N0pHV3N4MkJYY2RfWnM0SGt3SWx6Rk1fd2dKckxLaENTTm5DaWxzVVdSNzFhUnFsUEtHSVFIN0doMUUyMVNVM090SXBxSGV6dw?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDdGc3NBRDE1WUE5QkI4d2xTRmphMFlWMlFJcjRCNkdldHdpQnZQMU81RTJDeFRKalJRd091UjhlRHNMQVNZc1Q2VzFyT1Bwa2tSTVZaLXNlbm82ZG80WllkTmxEbWF6cjVGdDNqMlYtZVptZzJVSDUyTV9KYWlBWGhZYmxDcTgzaGZFOU50YWdPSHpHYjRscFhGNlNEelZSMlN2cHFEUkFtNjE4Z2FIdUlLczB3TFJndnJ3LTN3c1lyUWZ1aUphRzBJNNIB0AFBVV95cUxQVTVnUUdyQW1TWlZ5b2t1dXhSU1JCVEZMSzkwNzZtMHlmaGlpZlZpRFpXUEY4c1hBQS1uNkwtYnQwZHE4T2kwVGh6b3pNWmNnZFhGRkJQQ1hSajA1RVcxcU9odERSSFFkLUtRS0gzeXd2cFNoQUZld0dNNVpYbnJYTmxyQmU3WDdLanVWX003WnUydzUzajJkcnAtcDJxWEhMMnY2WUdZcGRXZ2VQX3AtT3VOT25ZbUE5cXVTMkMxZ0IwVDg0Znl0a2E3TTVZQlpI?oc=5",
@@ -1040,7 +1042,12 @@
     "https://g1.globo.com/politica/ao-vivo/senado-pec-do-fim-da-escala-6x1.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/06/proibicao-das-bets-o-que-empresas-argumentam-e-o-que-a-agu-respondeu-veja-ponto-a-ponto.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/06/nikolas-pavanato-erika-hilton-e-outros-30-candidatos-puxaram-vagas-para-seus-partidos-na-camara.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/06/brasileiro-preso-por-usar-fantasia-do-ice-teve-de-pagar-fianca-de-r-295-mil.ghtml"
+    "https://g1.globo.com/mundo/noticia/2026/10/06/brasileiro-preso-por-usar-fantasia-do-ice-teve-de-pagar-fianca-de-r-295-mil.ghtml",
+    "https://finance.yahoo.com/video/markets-climb-handful-tech-stocks-201800223.html?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/spcx-stock-slips-after-hours-as-space-x-reportedly-seeks-40-b-for-nvidia-chips/cZDtlvbRBlZ?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-free-cash-flow-233904046.html?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-partners-with-lg-electronics-to-enter-smart-home-device-market/cZDtldhRBll?.tsrc=rss",
+    "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -1987,6 +1994,18 @@
       "exemplo": "この本は彼の代表作として知られています。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-06",
+      "proxima": "2026-10-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-06-17:30-de",
+      "palavra": "die Aktie",
+      "leitura": "",
+      "sentido_pt": "a ação",
+      "exemplo": "Jede Aktie bringt neue Chancen.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-06",
       "proxima": "2026-10-07",
       "acertos": 0
