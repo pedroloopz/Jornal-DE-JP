@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Aktie",
+    "de": "Tor",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Jede Aktie hat einen aktuellen Preis an der Börse.",
+      "frase": "Er schoss das wichtige Tor im Finale.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5037518402189525239": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-09-30"
-    },
     "5037518402189525244": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5053108742631981290": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-05"
+    },
+    "5053108742631981291": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-05"
     }
   },
@@ -741,10 +741,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-05",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-25-08:00",
     "2026-09-25-12:30",
     "2026-09-25-17:30",
     "2026-09-25-19:30",
@@ -803,14 +809,10 @@
     "2026-10-04-19:30",
     "2026-10-04-21:00",
     "2026-10-05-06:30",
-    "2026-10-05-12:30"
+    "2026-10-05-12:30",
+    "2026-10-05-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/27/pesquisas-quaest-governos-centro-oeste-25-de-setembro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/justica-solta-mae-de-recem-nascido-encontrado-carbonizado-no-df-companheiro-continua-preso.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/26/tre-df-condena-celina-leao-por-uso-de-bens-publicos-em-propaganda-eleitoral.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/pensada-para-carros-testada-pelo-clima-como-o-planejamento-de-brasilia-afeta-a-mobilidade-em-tempos-de-aquecimento-global.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/26/moradores-se-mobilizam-contra-construcao-de-novos-caps-em-areas-residenciais-no-df.ghtml",
     "https://247wallst.com/investing/2026/09/27/after-39-years-working-for-the-same-company-he-had-accumulated-10-8-million-shares-of-stock-on-september-15-2008-those-shares-were-worth-nothing-the-story-of-how-dick-fuld-lost-up-to-80-of-his-ne/?.tsrc=rss",
     "https://stocktwits.com/news-articles/markets/equity/apple-iphone-watch-feature-haptics-5-7b-patent-infringement-case/cZMiFdwRBfI?.tsrc=rss",
     "https://app.moby.co/home/news/news-peru-wants-to-unlock-a-copper-boom-permits-are-in-the-way?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -1005,7 +1007,12 @@
     "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-outperforms-broader-market-204503183.html?.tsrc=rss",
     "https://finance.yahoo.com/m/687e77fb-486c-339d-9a49-1b7cbc3224cb/nvidia-stock-hits-record-as.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/05/elon-musk-confirmed-terafab-talks-with-tsmc-intel-has-been-its-only-named-chip-partner/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/05/elon-musk-confirmed-terafab-talks-with-tsmc-intel-has-been-its-only-named-chip-partner/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFRubWlQbEhEOHA5ZE5MTERKZjV3Nmp3NnNLUFZBcUctQ0xiOHJCLWQwOTlpdmhGN3B3d2plZzM3aTEtbGQtcmRSZHUtQy1kbkJRVVA3RnFKU0k4bHFYOGZhREZtNnF1c1h6RkotNVlOaWJQMnNNVWxlbHp3bnNSN0hINDhOR1dERG5GZ3Y5S1hGT0xXWEpGSlZCX1RIbDlxZUFvc1ZuVkdINENxZGVpNUFnU01LSkxuMEppWDdTYVh2Y3dreGlPREs5eXplMVU0aHNkRXc5WmNWS3VoYko0?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR19kWUQxZU51U1dNekg4N1NZVEwxTTg2M0dfYnJ6dy1pM2ROR242cVZOMGRneHhfQXhoVE5vZ2EtR1U2dWNjelJEN29uSU5DVmtrM2tRTXdRUkhFLXkzT1QyajRQaUNxYWk2TnJ1ZDBmLWlSRGlQSWdiTHFWQkM3UGZrV1psQTh0QlhTSzJLaHplOEUwWVZzTE9IMXZGWUQ3MUthWU56QjVJcVNrNExYOFlnRDlaM1IzbG5Yd0stNjQ2ZE9tdndOOWwwU1U2UGJGTThSYW8tMTdxd3V5YjhBOEZtUW96bUdCOTVEeHFzUGlwZVh0VE9SVVNB0gGIAkFVX3lxTFBtR0V1ZGs5dzhOcE1hT2xIeC11OVF1Qm8wa0YtOEVMOWRSeFRsc0FIeGE4dFZIa3ZvX0dOQkFfOFd0b2I0eUF0Y2RjczVYMjFjYk0xbXNSSWlTSUo4ZE5JUmRFTURwWWo1eENpd1dQTnQxNHRFX0k4OWFzU2YtbEZyaEdlOEM5MVNRMjVGZnhtWUVGVDVTR1BjZW42dU1KaXZHRF9GVUFoRkVwN0xJb0V1Y3pqU3lvZlpfaTNNUnFheG1FRDFqTEYtdEhJTV9ZZ1V1WjYxQ0FIVXBGeVdOMGFYZkZ2eFFvMWtoeDdmYjI4ekhEUG44YWxrOEJfUkdoV2dfNmNBZFNGWg?oc=5",
+    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlREdUNVaDZqeUNHYWFNLWdfUGpfakxCclZIWEF2dS01cFV1YXI5MG9td0Y4bkhJd2paS1VHbkZDUnM3WjNPbWFNemR2RGxwcDB2WlpMbG1uTEptblA2V3dtRmRWdkRIU3dNNHkyTktIMXE3VW96QkNBWWtOWGRjaEE5X1NRUExadTMzZkNoaU5ZNXpBNXJlZGh0WmozWVdvQTJHSUJ6c3JuZHF4TmVQb09zdWFZVzlyUW1yQ3NsRlJBVkdSaFhudU9pYnJodG5VSEQybS11UUZmQ21VQmtmZHRWWE1vMU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYjJzV2dNUWJrWU53VmhlNWxsRlF2anRRU21WQXZOMW1KUHc1V0dnTzNPOHJ0S0hxQUs0bFUwTGs4VmJhM3M5QWxFckhJVkV5cFhCbHV3d3hfU3p0MlFaZ3RmTDAtQzJPVUhDSDc0akpPLUxiNzA4Q3c5dUM0NExBWTdIcjhPSEJXU0J6Y1NrSHNxN0l3a1p4U1kwdXJKYXRXMWdSa3RpS3RWMWlpSGE5U2V1SURrZ3JuUnVqNkQxQ0h1UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjluRjRDM0g1N0h5RXVXZk0zTzZaQVgwYmUwVDRRTm5UckZYd2U4UTItUWtlT3Noa1ZHQUZDSE5MdGg5OUhrM01GZTFuRDJqN0szZkRXSGRfb1VrdUlaMDNucndxdHZfQkpFR3l6V1ltTzJ2RHgzSHZZd1JpcDg0RWV0ZlRjRXdfazgyRzBSZnZJTUM4QlR5TkVhZHNDQmRycGpsOTRLbVh1ZlRsVTNITGRYUQ?oc=5"
   ],
   "palavras": [
     {
@@ -1892,6 +1899,18 @@
       "exemplo": "今年の売上増加は見込みどおりに進んでいます。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-05",
+      "proxima": "2026-10-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-05-17:30-de",
+      "palavra": "das Tor",
+      "leitura": "",
+      "sentido_pt": "o gol",
+      "exemplo": "Er schoss das wichtige Tor im Finale.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-05",
       "proxima": "2026-10-06",
       "acertos": 0
