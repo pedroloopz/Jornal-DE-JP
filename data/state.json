@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Regen",
+    "de": "Treffer",
     "jp": "junbi"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Am Nachmittag gibt es starken Regen.",
-      "leitura": ""
+      "frase": "Der Stürmer schießt einen wunderbaren Treffer.",
+      "leitura": "Der Treffer war sehr wichtig."
     },
     "jp": {
       "frase": "Kigyou wa atarashii shijou ni hairu tame no junbi o shite iru.",
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5041792891081458094": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-01"
-    },
     "5044406971386561719": {
       "correta": 1,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5057681645851640245": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-07"
+    },
+    "5057681645851640246": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-07"
     }
   },
@@ -804,10 +804,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-07",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-26-19:30",
     "2026-09-26-21:00",
     "2026-09-27-06:30",
     "2026-09-27-08:00",
@@ -866,14 +872,10 @@
     "2026-10-06-17:30",
     "2026-10-06-19:30",
     "2026-10-06-21:00",
-    "2026-10-07-06:30"
+    "2026-10-07-06:30",
+    "2026-10-07-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/economia/noticia/2026/09/28/bets-ilegais-foram-criadas-aponta-levantamento.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/09/28/o-que-e-a-rockbridge-network-a-rede-conservadora-dos-eua-que-virou-tema-na-eleicao-no-brasil.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/ricardo-salles-desiste-da-disputa-pelo-senado-a-6-dias-da-votacao-entenda-o-que-acontece-com-os-votos.ghtml",
-    "https://g1.globo.com/economia/noticia/2026/09/28/governo-amplia-fiscalizacao-de-precos-de-combustiveis-e-preve-multas-de-ate-r-500-milhoes-contra-praticas-abusivas.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/eleicoes-2026-veja-os-candidatos-a-deputado-federal-em-cada-estado-e-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/juiz-manda-soltar-candidato-a-deputado-federal-preso-no-df-por-pintar-muro-da-unb-sem-aval.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/homem-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-filho-morre-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/iml-aponta-que-bebe-encontrado-carbonizado-no-df-nasceu-com-vida-policia-identifica-homem-que-ateou-fogo.ghtml",
@@ -1068,7 +1070,12 @@
     "https://finance.yahoo.com/m/f4d24672-6d61-34bb-bcea-3ad5e39f9139/apple%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/07/2-ai-stocks-to-buy-and-hold-for-the-next-decade/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/enterprise-ai-adoption-coco-agent-160518125.html?.tsrc=rss",
-    "https://app.moby.co/home/news/news-hsbcs-ai-push-comes-for-the-advisers?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss"
+    "https://app.moby.co/home/news/news-hsbcs-ai-push-comes-for-the-advisers?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTAxVzRCcnVMUk03R3poLVRKWi1YdFhIUVJtNHhMb2hjSUxjNFpWd1lDRTZUNEtPejhmUTZzMTlfY0FXZS1pOFVvVTljS3VaOU5sNngxTWJRN2dZZkNPeEpfUnphaG14Ul8wTmtVWW03X3VqUzg4MGIySGFIVjlOdGdwdERiY0w2anY4T3o1S29sTHF3QUJXQzlpUHdDUFg3OUpndUxlZG1lOWZzSUpxakdQbjRibVFiWlR3YWtNVmQ3NkxZZzhkZkg1bll0Vjd3T1dLZEVydw?oc=5",
+    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM29BQWlLeUNOTnE0ZDVkR1dNZ00wYUZWcFlVZFVLSGJFX3VxUGNXdnJrTHNUQlBDQ3BnQ3Y1NHdQbDZ6UG5XWU1HdUtCcW5PNVdVQTNFaFVZSkt5cGFZUU1mMGxZLVJTcHViTDAxaEFMZTl4Wktaajg5c1A4VmVnbjdjakg1alNsbzUzNjBKMGk0YVpXcUxJVkdCV0Q3Z2Z6ekpvZUYxbnRQQlJRNThrQkhYbWRjOFFOUXpfOTJremU3Tll3N2lhZ1JkdXBaQdIB3AFBVV95cUxORXNUSXJhOUhfbHJPc1k5Sks4YzdYc0VBLTF4UllITG5paWpmb1BnNTNWdlpadS1lMWxEMVN4dEYwNDZBTXBGRGlEYnhoWW9WSjUxWnlqT1drajlFVzBwemxuMEM5OG5XWVh3c1UtWTFJcmpZaUplVDdnZkZNZldMbWlzWnV0S0ticGxkYUU5blFOU0otRjV3Z0VtQjNIX3BiemRRaXdQRi1zX29mMGF4NE9DbzR5d01jUkYza0psbV9PNjJkNDZhcDlNcDREUzFDYnMtN3hIOTJGeTNj?oc=5",
+    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ3FoelNEUl9WYURVYmo5VXZFbXhOU3JYeW9ZV2lKQ3F1dkxqRjNuOWRWYWpiaENPN01LUXpMeU52eWJPazd1MXZ1ZDRuUTl6aWpRWThZelZDYTcxRUFfUUliQnZCSUZtei04M3NMUE1pMnVnYUNsSWVIRWFYQVh4RVlxbGQ1MkVic2kxaURiRkkwd2d1ems0alI5Vnd3eEZXSXhIOTlScEY3aHVfSlRQOWxVRC1fMmFPNlQ4LXYwVGxkSjVGRWM0a1EwU0RtYzc0WGRYenV3UWhjQ0d6R3p1WE0xRzc?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpzRGx2a1ZhSjFsMk9uOVV2ZHFxMU5TRExJTHdEU3hfQlNUZldoUmMyb2xUWWZWV29tOGdrNW1UaGtxYUQzaGlHMDB0ZEk3N1hjTnluSHA1SWJLbjhiT182UnNEUFJBTWR0ZS10QWgxRk9mM1ppTUNDa2JUQkpwWmdZQ0JaQWxSWnE2RnNCZWliWk93Z09Id2xMWlBWV3c?oc=5"
   ],
   "palavras": [
     {
@@ -2063,6 +2070,18 @@
       "exemplo": "Kigyou wa atarashii shijou ni hairu tame no junbi o shite iru.",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-07",
+      "proxima": "2026-10-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-07-08:00-de",
+      "palavra": "der Treffer",
+      "leitura": "der Treffer",
+      "sentido_pt": "o gol",
+      "exemplo": "Der Stürmer schießt einen wunderbaren Treffer.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-07",
       "proxima": "2026-10-08",
       "acertos": 0
