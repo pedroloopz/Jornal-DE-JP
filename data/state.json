@@ -1,17 +1,17 @@
 {
-  "last_update_id": 950900668,
+  "last_update_id": 950900669,
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Aktie",
+    "de": "Regen",
     "jp": "開票"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Jede Aktie bringt neue Chancen.",
+      "frase": "Am Nachmittag gibt es starken Regen.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5041792891081458090": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-01"
-    },
     "5041792891081458093": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5055429846037954794": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-06"
+    },
+    "5057681645851640238": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-06"
     }
   },
@@ -790,10 +790,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-06",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-26-12:30",
     "2026-09-26-17:30",
     "2026-09-26-19:30",
     "2026-09-26-21:00",
@@ -852,14 +858,10 @@
     "2026-10-06-08:00",
     "2026-10-06-12:30",
     "2026-10-06-17:30",
-    "2026-10-06-19:30"
+    "2026-10-06-19:30",
+    "2026-10-06-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/09/28/flavio-bolsonaro-acusa-cnbb-de-participar-de-fake-news-bispos-dizem-que-mentira-nao-se-combate-com-mentira.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/28/nova-pesquisa-quaest-da-eleicao-presidencial-sai-nesta-segunda-28.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/reta-final-das-eleicoes-tem-guerra-juridica-entre-presidenciaveis-tse-ja-recebeu-ao-menos-450-acoes.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/28/avaliacao-de-lula-nao-melhora-durante-a-campanha-mostram-pesquisas-saiba-como-foi-com-outros-presidentes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/28/governo-tem-reuniao-com-clubes-nesta-semana-para-discutir-impactos-da-proibicao-das-bets.ghtml",
     "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/28/bond-market-repeating-pattern-great-recession/?.tsrc=rss",
     "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
@@ -1054,7 +1056,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/tse-nega-que-atraso-na-divulgacao-dos-resultados-tenha-comprometido-apuracao-dos-votos.ghtml",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/plenario-do-tse-vai-analisar-caso-garotinho-nesta-quinta-e-pode-definir-rumo-das-eleicoes-no-rio.ghtml",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/paes-pede-tse-garotinho.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/06/gilmar-mendes-arquiva-investigacao-de-estupro-contra-vice-de-flavio-bolsonaro.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/06/gilmar-mendes-arquiva-investigacao-de-estupro-contra-vice-de-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-no-distrito-federal-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-cidade.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-nos-locais-de-votacao-da-6a-zona-eleitoral.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-votacao-para-presidente-na-escola-classe-parana-na-6a-zona-eleitoral.ghtml"
   ],
   "palavras": [
     {
@@ -2025,6 +2032,18 @@
       "exemplo": "開票の結果はインターネットで確認できます。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-06",
+      "proxima": "2026-10-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-06-21:00-de",
+      "palavra": "der Regen",
+      "leitura": "lei-tu-ra",
+      "sentido_pt": "a chuva",
+      "exemplo": "Am Nachmittag gibt es starken Regen.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-06",
       "proxima": "2026-10-07",
       "acertos": 0
