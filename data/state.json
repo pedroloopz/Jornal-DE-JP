@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Treffer",
-    "jp": "junbi"
+    "jp": "退院"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": "Der Treffer war sehr wichtig."
     },
     "jp": {
-      "frase": "Kigyou wa atarashii shijou ni hairu tame no junbi o shite iru.",
+      "frase": "上院議員は病院から退院しました。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5044406971386561719": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-10-02"
-    },
     "5044406971386561721": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5057681645851640246": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-07"
+    },
+    "5057681645851640247": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-07"
     }
   },
@@ -811,10 +811,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-07",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-26-21:00",
     "2026-09-27-06:30",
     "2026-09-27-08:00",
     "2026-09-27-12:30",
@@ -873,14 +879,10 @@
     "2026-10-06-19:30",
     "2026-10-06-21:00",
     "2026-10-07-06:30",
-    "2026-10-07-08:00"
+    "2026-10-07-08:00",
+    "2026-10-07-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/juiz-manda-soltar-candidato-a-deputado-federal-preso-no-df-por-pintar-muro-da-unb-sem-aval.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/homem-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-filho-morre-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/iml-aponta-que-bebe-encontrado-carbonizado-no-df-nasceu-com-vida-policia-identifica-homem-que-ateou-fogo.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/coronel-da-pm-do-df-jorge-naime-e-encontrado-desacordado-em-cela-da-papudinha-e-levado-a-hospital.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/28/motorista-embriagado-atropela-e-mata-jovem-de-23-anos-no-df-video.ghtml",
     "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-got-wish-mega-020123983.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/28/meta-hasn-t-split-its-stock-since-its-ipo-would-a-stock-split-get-it-into-the-dow/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html?.tsrc=rss",
@@ -1075,7 +1077,12 @@
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM29BQWlLeUNOTnE0ZDVkR1dNZ00wYUZWcFlVZFVLSGJFX3VxUGNXdnJrTHNUQlBDQ3BnQ3Y1NHdQbDZ6UG5XWU1HdUtCcW5PNVdVQTNFaFVZSkt5cGFZUU1mMGxZLVJTcHViTDAxaEFMZTl4Wktaajg5c1A4VmVnbjdjakg1alNsbzUzNjBKMGk0YVpXcUxJVkdCV0Q3Z2Z6ekpvZUYxbnRQQlJRNThrQkhYbWRjOFFOUXpfOTJremU3Tll3N2lhZ1JkdXBaQdIB3AFBVV95cUxORXNUSXJhOUhfbHJPc1k5Sks4YzdYc0VBLTF4UllITG5paWpmb1BnNTNWdlpadS1lMWxEMVN4dEYwNDZBTXBGRGlEYnhoWW9WSjUxWnlqT1drajlFVzBwemxuMEM5OG5XWVh3c1UtWTFJcmpZaUplVDdnZkZNZldMbWlzWnV0S0ticGxkYUU5blFOU0otRjV3Z0VtQjNIX3BiemRRaXdQRi1zX29mMGF4NE9DbzR5d01jUkYza0psbV9PNjJkNDZhcDlNcDREUzFDYnMtN3hIOTJGeTNj?oc=5",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ3FoelNEUl9WYURVYmo5VXZFbXhOU3JYeW9ZV2lKQ3F1dkxqRjNuOWRWYWpiaENPN01LUXpMeU52eWJPazd1MXZ1ZDRuUTl6aWpRWThZelZDYTcxRUFfUUliQnZCSUZtei04M3NMUE1pMnVnYUNsSWVIRWFYQVh4RVlxbGQ1MkVic2kxaURiRkkwd2d1ems0alI5Vnd3eEZXSXhIOTlScEY3aHVfSlRQOWxVRC1fMmFPNlQ4LXYwVGxkSjVGRWM0a1EwU0RtYzc0WGRYenV3UWhjQ0d6R3p1WE0xRzc?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpzRGx2a1ZhSjFsMk9uOVV2ZHFxMU5TRExJTHdEU3hfQlNUZldoUmMyb2xUWWZWV29tOGdrNW1UaGtxYUQzaGlHMDB0ZEk3N1hjTnluSHA1SWJLbjhiT182UnNEUFJBTWR0ZS10QWgxRk9mM1ppTUNDa2JUQkpwWmdZQ0JaQWxSWnE2RnNCZWliWk93Z09Id2xMWlBWV3c?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpzRGx2a1ZhSjFsMk9uOVV2ZHFxMU5TRExJTHdEU3hfQlNUZldoUmMyb2xUWWZWV29tOGdrNW1UaGtxYUQzaGlHMDB0ZEk3N1hjTnluSHA1SWJLbjhiT182UnNEUFJBTWR0ZS10QWgxRk9mM1ppTUNDa2JUQkpwWmdZQ0JaQWxSWnE2RnNCZWliWk93Z09Id2xMWlBWV3c?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-7-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/justica-proibe-amazon-de-manter-funcionarios-em-pe-por-ate-12-horas-em-complexo-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-7-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/outubro-rosa-sesc-df-oferece-exames-e-consultas-gratuitas.ghtml"
   ],
   "palavras": [
     {
@@ -2082,6 +2089,18 @@
       "exemplo": "Der Stürmer schießt einen wunderbaren Treffer.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-07",
+      "proxima": "2026-10-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-07-12:30-jp",
+      "palavra": "退院",
+      "leitura": "たいいん",
+      "sentido_pt": "alta hospitalar",
+      "exemplo": "上院議員は病院から退院しました。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-07",
       "proxima": "2026-10-08",
       "acertos": 0
