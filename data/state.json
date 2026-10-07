@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Regen",
-    "jp": "開票"
+    "jp": "junbi"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "開票の結果はインターネットで確認できます。",
-      "leitura": "かいひょうのけっおかはインターネットでかくにんできます。"
+      "frase": "Kigyou wa atarashii shijou ni hairu tame no junbi o shite iru.",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5041792891081458093": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-01"
-    },
     "5041792891081458094": {
       "correta": 0,
       "lang": "de",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-06"
+    },
+    "5057681645851640245": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-07"
     }
   },
   "pendentes": [],
@@ -797,10 +797,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-07",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-26-17:30",
     "2026-09-26-19:30",
     "2026-09-26-21:00",
     "2026-09-27-06:30",
@@ -859,14 +865,10 @@
     "2026-10-06-12:30",
     "2026-10-06-17:30",
     "2026-10-06-19:30",
-    "2026-10-06-21:00"
+    "2026-10-06-21:00",
+    "2026-10-07-06:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/m/6b34a52f-8642-3ca8-8589-c9e25040f485/stock-market-today%3A-dow-off.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/28/bond-market-repeating-pattern-great-recession/?.tsrc=rss",
-    "https://qz.com/jim-cramer-nvidia-buyback-150-billion-significant-092826?.tsrc=rss",
-    "https://www.trefis.com/articles/616741/what-you-actually-pay-to-join-the-aapl-run-3/2026-09-28?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/28/jensen-huang-just-gave-investors-150-billion-reaso/?.tsrc=rss",
     "https://g1.globo.com/economia/noticia/2026/09/28/bets-ilegais-foram-criadas-aponta-levantamento.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/09/28/o-que-e-a-rockbridge-network-a-rede-conservadora-dos-eua-que-virou-tema-na-eleicao-no-brasil.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/28/ricardo-salles-desiste-da-disputa-pelo-senado-a-6-dias-da-votacao-entenda-o-que-acontece-com-os-votos.ghtml",
@@ -1061,7 +1063,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-no-distrito-federal-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-cidade.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-nos-locais-de-votacao-da-6a-zona-eleitoral.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-votacao-para-presidente-na-escola-classe-parana-na-6a-zona-eleitoral.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-votacao-para-presidente-na-escola-classe-parana-na-6a-zona-eleitoral.ghtml",
+    "https://www.tikr.com/blog/apple-needs-chips-and-micron-sets-the-price-now-micron-is-making-more-money-than-apple?ref=yahoofinance&.tsrc=rss",
+    "https://finance.yahoo.com/m/f4d24672-6d61-34bb-bcea-3ad5e39f9139/apple%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/07/2-ai-stocks-to-buy-and-hold-for-the-next-decade/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/enterprise-ai-adoption-coco-agent-160518125.html?.tsrc=rss",
+    "https://app.moby.co/home/news/news-hsbcs-ai-push-comes-for-the-advisers?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2046,6 +2053,18 @@
       "tema": "brasilia",
       "data": "2026-10-06",
       "proxima": "2026-10-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-07-06:30-jp",
+      "palavra": "junbi",
+      "leitura": "じゅんび",
+      "sentido_pt": "preparação",
+      "exemplo": "Kigyou wa atarashii shijou ni hairu tame no junbi o shite iru.",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-10-07",
+      "proxima": "2026-10-08",
       "acertos": 0
     }
   ]
