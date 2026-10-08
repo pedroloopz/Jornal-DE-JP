@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Gedicht",
-    "jp": "退院"
+    "jp": "対戦"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "上院議員は病院から退院しました。",
+      "frase": "ボタフォゴは次の試合で強いチームと対戦します。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5044406971386561725": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-02"
-    },
     "5046658771200246691": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5059933445665325490": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-07"
+    },
+    "5059933445665325491": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-07"
     }
   },
@@ -825,10 +825,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-07",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-27-08:00",
     "2026-09-27-12:30",
     "2026-09-27-17:30",
     "2026-09-27-19:30",
@@ -887,14 +893,10 @@
     "2026-10-07-06:30",
     "2026-10-07-08:00",
     "2026-10-07-12:30",
-    "2026-10-07-17:30"
+    "2026-10-07-17:30",
+    "2026-10-07-19:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-got-wish-mega-020123983.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/28/meta-hasn-t-split-its-stock-since-its-ipo-would-a-stock-split-get-it-into-the-dow/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/ceo-jensen-huang-becoming-nvidia-013038328.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/zacks-tool-strong-ai-stocks-231700002.html?.tsrc=rss",
-    "https://247wallst.com/investing/2026/09/28/nvidias-glass-packaging-push-could-reshape-ai-chips/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakhrOE1xX2xyWTNNYVFLeTZKVERheVVJbXVyaVFhSF9YLUh2OGI1bGhHN2N3WXpxcVJ3WHBfZVNleUVKeWYwU0xIM2VsN2ljUTN0c3pxUmpJT2ZNQ0RNcnoyaVFDR2d4b05IOUhnTnllYVFaVF9yYUdHN1B6WFo5aWRQRzVDa2ZKSTFVX0Z1VjhrUVdmdFVmOXJUdjF2NmpYRS1JdXdyZHFfcXh0MERJU1Jucw?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxnV21BeEZINmRPZlFkTmdZVzdYZXRsT1BEZklqcGFyV0FqWnJYczh5OFRQaGJwaXhNWWw4NkoyajRsLThqOUNGdlNiRk9IX1paaDhmMDA0NFEydlVOa21JUTVZYzFFX29SRHF2RHI0SEQxSXJEeWVzOVljMXk2NVRDeXZ3X3ZsSFF0ekx4bmFVaF9zQ184VklQcVBxZ3BQc0pEbg?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUwxZHA3Y1QzVnpOYnE4YUJXbnRfeHZacllnLWhyNGJFLU1ydE13WHZ2aC14am1FQUxCVENlSzdvMnhMZGVEd2ZkSU9hVHpqam5LQ2ZoQmtZZmY1a2VKQjhlVkppa1FUaVpNNmNSN3gzQnpiNHZPVWVaSXNkWHlQOVVuaWdjYWJMeUowNVlfQzFwOGllQ3V4eTJqU1g1dHFIdE1WSVZUYUl5dmZVN2J5NHNGdmFES3VQdFk2REVHMTNEcEo1TnR1TDlUZ2XSAdsBQVVfeXFMT2pyTG0wZGFseHZCaVVxbUQ1LWx6MHhNZ05IRy1ZTFgxeGdkb1FWUUtfeWNMQXJ6Q08xeHhlY3Q5eXczVFNLYkw0Zl9Ga0w5ejJXVzZlMmhyZWJ1MFJLMHo3QjdvMWZ6WG9fUHJfVU1GLXVSaTlKNjljbEFOSjRkRzFzVWpEaWxwMi1FdUNLajBBWkREbHFZUmVpYllaT1pqRnUxQTNkUzEyTUcyRzFxZE1yMFFONXhwNUx1cVptNEUwbjU5djkxS1plcG5xeWtPa2V6TnlmR2lTRlQw?oc=5",
@@ -1089,7 +1091,12 @@
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-7-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/justica-proibe-amazon-de-manter-funcionarios-em-pe-por-ate-12-horas-em-complexo-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-7-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/outubro-rosa-sesc-df-oferece-exames-e-consultas-gratuitas.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/outubro-rosa-sesc-df-oferece-exames-e-consultas-gratuitas.ghtml",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVZMcnYzdjk4eWUyeEdEMWd5eVl4R3IySldBcHVZWFZTQS1sbF9fckRjSUMxZ1NkWW9qOUxDa1ByV0ZqQ29ZaWNWVjRYRkhpYlNSdmxVM0YtOV92eDFta1RNUWRHS1N0YzkxNEZsWTFDbVRXTlp5N2hqTDd6Y1ViNVBJZnV0aHZUYW10X3FtVVdNNXZpNW9uYjBwbkkwSjUzSWc?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1UxV3daSkdROXpQMXhIYTB3MUYzUDY5VjlIS29mdGkxWExkRUFNanRUMTczNkRNekEteWVHaDVXZVlLTlpqak9tek5SZVJ3MEZncVNhMU56bzFRdUFaemNPTFVXaGkzUWRuLXZnQmJFMFMzcFVCVHBfQk45bWg4R1RsWkFfalMtQ3JkNHpZQTVOenhEamRPakRuRnZxbk43cnRVd0NqcUFnQlJTclN2cFE4bEhBeVQ4ZV9vdGZIbGJXcnVhaGxCWkFab9IB0AFBVV95cUxPTTVGYkcwVGdEdk5CY3RDNUpzTkFNeERaSUpWNlBXVXcwVk5zNUtXeTFOeGlRaXlHQ0tldWI5UTZmUnBLQ3pnY0Rxd05menRzTnk2VklYNFplRWdZMk1IQlEtZ29KckEwMTE5d3FWUk5HbzdibGtwNnpGQUJnZmdqTldWc2tjXy1YYTFmdU91R3FZMTBjeUtLYWpWa1gzelZYQTNXUzhNV0JtV0xqYmx6aVdmUVIyMTNCbmFWNWdpVkt1cmxVTGRMZ1lYMnk5YWdj?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW01aDlwUFhIeS1vOEtQU0xlNXNlRk5Jc2JzVDI5QUlNN1lVLUpjSUpVV3hBUVdYMENJRlhhWEJCVE5qVF9hX1hDUXNrdkZKMjBxZFJaMmg2b0ROZ0lWdkUtRmV6UEktX2dyRnBhRmNhbUlzTzhYRFJWc2dZVFpUZU9pQXZUZkFIeTNETm5NMFFzc3NudlBEMWdQQTlsVmtsRjR6dEp2S0JDSkpnMDh1d1VwcENiMGZ4a0JnMWhPeGJOVEx2TERJZlk3MXp2RW8?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR1RPNUd6bWJXX1Q4MmFWLWo2czV6MFQwZ3lCcFBDU3p1Ym1xalUtcERCaVNESjdTOUhHTERBQms5WHRQejBsWXVqbEpVQk1GWjZENVI0TUpvc1hKSm53MUpiazBibERaUEtCYjhqUHlqWUM1TEFBVFlMVW4yTXRsbEphWlRVOGo5Ty1LMnVmeUJ0b09Yakp0M3FrN0E1Wkh1TjNQOTZEaFRvWGV1VDNCUVY4eHlIOFA4QWNmUFhYQ1U2cXp4NlExajJHUzQybVpTd2hLT0t6S3VaOEtSUGJ4XzE2dWVIOWFycmdxTWpBbnR2dw?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxYTGVVM0Y2bG5XTzNVcHFJckUtUl9SUGZIR2RHZHVIbFZaNHNXY21ocHliZU9YcHdPWEdWQVFPTS1PT1NfdGtSZnpSVVprQk1GdmgxejlGNkxEMVZPVGdqZGc4anNlSUZra1NkNjEyUnZXQkUxN0hnUUpXWGZLcmZDNUMybVVFckhPdFNZS0ROMy11MDR0T0FEZWxLdw?oc=5"
   ],
   "palavras": [
     {
@@ -2120,6 +2127,18 @@
       "exemplo": "Goethe schrieb dieses Gedicht im Jahr 1797.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-07",
+      "proxima": "2026-10-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-07-19:30-jp",
+      "palavra": "対戦",
+      "leitura": "たいせん",
+      "sentido_pt": "confronto, partida",
+      "exemplo": "ボタフォゴは次の試合で強いチームと対戦します。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-07",
       "proxima": "2026-10-08",
       "acertos": 0
