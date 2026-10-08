@@ -4,10 +4,10 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Umfrage",
-    "jp": "執念"
+    "jp": "提案"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は人間の執念について考えた。",
-      "leitura": "かれはにんげんのしゅうねんについてかんがえた。"
+      "frase": "政府は新しい経済の提案を発表しました。",
+      "leitura": "せいふはあたらしいけいざいのていあんをはっぴょうしました。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5046658771200246695": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-02"
-    },
     "5048910571013931385": {
       "correta": 0,
       "lang": "jp",
@@ -174,6 +169,11 @@
       "data": "2026-10-07"
     },
     "5062178760078393668": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-08"
+    },
+    "5062178760078393674": {
       "correta": 0,
       "lang": "jp",
       "data": "2026-10-08"
@@ -846,10 +846,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-08",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-27-19:30",
     "2026-09-27-21:00",
     "2026-09-28-06:30",
     "2026-09-28-08:00",
@@ -908,14 +914,10 @@
     "2026-10-07-17:30",
     "2026-10-07-19:30",
     "2026-10-07-21:00",
-    "2026-10-08-06:30"
+    "2026-10-08-06:30",
+    "2026-10-08-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/corpo-de-militar-do-df-e-encontrado-carbonizado-em-carro-no-entorno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/crianca-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-pai-recebe-alta-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/video-mostra-homem-colocando-fogo-em-entulho-aonde-estava-corpo-de-bebe-encontrado-carbonizado-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-terca-feira-29-de-setembro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/09/29/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2hpVUY3ZTA1R3NmRUFtZUl2OUdCMnZNZVpxVVZUVG1HMFREQVREQXlXN3huTlN5Ql9fM1lBZGF2T2dwVnlzR005NTRuZlNVemlEUHFROHlqcy1EZEFxRnFOREFqMGxxNXVyOF9zV2lVUnFwbFRjZ2xtazlERDdzV2hBX2cxU090RWQ4YmttRGE5MTdoby1xZ05sU25pTkNBSlRMVXV3N0Qwc0ZYdFVnS2xVRFVEZzBGbDNNOThycEwwNkIwTUc2Q0ZHdHFUMTdTc0VuZWV1QlJ6Vk5xZXUxadIB7wFBVV95cUxNdEdZazdPd1V1Wk96U2hZR1hkWWs0V1ZQQ1ZfZFltWHBGVlVMOERjZVdXNDNfbURPV0RrV0dUbTVPRU1vekZvNUJrc1VxenRyX1Jac2Y5ZkF3YktTN0YyN0M5d3R3NzhrLUt6NGtkUmVmSENubXRBMWU5Tlg3WkRKMDdOYUNhWG1qTVZJWlQwLVpoTjZST0dsaWxNMjl4VDhqcHh3ODd3aTlYdXQwMEw4LWFPX2llR0YxQkhiWHJHa0tQR2swUHc3NWR4dmZuVkwwUWFKQWlHZlU5ZXR1VHp6d1NPbVhId2N3RFJwUXg0aw?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0dRQnQxN3R0QTdRVEhwVko1UEJsRWtzaTJSeVBlYWtSMFdibUxMN3NTZzg0UVVJNzJscVhabUlNT3ZtRnU0eVNab3FXV0VDMmpNX1dHVE1hdDZ2VkVHc2x2NzRSX3VBaF91WTJXZzdnZE1HcWE0TERFVGRnd1N5MmNaSDNuVjVJWHhnSm9XV3RlTGxOdHEzV1RBMTRaRWg1Q3U1MEZWOXFpeHd2UHl4VTMzVENMeDFHaWd6VUlMdXBqV0J1LUdB0gHMAUFVX3lxTE5JNDNPVkppdzZoY3l4M19xUDhJY3pNVVdaMndmOHlBUnhxSnVwdWlfOEx3THN5VVlPRHFFUlUzWGI2NWZ4ZUVVa1NOWkF3VVVfaF9PaElSZm1sNzlhTXZIRmFwdGNUX2p2OXlZWGdUQVhTanlyTE1oV2FWbVVmMS04Uzg5UUdWVkJIaV9YWjQteUVjRlU1N2E0Uk85V0w0NXgzY2JyTEptNDRndkF1NDhwOEFGZ2JldmtJeEF3ZXJZQXB1eEZ0aWNBb3FUag?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1VHcndGNlZkRlVsX0p2eTlITTI0cFdGNHpwRkRzMHo3S0tCSDZVOU5hRHk0M3hJVGFLMElNZmZtVVpWeUY4YVRlMjdTSWFxU3VBVUtDRXNUSjMxeUViWEM1WmY2RXZ1OEtlbG9LNG5FaUNqc29OSTV4emhnNTAwNkJtSnFfVUkxTUQydHhFdTZBXzVYeXdHc1FhZWNMdXBVREtEQTZJVVFNcmJKbHdTZmtIemQ3NHdTU2hERjQyMmNlS0hva0dsQmN1QW56Y3otaS1BQ1V0b2REbUJ4Z3hWeDRoU0FtWWV4WjNPeWFRaGZ6MHU3?oc=5",
@@ -1110,7 +1112,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidencial-2-turno-sai-nesta-quinta.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/maior-doador-da-eleicao-eleitos-e-nao-eleitos.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/composicao-senado-2027.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml",
+    "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
+    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-diz-que-adversarios-tentaram-impedir-sua-vitoria.ghtml",
+    "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/08/mdb-planeja-ato-para-declarar-apoio-de-diretorios-estaduais-a-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/08/fux-determina-que-area-tecnica-do-stf-libere-acesso-aos-inqueritos-das-fake-news-da-milicia-digital-e-trama-golpista.ghtml",
+    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-sms-que-manda-regularizar-titulo-antes-do-2o-turno-e-indica-site-que-cobra-pix-de-r-1354.ghtml"
   ],
   "palavras": [
     {
@@ -2177,6 +2184,18 @@
       "exemplo": "彼は人間の執念について考えた。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-08",
+      "proxima": "2026-10-09",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-08-12:30-jp",
+      "palavra": "提案",
+      "leitura": "ていあん",
+      "sentido_pt": "proposta",
+      "exemplo": "政府は新しい経済の提案を発表しました。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-08",
       "proxima": "2026-10-09",
       "acertos": 0
