@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Umfrage",
-    "jp": "対戦"
+    "jp": "執念"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "ボタフォゴは次の試合で強いチームと対戦します。",
-      "leitura": ""
+      "frase": "彼は人間の執念について考えた。",
+      "leitura": "かれはにんげんのしゅうねんについてかんがえた。"
     }
   },
   "obra_idx": {
-    "jp": 9,
+    "jp": 10,
     "de": 8
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5046658771200246692": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-02"
-    },
     "5046658771200246695": {
       "correta": 0,
       "lang": "de",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-07"
+    },
+    "5062178760078393668": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-08"
     }
   },
   "pendentes": [],
@@ -839,10 +839,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-08",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-27-17:30",
     "2026-09-27-19:30",
     "2026-09-27-21:00",
     "2026-09-28-06:30",
@@ -901,7 +907,8 @@
     "2026-10-07-12:30",
     "2026-10-07-17:30",
     "2026-10-07-19:30",
-    "2026-10-07-21:00"
+    "2026-10-07-21:00",
+    "2026-10-08-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/corpo-de-militar-do-df-e-encontrado-carbonizado-em-carro-no-entorno.ghtml",
@@ -2160,6 +2167,18 @@
       "tema": "politica",
       "data": "2026-10-07",
       "proxima": "2026-10-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-08-06:30-jp",
+      "palavra": "執念",
+      "leitura": "しゅうねん",
+      "sentido_pt": "obsessão",
+      "exemplo": "彼は人間の執念について考えた。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-10-08",
+      "proxima": "2026-10-09",
       "acertos": 0
     }
   ]
