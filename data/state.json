@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Gedicht",
+    "de": "Umfrage",
     "jp": "対戦"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Goethe schrieb dieses Gedicht im Jahr 1797.",
+      "frase": "Die neue Umfrage zeigt interessante Ergebnisse.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5046658771200246691": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-02"
-    },
     "5046658771200246692": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5059933445665325491": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-07"
+    },
+    "5059933445665325492": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-07"
     }
   },
@@ -832,10 +832,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-07",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-27-12:30",
     "2026-09-27-17:30",
     "2026-09-27-19:30",
     "2026-09-27-21:00",
@@ -894,14 +900,10 @@
     "2026-10-07-08:00",
     "2026-10-07-12:30",
     "2026-10-07-17:30",
-    "2026-10-07-19:30"
+    "2026-10-07-19:30",
+    "2026-10-07-21:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakhrOE1xX2xyWTNNYVFLeTZKVERheVVJbXVyaVFhSF9YLUh2OGI1bGhHN2N3WXpxcVJ3WHBfZVNleUVKeWYwU0xIM2VsN2ljUTN0c3pxUmpJT2ZNQ0RNcnoyaVFDR2d4b05IOUhnTnllYVFaVF9yYUdHN1B6WFo5aWRQRzVDa2ZKSTFVX0Z1VjhrUVdmdFVmOXJUdjF2NmpYRS1JdXdyZHFfcXh0MERJU1Jucw?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkxnV21BeEZINmRPZlFkTmdZVzdYZXRsT1BEZklqcGFyV0FqWnJYczh5OFRQaGJwaXhNWWw4NkoyajRsLThqOUNGdlNiRk9IX1paaDhmMDA0NFEydlVOa21JUTVZYzFFX29SRHF2RHI0SEQxSXJEeWVzOVljMXk2NVRDeXZ3X3ZsSFF0ekx4bmFVaF9zQ184VklQcVBxZ3BQc0pEbg?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWUwxZHA3Y1QzVnpOYnE4YUJXbnRfeHZacllnLWhyNGJFLU1ydE13WHZ2aC14am1FQUxCVENlSzdvMnhMZGVEd2ZkSU9hVHpqam5LQ2ZoQmtZZmY1a2VKQjhlVkppa1FUaVpNNmNSN3gzQnpiNHZPVWVaSXNkWHlQOVVuaWdjYWJMeUowNVlfQzFwOGllQ3V4eTJqU1g1dHFIdE1WSVZUYUl5dmZVN2J5NHNGdmFES3VQdFk2REVHMTNEcEo1TnR1TDlUZ2XSAdsBQVVfeXFMT2pyTG0wZGFseHZCaVVxbUQ1LWx6MHhNZ05IRy1ZTFgxeGdkb1FWUUtfeWNMQXJ6Q08xeHhlY3Q5eXczVFNLYkw0Zl9Ga0w5ejJXVzZlMmhyZWJ1MFJLMHo3QjdvMWZ6WG9fUHJfVU1GLXVSaTlKNjljbEFOSjRkRzFzVWpEaWxwMi1FdUNLajBBWkREbHFZUmVpYllaT1pqRnUxQTNkUzEyTUcyRzFxZE1yMFFONXhwNUx1cVptNEUwbjU5djkxS1plcG5xeWtPa2V6TnlmR2lTRlQw?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOczhKbkhUR21xdnJBRWtldERaM3dFNG5nS3RzU0JGVHRaeUVJbnFSQmQwaE9VaERzMXlFVVlZc0N3eEoxV2x5b2UxeDd0clpCaDlaODF3UmpfeEJKMG5FVldpYmNLZ1lia1E4OEF5bWxuSy1TUmNkLUJwdTVqR1pTalFqYnJITkNoc2liTXlzRzAxeGE2cWR4QVp1Z0hRSkpuWDl1Nkdpa3FwNk85U2NzYU5sYWlTQzlNdXl2cC1oNjZmbVJXV1Br?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOUh6NWlCNFFRekhVTUJQOTNIb21aVVlYa095dkFyczlnQXRUV1NlVnp5RGNvZU1wTUNmbkljYWtPTkpOYmJBTTYwRm9aenVjekJWWlVoZkg5UEx6TGhuS0IwLW1ac1oxR1dsUlJpQ2lINi1yS3F2YWlLZHZZS3NCV3VXb3VKSmphM1oxcHJoZWpzdE43MDFqdDdmdDlyMVAxeUtyYkQxX004SVhUUm1JXzEzelIyZGNVbzA5MHlJVC1qaE5nTGd3R2FIMVlTU0lfSEI2YVpTYjFXcEZ2WGpSYVNzbEvSAfMBQVVfeXFMT1NFaFZvUzFhTU9CTWdkUzJYdzMxWExHakpDdUdqYWdWZzNTS2dWOUs3RFNyWjNDbmpGLTNSdjNyN1h5R1ZlcDd6bkxFbk5xVlBhRWFoNGFzX0pjS3V3RHY0VjRja2RZYTcwM2d2Z2U2TnZDRlpzVnlfZ1FMZ2ZhSjYzWGxVeXRMdlVTNnpVMnM5T3JsY3pTWW1nOWUwbGlFTGtBSjEwSWRWc1Npa3JZNjFia2sxV1lvU1A1RV9HV2V5QV9lU3l1U3dUWGpiY2JnWUNiNDhnMGRJdXhma2VndmxBTWFiSXVQRTRyMlJoU2otSG9V?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/corpo-de-militar-do-df-e-encontrado-carbonizado-em-carro-no-entorno.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/crianca-que-caiu-no-lago-paranoa-apos-acidente-de-moto-com-pai-recebe-alta-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/29/video-mostra-homem-colocando-fogo-em-entulho-aonde-estava-corpo-de-bebe-encontrado-carbonizado-no-df.ghtml",
@@ -1096,7 +1098,12 @@
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1UxV3daSkdROXpQMXhIYTB3MUYzUDY5VjlIS29mdGkxWExkRUFNanRUMTczNkRNekEteWVHaDVXZVlLTlpqak9tek5SZVJ3MEZncVNhMU56bzFRdUFaemNPTFVXaGkzUWRuLXZnQmJFMFMzcFVCVHBfQk45bWg4R1RsWkFfalMtQ3JkNHpZQTVOenhEamRPakRuRnZxbk43cnRVd0NqcUFnQlJTclN2cFE4bEhBeVQ4ZV9vdGZIbGJXcnVhaGxCWkFab9IB0AFBVV95cUxPTTVGYkcwVGdEdk5CY3RDNUpzTkFNeERaSUpWNlBXVXcwVk5zNUtXeTFOeGlRaXlHQ0tldWI5UTZmUnBLQ3pnY0Rxd05menRzTnk2VklYNFplRWdZMk1IQlEtZ29KckEwMTE5d3FWUk5HbzdibGtwNnpGQUJnZmdqTldWc2tjXy1YYTFmdU91R3FZMTBjeUtLYWpWa1gzelZYQTNXUzhNV0JtV0xqYmx6aVdmUVIyMTNCbmFWNWdpVkt1cmxVTGRMZ1lYMnk5YWdj?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW01aDlwUFhIeS1vOEtQU0xlNXNlRk5Jc2JzVDI5QUlNN1lVLUpjSUpVV3hBUVdYMENJRlhhWEJCVE5qVF9hX1hDUXNrdkZKMjBxZFJaMmg2b0ROZ0lWdkUtRmV6UEktX2dyRnBhRmNhbUlzTzhYRFJWc2dZVFpUZU9pQXZUZkFIeTNETm5NMFFzc3NudlBEMWdQQTlsVmtsRjR6dEp2S0JDSkpnMDh1d1VwcENiMGZ4a0JnMWhPeGJOVEx2TERJZlk3MXp2RW8?oc=5",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR1RPNUd6bWJXX1Q4MmFWLWo2czV6MFQwZ3lCcFBDU3p1Ym1xalUtcERCaVNESjdTOUhHTERBQms5WHRQejBsWXVqbEpVQk1GWjZENVI0TUpvc1hKSm53MUpiazBibERaUEtCYjhqUHlqWUM1TEFBVFlMVW4yTXRsbEphWlRVOGo5Ty1LMnVmeUJ0b09Yakp0M3FrN0E1Wkh1TjNQOTZEaFRvWGV1VDNCUVY4eHlIOFA4QWNmUFhYQ1U2cXp4NlExajJHUzQybVpTd2hLT0t6S3VaOEtSUGJ4XzE2dWVIOWFycmdxTWpBbnR2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxYTGVVM0Y2bG5XTzNVcHFJckUtUl9SUGZIR2RHZHVIbFZaNHNXY21ocHliZU9YcHdPWEdWQVFPTS1PT1NfdGtSZnpSVVprQk1GdmgxejlGNkxEMVZPVGdqZGc4anNlSUZra1NkNjEyUnZXQkUxN0hnUUpXWGZLcmZDNUMybVVFckhPdFNZS0ROMy11MDR0T0FEZWxLdw?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxYTGVVM0Y2bG5XTzNVcHFJckUtUl9SUGZIR2RHZHVIbFZaNHNXY21ocHliZU9YcHdPWEdWQVFPTS1PT1NfdGtSZnpSVVprQk1GdmgxejlGNkxEMVZPVGdqZGc4anNlSUZra1NkNjEyUnZXQkUxN0hnUUpXWGZLcmZDNUMybVVFckhPdFNZS0ROMy11MDR0T0FEZWxLdw?oc=5",
+    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/08/a-eleicao-das-redes-sociais-e-o-que-muda-na-disputa-como-a-conhecemos-o-assunto-1821.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidencial-2-turno-sai-nesta-quinta.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/maior-doador-da-eleicao-eleitos-e-nao-eleitos.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/composicao-senado-2027.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/votos-flavio-bolsonaro-lula-cidades-empate.ghtml"
   ],
   "palavras": [
     {
@@ -2139,6 +2146,18 @@
       "exemplo": "ボタフォゴは次の試合で強いチームと対戦します。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-07",
+      "proxima": "2026-10-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-07-21:00-de",
+      "palavra": "die Umfrage",
+      "leitura": "di-e-um-fra-ge",
+      "sentido_pt": "a pesquisa",
+      "exemplo": "Die neue Umfrage zeigt interessante Ergebnisse.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-07",
       "proxima": "2026-10-08",
       "acertos": 0
