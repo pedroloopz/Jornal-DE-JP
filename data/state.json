@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Sieg",
-    "jp": "準備"
+    "jp": "選挙"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "私たちは旅行の準備をしています。",
-      "leitura": "わたしたちはりょこうのじゅんびをしています。"
+      "frase": "市民は新しいリーダーを選ぶために選挙で投票します。",
+      "leitura": "しみんはあたらしいりーだーをえらぶためにせんきょでとうひょうします。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048910571013931393": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-03"
-    },
     "5048795766538109185": {
       "correta": 0,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-10-08"
+    },
+    "5064430559892079102": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-10-09"
     }
   },
   "pendentes": [],
@@ -874,10 +874,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-09",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-28-12:30",
     "2026-09-28-17:30",
     "2026-09-28-19:30",
     "2026-09-28-21:00",
@@ -936,14 +942,10 @@
     "2026-10-08-12:30",
     "2026-10-08-17:30",
     "2026-10-08-19:30",
-    "2026-10-08-21:00"
+    "2026-10-08-21:00",
+    "2026-10-09-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/09/30/eua-vao-exigir-redes-sociais-abertas-de-jornalistas-que-pedirem-visto.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/mais-da-metade-das-propostas-dos-candidatos-a-presidencia-para-a-saude-ja-existem-no-sus-aponta-estudo.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pesquisas-presidente-primeiro-turno-quaest-datafolha.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/pablo-marcal-apoio-flavio-bolsonaro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/fim-de-ano-veja-datas-do-recesso-de-natal-e-ano-novo-para-servidores-publicos-do-df.ghtml",
     "https://g1.globo.com/go/goias/noticia/2026/09/30/dentista-de-24-anos-morre-apos-complicacoes-no-pos-parto-diz-familia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/nota-legal-secretaria-comeca-a-depositar-creditos-em-conta-bancaria.ghtml",
@@ -1138,7 +1140,12 @@
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb3VIVzFHZ2t3LWlrZU1URmd6TFQ4TnZMRjhsMEV6a3M2SmhtWlA2aHFGVHltNVg1djQxTl9lVmJOellqMjgyV0JPdU13VjVCWTFBSVRDX2pIOWtWNnYzVWJ1QmxadHJQRXBPT1dpUm5nbmdKamUxUXJpbW5hVC1wWVd1Tzh0M3ZvcUlQbXNMS01XOGZOdXhlVzFWSWJqQV9qdF9ySWJTYzluanFtVWJaWnlNRkhFYmppSjNFYURTeVdOSG9QWndGMWFxdFI5bFBxWGY1WDAycEM2T2JrRDdFTW84aHlLODR1R1J2YzhmLUNyVDBU?oc=5",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVjU4bXhIZWlsSkQ4RFFfQlNPWWZ6aE1yWl9YUF9saXp0alZ0OXYzUHZkM09KSHBLSm43Z3BHWkMxODM4Q1NrYUFZQmw3ME5pbkJWcThURDdUOUFPYVZXbDd3SWh5ZGltUlNab0ctY2V5bW51SlJ1cm9UR01mTHVnRjF2UVRQdXhVRVJlYmtnMVFIMFZ1Rk1mTTRmczBISkxpb3FxRnFlNkhwZHlDcHRONUMwZG5Sa01GWjRJRGNldEtoa01JMEhPUktad1Z3dmM1ZTRuZjBYaWdYYm5PeTRsZEs1T1ZacDBMb1YtbDhpc0lWaVpKaGhSNG04S2tRdw?oc=5",
     "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGRYU3l4aVRrUVNVZWgyY1AwcjNyVlROVjEzOUNLRFUtWXJrV0hHdFNCRGcxdm5TaEY1Y0FlZGU3MUcyMG5BTmljUzJfUzdqc0dkb0FXYTJBbFdKTmFnZkhFTU5QU2ZET2lrS05XY2Ytc2NBVlJzSndSMFJEdkNEQnNWb2pFVjF5SFo3Q0o3eGRxSnhD?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU9wTzFhZXBZSVQxUlRvRlFrQmFPMi1mTGQ0YlM5WmxlcWZ0N0wtTXAzVm1uWVd2NHZseTVwWE9WdHVCNkJWM2JlYzBPR0o3LUdpWDBFWm45bnBSRkUyZTRoWUZJZ0ZPT0N5ZjlKeEpVWEx2T3BMZnVLa3ZNeVR1NlFhU0huYTRTVE9weGZBOUo1NV9tMFFWU0N3MHhLNzd1elN6OEtQMVRILTdJM3BRNTYzVjdpcFNvRUJmWnplTHFBdw?oc=5"
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU9wTzFhZXBZSVQxUlRvRlFrQmFPMi1mTGQ0YlM5WmxlcWZ0N0wtTXAzVm1uWVd2NHZseTVwWE9WdHVCNkJWM2JlYzBPR0o3LUdpWDBFWm45bnBSRkUyZTRoWUZJZ0ZPT0N5ZjlKeEpVWEx2T3BMZnVLa3ZNeVR1NlFhU0huYTRTVE9weGZBOUo1NV9tMFFWU0N3MHhLNzd1elN6OEtQMVRILTdJM3BRNTYzVjdpcFNvRUJmWnplTHFBdw?oc=5",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-9-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/09/lula-diz-que-virou-rei-da-selfie-e-preve-muito-debate-na-tv-e-na-internet-no-2o-turno.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/lula-grass-em-ceilandia-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-9-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/pb/paraiba/noticia/2026/10/09/homem-foragido-ha-mais-de-20-anos-por-tentativa-de-homicidio-e-preso-em-campina-grande-pb.ghtml"
   ],
   "palavras": [
     {
@@ -2255,6 +2262,18 @@
       "tema": "botafogo",
       "data": "2026-10-08",
       "proxima": "2026-10-09",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-09-06:30-jp",
+      "palavra": "選挙",
+      "leitura": "せんきょ",
+      "sentido_pt": "eleição",
+      "exemplo": "市民は新しいリーダーを選ぶために選挙で投票します。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-10-09",
+      "proxima": "2026-10-10",
       "acertos": 0
     }
   ]
