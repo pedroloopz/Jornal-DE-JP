@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Buch",
-    "jp": "選挙"
+    "jp": "経営"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "市民は新しいリーダーを選ぶために選挙で投票します。",
-      "leitura": "しみんはあたらしいりーだーをえらぶためにせんきょでとうひょうします。"
+      "frase": "クラブの新しい経営方針が発表されました。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048795766538109186": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-03"
-    },
     "5048795766538109190": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5064430559892079103": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-09"
+    },
+    "5066682359705764290": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-09"
     }
   },
@@ -888,10 +888,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-09",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-28-19:30",
     "2026-09-28-21:00",
     "2026-09-29-06:30",
     "2026-09-29-08:00",
@@ -950,14 +956,10 @@
     "2026-10-08-19:30",
     "2026-10-08-21:00",
     "2026-10-09-06:30",
-    "2026-10-09-08:00"
+    "2026-10-09-08:00",
+    "2026-10-09-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/fim-de-ano-veja-datas-do-recesso-de-natal-e-ano-novo-para-servidores-publicos-do-df.ghtml",
-    "https://g1.globo.com/go/goias/noticia/2026/09/30/dentista-de-24-anos-morre-apos-complicacoes-no-pos-parto-diz-familia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/nota-legal-secretaria-comeca-a-depositar-creditos-em-conta-bancaria.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/homem-e-preso-suspeito-de-importunacao-sexual-em-onibus-no-df.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/30/justica-manda-discord-reforcar-protecao-de-criancas-e-adolescentes-sob-pena-de-multa-de-r-100-mil-por-dia.ghtml",
     "https://finance.yahoo.com/markets/stocks/article/ai-spending-will-fuel-wins-for-micron-nvidia-intel-and-other-chip-stocks-bofa-analyst-193925832.html?.tsrc=rss",
     "https://www.benzinga.com/markets/prediction-markets/26/09/62091668/amazon-synopsys-1-billion-aws-custom-chips?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "https://app.moby.co/home/news/news-cannabis-investors-were-betting-on-washington-then-washington-hit-pause?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
@@ -1152,7 +1154,12 @@
     "https://g1.globo.com/politica/noticia/2026/10/09/lula-diz-que-virou-rei-da-selfie-e-preve-muito-debate-na-tv-e-na-internet-no-2o-turno.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/lula-grass-em-ceilandia-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-9-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/pb/paraiba/noticia/2026/10/09/homem-foragido-ha-mais-de-20-anos-por-tentativa-de-homicidio-e-preso-em-campina-grande-pb.ghtml"
+    "https://g1.globo.com/pb/paraiba/noticia/2026/10/09/homem-foragido-ha-mais-de-20-anos-por-tentativa-de-homicidio-e-preso-em-campina-grande-pb.ghtml",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEZJbjNDVjBZc2o0QVNtMFlvVU1SZWExY0JGd2ltTGo1ZlVzbjFRQXdPbENsd1l0SkR3ZFUzTVF0eXhIZHpRYlBjMUdxQ19GM2RBTWFSVTgwN3l4UlZuTGFvZW5zb0NGeFF1VU5KMmlnUmxTeS1XZHRiYnRRYzlFb1hOYTVlVE0xU1pfVXVxMDVQZzlRN1ZpcVFEU1JjSWZTRHVTNDdtWkJKU1JlNDFRZHY3NFF5MmRFclJ3?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXRkYXN0WWxWOWRQeE9kWVZjZU0tYTFvOU11TWRNeXJUakMzeUQ1VUJzSlo4QW9xX3VjRG1ZdXZCb0dVZ0VaeGJWbEpKdVF5a2txWVZKblVJU2QzM2JJTGVvemlYckhScGJzRTFnY0U0Q0dHVXVSTmJsakloVzl4UXhPR0J6WXdpV1A5OS0zODVtbWxpb1ExZnZPMGwyUXVoZVhoeVFUcGpycGNuaTJJSVFITndGMVZqMDlLbUxndlc5a1U4VlhSMzVSTTM1MzVrQ2I2YmlveGdQUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdURsU2dRbUV3dkZ0aHhfZ210T1VLQ1lRTy1OazR1Y0J2ZUFXdzVKdDJsdzZVUVpZTWlGb2VndGFGZ1pabVgyYmtqVXVPaFQ4NUw2a196amNYY0hMNkl1WmZTNzVCU0tUU2Zxa2JNZ00xazc2cHZ6NlFaSUZhbzJsdjY0aU9MamZyWXY0SFdxalQ4QzFhU2pBNmFrT2JYbDh2dkJYaHJqcVZmaFZUZzhQZ1FJSm1XVVJS?oc=5",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHdwSWFBR2xsOEVtQzQ1eEdlZnhPS0Vtc3FVX21EekxjdU5YVVZmVnI2RDRFRU0zY2V1M1EtRC1OU3RUMHp5aVM5NmpBSXkxdy1XVVYzQXA3VlI0RkZ3aXhCZkxwMlVNcWpoZjFyZW1YWGdaUGl3allFNTRWV3REOWU3YTV2YmVuY1E2NUh0djRvZ0lDb3FmbElfWTJFSUdwYjdKSHZuQWduY3N3SE1IN1NHYmV4Rzd2V05mUElnLWZTYlHSAcgBQVVfeXFMT0t1WFZfNEtjRGEzemZwbkpSbzRxNTZteDhsbnVLWXNaS3BrRWs1Q3Q3ZGVSc3VNOFB0d2tJbFk1bE55X2ZtckZ6cC14NVRWVHVCQlAyS3ZsVlRsYzZsa3BVeHVfUHFOMjI1LWZERG1QTXpVMjh6Zkd2LXlOUWZuejlZaUN6Yzc2dVp0NDQ2bmJxd0tNWDIwcnZ5N0hyNFdWdE1Jcm5WQS1VNEpsVWdpemFVZFR1UnctckNFd2Y1VGFNTndxdFROREo?oc=5",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaTRFV0hYTXpjQnV4Mm4yNzF1Mk1tSjlBeVpsQllmLWtSd3RKOURiZUZLUmVMRkJJUU9RVUxoampPSW9xZnhialcwbXB1OVhhYTUzbUZVSkpyMFdrU3BWb25sVEdmTlY4cW9HZVIyUldKTE8xbXhtSFJEV2hGbTN1X3dCRFptamxDSFJTZVhFS3FJUW9lZm1LdjlUUUlNZ0c4SmZPQzFCVTdFUFdIRjc0SkhkS0QtYnpoX0U4VEMzSlgyd0N0dFFTMFF4WWUwdlNNR1BqUzFBNDhoVWFHUzZ6Q1BzVUFoN1hRcFBWRjZGTFZ3bWo0Ql9zYlNkV01vUQ?oc=5"
   ],
   "palavras": [
     {
@@ -2291,6 +2298,18 @@
       "exemplo": "Sie lesen das Buch am Abend.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-09",
+      "proxima": "2026-10-10",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-09-12:30-jp",
+      "palavra": "経営",
+      "leitura": "けいえい",
+      "sentido_pt": "gestão / administração",
+      "exemplo": "クラブの新しい経営方針が発表されました。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-09",
       "proxima": "2026-10-10",
       "acertos": 0
