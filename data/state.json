@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Asphalt",
+    "de": "Sieg",
     "jp": "準備"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Der Asphalt in der Straße ist alt und muss repariert werden.",
+      "frase": "Der Sieg gegen den Rivalen war sehr wichtig für die Mannschaft.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048910571013931391": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-03"
-    },
     "5048910571013931393": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5064430559892079094": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-08"
+    },
+    "5064430559892079098": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-10-08"
     }
   },
@@ -867,10 +867,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-08",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-28-08:00",
     "2026-09-28-12:30",
     "2026-09-28-17:30",
     "2026-09-28-19:30",
@@ -929,14 +935,10 @@
     "2026-10-08-06:30",
     "2026-10-08-12:30",
     "2026-10-08-17:30",
-    "2026-10-08-19:30"
+    "2026-10-08-19:30",
+    "2026-10-08-21:00"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-least-031114578.html?.tsrc=rss",
-    "https://www.thestreet.com/investing/stocks/nvidia-burry-buyback-ai-risks?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/29/history-says-nvidia-s-record-usd150-billion-buyback-is-good-news-for-the-stock/?.tsrc=rss",
-    "https://www.thestreet.com/investing/are-index-funds-overweight-in-tech?.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/29/schwab-s-dividend-etf-has-nearly-quadrupled-its-payout-since-2012/?.tsrc=rss",
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/09/30/crise-no-stf-impede-pf-de-concluir-inquerito-mae-do-caso-master.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/09/30/eua-vao-exigir-redes-sociais-abertas-de-jornalistas-que-pedirem-visto.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/30/mais-da-metade-das-propostas-dos-candidatos-a-presidencia-para-a-saude-ja-existem-no-sus-aponta-estudo.ghtml",
@@ -1131,7 +1133,12 @@
     "https://www.trefis.com/articles/617933/what-does-western-digital-offer-that-apple-does-not/2026-10-08?.tsrc=rss",
     "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
     "https://247wallst.com/videos/nvidia-apple-and-microsoft-spell-trouble-for-index-investors/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/08/is-a-berkshire-hathaway-class-a-stock-split-finally-coming/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/08/is-a-berkshire-hathaway-class-a-stock-split-finally-coming/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ1ZsOXVkVmFxQy01WExwdUNpTTNPYldXMkJyR1hsYldUTzJ6ZEc2bmNTTTRHR2FJRlA3Wlk3WUZjOV9zTFoyRGpTZUNBbzZyWWM0eHVBS0tzMGtTOXk0dUtWZWhBNVN3V2Q1a0lRbDVQQVQ1em9RVlRGdmtQRkYyZ0ZVek5rSXRPc0NkMXBJQlpaUHlDSUEzVHhHdmFGSXZCSmpNdlZ1ZDFLV1V1ZW96eDMzM3BnbHZ6bTFLaXFMUmFvbEJOcVcyWkl5SklQLVFYcDBSVWVEZkc0dndWa25nRDZLRmFscENI0gH3AUFVX3lxTE5aWXFNWk01NGM1d3Zyem9yVEtlSDYxTHFUM2RCOUR3YVJRS3JOZi1nRFdYY3NnOS1PZVoyMmFlTmtCMVV3SVB1QWFvVFRWUkxPaXBxcXlyOHQwdUkxaHVLZGNhdVB6bDdDX2xuLTl2cDJwZHRGSkp6ZzRWbUw4ZExXWldzZV9KYWdLT0VqZktyN2c2SU12aXlTYWxZc0Zfa3ZCQlYtX0hIbGFENktGYjFmOXBFVV90SnRkV2FvNU80Ym1CcncycUZNcFB5eWZZR0g0WWo5NTRjc2Y5Q3dVLVJIVTN6dXVDcUI1a1IxQXVYOXppV2JpdzA?oc=5",
+    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb3VIVzFHZ2t3LWlrZU1URmd6TFQ4TnZMRjhsMEV6a3M2SmhtWlA2aHFGVHltNVg1djQxTl9lVmJOellqMjgyV0JPdU13VjVCWTFBSVRDX2pIOWtWNnYzVWJ1QmxadHJQRXBPT1dpUm5nbmdKamUxUXJpbW5hVC1wWVd1Tzh0M3ZvcUlQbXNMS01XOGZOdXhlVzFWSWJqQV9qdF9ySWJTYzluanFtVWJaWnlNRkhFYmppSjNFYURTeVdOSG9QWndGMWFxdFI5bFBxWGY1WDAycEM2T2JrRDdFTW84aHlLODR1R1J2YzhmLUNyVDBU?oc=5",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVjU4bXhIZWlsSkQ4RFFfQlNPWWZ6aE1yWl9YUF9saXp0alZ0OXYzUHZkM09KSHBLSm43Z3BHWkMxODM4Q1NrYUFZQmw3ME5pbkJWcThURDdUOUFPYVZXbDd3SWh5ZGltUlNab0ctY2V5bW51SlJ1cm9UR01mTHVnRjF2UVRQdXhVRVJlYmtnMVFIMFZ1Rk1mTTRmczBISkxpb3FxRnFlNkhwZHlDcHRONUMwZG5Sa01GWjRJRGNldEtoa01JMEhPUktad1Z3dmM1ZTRuZjBYaWdYYm5PeTRsZEs1T1ZacDBMb1YtbDhpc0lWaVpKaGhSNG04S2tRdw?oc=5",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGRYU3l4aVRrUVNVZWgyY1AwcjNyVlROVjEzOUNLRFUtWXJrV0hHdFNCRGcxdm5TaEY1Y0FlZGU3MUcyMG5BTmljUzJfUzdqc0dkb0FXYTJBbFdKTmFnZkhFTU5QU2ZET2lrS05XY2Ytc2NBVlJzSndSMFJEdkNEQnNWb2pFVjF5SFo3Q0o3eGRxSnhD?oc=5",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdU9wTzFhZXBZSVQxUlRvRlFrQmFPMi1mTGQ0YlM5WmxlcWZ0N0wtTXAzVm1uWVd2NHZseTVwWE9WdHVCNkJWM2JlYzBPR0o3LUdpWDBFWm45bnBSRkUyZTRoWUZJZ0ZPT0N5ZjlKeEpVWEx2T3BMZnVLa3ZNeVR1NlFhU0huYTRTVE9weGZBOUo1NV9tMFFWU0N3MHhLNzd1elN6OEtQMVRILTdJM3BRNTYzVjdpcFNvRUJmWnplTHFBdw?oc=5"
   ],
   "palavras": [
     {
@@ -2234,6 +2241,18 @@
       "exemplo": "私たちは旅行の準備をしています。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-08",
+      "proxima": "2026-10-09",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-08-21:00-de",
+      "palavra": "der Sieg",
+      "leitura": "",
+      "sentido_pt": "a vitória",
+      "exemplo": "Der Sieg gegen den Rivalen war sehr wichtig für die Mannschaft.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-08",
       "proxima": "2026-10-09",
       "acertos": 0
