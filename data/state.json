@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Asphalt",
-    "jp": "提案"
+    "jp": "準備"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "政府は新しい経済の提案を発表しました。",
-      "leitura": "せいふはあたらしいけいざいのていあんをはっぴょうしました。"
+      "frase": "私たちは旅行の準備をしています。",
+      "leitura": "わたしたちはりょこうのじゅんびをしています。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048910571013931386": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-03"
-    },
     "5048910571013931391": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5064430559892079091": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-08"
+    },
+    "5064430559892079094": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-08"
     }
   },
@@ -860,10 +860,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-08",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-28-06:30",
     "2026-09-28-08:00",
     "2026-09-28-12:30",
     "2026-09-28-17:30",
@@ -922,14 +928,10 @@
     "2026-10-07-21:00",
     "2026-10-08-06:30",
     "2026-10-08-12:30",
-    "2026-10-08-17:30"
+    "2026-10-08-17:30",
+    "2026-10-08-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/presidente-do-tse-determina-que-candidatos-do-novo-participem-de-debates-eleitorais.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/debate-globo-candidatos-governo-sp.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/tre-sp-inicia-teste-de-integridade-das-urnas-eletronicas-para-o-1o-turno-das-eleicoes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/09/29/mendonca-libera-post-de-erika-hilton-sobre-nossa-senhora-aparecida.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/tse-amplia-exigencias-para-registro-de-pesquisas-eleitorais-institutos-criticam-mudanca-nas-regras.ghtml",
     "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-trading-least-031114578.html?.tsrc=rss",
     "https://www.thestreet.com/investing/stocks/nvidia-burry-buyback-ai-risks?.tsrc=rss",
     "https://www.fool.com/investing/2026/09/29/history-says-nvidia-s-record-usd150-billion-buyback-is-good-news-for-the-stock/?.tsrc=rss",
@@ -1124,7 +1126,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-visita-arcebispo-de-brasilia-e-recebe-imagem-de-nossa-senhora.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-avaliacao-governo-celina-8-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-governador-segundo-turno-8-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/08/asfalto-cede-e-cratera-de-4-metros-de-profundidade-se-abre-na-asa-norte-no-df-veja-imagens.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/08/asfalto-cede-e-cratera-de-4-metros-de-profundidade-se-abre-na-asa-norte-no-df-veja-imagens.ghtml",
+    "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-trading-000009960.html?.tsrc=rss",
+    "https://www.trefis.com/articles/617933/what-does-western-digital-offer-that-apple-does-not/2026-10-08?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
+    "https://247wallst.com/videos/nvidia-apple-and-microsoft-spell-trouble-for-index-investors/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/08/is-a-berkshire-hathaway-class-a-stock-split-finally-coming/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2215,6 +2222,18 @@
       "exemplo": "Der Asphalt in der Straße ist alt und muss repariert werden.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-08",
+      "proxima": "2026-10-09",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-08-19:30-jp",
+      "palavra": "準備",
+      "leitura": "じゅんび",
+      "sentido_pt": "preparação",
+      "exemplo": "私たちは旅行の準備をしています。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-08",
       "proxima": "2026-10-09",
       "acertos": 0
