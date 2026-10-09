@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Umfrage",
+    "de": "Asphalt",
     "jp": "提案"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die neue Umfrage zeigt interessante Ergebnisse.",
+      "frase": "Der Asphalt in der Straße ist alt und muss repariert werden.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048910571013931385": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-03"
-    },
     "5048910571013931386": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5062178760078393674": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-08"
+    },
+    "5064430559892079091": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-10-08"
     }
   },
@@ -853,10 +853,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-08",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-27-21:00",
     "2026-09-28-06:30",
     "2026-09-28-08:00",
     "2026-09-28-12:30",
@@ -915,14 +921,10 @@
     "2026-10-07-19:30",
     "2026-10-07-21:00",
     "2026-10-08-06:30",
-    "2026-10-08-12:30"
+    "2026-10-08-12:30",
+    "2026-10-08-17:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY2hpVUY3ZTA1R3NmRUFtZUl2OUdCMnZNZVpxVVZUVG1HMFREQVREQXlXN3huTlN5Ql9fM1lBZGF2T2dwVnlzR005NTRuZlNVemlEUHFROHlqcy1EZEFxRnFOREFqMGxxNXVyOF9zV2lVUnFwbFRjZ2xtazlERDdzV2hBX2cxU090RWQ4YmttRGE5MTdoby1xZ05sU25pTkNBSlRMVXV3N0Qwc0ZYdFVnS2xVRFVEZzBGbDNNOThycEwwNkIwTUc2Q0ZHdHFUMTdTc0VuZWV1QlJ6Vk5xZXUxadIB7wFBVV95cUxNdEdZazdPd1V1Wk96U2hZR1hkWWs0V1ZQQ1ZfZFltWHBGVlVMOERjZVdXNDNfbURPV0RrV0dUbTVPRU1vekZvNUJrc1VxenRyX1Jac2Y5ZkF3YktTN0YyN0M5d3R3NzhrLUt6NGtkUmVmSENubXRBMWU5Tlg3WkRKMDdOYUNhWG1qTVZJWlQwLVpoTjZST0dsaWxNMjl4VDhqcHh3ODd3aTlYdXQwMEw4LWFPX2llR0YxQkhiWHJHa0tQR2swUHc3NWR4dmZuVkwwUWFKQWlHZlU5ZXR1VHp6d1NPbVhId2N3RFJwUXg0aw?oc=5",
-    "https://news.google.com/rss/articles/CBMixwFBVV95cUxOS0dRQnQxN3R0QTdRVEhwVko1UEJsRWtzaTJSeVBlYWtSMFdibUxMN3NTZzg0UVVJNzJscVhabUlNT3ZtRnU0eVNab3FXV0VDMmpNX1dHVE1hdDZ2VkVHc2x2NzRSX3VBaF91WTJXZzdnZE1HcWE0TERFVGRnd1N5MmNaSDNuVjVJWHhnSm9XV3RlTGxOdHEzV1RBMTRaRWg1Q3U1MEZWOXFpeHd2UHl4VTMzVENMeDFHaWd6VUlMdXBqV0J1LUdB0gHMAUFVX3lxTE5JNDNPVkppdzZoY3l4M19xUDhJY3pNVVdaMndmOHlBUnhxSnVwdWlfOEx3THN5VVlPRHFFUlUzWGI2NWZ4ZUVVa1NOWkF3VVVfaF9PaElSZm1sNzlhTXZIRmFwdGNUX2p2OXlZWGdUQVhTanlyTE1oV2FWbVVmMS04Uzg5UUdWVkJIaV9YWjQteUVjRlU1N2E0Uk85V0w0NXgzY2JyTEptNDRndkF1NDhwOEFGZ2JldmtJeEF3ZXJZQXB1eEZ0aWNBb3FUag?oc=5",
-    "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc1VHcndGNlZkRlVsX0p2eTlITTI0cFdGNHpwRkRzMHo3S0tCSDZVOU5hRHk0M3hJVGFLMElNZmZtVVpWeUY4YVRlMjdTSWFxU3VBVUtDRXNUSjMxeUViWEM1WmY2RXZ1OEtlbG9LNG5FaUNqc29OSTV4emhnNTAwNkJtSnFfVUkxTUQydHhFdTZBXzVYeXdHc1FhZWNMdXBVREtEQTZJVVFNcmJKbHdTZmtIemQ3NHdTU2hERjQyMmNlS0hva0dsQmN1QW56Y3otaS1BQ1V0b2REbUJ4Z3hWeDRoU0FtWWV4WjNPeWFRaGZ6MHU3?oc=5",
-    "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdzQzT1k4ZkxhYUgwTk9EN21KZG5pa0FKNEREWFVnYnBPLVJCUjdxZVRMSmJBSVVNNVVid002QjhjT2JsR0ZncE5yY01qc19PbE9lMGhuSlktRFRJMWpPeFgySUIxV2tudmFwaUJ2bUtoYXJXSlYweEFXT2NGYUZJRlY0NmRYdWdSelUwcEtFSDVQN2toUExCMGxBMHpZc3hHcGFNZ0pEOWd4VFJ3Qk1KMXVDSnZmYU5IdFB0dDIxVHVNem41Z2FDc3UxZURTZWpYbzJFckU4UUtMMEZhY0Z2MzNyb1pycHNWTXZCZVJYeS1UcGRxSkJ0SjdWX3g3YTFPbWVrOVRCZDEzMDjSAZoCQVVfeXFMT1FhTmRHNFV0X3JwQWsxVVZGYllpSmNhc3dLa0R1S211alNlMGdDWDZZZU5BQzhTSnhpSXlvcVRnQnpoUkRiOEI2dFZtMXozdW1vQnBDRTNVSHpSNUw0N0tVc0MwRml0d2ZleWY2OG5ZYkZaS0tubDAwOGYwa1N1cFZXLWJMa24tMUNBRmlTSHQyLXhTYWZ6czJISHVBejJfbDdfcHVFclFNcl92eTl5b3BnajlUQkFTOFVBSzctazl1anBEYXdURkhOaWc5WG8wdmJJLUFLQ04wNFlMUjRoNGdKUWdaZ20zQjRsWUE5dEJrN3VOVG1DZHhYblVCMDYxNmc1TnlURU4xQ24tMkpOZkFLbGgzamlRYUR3?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNY0lfUld1WVplbk1jRTFSY2lpQ0tISHJoSTFLNFRZeHo4NU5mcFZSanpRbXNUNDVNTGRtRW5mXzFWbjZFMmpQcG1WMWlCeUpYYkdiM0JlSU1wSGxQM2JTdlRxN1hPTE5zQ2pSN3gxcnZQOG4yQXhFby1kZXdqX1pPTXBqaW4yNURCRlp1WHNWblpCOUV3aGM0NXRZZmVJSDdkbGNrVUxFLVBGRzV6M1Nma2FkWGVOVHlZNVRvSzVjcjEyWEJVUjJTaGI5bjVaZFdtdlFRY1oxQTFRbDBXNlhuMzZybm1PQ293bEE?oc=5",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/29/presidente-do-tse-determina-que-candidatos-do-novo-participem-de-debates-eleitorais.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/debate-globo-candidatos-governo-sp.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/09/29/tre-sp-inicia-teste-de-integridade-das-urnas-eletronicas-para-o-1o-turno-das-eleicoes.ghtml",
@@ -1117,7 +1119,12 @@
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-diz-que-adversarios-tentaram-impedir-sua-vitoria.ghtml",
     "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/08/mdb-planeja-ato-para-declarar-apoio-de-diretorios-estaduais-a-flavio-bolsonaro.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/08/fux-determina-que-area-tecnica-do-stf-libere-acesso-aos-inqueritos-das-fake-news-da-milicia-digital-e-trama-golpista.ghtml",
-    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-sms-que-manda-regularizar-titulo-antes-do-2o-turno-e-indica-site-que-cobra-pix-de-r-1354.ghtml"
+    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/08/e-fake-sms-que-manda-regularizar-titulo-antes-do-2o-turno-e-indica-site-que-cobra-pix-de-r-1354.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/lucas-pavanato-e-guilherme-boulos-se-encontram-e-trocam-provocacoes-no-aeroporto-de-brasilia-video.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/flavio-bolsonaro-visita-arcebispo-de-brasilia-e-recebe-imagem-de-nossa-senhora.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-avaliacao-governo-celina-8-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/08/datafolha-df-governador-segundo-turno-8-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/08/asfalto-cede-e-cratera-de-4-metros-de-profundidade-se-abre-na-asa-norte-no-df-veja-imagens.ghtml"
   ],
   "palavras": [
     {
@@ -2196,6 +2203,18 @@
       "exemplo": "政府は新しい経済の提案を発表しました。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-08",
+      "proxima": "2026-10-09",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-08-17:30-de",
+      "palavra": "der Asphalt",
+      "leitura": "der Asphalt",
+      "sentido_pt": "o asfalto",
+      "exemplo": "Der Asphalt in der Straße ist alt und muss repariert werden.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-08",
       "proxima": "2026-10-09",
       "acertos": 0
