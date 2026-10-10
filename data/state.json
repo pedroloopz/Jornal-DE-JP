@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Unternehmen",
-    "jp": "極限"
+    "jp": "動向"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "極限の状態の中で人間の本性が現れる。",
-      "leitura": "きょくげん"
+      "frase": "政治の動向を注意深く見守る必要があります。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5051047566351794402": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-04"
-    },
     "5051047566351794403": {
       "correta": 1,
       "lang": "jp",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-09"
+    },
+    "5067079450907115893": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-10-10"
     }
   },
   "pendentes": [],
@@ -916,10 +916,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-10",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-29-12:30",
     "2026-09-29-17:30",
     "2026-09-29-19:30",
     "2026-09-29-21:00",
@@ -978,14 +984,10 @@
     "2026-10-09-12:30",
     "2026-10-09-17:30",
     "2026-10-09-19:30",
-    "2026-10-09-21:00"
+    "2026-10-09-21:00",
+    "2026-10-10-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/30/veja-o-que-e-fato-ou-fake-no-debate-da-globo-com-candidatos-ao-governo-do-distrito-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/09/30/candidatos-do-df-fazem-promessas-para-meio-ambiente-comercio-e-tecnologia-nesta-quarta.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professor-robson-pstu-para-o-governo-do-distrito-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-elisson-agir-para-o-governo-do-distrito-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/09/30/qual-e-o-numero-de-professora-samara-mineiro-up-para-o-governo-do-distrito-federal.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/01/lula-assina-medida-que-que-concede-beneficio-do-inss-a-mulheres-vitimas-de-violencia-domestica.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/01/moraes-aplica-multa-de-r-5-mil-a-advogado-de-reu-do-81-por-uso-de-prompt-oculto-de-ia-para-manipular-sistema-do-stf.ghtml",
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/01/equipe-de-lula-ja-debate-estrategia-para-segundo-turno.ghtml",
@@ -1180,7 +1182,12 @@
     "https://www.thestreet.com/investing/stocks/cramer-ai-stocks-nvidia-selloff?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/09/what-is-physical-ai-nvidia-is-the-stock-i-d-buy-to-own-it/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/09/why-crowdstrike-holdings-stock-crushed-it-on-friday/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-stock-trading-231510875.html?.tsrc=rss"
+    "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-stock-trading-231510875.html?.tsrc=rss",
+    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml",
+    "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/10/justica-italiana-marca-para-o-fim-de-outubro-novo-julgamento-sobre-extradicao-de-zambelli.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/10/fachin-deve-receber-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml"
   ],
   "palavras": [
     {
@@ -2369,6 +2376,18 @@
       "tema": "bolsa",
       "data": "2026-10-09",
       "proxima": "2026-10-10",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-10-06:30-jp",
+      "palavra": "動向",
+      "leitura": "どうこう",
+      "sentido_pt": "tendência / movimento",
+      "exemplo": "政治の動向を注意深く見守る必要があります。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-10-10",
+      "proxima": "2026-10-11",
       "acertos": 0
     }
   ]
