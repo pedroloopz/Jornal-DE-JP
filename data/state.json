@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Hauptstadt",
-    "jp": "動向"
+    "jp": "評価"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "政治の動向を注意深く見守る必要があります。",
-      "leitura": ""
+      "frase": "その企業の株価評価は専門家の間でも意見が分かれています。",
+      "leitura": "そのきぎょうのかぶかひょうかはせんもんかのあいだでもいけんがわかれています。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5051047566351794404": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-04"
-    },
     "5053108742631981287": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5067079450907115897": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-10"
+    },
+    "5067079450907115900": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-10"
     }
   },
@@ -930,10 +930,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-10",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-29-19:30",
     "2026-09-29-21:00",
     "2026-09-30-06:30",
     "2026-09-30-08:00",
@@ -992,14 +998,10 @@
     "2026-10-09-19:30",
     "2026-10-09-21:00",
     "2026-10-10-06:30",
-    "2026-10-10-08:00"
+    "2026-10-10-08:00",
+    "2026-10-10-12:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/01/spacexs-chip-fab-will-be-bigger-than-any-building/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/01/prediction-taiwan-semiconductor-stock-will-skyrock/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/01/worst-performing-magnificent-seven-stock-2026/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-gets-fair-220550617.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/chinese-state-funds-backed-purchases-215942410.html?.tsrc=rss",
     "https://g1.globo.com/politica/noticia/2026/10/01/associacoes-de-imprensa-manifestam-profunda-indignacao-com-intervencao-judicial-em-regras-do-debate-da-globo.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/01/lula-diz-que-flavio-bolsonaro-e-vira-lata-e-mandou-irmao-aos-eua-para-falar-mal-do-brasil.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/01/lula-lamenta-morte-de-lito-sousa-uma-das-grandes-referencias-da-internet-brasileira.ghtml",
@@ -1194,7 +1196,12 @@
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/10/dia-das-criancas-veja-onde-comemorar-a-data-com-a-garotada-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/brb-decisao-de-comprar-master-foi-tomada-em-reuniao-na-suica-com-ibaneis-paulo-henrique-e-vorcaro-aponta-policia-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/09/ibaneis-agiu-de-forma-direta-para-expandir-brb-e-validar-tentativa-de-compra-do-master-diz-pf.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/09/ibaneis-agiu-de-forma-direta-para-expandir-brb-e-validar-tentativa-de-compra-do-master-diz-pf.ghtml",
+    "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/10/1-reason-the-meta-muse-ai-agent-has-the-upper-hand/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-more-doubled-revenue-132539113.html?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/10/can-1000-in-bitcoin-help-you-retire-a-millionaire/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2405,6 +2412,18 @@
       "exemplo": "Brasília ist die Hauptstadt von Brasilien.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-10",
+      "proxima": "2026-10-11",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-10-12:30-jp",
+      "palavra": "評価",
+      "leitura": "ひょうか",
+      "sentido_pt": "avaliação",
+      "exemplo": "その企業の株価評価は専門家の間でも意見が分かれています。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-10",
       "proxima": "2026-10-11",
       "acertos": 0
