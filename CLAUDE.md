@@ -37,3 +37,6 @@ Bot de estudo de japonês (N3→N2) e alemão (A2→B1) no Telegram, com Gemini 
 - **Simplicidade primeiro:** escreva o menor código que resolve. Nada de opção, camada ou recurso que não foi pedido.
 - **Mudanças cirúrgicas:** toque só nas linhas necessárias. Não reformate, não renomeie, não "melhore" o código vizinho.
 - **Objetivo verificável:** antes de começar, diga como saber que deu certo (teste ou execução de ensaio). Só termine quando passar.
+
+## Pendente para a FASE 1
+- Limpar no `cultura.yml` a sobra do horário da pintura (`github.event.schedule == '0 13 * * *'` no `TIPO`); a pintura foi desligada.
