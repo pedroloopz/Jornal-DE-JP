@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Buch",
+    "de": "Nachricht",
     "jp": "経営"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Sie lesen das Buch am Abend.",
+      "frase": "Die politische Nachricht war sehr überraschend.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048795766538109190": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-04"
-    },
     "5048795766538109191": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5066682359705764290": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-09"
+    },
+    "5066682359705764293": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-10-09"
     }
   },
@@ -895,10 +895,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-09",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-28-21:00",
     "2026-09-29-06:30",
     "2026-09-29-08:00",
     "2026-09-29-12:30",
@@ -957,14 +963,10 @@
     "2026-10-08-21:00",
     "2026-10-09-06:30",
     "2026-10-09-08:00",
-    "2026-10-09-12:30"
+    "2026-10-09-12:30",
+    "2026-10-09-17:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/article/ai-spending-will-fuel-wins-for-micron-nvidia-intel-and-other-chip-stocks-bofa-analyst-193925832.html?.tsrc=rss",
-    "https://www.benzinga.com/markets/prediction-markets/26/09/62091668/amazon-synopsys-1-billion-aws-custom-chips?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "https://app.moby.co/home/news/news-cannabis-investors-were-betting-on-washington-then-washington-hit-pause?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "https://www.fool.com/investing/2026/09/30/the-sec-just-granted-a-temporary-innovation-exempt/?.tsrc=rss",
-    "https://finance.yahoo.com/m/d6ca315b-f3cd-32f0-bb1c-aab2385963ae/ftc-reportedly-probes-openai.html?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0Fub3M1TGZsd0FKb2lwQ0FDS3ZuQ2IwOFFlQkNxQzgxTnJvWGhMZHdMd0VqX3pSUFQ1REVBeEsyUFA5b3RTUG1oR1lVdk9RSTQtamhWM3k0QUdFWUJTTWZHSm5ZMm1mMjVjODNGWVhmR2xjWDNNQjl3cndvWG04TWlXRjlfSDNqM3pSUEotVmNfdw?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNGhpX2hhUXV5cUN1My1FUnBOYnNVcTIyTmJVVG12U0ljWENVVnJPWjJ3azg0RERHTE1EWGprT2RHbjVlV3pMSDBEenBUcDNaaHQydjY1Y2c2bkpBRjExMHRjX3VSMXFVZDc1ajNNWTdoWUhiRXgxUHFNUmExbC1HM0JnVVpHeUZBOC1ORkViMTItaWd6ODRPLV93ck1hMHRFd3pPNGJqQldLQWtaX0cxQk1ubnFOY3FQc2ZwYzctTUstck8xUERULXJhTmk1dFIybXRuVw?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDhOSHUtek53ekVCMHVXT254YV9WUlQwNEx3MWF2Z1gxTXBzNEtTaV9Sb3REUXQ0RHNaYXV0Q1FxOVN1Z0V0SkFuTzVuVTl1NkZKR01lVC1Wb0hXb3RDN0NNcmhTR3JESmNEeWZZamJval9OUnpEa0NnbDhJcFVQMUtoQ24wQlRwdXVQZk4xSzJ4S1FxaWEyUDMtRnMtOW1UVlI4WFd2OVBzV01tR2ZIQ3I3UmhlWUF00gG7AUFVX3lxTE9EdVM2bi0xMlFZT1EtRVpOREhaRlRkZWE3ZEJmdlJSRmsyazdPaEVXb3B5Q3NLeVYxZ3R2Qjd1ajlBRzRydHpKTGJoUTN2VjNzQlJPdlhJM045WnpQQWkwYkYwT1d1T1JFaU5UZW8xbzU4YUprRllXQ3RtSFZrM2Jldk5XZmM4OWc1S3F2NERnSEZROGhQTmRwcG5yTk85UGUzRko0Rm1GTE5qWjgyeVg3U1I5T1lPQ1Yxdlk?oc=5",
@@ -1159,7 +1161,12 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXRkYXN0WWxWOWRQeE9kWVZjZU0tYTFvOU11TWRNeXJUakMzeUQ1VUJzSlo4QW9xX3VjRG1ZdXZCb0dVZ0VaeGJWbEpKdVF5a2txWVZKblVJU2QzM2JJTGVvemlYckhScGJzRTFnY0U0Q0dHVXVSTmJsakloVzl4UXhPR0J6WXdpV1A5OS0zODVtbWxpb1ExZnZPMGwyUXVoZVhoeVFUcGpycGNuaTJJSVFITndGMVZqMDlLbUxndlc5a1U4VlhSMzVSTTM1MzVrQ2I2YmlveGdQUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdURsU2dRbUV3dkZ0aHhfZ210T1VLQ1lRTy1OazR1Y0J2ZUFXdzVKdDJsdzZVUVpZTWlGb2VndGFGZ1pabVgyYmtqVXVPaFQ4NUw2a196amNYY0hMNkl1WmZTNzVCU0tUU2Zxa2JNZ00xazc2cHZ6NlFaSUZhbzJsdjY0aU9MamZyWXY0SFdxalQ4QzFhU2pBNmFrT2JYbDh2dkJYaHJqcVZmaFZUZzhQZ1FJSm1XVVJS?oc=5",
     "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSHdwSWFBR2xsOEVtQzQ1eEdlZnhPS0Vtc3FVX21EekxjdU5YVVZmVnI2RDRFRU0zY2V1M1EtRC1OU3RUMHp5aVM5NmpBSXkxdy1XVVYzQXA3VlI0RkZ3aXhCZkxwMlVNcWpoZjFyZW1YWGdaUGl3allFNTRWV3REOWU3YTV2YmVuY1E2NUh0djRvZ0lDb3FmbElfWTJFSUdwYjdKSHZuQWduY3N3SE1IN1NHYmV4Rzd2V05mUElnLWZTYlHSAcgBQVVfeXFMT0t1WFZfNEtjRGEzemZwbkpSbzRxNTZteDhsbnVLWXNaS3BrRWs1Q3Q3ZGVSc3VNOFB0d2tJbFk1bE55X2ZtckZ6cC14NVRWVHVCQlAyS3ZsVlRsYzZsa3BVeHVfUHFOMjI1LWZERG1QTXpVMjh6Zkd2LXlOUWZuejlZaUN6Yzc2dVp0NDQ2bmJxd0tNWDIwcnZ5N0hyNFdWdE1Jcm5WQS1VNEpsVWdpemFVZFR1UnctckNFd2Y1VGFNTndxdFROREo?oc=5",
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaTRFV0hYTXpjQnV4Mm4yNzF1Mk1tSjlBeVpsQllmLWtSd3RKOURiZUZLUmVMRkJJUU9RVUxoampPSW9xZnhialcwbXB1OVhhYTUzbUZVSkpyMFdrU3BWb25sVEdmTlY4cW9HZVIyUldKTE8xbXhtSFJEV2hGbTN1X3dCRFptamxDSFJTZVhFS3FJUW9lZm1LdjlUUUlNZ0c4SmZPQzFCVTdFUFdIRjc0SkhkS0QtYnpoX0U4VEMzSlgyd0N0dFFTMFF4WWUwdlNNR1BqUzFBNDhoVWFHUzZ6Q1BzVUFoN1hRcFBWRjZGTFZ3bWo0Ql9zYlNkV01vUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaTRFV0hYTXpjQnV4Mm4yNzF1Mk1tSjlBeVpsQllmLWtSd3RKOURiZUZLUmVMRkJJUU9RVUxoampPSW9xZnhialcwbXB1OVhhYTUzbUZVSkpyMFdrU3BWb25sVEdmTlY4cW9HZVIyUldKTE8xbXhtSFJEV2hGbTN1X3dCRFptamxDSFJTZVhFS3FJUW9lZm1LdjlUUUlNZ0c4SmZPQzFCVTdFUFdIRjc0SkhkS0QtYnpoX0U4VEMzSlgyd0N0dFFTMFF4WWUwdlNNR1BqUzFBNDhoVWFHUzZ6Q1BzVUFoN1hRcFBWRjZGTFZ3bWo0Ql9zYlNkV01vUQ?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/10/09/pf-e-pgr-negam-que-vorcaro-tenha-afirmado-em-delacao-que-financiou-documentario-sobre-lula.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-motivo-abstencao-eleitores-1-turno-2026.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/09/tse-suspende-site-que-oferece-criptomoeda-a-quem-divulgar-conteudo-que-defende-voto-em-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/09/fachin-pf-ameacas-dino.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-momento-escolha-voto-eleicoes-9-outubro.ghtml"
   ],
   "palavras": [
     {
@@ -2310,6 +2317,18 @@
       "exemplo": "クラブの新しい経営方針が発表されました。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-09",
+      "proxima": "2026-10-10",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-09-17:30-de",
+      "palavra": "die Nachricht",
+      "leitura": "",
+      "sentido_pt": "a notícia",
+      "exemplo": "Die politische Nachricht war sehr überraschend.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-09",
       "proxima": "2026-10-10",
       "acertos": 0
