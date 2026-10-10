@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Nachricht",
-    "jp": "経営"
+    "jp": "極限"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "クラブの新しい経営方針が発表されました。",
-      "leitura": ""
+      "frase": "極限の状態の中で人間の本性が現れる。",
+      "leitura": "きょくげん"
     }
   },
   "obra_idx": {
-    "jp": 10,
+    "jp": 11,
     "de": 9
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5048795766538109191": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-04"
-    },
     "5051047566351794399": {
       "correta": 1,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5066682359705764293": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-09"
+    },
+    "5064827651093430642": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-09"
     }
   },
@@ -902,10 +902,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-09",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-29-06:30",
     "2026-09-29-08:00",
     "2026-09-29-12:30",
     "2026-09-29-17:30",
@@ -964,7 +970,8 @@
     "2026-10-09-06:30",
     "2026-10-09-08:00",
     "2026-10-09-12:30",
-    "2026-10-09-17:30"
+    "2026-10-09-17:30",
+    "2026-10-09-19:30"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0Fub3M1TGZsd0FKb2lwQ0FDS3ZuQ2IwOFFlQkNxQzgxTnJvWGhMZHdMd0VqX3pSUFQ1REVBeEsyUFA5b3RTUG1oR1lVdk9RSTQtamhWM3k0QUdFWUJTTWZHSm5ZMm1mMjVjODNGWVhmR2xjWDNNQjl3cndvWG04TWlXRjlfSDNqM3pSUEotVmNfdw?oc=5",
@@ -2329,6 +2336,18 @@
       "exemplo": "Die politische Nachricht war sehr überraschend.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-09",
+      "proxima": "2026-10-10",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-09-19:30-jp",
+      "palavra": "極限",
+      "leitura": "きょくげん",
+      "sentido_pt": "limite / extremo",
+      "exemplo": "極限の状態の中で人間の本性が現れる。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-09",
       "proxima": "2026-10-10",
       "acertos": 0
