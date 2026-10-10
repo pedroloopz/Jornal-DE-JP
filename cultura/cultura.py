@@ -31,6 +31,7 @@ ESTADO = AQUI / "state.json"
 TZ = ZoneInfo("America/Sao_Paulo")
 TOKEN = os.environ["TELEGRAM_TOKEN"]
 CHAT = str(os.environ["TELEGRAM_CHAT_ID"]).strip()
+THREAD = (os.environ.get("TELEGRAM_THREAD_ID") or "").strip()  # tópico do grupo (vazio = sem tópico)
 TG = f"https://api.telegram.org/bot{TOKEN}"
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODELS = list(dict.fromkeys(m for m in [
@@ -275,6 +276,7 @@ def musica(st):
              + (f"\n🎧 <i>{e(out['ouvir'].strip())}</i>\n" if out.get("ouvir", "").strip() else "")
              + f'\n▶️ <a href="{link}">Ouvir no YouTube</a>')
     tg("sendMessage", json={"chat_id": CHAT, "text": texto[:4000], "parse_mode": "HTML",
+                            **({"message_thread_id": int(THREAD)} if THREAD else {}),
                             "link_preview_options": {"url": link, "prefer_large_media": True}})
     st["musicas"].append(i)
     print("musica enviada:", obra, "|", titulo_video or "busca")

@@ -38,6 +38,9 @@ TOKEN = os.environ["TELEGRAM_TOKEN"]
 TG = f"https://api.telegram.org/bot{TOKEN}"
 TG_FILE = f"https://api.telegram.org/file/bot{TOKEN}"
 CHAT = str(os.environ["TELEGRAM_CHAT_ID"]).strip()
+# Tópico 🇯🇵🇩🇪 Idiomas do grupo (vazio = conversa privada, como antes)
+THREAD = (os.environ.get("TELEGRAM_THREAD_ID") or "").strip()
+TOPICO = {"message_thread_id": int(THREAD)} if THREAD else {}
 MODO = (os.environ.get("MODO") or "jornal").strip()
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODELS = list(dict.fromkeys(m for m in [
@@ -181,7 +184,7 @@ def tema_do_dia(dia, lang, k):
 # ---------------------------------------------------------------- Telegram
 def enviar_texto(texto):
     r = requests.post(f"{TG}/sendMessage", json={
-        "chat_id": CHAT, "text": texto, "parse_mode": "HTML",
+        "chat_id": CHAT, "text": texto, "parse_mode": "HTML", **TOPICO,
         "link_preview_options": {"is_disabled": True},
     }, timeout=30)
     if not r.ok:
@@ -197,7 +200,7 @@ def enviar_audios(lista, lang):
         if len(lista) == 1:
             path, titulo = lista[0]
             with open(path, "rb") as f:
-                requests.post(f"{TG}/sendAudio", data={"chat_id": CHAT, "title": titulo, "performer": perf},
+                requests.post(f"{TG}/sendAudio", data={"chat_id": CHAT, "title": titulo, "performer": perf, **TOPICO},
                               files={"audio": (path.name, f, "audio/mpeg")}, timeout=90).raise_for_status()
             return
         media, files = [], {}
@@ -205,7 +208,7 @@ def enviar_audios(lista, lang):
             media.append({"type": "audio", "media": f"attach://a{i}", "title": titulo, "performer": perf})
             files[f"a{i}"] = (path.name, open(path, "rb"), "audio/mpeg")
         try:
-            requests.post(f"{TG}/sendMediaGroup", data={"chat_id": CHAT, "media": json.dumps(media)},
+            requests.post(f"{TG}/sendMediaGroup", data={"chat_id": CHAT, "media": json.dumps(media), **TOPICO},
                           files=files, timeout=120).raise_for_status()
         finally:
             for _, fh, _ in files.values():
@@ -219,7 +222,7 @@ def enviar_quiz(item):
     if not q or len(ops) < 2 or not isinstance(c, int) or not 0 <= c < len(ops):
         return None
     base = {
-        "chat_id": CHAT, "question": ("❓ " + q)[:300],
+        "chat_id": CHAT, **TOPICO, "question": ("❓ " + q)[:300],
         "options": [{"text": o[:100]} for o in ops[:4]],
         "type": "quiz", "correct_option_id": c,
         "explanation": (item.get("explicacao_pt") or "")[:200],
@@ -283,6 +286,17 @@ def registrar_revisao(st, soube, hoje):
     return f"🔁 {p['palavra']} → volta amanhã"
 
 
+def do_meu_topico(msg):
+    """Privacidade: só o chat configurado e, no grupo, só o tópico deste bot. Sem tópico
+    configurado, só a conversa privada. O resto é descartado sem ler, salvar nem mandar ao Gemini."""
+    chat = msg.get("chat", {})
+    if str(chat.get("id")) != CHAT:
+        return False
+    if THREAD:
+        return str(msg.get("message_thread_id")) == THREAD
+    return chat.get("type") == "private"
+
+
 def processar_updates(st):
     """Lê o chat. Retorna confirmações; frases e áudios vão para st['pendentes']."""
     confirmacoes = []
@@ -298,18 +312,21 @@ def processar_updates(st):
         return confirmacoes
 
     hoje = datetime.now(TZ).date()
+    ignoradas = 0
     for u in updates:
         st["last_update_id"] = u["update_id"]
 
         pa = u.get("poll_answer")
         if pa:
             qz = st["quizzes"].pop(pa.get("poll_id"), None)
-            if qz and str((pa.get("user") or {}).get("id")) == CHAT:
+            # quiz é do próprio bot; no grupo o id do chat não é o do usuário
+            if qz and (str((pa.get("user") or {}).get("id")) == CHAT or CHAT.startswith("-")):
                 registrar(st, "quiz", qz["lang"], hoje, ok=qz["correta"] in (pa.get("option_ids") or []))
             continue
 
         msg = u.get("message") or {}
-        if str(msg.get("chat", {}).get("id")) != CHAT:
+        if not do_meu_topico(msg):
+            ignoradas += 1  # outro tópico/chat: só a contagem, nada do conteúdo
             continue
         dia_msg = datetime.fromtimestamp(msg.get("date", time.time()), TZ).date()
         lang = st.get("ultimo_lang") or "jp"
@@ -320,7 +337,7 @@ def processar_updates(st):
                                     "alvo": st["ultima_frase"].get(lang)})
             continue
 
-        bruto = (msg.get("text") or "").strip()
+        bruto = re.sub(r"^(/\w+)@\w+", r"\1", (msg.get("text") or "").strip())  # /resumo@bot no grupo
         t = normalizar(bruto)
         if not bruto:
             continue
@@ -348,6 +365,8 @@ def processar_updates(st):
             lg = idioma_do_texto(bruto, lang)
             st["pendentes"].append({"tipo": "texto", "texto": bruto[:500], "lang": lg,
                                     "palavra": st["ultima_palavra"].get(lg)})
+    if ignoradas:
+        print(f"Telegram: {ignoradas} mensagem(ns) de fora do tópico ignorada(s)")
     return confirmacoes
 
 

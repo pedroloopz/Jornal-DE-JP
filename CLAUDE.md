@@ -15,7 +15,7 @@ Bot de estudo de japonês (N3→N2) e alemão (A2→B1) no Telegram, com Gemini 
 
 ## Segredos e variáveis (só os nomes)
 - Secrets: `TELEGRAM_TOKEN`, `TELEGRAM_CHAT_ID`, `GEMINI_API_KEY`, `PINTURA_TELEGRAM_TOKEN` (pintura, desligada)
-- Variables: `GEMINI_MODEL`
+- Variables: `GEMINI_MODEL`, `TELEGRAM_THREAD_ID` (tópico 🇯🇵🇩🇪 Idiomas), `CULTURA_THREAD_ID` (música → 🎨 Diário cultural), `TELEGRAM_AVISOS_THREAD_ID` (⚠️ Avisos)
 
 ## Como testar
 - Sintaxe: `python -m py_compile send.py cultura/cultura.py cultura/musicas.py`
@@ -30,6 +30,8 @@ Bot de estudo de japonês (N3→N2) e alemão (A2→B1) no Telegram, com Gemini 
 - Segredos só via `secrets`/`vars` do GitHub. Nunca chave no código nem no log; nunca peça token colado na conversa.
 - Dependeu de decisão do Pedro → pare e pergunte em uma frase, com opções.
 - O conteúdo de estudo continua em japonês e alemão; o resto em português.
+- **Privacidade:** o bot é admin do grupo e recebe tudo. Só processa mensagens do próprio tópico (`do_meu_topico` em `send.py`); as de outros tópicos (📸 Família, 📝 Rascunhos…) são descartadas sem salvar, logar ou mandar ao Gemini.
+- Erros vão para ⚠️ Avisos via `avisos.py` (mesma falha 2x seguidas, 1 aviso/dia, ignora rede/429/5xx).
 - **Custo:** não adicione chamadas à API do Claude. Use o Gemini que já está aqui ou nenhuma IA; se algo realmente precisar do Claude, pergunte antes.
 
 ## Como trabalhar
@@ -38,5 +40,3 @@ Bot de estudo de japonês (N3→N2) e alemão (A2→B1) no Telegram, com Gemini 
 - **Mudanças cirúrgicas:** toque só nas linhas necessárias. Não reformate, não renomeie, não "melhore" o código vizinho.
 - **Objetivo verificável:** antes de começar, diga como saber que deu certo (teste ou execução de ensaio). Só termine quando passar.
 
-## Pendente para a FASE 1
-- Limpar no `cultura.yml` a sobra do horário da pintura (`github.event.schedule == '0 13 * * *'` no `TIPO`); a pintura foi desligada.
