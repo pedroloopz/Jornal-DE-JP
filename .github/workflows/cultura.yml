@@ -2,14 +2,15 @@ name: cultura
 
 on:
   schedule:           # UTC (BRT = UTC-3)
-    - cron: "0 13 * * *"    # 10:00 🎨 pintura do dia
+    # 10:00 🎨 pintura do dia: desligada em 10/10/2026 (token antigo inválido;
+    # a pintura agora sai pelo repositório diario-cultural)
     - cron: "30 23 * * *"   # 20:30 🎼 obra musical do dia
   workflow_dispatch:
     inputs:
       tipo:
         description: "O que enviar agora"
         type: choice
-        default: pintura
+        default: musica
         options: [pintura, musica]
 
 permissions:
