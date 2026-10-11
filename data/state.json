@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Geschichte",
-    "jp": "取り締まり"
+    "jp": "得点"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は違法な薬物の取り締まりを強化した。",
+      "frase": "ボタフォゴは次の試合で多くの得点を狙っています。",
       "leitura": ""
     }
   },
@@ -172,6 +172,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-10-10"
+    },
+    "5068857975389553134": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-11"
     }
   },
   "pendentes": [],
@@ -967,10 +972,16 @@
       "lang": "de",
       "ok": true,
       "nota": null
+    },
+    {
+      "d": "2026-10-11",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-30-12:30",
     "2026-09-30-17:30",
     "2026-09-30-19:30",
     "2026-09-30-21:00",
@@ -1029,14 +1040,10 @@
     "2026-10-10-12:30",
     "2026-10-10-17:30",
     "2026-10-10-19:30",
-    "2026-10-10-21:00"
+    "2026-10-10-21:00",
+    "2026-10-11-06:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/02/cybersecurity-stocks-are-soaring-this-one-bargain/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/02/10-year-treasury-notes-yield-52-right-now-heres-wh/?.tsrc=rss",
-    "https://www.trefis.com/articles/617300/how-much-upside-is-left-in-apple-stock/2026-10-02?.tsrc=rss",
-    "https://www.cryptoprowl.com/releases/robinhoods-tokenized-stocks-are-becoming-a-new-memecoin-trade-report-7210?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/nvidia-well-positioned-ai-bottleneck-151204721.html?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcnVyRE1SVEdlZENaa2pNeDdueG1OTW4wTDVVWlhEbkJtSE5kRTFaOE15TmJ3LW1taGVSd1h2QnNaakV1MzM3QnIzak5BeDBwVTJYQUJPay1tSVZINGdESmdEWGk1RVJKU2QyeHFGT3RSR2VlQWYxR2hFRlZFemhBTW1wdjc5ZFpJQlJhdzFNQk12N3dZN3hfb1djbVBsMVBaYTNSWU1XTUFnRFdBd2JQb1NxLURrSk9HNi03RGRDdXRQWDluU0JfMk5aVGdZUXNrM1VNQ1AyZ3fSAecBQVVfeXFMUHJBenJkaWl1VjR6bFJLaFVsSS1SaU5PSHBmdU9vdFRGTkhOQ0xtS0J4NzVzV0piWXJNRlhqOUVhVTV0RGpoVXlJN2YtNzRNMFo5XzlrSEo4QTMteE1FckVNWGxhV0Jwbmg3VENrUXBmNHlsNGxNRUZfM3VfdW5yV0FpRzRDS3l0SlJfaHAySWVSWnd5c280bzBxSU1MSG1pZk1nSjlXUnlPbDJCRGRDajFxTkxpenJnSzZINk9pTXljMVIxWkx0bE5EZ2ZEWS1vbVY5dUd2RU1sVU5aVjlKVjZsNlFmaktr?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOd0FEdDBrMmEyeVN5OF9tTzhmRXVtMXBnSmVoRUI1RFpqeGtuUkFydUZyeWhtemsxTUx1UnRkZ18tLXAtSHZJdnBfMTVzM01IR1VJMDZKajBiLWExR3d6cWxVMld1M3B6bmFScXZsbkhXdjA5azlFQWN3MU9mS0p5djN4RVhPVU9XZjlKeGxfREpxRTk5NUlmMmowMTVSNVM2MFpRMVpobnd6QXo2WlF4dVVLV0luOXAwUU9HTDBPQlVsTzNtb1ZQRWpLcFNQU2JzUXhQb21GNU1SSURiNFI2YzFuRC1JVzRaQjdNeUxaMDFjbER5?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmh6SG5NMnQ5Qmd4ME1naDA5bm1oQV9tbHNDa05mcVE2cG85eXV6Yi1LSzhBWXNUUGFsMTJjYnN5U3hIQWZiQmJtb3VPS2F3OFY2RkVoMS1GbjR6WGJXV3A2ZTRsMUduN0I1QTVvalROTUhnNXVpOEotVDRRTVo5aDJfX19SWFZfVEhfUF9IRWluVHJhR0FJcFhZQnlkNVZhd2pqVUlKODFSYVZMOWZKQXRSNzNUY1RyTnBqa01kZ0NRYVphT2RfR0xnOA?oc=5",
@@ -1231,7 +1238,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-tenta-matar-desafeto-a-tiros-em-bar-no-df-e-atinge-outras-duas-pessoas.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/policia-apreende-botox-anabolizantes-e-materiais-suspeitos-de-falsificacao-de-medicamentos-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/incendio-atinge-galpao-de-cooperativa-de-reciclagem-na-cidade-do-automovel-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-de-46-anos-morre-apos-ser-atropelado-por-onibus-ao-tentar-atravessar-pista-na-estrutural-df.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-de-46-anos-morre-apos-ser-atropelado-por-onibus-ao-tentar-atravessar-pista-na-estrutural-df.ghtml",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0tSRTlCRGRiRWI1ZVpxT1lpcFJrWld5UVpfQldaRGppMlBzSUxQSktKMUNjbGZLNk9tdERSeTI1NXlxWFR1WkZIQ1BuWVhuNjktYjJIVGtHYUM1QVJhbmJKQy15Q3czdjVuMTNzOVlXdDRZTlJsNjRaUnFfRFpYdHZ4NURGLVU1TXF2VS1jMXc3NUtNaGVKdmJRaDBReVozSDBzTDRBdDIwYkQzRW1pdVUyTkdUaTRtOUR6QnhBUXRnQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTldzMHVyTi15VWg0OTNZUXFSZjhISV9FS3FrWGRfMTlmbnVBRkhsQzVTRGxhT0UyZlptVHcxYjhrQkdvZ1JOR0NXT1VEQWRrRmlFSlkzeERHaGw4dWd6SVhmWTdoakpReDRrVHVmU2JPOUlNMi10NkVHeE5iUzhTclNLcmR1dE9IM1loM3M1MEZLYmlEQTFOUzJfb3BiYjM5Nkd1dXRTYjlzOTJHbXRfU0kxRXZBYk1pRnNDdUlGNzRqWnBwQ2c0a3lpVkJJaHdVQ1FJcWEySW5zT25DdzI4aw?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1dXQWcxU2R0Z0F1RlZjcmtkQnIzLXFHRl85T3k3cXFOdDRPZTV3aE1HMDRsOVNZelRjLU81dHJrdzJ0X1NOUS04YUtiYmM4Nk5nNTFaWW5QNjN1bGgxWXY2TVFWc2ttTFZULUwtbUszU1FrTVBnZHJHWXF2OXM2OGFlNDc0YWJtSWxuYlZwZzNiSFRvSWZ6UW1ncGtDVmFxTVBYaThEZFJaTFd0aWlNbkMtR3dMLTVKcGdLTmlNZWdSaE50MlBPYVdkc0Z3MUdlbzRnZ0ZEZ01LWHpQQThLb2FfUXNFU3M0ODZVdklrMnBNTHZwOTNV0gGGAkFVX3lxTE5ZT1o2c0t4dzBqaTFOLTBfT0xSTFAxSURqa2hQcmtYRzl6MmNRZExFNnk4dG5PemszY1lpaVh3MmlEZ2VySlUyR3BkdFZuNExxZldEOFNtVGt0X2tNVlh4d2ZKU1dqMDJsbWdfOERoMndSN0pvMHhVdFIxSTVBUjFqN2FMTHlTQmpoMTJEODVZWnR2Y25fYkZiZDEtdWRLWm1DZjcxRXJ1SzUycG9yN0pLNmxHSDY1Z3RyLUFMaFNLcGpralctWHhSanRYRnhxZ19iaXQyTGVGdFV5YkotRHRxRmJ2YU5tZHFiR205Q3pLQmh5bFdOZGhndHJnRXgzR3lvM1lOOGc?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3pEY0FqZEFRd0x6QXMtdlpmUHp2cFF6QUJaVTEwUjdGSm1wZUJkSWt2MnROLXNWa3BIR2FfbUk5WFh2SThublNmSE92Q2Nsb0szYjdOSXVzbWNDd2VTS0NENGgzVHZpMlpPMVVXUWJUUFpfTkFHT3p6M2ZsczRzNk40MzlxbnZ2ZEhLZTRwekJUZ3c0Rk1Ca1lwalRBVjhlQ1dSd3FmU19JYURNeFJWTTZkUUdYVFpIN2c?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzNNOC1mWUtub0lTVjhxX21DWlJETi1nQlFkM3kxdjZmOUhqTG41QnlxREFpVU5sWE44OXJnckcyY3I1bUZtSmkzZl9fcnVneFF1cEJhV0M0cEp4SHBOZ2lCM0NQWjR0Rk1QQmwzbHlEZk95eEdhdElyNDlCNWNESHlhekl6UFowNUpNOF9xNlZhUHhwLU14Q0czRnFLX0hBSnM5bDdjS1haZ9IBuAFBVV95cUxPcTl3cU16NEszMldEXzRqME5ETUZTbVNJQlA0eHJabUQwY0p1ZEVPSUc0eTdPOTEtQjhJVVN3dHNaNWFrU3UzUmNWZm9rTDNzM0wxT3pFR3VYQ0tGVF9fWFVSS053SU1qRzQ3UUV2NDB3ME5xeEswZVV3a3RVZjNReHE1Ni1idnl3TWlzNXJpSW9wVGtFSHlTZ2RwWjAwTTVURXVNWS1MMDY2eElabEktd3ZjWHl5M0dh?oc=5"
   ],
   "palavras": [
     {
@@ -2492,6 +2504,18 @@
       "tema": "literatura",
       "data": "2026-10-10",
       "proxima": "2026-10-11",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-11-06:30-jp",
+      "palavra": "得点",
+      "leitura": "とくてん",
+      "sentido_pt": "pontuação, gol",
+      "exemplo": "ボタフォゴは次の試合で多くの得点を狙っています。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-11",
+      "proxima": "2026-10-12",
       "acertos": 0
     }
   ]
