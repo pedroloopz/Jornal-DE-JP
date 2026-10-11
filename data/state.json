@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Gesetz",
-    "jp": "得点"
+    "jp": "名作"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "ボタフォゴは次の試合で多くの得点を狙っています。",
-      "leitura": ""
+      "frase": "この小説は日本の文学史に残る名作です。",
+      "leitura": "この小説は日本の文学史に残るめいさくです。"
     }
   },
   "obra_idx": {
-    "jp": 11,
+    "jp": 12,
     "de": 10
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5055360542445666653": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-10-06"
-    },
     "5055360542445666656": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5068857975389553138": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-11"
+    },
+    "5071109775203238349": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-11"
     }
   },
@@ -986,10 +986,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-11",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-30-19:30",
     "2026-09-30-21:00",
     "2026-10-01-08:00",
     "2026-10-01-12:30",
@@ -1048,7 +1054,8 @@
     "2026-10-10-19:30",
     "2026-10-10-21:00",
     "2026-10-11-06:30",
-    "2026-10-11-08:00"
+    "2026-10-11-08:00",
+    "2026-10-11-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/noticia/2026/10/02/governo-eua-embaixada-brasilia.ghtml",
@@ -2533,6 +2540,18 @@
       "exemplo": "Das Gericht prüft ein wichtiges Gesetz.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-11",
+      "proxima": "2026-10-12",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-11-12:30-jp",
+      "palavra": "名作",
+      "leitura": "めいさく",
+      "sentido_pt": "obra-prima",
+      "exemplo": "この小説は日本の文学史に残る名作です。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-11",
       "proxima": "2026-10-12",
       "acertos": 0
