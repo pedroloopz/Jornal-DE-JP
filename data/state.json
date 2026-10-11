@@ -1,13 +1,13 @@
 {
-  "last_update_id": 950900693,
+  "last_update_id": 950900793,
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Defensive",
-    "jp": "評価"
+    "jp": "取り締まり"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "その企業の株価評価は専門家の間でも意見が分かれています。",
-      "leitura": "そのきぎょうのかぶかひょうかはせんもんかのあいだでもいけんがわかれています。"
+      "frase": "警察は違法な薬物の取り締まりを強化した。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5053108742631981290": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-05"
-    },
     "5053108742631981291": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5068913075524993275": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-10"
+    },
+    "5068913075524993278": {
+      "correta": 1,
+      "lang": "jp",
       "data": "2026-10-10"
     }
   },
@@ -951,10 +951,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-10",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-30-06:30",
     "2026-09-30-08:00",
     "2026-09-30-12:30",
     "2026-09-30-17:30",
@@ -1013,14 +1019,10 @@
     "2026-10-10-06:30",
     "2026-10-10-08:00",
     "2026-10-10-12:30",
-    "2026-10-10-17:30"
+    "2026-10-10-17:30",
+    "2026-10-10-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/02/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/02/datafolha-no-df-30percent-ainda-estao-indecisos-29percent-podem-mudar-voto-e-51percent-nao-sabem-numero-do-candidato-ao-governo.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/candidatos-do-df-falam-em-fortalecer-a-saude-publica-e-novos-concursos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/homem-e-detido-apos-abandonar-mochila-proximo-ao-stf-operacao-com-esquadrao-antibomba-mobiliza-area.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/01/df-volta-a-registrar-dia-mais-quente-do-ano-nesta-quinta-termometro-chegou-a-364-oc.ghtml",
     "https://www.fool.com/investing/2026/10/02/cybersecurity-stocks-are-soaring-this-one-bargain/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/02/10-year-treasury-notes-yield-52-right-now-heres-wh/?.tsrc=rss",
     "https://www.trefis.com/articles/617300/how-much-upside-is-left-in-apple-stock/2026-10-02?.tsrc=rss",
@@ -1215,7 +1217,12 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVdIM2VrSjBrZU8yc2dzNmtWdnFfbGR1bGh1bDVTTWk3eWNIZ3dDd0V1THkzQy1yMEZVc2l1Y0RSUlp1T0lLQWx3dmw0NHA0S2lQWUFPOGlWc1J0ZzhLZDVXWExvaWgwUnE1QTY0UnFqeE9HUFZ2Q015OEw2SGZVN3ZlLThocFItVG4xaHpMWklaSDFwTkNPMERWVmk5VDVzOE9OaGZ1aDdWUzg?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmpvNnJPamFZaUJzbXd4WkRDSG5xZ094UU5TakZaM3ctSUg2Qnk4X0o1MkR1dkRpY2xtVURKMVhwTTdyZllRZGdFa2tFQTFEMS1wemxlQWJrUmdHUFVDMTY0UEZqVXBzVXptMmU1N2hOMzF6U01FZVp4ZklkUnlYT0YzWUdGTWhfX3haRmVMc2J6SW13YW9ncUxhejJsd1MzNWNOY0RmU2tST2JkY2hkcTFuSXJVQzN2Sm1XOFFGb1E0Qzl0N2VaYjF2bXBlSDl1Q05mYU9LWVRTOVM4TGlIb1c5TVprT2gyNHo0bGpuZw?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclJORzg0a19tNl9xX1NxVWEtQ3liVnhkMWFyYWR2d3BqemtZaGNCZEhMNkYxaE9ucnRaN3FKQkJpMkIyczk1TjZKSmhXZkFhTFBQcExrQnBjOElVdnowdUhScHpZZjg5cEduUEVrV2dnSHJjVDBQSDJkc2NyUGRWT1pGY19nbkNsTV9UWmJRTEplM244Zm1vcTc4Y3E1djNybW0weUdIenBWaWs4akg1djNrbzZ0SmlhUXUtdHpzd3HSAcYBQVVfeXFMTWQteUpsMU85dmJFd2pXMXNFZ1NSM1R5OHNiZWVuUlljT3lNSnRWa185enV0NV9PMEZnaVZPU2g4R0lublJBc1VrWkVkMXNxYVoxNmNodk1ZY3BsQlVLd2EyNGRhNFFPNGNodlJpV1RpMElLRU0xenZUTmdHa0h2R2pjNWpQVHFFd3NWX0JTcGlLbGRFYW11bFZSa29iajJsY1dLNDNvZDQwYW1MR1kxeXNPeXdiWnVSeWV6ekZVQmRPZjZJRFFR?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFVBVGFOZmhVSGdacDMxRWU4SnZ5MU1WMEVBRmdTaUxfWjcxd0ZoaVBOcGROQS1MWFo0M0V1LVNsekJHZjIzQzd2c0Ridjl5QWlsTTlGeGtzV1Jqbl9zdW55Qzhpa0x2Z3VneWdEdjAxd3BoTmRQRlpWVHU5cUJlbTIyTzhEdkRMTlBXd3Z3Qzl4Uy1YeXZjQk55TDg5VHRGTThoQXpaTmY4cHJzU3BPV0JfamZkR19najczZ3BjV1E?oc=5"
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFVBVGFOZmhVSGdacDMxRWU4SnZ5MU1WMEVBRmdTaUxfWjcxd0ZoaVBOcGROQS1MWFo0M0V1LVNsekJHZjIzQzd2c0Ridjl5QWlsTTlGeGtzV1Jqbl9zdW55Qzhpa0x2Z3VneWdEdjAxd3BoTmRQRlpWVHU5cUJlbTIyTzhEdkRMTlBXd3Z3Qzl4Uy1YeXZjQk55TDg5VHRGTThoQXpaTmY4cHJzU3BPV0JfamZkR19najczZ3BjV1E?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/motorista-de-aplicativo-perde-controle-do-carro-e-derruba-poste-no-lago-sul-veja-video.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-tenta-matar-desafeto-a-tiros-em-bar-no-df-e-atinge-outras-duas-pessoas.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/policia-apreende-botox-anabolizantes-e-materiais-suspeitos-de-falsificacao-de-medicamentos-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/incendio-atinge-galpao-de-cooperativa-de-reciclagem-na-cidade-do-automovel-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-de-46-anos-morre-apos-ser-atropelado-por-onibus-ao-tentar-atravessar-pista-na-estrutural-df.ghtml"
   ],
   "palavras": [
     {
@@ -2450,6 +2457,18 @@
       "exemplo": "Botafogo hat Probleme in der Defensive.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-10",
+      "proxima": "2026-10-11",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-10-19:30-jp",
+      "palavra": "取り締まり",
+      "leitura": "とりしまり",
+      "sentido_pt": "repressão / fiscalização / controle",
+      "exemplo": "警察は違法な薬物の取り締まりを強化した。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-10",
       "proxima": "2026-10-11",
       "acertos": 0
