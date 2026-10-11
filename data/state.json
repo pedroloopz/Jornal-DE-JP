@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Gesetz",
+    "de": "Kurs",
     "jp": "名作"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Gericht prüft ein wichtiges Gesetz.",
+      "frase": "Der Kurs von NVDA steigt heute.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5055360542445666656": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-06"
-    },
     "5055360542445666662": {
       "correta": 1,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5071109775203238349": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-11"
+    },
+    "5071109775203238354": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-11"
     }
   },
@@ -993,10 +993,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-11",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-09-30-21:00",
     "2026-10-01-08:00",
     "2026-10-01-12:30",
     "2026-10-01-17:30",
@@ -1055,14 +1061,10 @@
     "2026-10-10-21:00",
     "2026-10-11-06:30",
     "2026-10-11-08:00",
-    "2026-10-11-12:30"
+    "2026-10-11-12:30",
+    "2026-10-11-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/10/02/governo-eua-embaixada-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/justica-mantem-prisao-preventiva-de-pedro-turra-reu-por-briga-que-matou-jovem-de-16-anos-no-df.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/02/pf-investiga-emprestimo-do-brb-a-flavio-bolsonaro-para-compra-de-uma-mansao-avaliada-em-r-6-milhoes.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-2-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/02/policiamento-embaixada-eua-brasilia.ghtml",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnpFM2p6ek5KQXRPOEZGNjlsSnRSQmhkbzVrcFdTanJhaElha0RNc0hOelZkOXl4bWljOTBPZzNvdG9HSWpocVZZRTFBbGJ6WE9aYXNkLTlLZXhHYy1tOHlyQjJYRWNaamRWY3dBa1VYcFByZm1oT0p4R0RzMWhYWVo5Zk41Ui1aNEluZ1Y1LVdZN1RPVW5iLVdZbjNPTU13b1Z4Q1JSZHVtYklQN0dQV1pEOER4OHppZi0wYU5ScWYtX1NVSkHSAcsBQVVfeXFMUDhQNk9DMU1KZWlYVTlGZU1HNlY5eDJJRVllMlpRVlJfeTVtbXhIbnB5aGEtYUtyLTlGeHlONEVjbmNpMUlhT0J6MkxHWjNWcDcxT0JsdmNXWjM3Z01wR29TZnZQak9YNUF3YzFmYWlRdlRYX3ZCaEVCbUhTajM5MGZINFpubnhLX2NXckZIUzFyeDJCUTh3QjExMHYwRDZPX2U1aURWaUd2S2VQSWdmTWwxSGIyaEVnQWQxVFVnY3pPTHduVXRhY3Z0QlE?oc=5",
     "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdERVU3JQemI3VFV1R3hGV01NekljUloyaXR2SVBNYmRINDlWMjJ3Z3VEcHZXNjBKUVlncHcxaVJmS3hhMEFEdTdTUEc1clpXY19GaHJNZlZncVA0NkhsS05tVXFJWk9wNzVTSzNoUW15XzFtTzZNRk9qRDR1bWx4UE45MGVPUzkwOWU4LUtsaHJQdXRCTDlaWkZMWnVtbzUxeVd4eHpqbG55VmVhN1dvaG8xRFVyM2JHS2tZMDBXOEdXMUdaUm96cUpwZlAxTUpWV2ZDY3JIbVY1dU1MMmJMUWtUMG1yOTU5b3hfV2l1anNMVGs5M0x2Yi15UmJZNk1Rdmx3?oc=5",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxObTlsaG9SZGlpbEZuakZHMFdRSnY2UVRjdzdyT2ExMGdjMUI1SVRyVGg5MWpBclpCWS1Rd2lpbW9VMzFqdkF6RGNtbUR2b2Jkd2RackE0Yk1OU015MGpSWVVYd0R4UjM4bVJGNmlQSlJhemtkNkY5QkJ6aWVTWmdiX2lxdDZoNFFYZHRXUUxiRkRGdFA5YUwtWVZoT3d4WDdHeHRtWmFzOWhOREkzcVQ2VjhxT2ktbEVtYXpVQndTNmtvQ1hNWmJ4SmJ2RlpHRUxranRwSWF3V1NXZFo1a21kR3dxcnB0a2xoSkJJRlFVSVpkYTZ2SFpZazRoajhWbEYxMEUyZmtDVmVQaUct?oc=5",
@@ -1257,7 +1259,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/nunes-marques-manda-derrubar-canal-exercito-do-lula-nas-redes.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/11/interlocutores-de-flavio-bolsonaro-procuram-gilmar-mendes.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/11/tse-manda-suspender-propaganda-eleitoral-de-lula-que-diz-que-flavio-bolsonaro-e-investigado-no-caso-master.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/11/ala-do-stf-ve-lei-da-dosimetria-como-alternativa-a-revisao-criminal-de-bolsonaro.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/11/ala-do-stf-ve-lei-da-dosimetria-como-alternativa-a-revisao-criminal-de-bolsonaro.ghtml",
+    "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/11/following-openai-s-revenue-report-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-27-190909543.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/11/beyond-sp-500-index-funds-heres-the-1-sector-id-bu/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2552,6 +2559,18 @@
       "exemplo": "この小説は日本の文学史に残る名作です。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-11",
+      "proxima": "2026-10-12",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-11-17:30-de",
+      "palavra": "der Kurs",
+      "leitura": "der Kuhrss",
+      "sentido_pt": "a cotação",
+      "exemplo": "Der Kurs von NVDA steigt heute.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-11",
       "proxima": "2026-10-12",
       "acertos": 0
