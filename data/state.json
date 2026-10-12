@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Gewitter",
+    "de": "Tor",
     "jp": "投資家"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Gewitter am Abend bringt viel Regen nach Brasília.",
+      "frase": "Er hat ein wunderschönes Tor geschossen.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5057681645851640238": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-06"
-    },
     "5057681645851640245": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5073361575016923410": {
       "correta": 1,
       "lang": "jp",
+      "data": "2026-10-12"
+    },
+    "5073361575016923412": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-10-12"
     }
   },
@@ -1021,10 +1021,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-12",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-01-19:30",
     "2026-10-01-21:00",
     "2026-10-02-06:30",
     "2026-10-02-08:00",
@@ -1083,14 +1089,10 @@
     "2026-10-11-17:30",
     "2026-10-11-19:30",
     "2026-10-11-21:00",
-    "2026-10-12-06:30"
+    "2026-10-12-06:30",
+    "2026-10-12-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-eleitores-com-deficiencia-contam-com-recursos-de-acessibilidade-nas-eleicoes.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/para-quais-cargos-serao-as-eleicoes-de-2026-entenda-o-que-os-eleitores-vao-escolher-nas-urnas.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/03/sem-citar-flavio-lula-diz-que-enfrenta-chefe-de-quadrilha-e-associa-adversario-ao-crime-organizado.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/03/tse-verifica-sistemas-para-as-eleicoes-e-emite-zeresima-do-sistema-de-totalizacao-de-votos.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-presidente-3-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/03/mpt-do-df-recomenda-que-iges-retire-limite-de-duas-horas-para-trabalhadores-de-plantao-irem-votar.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-senado-3-outubro.ghtml",
@@ -1285,7 +1287,12 @@
     "https://finance.yahoo.com/video/apple-plans-compete-home-power-184214442.html?.tsrc=rss",
     "https://finance.yahoo.com/video/cisco-nvidia-tackle-ais-growing-182401270.html?.tsrc=rss",
     "https://www.thestreet.com/investing/apple-cuts-iphone-18-pro-orders-as-ai-raises-the-bill?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/12/4-no-brainer-chip-stocks-to-own-for-10-years/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/12/4-no-brainer-chip-stocks-to-own-for-10-years/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ05pbmg2M2tBUEVXUmxsVG9Oa1o2b3BtOVpTc1dERmJDdjV2RHJfZzNLUUt1RXI1UTRKT242cmRtWXdqX3AybGJNRGRfV1prcHlhemFpeHFnVE45N01kcm5QOGtGVjBDQzRrTzJRWUg5RkRVTllFckNnTjRaaHVPMTRwRWU5ZXZScHBwcDZESk5YUzFaNVJaMmxHWnBHVUloY0pPbHNaTktKb2FaV0RWdXJyMkVGc25fZUZFZUpPenVqZjFWQUltVDk3S1UxbTJfdGZoUGlR0gHkAUFVX3lxTE14YVVtTEZDYVJNOXNFQld2NXloSk1TNHZILWRaUnIxbTZQeVdxVk9HUlBrSXlaN25ZT0FSUC16SkkzWGx2cHEyWE02MXhyeUphcE9faElaakh1bi1DS0JzSnVTYXY0Y3JJNjZIX19MLXVUbGZHcE0tMUl3Y2tYTGd2YmRlYXBjUlFNRGI2Qmxybk1mVjY4OU1rUWV6ZEtpMXZoNS1jaW53TVlWZDVDU01uWmM2Sk9wNzNRa1FrWFZ1ZXd1OFBUa2hrbDlwODkxNEtSb0szbnl2cnI3RXVGYm5rUGxxMA?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVUNiY2prYlFjc3dkZERkdHU3QmQ5OVpibGtGNEJJdVdySFRKR3AxU2FsNzRHeElKOGJfMldMTkpnNlNBYTdVellraC04eGxCbmJqOW9SSXZEajhkc1owM2s1MnVNTFB5RmRKdFdlQlNaMGsxM2sxWGZsQXowMEJCYVFnalpabVdOY1E4QncwYWpBekFwZmRBN1lYS0hTTWVUeVFzUUNGczhCU2dVMlMzZVR5YkwyWFk2SjhQYmdZQXVNXzlYZUhOUUh6aGFkc2IwMkl1a0lNbFByOXVkNXRVNlRhRG80VDBGc3IyYXNDWTdsZzJ5dC1Gdjl30gGIAkFVX3lxTE1FX0ZYRFl0aEkybkI3SWhscVNSMGdjOWJVTzVVUWhSSlB6QUNVMXdUTnBRVDVEMzNPNk9idENtSnl1NUZObG5KdlBVelpYbUV3clU4bUZTWXdlTnpaVTJwMzNucG5WVjkzZ3JHMEFVV29zdnlYNHByN0VuZ3BubW4zQldqOTBzTnVuTndaNGZpQ2s0ZTdrV0FodWVpYnB1NTdRZFRheE9rYmdGeEREdXkwT0FqTkNDcWJiZUpHdEFtd2JXNDg2VjZqcW9mRk1PaVhRb0pKOXV3aHZnVjdkMXFFN1U5RHBlS21QeUxCaFJRYzZSUjI3RUlMM2RkcnlUWDZLWTJMLTZYag?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazNZZW1JT3p6cE9VakVScHNHX3ZwcklZeHVRWUd0MlFrS0xoc3lkNVE0dnRYSklRQ0t4Y1BYNE5iZXIyR3VZeUFQbTItaGVtSDUya2lkdG1Oc0p1V053ZE5obTFnWnY2TzNKODBmTlNrREFEZGFYZ2JIVDJuc093dFN4eHhIc1VfWHExaF9CZnNzcm42QUI2SzlHendXT0tYLWlEVDh3RFdsdDhrSi01VjZCSTctMzAyNEdjUkNMUjNIeE9lT29IYXlRLV8zRHRMRkRsbzFxWlhicVI2NGtR?oc=5",
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVY2aG5Oay1YekwzVEtuUll0cEVtTWM1LXdwMGtRWWs0ZXZiTmRGQjIteEZlWVRXTS02MWlJQ0JZWkR6NWNzWkdaamY2czJ2Z2J1b2RvV01Od1VFNldMcnBRWk5rREhCckZWMDh5Rnd2U1Q2OXVkeEhsbFVuNGNjTUFYMFpEQm1aQTVJcFlMZXJud2VaN1ZIbk1uTldScGh5MmRsMU1QdkpzZkhKWmNGQzk1OA?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzM5bUZEVEVEYW9rQlhMTnQ3by1MaEEtYjczR2xELWhnSThkRzNvQ2E3bWZyNzh1LVdTS2hCNW5iaUJhSHEyTzlXSHV6Q1dVSE9oQ2lRWlhSNUEyNU1UZl9ZLUlxSkhzdFhWTl9GYW53SzR5LUhQdlp5Z0pLSG9XUjU3UUlOY0h5MmZxbThfUUdQeFF2U1pQOTNTbXhHQTA1RGlYWTQxV0Y4S082V0otZFNqakwyUF82?oc=5"
   ],
   "palavras": [
     {
@@ -2628,6 +2635,18 @@
       "exemplo": "投資家は新しい技術の動向に注目している。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-12",
+      "proxima": "2026-10-13",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-12-08:00-de",
+      "palavra": "das Tor",
+      "leitura": "",
+      "sentido_pt": "o gol",
+      "exemplo": "Er hat ein wunderschönes Tor geschossen.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-12",
       "proxima": "2026-10-13",
       "acertos": 0
