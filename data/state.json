@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Gewitter",
-    "jp": "規制"
+    "jp": "投資家"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "選挙戦では広告に対する厳しい規制があります。",
-      "leitura": "きせい"
+      "frase": "投資家は新しい技術の動向に注目している。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5055429846037954794": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-06"
-    },
     "5057681645851640238": {
       "correta": 0,
       "lang": "de",
@@ -177,6 +172,11 @@
       "correta": 1,
       "lang": "de",
       "data": "2026-10-11"
+    },
+    "5073361575016923410": {
+      "correta": 1,
+      "lang": "jp",
+      "data": "2026-10-12"
     }
   },
   "pendentes": [],
@@ -1014,10 +1014,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-12",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-01-17:30",
     "2026-10-01-19:30",
     "2026-10-01-21:00",
     "2026-10-02-06:30",
@@ -1076,14 +1082,10 @@
     "2026-10-11-12:30",
     "2026-10-11-17:30",
     "2026-10-11-19:30",
-    "2026-10-11-21:00"
+    "2026-10-11-21:00",
+    "2026-10-12-06:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/03/this-stock-posted-the-best-performance-in-the-magnificent-seven-in-september-hint-it-s-not-nvidia/?.tsrc=rss",
-    "https://247wallst.com/investing/2026/10/03/rise-of-the-machines-ai-agents-now-burn-5x-more-tokens-than-humans-and-the-gap-is-widening-fast/?.tsrc=rss",
-    "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/03/heres-who-won-the-drone-dominance-gauntlet-2-conte/?.tsrc=rss",
-    "https://247wallst.com/investing/2026/10/03/is-the-ai-bull-market-about-to-crash-this-risk-indicator-is-saying-yes/?.tsrc=rss",
     "https://g1.globo.com/pr/parana/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-1-turno-parana.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-eleitores-com-deficiencia-contam-com-recursos-de-acessibilidade-nas-eleicoes.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/para-quais-cargos-serao-as-eleicoes-de-2026-entenda-o-que-os-eleitores-vao-escolher-nas-urnas.ghtml",
@@ -1278,7 +1280,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/casal-e-encontrado-morto-dentro-de-casa-em-ceilandia-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/papa-anuncio-operacao-cnbb-carta.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/bancada-100percent-feminina-e-nao-feminista-vai-representar-o-df-no-senado-veja-perfis.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-sobre-brb-transporte-e-assistencia-social.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-sobre-brb-transporte-e-assistencia-social.ghtml",
+    "https://www.fool.com/investing/2026/10/12/the-stock-market-is-repeating-a-pattern-seen-just/?.tsrc=rss",
+    "https://finance.yahoo.com/video/apple-plans-compete-home-power-184214442.html?.tsrc=rss",
+    "https://finance.yahoo.com/video/cisco-nvidia-tackle-ais-growing-182401270.html?.tsrc=rss",
+    "https://www.thestreet.com/investing/apple-cuts-iphone-18-pro-orders-as-ai-raises-the-bill?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/12/4-no-brainer-chip-stocks-to-own-for-10-years/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2611,6 +2618,18 @@
       "tema": "brasilia",
       "data": "2026-10-11",
       "proxima": "2026-10-12",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-12-06:30-jp",
+      "palavra": "投資家",
+      "leitura": "",
+      "sentido_pt": "investidor",
+      "exemplo": "投資家は新しい技術の動向に注目している。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-10-12",
+      "proxima": "2026-10-13",
       "acertos": 0
     }
   ]
