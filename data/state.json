@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Tor",
-    "jp": "投資家"
+    "jp": "見解"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "投資家は新しい技術の動向に注目している。",
+      "frase": "市長はその問題について自身の見解を述べた。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5057681645851640245": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-07"
-    },
     "5057681645851640246": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5073361575016923412": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-12"
+    },
+    "5073361575016923415": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-12"
     }
   },
@@ -1028,10 +1028,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-12",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-01-21:00",
     "2026-10-02-06:30",
     "2026-10-02-08:00",
     "2026-10-02-12:30",
@@ -1090,14 +1096,10 @@
     "2026-10-11-19:30",
     "2026-10-11-21:00",
     "2026-10-12-06:30",
-    "2026-10-12-08:00"
+    "2026-10-12-08:00",
+    "2026-10-12-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-presidente-3-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/03/mpt-do-df-recomenda-que-iges-retire-limite-de-duas-horas-para-trabalhadores-de-plantao-irem-votar.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-senado-3-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/datafolha-df-governador-3-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/03/quaest-df-senado-3-outubro.ghtml",
     "https://www.fool.com/investing/2026/10/03/3-no-brainer-stocks-to-buy-if-data-center-expendit/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
@@ -1292,7 +1294,12 @@
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVUNiY2prYlFjc3dkZERkdHU3QmQ5OVpibGtGNEJJdVdySFRKR3AxU2FsNzRHeElKOGJfMldMTkpnNlNBYTdVellraC04eGxCbmJqOW9SSXZEajhkc1owM2s1MnVNTFB5RmRKdFdlQlNaMGsxM2sxWGZsQXowMEJCYVFnalpabVdOY1E4QncwYWpBekFwZmRBN1lYS0hTTWVUeVFzUUNGczhCU2dVMlMzZVR5YkwyWFk2SjhQYmdZQXVNXzlYZUhOUUh6aGFkc2IwMkl1a0lNbFByOXVkNXRVNlRhRG80VDBGc3IyYXNDWTdsZzJ5dC1Gdjl30gGIAkFVX3lxTE1FX0ZYRFl0aEkybkI3SWhscVNSMGdjOWJVTzVVUWhSSlB6QUNVMXdUTnBRVDVEMzNPNk9idENtSnl1NUZObG5KdlBVelpYbUV3clU4bUZTWXdlTnpaVTJwMzNucG5WVjkzZ3JHMEFVV29zdnlYNHByN0VuZ3BubW4zQldqOTBzTnVuTndaNGZpQ2s0ZTdrV0FodWVpYnB1NTdRZFRheE9rYmdGeEREdXkwT0FqTkNDcWJiZUpHdEFtd2JXNDg2VjZqcW9mRk1PaVhRb0pKOXV3aHZnVjdkMXFFN1U5RHBlS21QeUxCaFJRYzZSUjI3RUlMM2RkcnlUWDZLWTJMLTZYag?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazNZZW1JT3p6cE9VakVScHNHX3ZwcklZeHVRWUd0MlFrS0xoc3lkNVE0dnRYSklRQ0t4Y1BYNE5iZXIyR3VZeUFQbTItaGVtSDUya2lkdG1Oc0p1V053ZE5obTFnWnY2TzNKODBmTlNrREFEZGFYZ2JIVDJuc093dFN4eHhIc1VfWHExaF9CZnNzcm42QUI2SzlHendXT0tYLWlEVDh3RFdsdDhrSi01VjZCSTctMzAyNEdjUkNMUjNIeE9lT29IYXlRLV8zRHRMRkRsbzFxWlhicVI2NGtR?oc=5",
     "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTVY2aG5Oay1YekwzVEtuUll0cEVtTWM1LXdwMGtRWWs0ZXZiTmRGQjIteEZlWVRXTS02MWlJQ0JZWkR6NWNzWkdaamY2czJ2Z2J1b2RvV01Od1VFNldMcnBRWk5rREhCckZWMDh5Rnd2U1Q2OXVkeEhsbFVuNGNjTUFYMFpEQm1aQTVJcFlMZXJud2VaN1ZIbk1uTldScGh5MmRsMU1QdkpzZkhKWmNGQzk1OA?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzM5bUZEVEVEYW9rQlhMTnQ3by1MaEEtYjczR2xELWhnSThkRzNvQ2E3bWZyNzh1LVdTS2hCNW5iaUJhSHEyTzlXSHV6Q1dVSE9oQ2lRWlhSNUEyNU1UZl9ZLUlxSkhzdFhWTl9GYW53SzR5LUhQdlp5Z0pLSG9XUjU3UUlOY0h5MmZxbThfUUdQeFF2U1pQOTNTbXhHQTA1RGlYWTQxV0Y4S082V0otZFNqakwyUF82?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzM5bUZEVEVEYW9rQlhMTnQ3by1MaEEtYjczR2xELWhnSThkRzNvQ2E3bWZyNzh1LVdTS2hCNW5iaUJhSHEyTzlXSHV6Q1dVSE9oQ2lRWlhSNUEyNU1UZl9ZLUlxSkhzdFhWTl9GYW53SzR5LUhQdlp5Z0pLSG9XUjU3UUlOY0h5MmZxbThfUUdQeFF2U1pQOTNTbXhHQTA1RGlYWTQxV0Y4S082V0otZFNqakwyUF82?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/arcebispo-de-brasilia-alerta-para-tempo-de-divisoes-e-palavras-agressivas-e-pede-por-amor-em-missa-de-nossa-senhora-aparecida.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-avaliacao-governo-celina-12-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-presidente-segundo-turno-12-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-governador-segundo-turno-12-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/vizinho-de-casal-morto-no-df-e-preso-apos-contradicoes-em-depoimento-diz-policia.ghtml"
   ],
   "palavras": [
     {
@@ -2647,6 +2654,18 @@
       "exemplo": "Er hat ein wunderschönes Tor geschossen.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-12",
+      "proxima": "2026-10-13",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-12-12:30-jp",
+      "palavra": "見解",
+      "leitura": "けんかい",
+      "sentido_pt": "ponto de vista",
+      "exemplo": "市長はその問題について自身の見解を述べた。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-12",
       "proxima": "2026-10-13",
       "acertos": 0
