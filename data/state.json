@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Kurs",
-    "jp": "名作"
+    "jp": "規制"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この小説は日本の文学史に残る名作です。",
-      "leitura": "この小説は日本の文学史に残るめいさくです。"
+      "frase": "選挙戦では広告に対する厳しい規制があります。",
+      "leitura": "きせい"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5055360542445666662": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-10-06"
-    },
     "5055360542445666669": {
       "correta": 0,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5071109775203238354": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-11"
+    },
+    "5071109775203238358": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-11"
     }
   },
@@ -1000,10 +1000,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-11",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-01-08:00",
     "2026-10-01-12:30",
     "2026-10-01-17:30",
     "2026-10-01-19:30",
@@ -1062,14 +1068,10 @@
     "2026-10-11-06:30",
     "2026-10-11-08:00",
     "2026-10-11-12:30",
-    "2026-10-11-17:30"
+    "2026-10-11-17:30",
+    "2026-10-11-19:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNnpFM2p6ek5KQXRPOEZGNjlsSnRSQmhkbzVrcFdTanJhaElha0RNc0hOelZkOXl4bWljOTBPZzNvdG9HSWpocVZZRTFBbGJ6WE9aYXNkLTlLZXhHYy1tOHlyQjJYRWNaamRWY3dBa1VYcFByZm1oT0p4R0RzMWhYWVo5Zk41Ui1aNEluZ1Y1LVdZN1RPVW5iLVdZbjNPTU13b1Z4Q1JSZHVtYklQN0dQV1pEOER4OHppZi0wYU5ScWYtX1NVSkHSAcsBQVVfeXFMUDhQNk9DMU1KZWlYVTlGZU1HNlY5eDJJRVllMlpRVlJfeTVtbXhIbnB5aGEtYUtyLTlGeHlONEVjbmNpMUlhT0J6MkxHWjNWcDcxT0JsdmNXWjM3Z01wR29TZnZQak9YNUF3YzFmYWlRdlRYX3ZCaEVCbUhTajM5MGZINFpubnhLX2NXckZIUzFyeDJCUTh3QjExMHYwRDZPX2U1aURWaUd2S2VQSWdmTWwxSGIyaEVnQWQxVFVnY3pPTHduVXRhY3Z0QlE?oc=5",
-    "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdERVU3JQemI3VFV1R3hGV01NekljUloyaXR2SVBNYmRINDlWMjJ3Z3VEcHZXNjBKUVlncHcxaVJmS3hhMEFEdTdTUEc1clpXY19GaHJNZlZncVA0NkhsS05tVXFJWk9wNzVTSzNoUW15XzFtTzZNRk9qRDR1bWx4UE45MGVPUzkwOWU4LUtsaHJQdXRCTDlaWkZMWnVtbzUxeVd4eHpqbG55VmVhN1dvaG8xRFVyM2JHS2tZMDBXOEdXMUdaUm96cUpwZlAxTUpWV2ZDY3JIbVY1dU1MMmJMUWtUMG1yOTU5b3hfV2l1anNMVGs5M0x2Yi15UmJZNk1Rdmx3?oc=5",
-    "https://news.google.com/rss/articles/CBMijAJBVV95cUxObTlsaG9SZGlpbEZuakZHMFdRSnY2UVRjdzdyT2ExMGdjMUI1SVRyVGg5MWpBclpCWS1Rd2lpbW9VMzFqdkF6RGNtbUR2b2Jkd2RackE0Yk1OU015MGpSWVVYd0R4UjM4bVJGNmlQSlJhemtkNkY5QkJ6aWVTWmdiX2lxdDZoNFFYZHRXUUxiRkRGdFA5YUwtWVZoT3d4WDdHeHRtWmFzOWhOREkzcVQ2VjhxT2ktbEVtYXpVQndTNmtvQ1hNWmJ4SmJ2RlpHRUxranRwSWF3V1NXZFo1a21kR3dxcnB0a2xoSkJJRlFVSVpkYTZ2SFpZazRoajhWbEYxMEUyZmtDVmVQaUct?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeEM4N2taQkhzQUdQSmdVZTJhNW55RVkyN3ZMN2E5NGJkSi1QdWpJYkpWWXFkNDJXZ01RVTctdWhtS3VwZThuUlpZZTk2M1psSmJUQ21tRnZ3Ni14MjI5TXdJSlh1V21RSEo3cVRVTS1RXzd2WEZMSGdTQndTOGtWdFliUzFTbWtwMEd5a21pMzNZY2tUc09mUHFNeTBWd3VMbVltWER1Sk1tc2dHRW1PNVlyaDRPb3FEN0dGNFZXR2Q2ano2XzZHVExGQUNfNmdV0gHfAUFVX3lxTE1OUExDcDE2SlROZXdiYnFLZlIyRmpRLVhuWVliQ1htam5vX0hpRFR2WmlYSW9wUUgzckRadm9RQ1ZVZlV4OEhMLTBNTmllQ2JqZFd6aGgyak5BbXdjMEJ5OUtUMmJyQmcxTzdZNEo4NlFOMmw4b0FOZGFyQUJ6c1NBWHBXenNSY0ZubUQxaExlUzl3cm84ZS1XLUI5T1RCMXIyQ3pYdnFRZzBmVlU0Vzl1TDZqek5FcWdvRDZLUXA3MnctM0tfNWdzTXBuQTB4MFpUdlV6RExsUFhmYmhoZmc?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmhLWklUbmxyeVlRY252SUk4SHNkVXVhSWoyOVRPSllxSVhiTjcyZWk1OXVsNWstTWNtNmdJT09DUEppdE9nX1daLXN6ZlJVaWluRGViYmhIQWRIOFUyT1FoU19OU3RlMm5URGdZVU9zV0N0c1hLOHZfdUdha0xLOEk2bFdjRndBbFFYc01yZ3ExYTM4dnN1Q3dTLUdQOWxiZ1F4QzNsSU4waVhiY3NrY0pGZW1YSDVsV3ZYdVZLVQ?oc=5",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-lula-mobiliza-eleitor-mais-velho-flavio-aposta-em-voto-util-no-1o-turno.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/03/gilmar-mendes-determina-retorno-de-desembargador-do-tjal-afastado-pelo-cnj.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/quanto-ganha-o-governador-de-cada-estado-brasileiro.ghtml",
@@ -1264,7 +1266,12 @@
     "https://www.fool.com/investing/2026/10/11/following-openai-s-revenue-report-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-27-190909543.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/11/beyond-sp-500-index-funds-heres-the-1-sector-id-bu/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/11/corregedor-do-tse-suspende-preliminarmente-decisao-de-nunes-marques-e-libera-canal-exercito-do-lula-decisao-final-sera-do-plenario.ghtml",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/estreantes-congresso-eleicoes-2026.ghtml"
   ],
   "palavras": [
     {
@@ -2571,6 +2578,18 @@
       "exemplo": "Der Kurs von NVDA steigt heute.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-11",
+      "proxima": "2026-10-12",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-11-19:30-jp",
+      "palavra": "規制",
+      "leitura": "きせい",
+      "sentido_pt": "regulamentação",
+      "exemplo": "選挙戦では広告に対する厳しい規制があります。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-11",
       "proxima": "2026-10-12",
       "acertos": 0
