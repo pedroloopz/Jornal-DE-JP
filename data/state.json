@@ -1,17 +1,17 @@
 {
-  "last_update_id": 950900997,
+  "last_update_id": 950900999,
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Kurs",
+    "de": "Gewitter",
     "jp": "規制"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Der Kurs von NVDA steigt heute.",
+      "frase": "Das Gewitter am Abend bringt viel Regen nach Brasília.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5055360542445666669": {
-      "correta": 0,
-      "lang": "de",
-      "data": "2026-10-06"
-    },
     "5055429846037954794": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5071109775203238358": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-11"
+    },
+    "5071109775203238363": {
+      "correta": 1,
+      "lang": "de",
       "data": "2026-10-11"
     }
   },
@@ -1007,10 +1007,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-11",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-01-12:30",
     "2026-10-01-17:30",
     "2026-10-01-19:30",
     "2026-10-01-21:00",
@@ -1069,14 +1075,10 @@
     "2026-10-11-08:00",
     "2026-10-11-12:30",
     "2026-10-11-17:30",
-    "2026-10-11-19:30"
+    "2026-10-11-19:30",
+    "2026-10-11-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-lula-mobiliza-eleitor-mais-velho-flavio-aposta-em-voto-util-no-1o-turno.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/03/gilmar-mendes-determina-retorno-de-desembargador-do-tjal-afastado-pelo-cnj.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/quanto-ganha-o-governador-de-cada-estado-brasileiro.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/disputas-para-senado-e-camara-sao-estrategicas-para-os-proximos-anos-do-stf-e-da-presidencia.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/eleicoes-2026-veja-os-principais-temas-que-marcaram-a-campanha-presidencial-ate-aqui.ghtml",
     "https://www.fool.com/investing/2026/10/03/this-stock-posted-the-best-performance-in-the-magnificent-seven-in-september-hint-it-s-not-nvidia/?.tsrc=rss",
     "https://247wallst.com/investing/2026/10/03/rise-of-the-machines-ai-agents-now-burn-5x-more-tokens-than-humans-and-the-gap-is-widening-fast/?.tsrc=rss",
     "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
@@ -1271,7 +1273,12 @@
     "https://g1.globo.com/politica/noticia/2026/10/11/corregedor-do-tse-suspende-preliminarmente-decisao-de-nunes-marques-e-libera-canal-exercito-do-lula-decisao-final-sera-do-plenario.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/estreantes-congresso-eleicoes-2026.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/estreantes-congresso-eleicoes-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/casal-e-encontrado-morto-dentro-de-casa-em-ceilandia-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/papa-anuncio-operacao-cnbb-carta.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/bancada-100percent-feminina-e-nao-feminista-vai-representar-o-df-no-senado-veja-perfis.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-sobre-brb-transporte-e-assistencia-social.ghtml"
   ],
   "palavras": [
     {
@@ -2590,6 +2597,18 @@
       "exemplo": "選挙戦では広告に対する厳しい規制があります。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-11",
+      "proxima": "2026-10-12",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-11-21:00-de",
+      "palavra": "das Gewitter",
+      "leitura": "das Gewitter",
+      "sentido_pt": "a tempestade",
+      "exemplo": "Das Gewitter am Abend bringt viel Regen nach Brasília.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-11",
       "proxima": "2026-10-12",
       "acertos": 0
