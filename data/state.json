@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Tor",
+    "de": "Demonstration",
     "jp": "登録"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Der Spieler schießt das Tor.",
+      "frase": "Die Demonstration in Brasília war friedlich.",
       "leitura": ""
     },
     "jp": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5062178760078393674": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-08"
-    },
     "5064430559892079091": {
       "correta": 1,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5075631048621031807": {
       "correta": 0,
       "lang": "jp",
+      "data": "2026-10-13"
+    },
+    "5077882848434717184": {
+      "correta": 0,
+      "lang": "de",
       "data": "2026-10-13"
     }
   },
@@ -1077,10 +1077,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-13",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-06:30",
     "2026-10-03-08:00",
     "2026-10-03-12:30",
     "2026-10-03-17:30",
@@ -1139,14 +1145,10 @@
     "2026-10-12-21:00",
     "2026-10-13-06:30",
     "2026-10-13-08:00",
-    "2026-10-13-12:30"
+    "2026-10-13-12:30",
+    "2026-10-13-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/quem-e-eduarda-campopiano-a-deputada-estadual-mais-votada-de-sao-paulo.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/felicio-ramuth-e-o-1o-vice-reeleito-em-sp-em-28-anos-conheca-o-numero-2-do-estado.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/andre-do-prado-e-eleito-senador-por-sp-apos-campanha-apoiada-por-tarcisio-e-flavio-bolsonaro.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/guilherme-derrite-chega-ao-senado-apos-gestao-na-seguranca-de-sp-marcada-por-alta-da-letalidade-policial.ghtml",
     "https://finance.yahoo.com/markets/stocks/articles/firmus-plans-allocate-half-ipo-042136602.html?.tsrc=rss",
     "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/04/2-super-semiconductor-stocks-to-buy-and-hold-throu/?.tsrc=rss",
@@ -1341,7 +1343,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-governadores-primeiro-turno-recorde.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-diz-que-apos-registro-canal-de-whatsapp-exercito-do-lula-pode-ser-retomado-apos-48-horas.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/cronologia-entenda-o-vai-vem-do-canal-exercito-do-lula-na-justica-eleitoral.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/quaest-2-turno-estados-flavio-bolsonaro-lula-13-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/video-cachorra-de-14-anos-morre-apos-ser-atacada-por-cao-de-grande-porte-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/manifestantes-fazem-ato-pro-lula-na-esplanada-dos-ministerios-em-brasilia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/dentista-suspenso-pelo-conselho-regional-e-autuado-por-exercicio-ilegal-da-profissao-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-13-de-outubro-de-2026.ghtml"
   ],
   "palavras": [
     {
@@ -2780,6 +2787,18 @@
       "exemplo": "選挙陣営は新しい通信チャンネルの登録を裁判所に行った。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-13",
+      "proxima": "2026-10-14",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-13-17:30-de",
+      "palavra": "die Demonstration",
+      "leitura": "di demo-ns-tra-tzi-on",
+      "sentido_pt": "a manifestação",
+      "exemplo": "Die Demonstration in Brasília war friedlich.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-13",
       "proxima": "2026-10-14",
       "acertos": 0
