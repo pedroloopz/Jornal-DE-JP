@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Märchen",
-    "jp": "見解"
+    "jp": "期待"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "市長はその問題について自身の見解を述べた。",
-      "leitura": ""
+      "frase": "彼の監督としての活躍が期待されています。",
+      "leitura": "かれのかんとくとしてのかつやくがきたいされています。"
     }
   },
   "obra_idx": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5057681645851640247": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-10-07"
-    },
     "5059933445665325490": {
       "correta": 1,
       "lang": "de",
@@ -176,6 +171,11 @@
     "5073361575016923419": {
       "correta": 0,
       "lang": "de",
+      "data": "2026-10-12"
+    },
+    "5073379248807346418": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-12"
     }
   },
@@ -1042,10 +1042,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-12",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-02-08:00",
     "2026-10-02-12:30",
     "2026-10-02-17:30",
     "2026-10-02-19:30",
@@ -1104,14 +1110,10 @@
     "2026-10-12-06:30",
     "2026-10-12-08:00",
     "2026-10-12-12:30",
-    "2026-10-12-17:30"
+    "2026-10-12-17:30",
+    "2026-10-12-19:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/03/3-no-brainer-stocks-to-buy-if-data-center-expendit/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/03/3-investing-rules-that-cnbcs-jim-cramer-swears-by/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-center-8-billion-230622829.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/03/why-im-building-my-entire-retirement-around-divide/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/03/youtube-s-lead-over-netflix-in-tv-viewing-keeps-growing-is-netflix-stock-a-sell/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPaTY3RFJOWjl1YlZXcnZrMG9kQW5NYmVjSTNlaU93OUsyOENIZ3ZjSVpDVG4wWC1SYXJfM3BhdHBvUHNaWGVEck5TVWZkWVd4amlySUY2WU00UExXQXVnZXVfUTZGUUNXV2t6X0Vpby02RURXbFlSdC12QktHcUNZRmRHdFYwUUltbnFmZHl2eWhiZE1EN3pCbmZjd1UyRzNPdWpXNTU1NWpEd2RkdkpnaHp2UUk0dGhWZURSazQ3S0dpc3hOeXdQaWhvTTVVOXB1bHRQVlRWUFJiZjF1ckN0SVBwZFNNT0xjYUN2YmY3OUhhc0JE0gGDAkFVX3lxTE4waGdPNFozd3BDNGRhUGNQLVdKTjBiWjVTQXhSMHVZV1ZKcm1nUlFnc1QtZ1FOc1RJNFBVamFpR2wwc2lBSjdkMTR4S0dLeV9xWlJfQWFCNFA4Z3RmS3pyT1ZMLVl0T1ByQVlxc3NRa3JiaHFaaVBQeG1YbXoxajN1UVViVWNxTkVTTDJxUG5JdXlEbFBYeVZodjRkbVI1OG9JdnBITWN6STF1d19DWWh3Qm1RZmkxWGJMWkp1dFR2QXBSZ3ByNTFiN3lfOEhBNjAwMmtmWXdrZlhJYUZza2dReEpoNEMySzlPRnJ2em02X2p4d2hGSG8yc3ZsWTlNMFVPLTQ?oc=5",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQzEwR1lpZkJFeTd2NjVfeng1S0lJZnl0UG85XzFLQkoxam5qcUV2TDdkUkl3MDVmeGJZSmktcXBPQnUyRmZrN1MzTEZnZmFRemEwbi1uWDBFeDQ2NWxlRER6cnFnV3dudEU2bDZxclZJb1FGWHJsVjNVTW92bjMwNDc4YXZiMmJET1kzM1lkeGktY1BqeV9yQ0lOd2RCUUtN?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3JBLTdkdldSUUVzalhValQ2bjNtdG5lbjJydHJPTU5xOUIzZUFocW5aLXNuRmpUeUZkb3pBNXlDNDkyTy01UjIxa0lLZ3VMLW40c08wUk82dTBaVlhZOUQ3TWhDVDF3b2NSZjRMMjkyWHR3NGVyejhmNnoxZzNBMWtwSGJGbDMtT0lYXzF2U0lTMkEyd3p3OE5leDNPUS16a0JEY2xmb2dCek90bHhJd2ExcG9Ud0ttVmNuMlZuT0VtZmZqaC1nUThtUVF6TlJ0RlZFRQ?oc=5",
@@ -1306,7 +1308,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-avaliacao-governo-celina-12-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-presidente-segundo-turno-12-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-governador-segundo-turno-12-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/vizinho-de-casal-morto-no-df-e-preso-apos-contradicoes-em-depoimento-diz-policia.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/vizinho-de-casal-morto-no-df-e-preso-apos-contradicoes-em-depoimento-diz-policia.ghtml",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVZIbVVBcm5BVUZuOE9QYktDbjQydjViV0RsTm5jRXVaRVJndXAwQVRQZ3Yzcy1KZ0M1ZUxDZ2hzcFVMLWhsV3d5NWVOeTFNdmRvMHYzQzZnbkZPRmRjbW9XZW82SjVvbnh6aklRd1NjaHBtWGZ0S1ljbXU0U3VPcFhlRXRkYmVQdktWYzdyc2hXMng0TDZQUGF1YlFIQkh0dFBDa19Salk3UzJnMW5Oblp4MXdmdmZpRHfSAb8BQVVfeXFMTVAtQ0NYdVpFMXRJUjQ2aHBRM2Q1c3ltT1RPZjNmYTNYTkZYajg5VWsyb05TSkV3WnZPRFhHcTZOS29Pd3Z0Z0phelplUmtIdV9hRVo5a1hLaTRINmg3ZWdmZjlwR1RXOE92ay1KajJRYmRsaWdXU2s1bWd6SHFBaVB0WGh0SDVJcWRJZFZJSlZQQVVhRDQtUlZ0dlR2SEhJbzdxdDJBY2Njajd1WmdqNnVFVUhjR19na1FmaFF0ZVE?oc=5",
+    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN190WksyVmJMd2gzbXI4aTBzcHVKbC1jMkFUeV9uVFJlWHA0NVJvSlotQ0wxX1BDWlh2VnJ6Y0hiMnJiZHlFc3dFa0ppV19uVUFoZklrR0tPV1ZiSm5VWkhjNkpxV0xPYURab29zQVliWlhqUnM4anVGRDNObjMwcHFWdFA4OTE0aXFuN2dvaHF5TUxpLXdmUUVRaTV6b2cyek95UW9KemxUR0hCQ3h6TDFKMkZjQjV2OGlOcGxR0gHDAUFVX3lxTFB5bU14UGNEa3lyV2J3VUN5MHo3VjVqWVhCMk9ZSmNqcTUwOEV5MHhaTUFDeDE4NWt1WkpOUWQ3cnNkM1JaT1R0c0Q5czFXZzh1UjF0djEtWXZ1S1U5MzlDZU16eDQxY1dyNDZOYi02YkJrRm9kQ1ViVmtuOUxySEZrRFJrckpHOTlnVEcxUVhmQXl4TlF6ZGFkZDZ4UzM5ZVZweGpGWUdsUU1WRV9hbml2cDZSWkFHQ1Q4UHllUTlDY2lfQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWl6bW5HTlc4YjhoT3JkY2JPM25JRGtvQWlxci05ZW9EeVlmMEtDeHFNWWx0UUxZUjJteF8zeW5MZVBhcWFHQndmOTBYbkNBblJNUUY4Y3EwUUJodHFyVmFYNXNtYVNOSExYcmVDQVRZaEY2Y3NZUDRjcG5ISmVsTGUtMk15c1VCeDFnZmctSXZTN2Q0RGJnbmJueXRhU09RWldEbHY1YUJpbmxDS0V2OTliVTUxTFZTNXc3X0FEV3k4b1hPdlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVgxUFY3SEhkR0xsMUxnUE5ZaVRXOVlFOUpvVWZLdGdWQ3JpNTdwNUo0TXk0dkc3ZERIaUNscFVBWHpaRXdXbnA1ZmVRcGw0STZuQ0ppVkNGendKbnl1TFBYeFlvUXQyWDdBR1F5cGJxZXlBY2J5dVgxaWZET0thLV9WWjJ6NTlPSEkzRkpEbGZXS0Z2b1ROcTIxX0ctZjVtcXFHU1VmWmZRS216UW5XeGdHeXhfNVJsaFE?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVllScTE3R0t6b0ZaVjIyckwwM3VlYjFwbldSNVNjN2VheWdJQS12YTIyLURPOWtoQUpxZnQwck9LVkdjeTczUUxWeHB1V2ppdXYxNk9EYkFiMGpOUGNTVG5qdFZGbTlLUnFubHU2a1dEZWpPSlRhMmlGa0VKT3VWOWpYS0xPZG5YZVlXS0lETUpfM0hza1N1YkJhemxyb0syYkZrRzFXTQ?oc=5"
   ],
   "palavras": [
     {
@@ -2685,6 +2692,18 @@
       "exemplo": "Hänsel und Gretel ist ein sehr spannendes Märchen.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-12",
+      "proxima": "2026-10-13",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-12-19:30-jp",
+      "palavra": "期待",
+      "leitura": "",
+      "sentido_pt": "expectativa",
+      "exemplo": "彼の監督としての活躍が期待されています。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-12",
       "proxima": "2026-10-13",
       "acertos": 0
