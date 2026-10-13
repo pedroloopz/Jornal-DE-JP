@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Stimme",
-    "jp": "期待"
+    "jp": "友情"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": "Jeder Bürger hat eine Stimme."
     },
     "jp": {
-      "frase": "彼の監督としての活躍が期待されています。",
-      "leitura": "かれのかんとくとしてのかつやくがきたいされています。"
+      "frase": "彼との友情はとても大切です。",
+      "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 12,
+    "jp": 13,
     "de": 11
   },
   "dominadas": {
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5059933445665325491": {
-      "correta": 1,
-      "lang": "jp",
-      "data": "2026-10-07"
-    },
     "5059933445665325492": {
       "correta": 0,
       "lang": "de",
@@ -177,6 +172,11 @@
       "correta": 0,
       "lang": "de",
       "data": "2026-10-12"
+    },
+    "5075631048621031805": {
+      "correta": 0,
+      "lang": "jp",
+      "data": "2026-10-13"
     }
   },
   "pendentes": [],
@@ -1056,10 +1056,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-13",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-02-17:30",
     "2026-10-02-19:30",
     "2026-10-02-21:00",
     "2026-10-03-06:30",
@@ -1118,7 +1124,8 @@
     "2026-10-12-12:30",
     "2026-10-12-17:30",
     "2026-10-12-19:30",
-    "2026-10-12-21:00"
+    "2026-10-12-21:00",
+    "2026-10-13-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/04/expedito-mendonca-pco-vota-na-asa-norte-no-df.ghtml",
@@ -2725,6 +2732,18 @@
       "tema": "politica",
       "data": "2026-10-12",
       "proxima": "2026-10-13",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-13-06:30-jp",
+      "palavra": "友情",
+      "leitura": "ゆうじょう",
+      "sentido_pt": "amizade",
+      "exemplo": "彼との友情はとても大切です。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-10-13",
+      "proxima": "2026-10-14",
       "acertos": 0
     }
   ]
