@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Tor",
-    "jp": "友情"
+    "jp": "登録"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼との友情はとても大切です。",
+      "frase": "選挙陣営は新しい通信チャンネルの登録を裁判所に行った。",
       "leitura": ""
     }
   },
@@ -28,11 +28,6 @@
     "de": 0
   },
   "quizzes": {
-    "5062178760078393668": {
-      "correta": 0,
-      "lang": "jp",
-      "data": "2026-10-08"
-    },
     "5062178760078393674": {
       "correta": 0,
       "lang": "jp",
@@ -176,6 +171,11 @@
     "5075631048621031806": {
       "correta": 1,
       "lang": "de",
+      "data": "2026-10-13"
+    },
+    "5075631048621031807": {
+      "correta": 0,
+      "lang": "jp",
       "data": "2026-10-13"
     }
   },
@@ -1070,10 +1070,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-13",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-02-21:00",
     "2026-10-03-06:30",
     "2026-10-03-08:00",
     "2026-10-03-12:30",
@@ -1132,14 +1138,10 @@
     "2026-10-12-19:30",
     "2026-10-12-21:00",
     "2026-10-13-06:30",
-    "2026-10-13-08:00"
+    "2026-10-13-08:00",
+    "2026-10-13-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWHlUMEdkaXVkOEhXN21NT1dLLWUzQ1g3bDRlNDFtWXhWRHRNRGhlZXM2M3J1c1ZJdTl2blBuOGY0VlFqNHQ5QVBWV2hsZl83LVJNRlI2MWFHN0RlUHFaUzVoNlVVbV9RY2R4WTZDWjZtSUNpcFpieVh2Q1EzXzA2T290UWVXQXVtZ2puRk5HODI2ZXhidlJnaDJlLXNza0RETWY5YnpmN0p5MzN5RG9KZkd1a3paVG12aFRodU01Qjlac0psR2prdVBMWDhpX2Nzb2NoS2p6ZWMyUG1OQ0RidHJHNUtSdm05WnZCY043N3p0X1dNSTZ4ZnBR0gGIAkFVX3lxTE84NnhjVUplcEp4SmEwdkZtanN0NXRkRDRlQ0F0dUFLQkc0YXpheExNUEpIUFFOX0hVcVNZOWlhc2dPUTI0ZjZCc3ZwWUJ3MXRFbWJrdU5TQjh5UmpheHh4REo5Um5MRkFmWUZITXAwSzlWYUlEUzZHamZTX3E0SjlpYlFCVlV4azlqVm1RRXhkRXFXREQtUDVmcmcwdDFZTGRRS0dteHo2Z0Z6MWkxUVdVUy05aTV4SGpwVERrc2JWeHE5YWVWalB4dU4zTWtHaDJqU1BrekZfazBESzMyeDFjZUpicERfN1ByUWUwXzExenozN2hEUnZRLUg3V3JSLTVFMGVMZFVoMQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYmlTdmRTX2JvbVMzSmotMnVtY2hZSDdlM1dnX21wRTR3SDZiMjhiV1l3ZjJYekNoTXdfbmtuZWNOTWdna1dLdjA2VlEya0dTOXlYRHRBU28wcHJqRW04dE9pSTFkSDRHY3c2Zjh5d0lUSHM2SF8zVG50M01lQXh5U1BTbTVkazB5dlZaWjZucG00c21kV054MXdIdXhvQTRfQS1sS3MyelJmNWptdll4YXVaV1RkeXY3dWR4c0prRDRrNmdWRUJ3RHh2cWFPUDNsM3JLc3dHVWREeldQamc4dzBPM1lGZ041?oc=5",
-    "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNVGhvam5tY0xSTlpNbkxfZV83Nm0tbVZaR3N6ejFZZ1hEdDdDSFZDT2JMRnpzTkEtUGtfNmpzOXRhQ2J1a21ZNUZiWDg3aUhoRWMySjNlTkF5RDEwT3lxVm9pWTRLUEw0bXY4MG5iZkFiQlRVVnhXakJwdlN0enU1TXlnT212YTdiTU9IT3ZPMXBsSExUd1J4dGNxOC0xV0Z1UndzTGZPSXpBT2VWQlBPT0ZnaFdXOEhtSkhCMnNMbF80MWVwbDloVHdYcGxQN3VBLW81RFZUNlh5aFNqUGRudFhoa0I2RS1sU2hYMVFiM2ZZQS1qVGpTRnhJTdIBigJBVV95cUxQNURZX0RTXzhLQkM5U1VrUlVEcWJWQmpmcTU2Mlozd2t0M09BLWdCWXBZWFNwemhMZTNIVlZveDRuTWJEOHRFMlkyMnp1bjdYaWVzMnpLN3laLWYzRmJxaWNfWkZIRktWbnlzR3lXbnoyVHVNU2NhbHBlMEMzLWpnTXF1bTctcVptV19XTXVvYUN4dUFqTzhvNkJvOG1fdDJVWUJleTY1RWFwV2tibFBjQ3pwd3hmemFKRkw1aFBIaURuNTlLWXI3MlFsdzZiVndVek91YVlYTTItdm5ETEhDTG9vcHE1SG94djFUVm1BV3FpbHNWb3ZmdTJiaWtuTFoyYzAzZjl3a1BHUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YM3Z2bUV0RkMwS09SWE9BUDYwZlZhaXRuUTF0ZS1VZWIwZFBzNTlGZEczZGVOSjF2bEV2QzZlSUZrb0ZpQ0Z4eUUtb3duSy1JVWd0a2F1dVJnVDNFaGc?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeTBmSFJHblpnMGhFNWdCZXhOTTBVRkZFSEJUTkVqcXg3Z25IRkdtQVdVWVE1cWZSTFJfRWowVHBONEJFVUZCT014QWlwX21QNFdaWkIteDlMRUxGd1RtTVBGcU9HOTRHcGJiZzFwNVNDdnRlY3R2T1dfZzNNNDl5VGtDMU5NOGpxMmFRRmR0dXZuVGJ6elVUQXM5T1VIcVNKUWRmRVVDN2dDVlZwVnAteGVVNjd6enFMYUN1dUxR?oc=5",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/quem-e-eduarda-campopiano-a-deputada-estadual-mais-votada-de-sao-paulo.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/apuracao-eleicoes-2026-resultados-primeiro-turno.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/04/felicio-ramuth-e-o-1o-vice-reeleito-em-sp-em-28-anos-conheca-o-numero-2-do-estado.ghtml",
@@ -1334,7 +1336,12 @@
     "https://finance.yahoo.com/healthcare/articles/nvidia-says-invest-french-medical-175332118.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/13/apple-is-taking-on-amazon-and-google-in-the-smart-home-with-a-299-siri-ai-device-is-homeview-the-first-big-win-for-new-ceo-john-ternus/?.tsrc=rss",
     "https://www.tikr.com/blog/chinas-cxmt-and-broadcoms-ceo-rattle-chip-stocks-which-fear-matters-more-for-micron?ref=yahoofinance&.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-pricing-power-earnings-174532787.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/nebius-nbis-pricing-power-earnings-174532787.html?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/apos-polemica-com-exercito-do-lula-equipe-do-pl-diz-que-fara-complemento-para-informar-ao-tse-canal-tropa-do-flavio.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-governadores-primeiro-turno-recorde.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-diz-que-apos-registro-canal-de-whatsapp-exercito-do-lula-pode-ser-retomado-apos-48-horas.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/cronologia-entenda-o-vai-vem-do-canal-exercito-do-lula-na-justica-eleitoral.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml"
   ],
   "palavras": [
     {
@@ -2761,6 +2768,18 @@
       "exemplo": "Der Spieler schießt das Tor.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-13",
+      "proxima": "2026-10-14",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-13-12:30-jp",
+      "palavra": "登録",
+      "leitura": "とうろく",
+      "sentido_pt": "registro",
+      "exemplo": "選挙陣営は新しい通信チャンネルの登録を裁判所に行った。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-13",
       "proxima": "2026-10-14",
       "acertos": 0
