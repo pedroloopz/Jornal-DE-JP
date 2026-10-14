@@ -25,6 +25,8 @@ from zoneinfo import ZoneInfo
 import feedparser
 import requests
 
+import central
+
 ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 PROMPTS = ROOT / "prompts"
@@ -183,6 +185,9 @@ def tema_do_dia(dia, lang, k):
 
 # ---------------------------------------------------------------- Telegram
 def enviar_texto(texto):
+    if central.ativa():
+        central.publicar_item("idiomas", "texto", texto, html=True)
+        return
     r = requests.post(f"{TG}/sendMessage", json={
         "chat_id": CHAT, "text": texto, "parse_mode": "HTML", **TOPICO,
         "link_preview_options": {"is_disabled": True},
@@ -194,6 +199,9 @@ def enviar_texto(texto):
 def enviar_audios(lista, lang):
     """lista = [(path, título)]. Vários áudios vão juntos num álbum (1 notificação)."""
     if not lista:
+        return
+    if central.ativa():
+        central.publicar_item("idiomas", "audio", "", arquivos=lista, extra={"lang": lang})
         return
     perf = f"Jornal {BANDEIRA[lang]}"
     try:
@@ -220,6 +228,10 @@ def enviar_audios(lista, lang):
 def enviar_quiz(item):
     q, ops, c = item.get("pergunta"), [o for o in item.get("opcoes") or [] if o], item.get("correta")
     if not q or len(ops) < 2 or not isinstance(c, int) or not 0 <= c < len(ops):
+        return None
+    if central.ativa():
+        central.publicar_item("idiomas", "quiz", q, extra={"opcoes": ops[:4], "correta": c,
+                                                          "explicacao": item.get("explicacao_pt") or ""})
         return None
     base = {
         "chat_id": CHAT, **TOPICO, "question": ("❓ " + q)[:300],
@@ -299,6 +311,8 @@ def do_meu_topico(msg):
 
 def processar_updates(st):
     """Lê o chat. Retorna confirmações; frases e áudios vão para st['pendentes']."""
+    if central.ativa():  # sem Telegram não há respostas para ler
+        return []
     confirmacoes = []
     try:
         r = requests.get(f"{TG}/getUpdates", params={

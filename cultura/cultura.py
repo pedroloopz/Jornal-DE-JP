@@ -16,6 +16,7 @@ import os
 import random
 import re
 import sys
+import tempfile
 import time
 from datetime import datetime
 from pathlib import Path
@@ -25,6 +26,9 @@ import requests
 
 sys.path.insert(0, str(Path(__file__).parent))
 from musicas import OBRAS  # noqa: E402
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+import central  # noqa: E402
 
 AQUI = Path(__file__).parent
 ESTADO = AQUI / "state.json"
@@ -90,6 +94,18 @@ REGRAS = ("Voce escreve para um canal de Telegram em portugues do Brasil, para u
 
 # ================================================================ TELEGRAM
 def tg(metodo, base=TG, **kw):
+    if central.ativa():
+        if metodo == "sendMessage":
+            j = kw.get("json", {})
+            central.publicar_item("cultural", "musica", j.get("text", ""), html=True,
+                                  extra={"link": (j.get("link_preview_options") or {}).get("url")})
+        elif metodo == "sendPhoto":
+            nome, conteudo, _ = kw["files"]["photo"]
+            caminho = Path(tempfile.gettempdir()) / nome
+            caminho.write_bytes(conteudo)
+            central.publicar_item("cultural", "pintura", kw["data"].get("caption", ""), html=True,
+                                  arquivos=[(caminho, "")])
+        return {}
     r = requests.post(f"{base}/{metodo}", timeout=60, **kw)
     if not r.ok:
         raise RuntimeError(f"Telegram recusou ({metodo}): {r.text[:300]}")
