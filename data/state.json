@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Werk",
-    "jp": "修復"
+    "jp": "有望"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "古い建物の修復には多くの時間がかかります。",
+      "frase": "彼女は将来有望なサッカー選手です。",
       "leitura": ""
     }
   },
@@ -1112,10 +1112,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-14",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-21:00",
     "2026-10-04-06:30",
     "2026-10-04-08:00",
     "2026-10-04-12:30",
@@ -1174,14 +1180,10 @@
     "2026-10-13-19:30",
     "2026-10-13-21:00",
     "2026-10-14-06:30",
-    "2026-10-14-08:00"
+    "2026-10-14-08:00",
+    "2026-10-14-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFRubWlQbEhEOHA5ZE5MTERKZjV3Nmp3NnNLUFZBcUctQ0xiOHJCLWQwOTlpdmhGN3B3d2plZzM3aTEtbGQtcmRSZHUtQy1kbkJRVVA3RnFKU0k4bHFYOGZhREZtNnF1c1h6RkotNVlOaWJQMnNNVWxlbHp3bnNSN0hINDhOR1dERG5GZ3Y5S1hGT0xXWEpGSlZCX1RIbDlxZUFvc1ZuVkdINENxZGVpNUFnU01LSkxuMEppWDdTYVh2Y3dreGlPREs5eXplMVU0aHNkRXc5WmNWS3VoYko0?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR19kWUQxZU51U1dNekg4N1NZVEwxTTg2M0dfYnJ6dy1pM2ROR242cVZOMGRneHhfQXhoVE5vZ2EtR1U2dWNjelJEN29uSU5DVmtrM2tRTXdRUkhFLXkzT1QyajRQaUNxYWk2TnJ1ZDBmLWlSRGlQSWdiTHFWQkM3UGZrV1psQTh0QlhTSzJLaHplOEUwWVZzTE9IMXZGWUQ3MUthWU56QjVJcVNrNExYOFlnRDlaM1IzbG5Yd0stNjQ2ZE9tdndOOWwwU1U2UGJGTThSYW8tMTdxd3V5YjhBOEZtUW96bUdCOTVEeHFzUGlwZVh0VE9SVVNB0gGIAkFVX3lxTFBtR0V1ZGs5dzhOcE1hT2xIeC11OVF1Qm8wa0YtOEVMOWRSeFRsc0FIeGE4dFZIa3ZvX0dOQkFfOFd0b2I0eUF0Y2RjczVYMjFjYk0xbXNSSWlTSUo4ZE5JUmRFTURwWWo1eENpd1dQTnQxNHRFX0k4OWFzU2YtbEZyaEdlOEM5MVNRMjVGZnhtWUVGVDVTR1BjZW42dU1KaXZHRF9GVUFoRkVwN0xJb0V1Y3pqU3lvZlpfaTNNUnFheG1FRDFqTEYtdEhJTV9ZZ1V1WjYxQ0FIVXBGeVdOMGFYZkZ2eFFvMWtoeDdmYjI4ekhEUG44YWxrOEJfUkdoV2dfNmNBZFNGWg?oc=5",
-    "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlREdUNVaDZqeUNHYWFNLWdfUGpfakxCclZIWEF2dS01cFV1YXI5MG9td0Y4bkhJd2paS1VHbkZDUnM3WjNPbWFNemR2RGxwcDB2WlpMbG1uTEptblA2V3dtRmRWdkRIU3dNNHkyTktIMXE3VW96QkNBWWtOWGRjaEE5X1NRUExadTMzZkNoaU5ZNXpBNXJlZGh0WmozWVdvQTJHSUJ6c3JuZHF4TmVQb09zdWFZVzlyUW1yQ3NsRlJBVkdSaFhudU9pYnJodG5VSEQybS11UUZmQ21VQmtmZHRWWE1vMU0?oc=5",
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYjJzV2dNUWJrWU53VmhlNWxsRlF2anRRU21WQXZOMW1KUHc1V0dnTzNPOHJ0S0hxQUs0bFUwTGs4VmJhM3M5QWxFckhJVkV5cFhCbHV3d3hfU3p0MlFaZ3RmTDAtQzJPVUhDSDc0akpPLUxiNzA4Q3c5dUM0NExBWTdIcjhPSEJXU0J6Y1NrSHNxN0l3a1p4U1kwdXJKYXRXMWdSa3RpS3RWMWlpSGE5U2V1SURrZ3JuUnVqNkQxQ0h1UQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjluRjRDM0g1N0h5RXVXZk0zTzZaQVgwYmUwVDRRTm5UckZYd2U4UTItUWtlT3Noa1ZHQUZDSE5MdGg5OUhrM01GZTFuRDJqN0szZkRXSGRfb1VrdUlaMDNucndxdHZfQkpFR3l6V1ltTzJ2RHgzSHZZd1JpcDg0RWV0ZlRjRXdfazgyRzBSZnZJTUM4QlR5TkVhZHNDQmRycGpsOTRLbVh1ZlRsVTNITGRYUQ?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlscWZkdkhZX1dsMDh1b294b1NQWE95ZUNicnNuSm5EblBnaGFfdWlwbjBsZVpTRkdUWmNBdkZxWjM5Y1MtRmpEVWhaMzJTdVpHcnVrMzJpRTJNUW16Zkk4S195Q2ZhNFFyOUdmOUZHdFdMellNYzdwcTZvNkJadGdvTUc0bmw1ZnlFcldFS1ZVS3ZEMk5QSTlhbzlZQ3NTRUNxLXVmYk5wUkludGdETF9EWWczS1k?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVZGQ0dnN2Uya3dMOWxOUjE5d25HcGk2QzlTRjQ5WmpmeXNjcXJRcnBxNFpRdTZ2UGVrRXJ3TkJ4YlJDUmE0ZVRwV2ZnQ3hjSGFVR1RXc0diUUVkSzVSYVIyZWtYbTJtcTFPX1pPMXk2MXdsQl9mbl9rZmE0RzRhVzZwUUlxLXZNVTJSQU1IRVZPam41dWk1WHhQSEhzM2h3bE5aZDdJS1NaQ25uWW1IS29kRFAxdVVYdGFzSnZsMUZndDRwclNCbFhPeThsNnV0VGZlV09BNHBXSGlDNVVsODFUZVRNMHNpS1JqM3NR0gH8AUFVX3lxTFBXWVJ3VnlQcG0za1VZTmI3cTFWajFLQlJiRVpGR0RLUnhNZ0pXQUZmaWZvVDVjUWlndTE4TGd0Mjc5bkQzMTNiMGtGRDJNYWJIVEtkRXNLZFRJN1RYaDhDWkpmdGJpZnJjUFQzY0Z6S0tqeS1YcnduOG1CcjV5UGlwRlZueXhQVEFYTEFBWEM4T0tHVjhKV29JUDRPZGdwdVl1SzByZWtSY0t6eUlRaXZlX2tQYldrS283Y0xobVVsV2s0dTNaYjVlNHQ4Q2l2eTg3eGJhUzBFc1lWeFpOVnZscnppTGlULWtjMU1YVk0wd2FhQTFLNndFRktwdA?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVN4S1ZTNzF5TUpyVmlUTHFUcjhoeXRQdTluRFAzMHVBdVQzRHIwcnhDOThkREhVV3ZWb1lQRFYzVE1CbUt5ZnJzSjdidW9CRTduUHoxTXl1QlNsSzF1cmZ5ZGQ2b2ZkSnFCaXdMNE14bWlXVEpTWjVNSThSWlh0aW5GYUJpTk0wYVk0QWFzT0pDWEp2UDhGem5GWThRazYtM3FLLS1IZmRUUEEydzlHS3Y5TjBBUFYxVHVEM2c5ZEd0MkxPVjNkT2lWck1nT1RGUmhGTmpZUWhwaTh4SnRjR1RiWWc0Zw?oc=5",
@@ -1376,7 +1378,12 @@
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-14-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/cratera-de-4-metros-esta-aberta-ha-quase-uma-semana-na-asa-norte-em-brasilia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/juventude-oxigena-campanhas-eleitorais-e-ganha-espaco-na-politica-do-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkVIS3laTTVhRE1vd0VLUEFUeTlLY1RKVU5fUFhmLUhXYkYxQUt1c3pFX3E3TTZyM3VKYzQ5emt0ZE5mc3hrQjE2V2ZIYk9LdWFRa0pscmVtYnhlcUIzck5iZUZYel8tQ2ltcWpsUU5odm0zSVJDVnVVWHk2Nk5Gb2dNQ3RNaG5UMnVYbHVfMVcxWGxodnA4dW9NWjdnUU5xS0RPbHhWaDRnLXBOckRoQ1B5azVmVzB2bUJiUGJIVHdEYVFEdnpHRmphS1ZKTjF3MlFMcTl0cEhVRUNwTk5Jd0g1dWZVQjdzeW8ySzdhS2hMaDg?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHBwa0NySzF0cHJQUVlRV1Job1AzVThHWmhMb1ZzeFRibk1hY3c3SGZUWlNCRFUtSF8zTUNGemJBOWQ1ZTBzSzZqMmk5YnA4SnZ1QnN0ZmJlSGNVYVZwd25BRFdIVlR0Ml8ybTNFTVdIQW82T0E4ZDNsSTkwejhTRVNsNUFTRnZhSmUycDV3cEY1SExFV1dGOFZaUTExaGpxRWY4Qzkzc1dwR1hRdVZRT1NXYXRTYXoyR05vdHVVeEwxT29MLWZkVGR3?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGNZNmVUYy1PWWo4SVJTMGJVODNMdGtnUUhoN05wUm95M2ZTU0pxRXJWMDZ0WVA1MlVlZWFpbkJpV3JGVUg2T0NRNjNwM1JkQkFabk5wRnhDcGxWTW9UNWd4RkN6NDk0LURUQlhzVlBmZ3F4ekVGNFRYZWFJYWZ6cXhGem9MVGlDdlczZGVlaU15emlzQm5qYXZpejQ2NGJiWlBUS2xiS25NUF82d2xLTmhYLUNIR182c3BGNDlVS2piV2l5Z2dmMDhqd2RFc1ZNVGpSdi10M1BkTHdkVldnWTVHUEdTQdIB9AFBVV95cUxOcmVVei1CMC1XRWczMnMxOF8tQ0xUOWRiQXFQZ093VXNTNExSYTU3VVcxT3ZkWkhNRnFNZUQxUjdjejJFQWpwd0dJSnBwVG5KaHB4WFFLSWVyV0F2bXRkMHV1NjRiOVdhYXUwR3hkTTBLd2doMzhpSV9nRUdBUFZiZWtyWjJldFRNMHdEUW1qUmx2RjFQZGdiMHJ1NWZBTTFDWGdFNVpyMUhhazB5N0ZBcjhucms5VjkxQ3psZDlGNkI0dTdHUkZqc2FuRHhaeDBMbTBpSVZZOHpMcnlBYTZuaW85djE1NFlNWW9lVmh6REJ0YVVl?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJWcWdEQzdtSnZmZFlBSXdycVZMa2VRMUZ3RUhSODhqMW1za0VTMTV1SWZIWHQyQ2tGb2pwS3hmTThuRTh4TkljelY1NjlBOUpFZ21DOGd2OGllWGtJdE1PNXhtVWhBNTlKUzJmN2ZRRkZveEQyV0hhT3RUMUVsNTh1NkFaS1JCQjRPd25qQTA1UVVRUEJGSElFWmM2Y1EwaGgzbUxucnN1Zzk1aGNibg?oc=5",
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVdpZnQ0clE4V1cwendpbGFlR2E4cTdfQzBYUWdQbk96SFpSNTVNanBUTWUya3FhbFhVdlJadVdhTkFDSVBxdHVXNDliSWRjSVMtY1BsV3E4QWNJRHdYY0ZRQ25WbHdoblg0elNoR3g0MWpYejhNRnFHcjcyS2Frd2JXa1FmT2lwS09sb0UwVWp4cGdqN1JybXBsYXFRa3ZpZFQ3LVhXenRhNlFmOGpUNHVtUUtqWlp1NmZCZEdoM0NsT0pmZnc?oc=5"
   ],
   "palavras": [
     {
@@ -2875,6 +2882,18 @@
       "exemplo": "Dieses Werk von Kafka ist weltweit bekannt.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-14",
+      "proxima": "2026-10-15",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-14-12:30-jp",
+      "palavra": "有望",
+      "leitura": "ゆうぼう",
+      "sentido_pt": "promissor",
+      "exemplo": "彼女は将来有望なサッカー選手です。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-14",
       "proxima": "2026-10-15",
       "acertos": 0
