@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Demonstration",
+    "de": "Ziel",
     "jp": "判断"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Demonstration in Brasília war friedlich.",
+      "frase": "Das Ziel der Mannschaft ist der Sieg.",
       "leitura": ""
     },
     "jp": {
@@ -1091,10 +1091,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-13",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-12:30",
     "2026-10-03-17:30",
     "2026-10-03-19:30",
     "2026-10-03-21:00",
@@ -1153,14 +1159,10 @@
     "2026-10-13-08:00",
     "2026-10-13-12:30",
     "2026-10-13-17:30",
-    "2026-10-13-19:30"
+    "2026-10-13-19:30",
+    "2026-10-13-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-x-lula-no-2o-turno-quem-cercou-os-candidatos-em-discurso-apos-a-apuracao.ghtml",
-    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml",
-    "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml",
-    "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/eventual-vitoria-de-flavio-reedita-e-empodera-eixo-de-poder-do-governo-bolsonaro.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/segundo-turno-das-eleicoes-2026-veja-data-candidatos-e-informacoes-sobre-a-proxima-votacao.ghtml",
     "https://www.fool.com/investing/2026/10/05/this-magnificent-seven-stock-could-be-overdue-for-a-big-rally/?.tsrc=rss",
     "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-outperforms-broader-market-204503183.html?.tsrc=rss",
@@ -1355,7 +1357,12 @@
     "https://247wallst.com/investing/etf/2026/10/13/if-you-own-spy-this-lower-cost-fund-tracks-identical-holdings-for-less-than-half-the-fee/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/4-factors-drive-share-outperformance-231000568.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/13/nvidia-in-5-years-where-the-stock-could-be-headed/?.tsrc=rss",
-    "https://finance.yahoo.com/video/apple-299-homeview-tech-giant-222100009.html?.tsrc=rss"
+    "https://finance.yahoo.com/video/apple-299-homeview-tech-giant-222100009.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2czdFlDMkR5T1dDS1FadGVtbEhCcmZsc0tVWVVPRGdFbnRYLVROWXlEeVdDWC1kVkYwUDBHRHBzSmotTjdNa0J3cmRFUUZRSlk4UHR2aDA2aUtpX3pqQWQ3ckh5YlotUm9iWko0NUtUWlVtVXJMdVJmc0YtS1hzQ2VxbWd1dmhtWWVPYVo5WmthSGV4T1B1cGRkZzdHNi1ITm0tRHdvNjV1bTkzRWJ5bV9CS2Jyc1BnMkJ6MFFYNVnSAcYBQVVfeXFMT3gxTWoyU0E2LVhlNC1jeS12YVVvX3VFR0JNMjZUam5iRXpaS3doZ3I5NFlHOXNJRWV6bmk4dzM3aHNtXy1LUjVEOUI5Wl9rS3lHTTk1dkNhd1c0VDhmUGlmMlYzOWx0S2U5dENIUV9tcFRWWW40dnB3RFN4U0dVekljaHFndmt6eHMydk9PVFk3am5MbE1sekVRNHN5MEN0WWR2TFFsc3FYWk43MkU1RG5QVVM0TFoza1ozenp1TzNKaHhUZy1R?oc=5",
+    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQ2JnZW5sVjFHT0JWM1NKNVVERWFSTDdxdTE2QldVUUN4SEFkZTNFNUxqcDZ1cE1DMHJ2R3cweW1pTUQtSDdOa2ZoNkNhNERTSk9IX3l1ZVJCZ0xIVHM0LXQ4dnZ3TXBxMWhzWGF2b1pFR1hPWGF3Z3dBY0cxOHJjS3Z0N2dqUk5iZlhwdXdYcWxYbzJxSWExelE1dXJjb0J1MUJYSEh2WTBvWFJTYUd2VWRMQUs4ZGJvOEN6SmFxOG4xTC1BN1UzNmk0WVkyOUpmNmRjc0FtMkFRRkRVN0p3MFNScnpGTm9hcjNodFRCMDNSQkNXaEdn0gGGAkFVX3lxTE5TbF9McFNqVU9leEtCeTBqUDFLYVhKM3hFVDE4ZWlwRzdhbkNpNmJsSjZNQlZBWGFRT1lEMUpFSEN5M2dtNEMyYmViendObVpBeUtwOTJ4QkxCckM5MUkxR29wdFBweWlGRWc2NGJpVGFacWlxSmRfTXpUT2dqdkNwcXE3eEtJZ1JyWmxQTWxKNzdERnc0NFhadFJyQkI1aGN2WWpPc1J2Ul8xZkxUWldrQm1qb1pBNm9EWkd5R2p3S202QVhsRmNfS0x2UkRZN01mNkd1cG5GRkNyWEdLb0tpM2tiUlFNdk0zcDhYTWRWLW1LMERrWmxiNlZ4eDVhMmI3OGhUT3c?oc=5",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNclBMVExSWWwxU1FOX09JVkFndkt6TzJGQ1p0TWpOLXN4ZjNSa3cxc0NTUmw1eGJ0SEF6eE1Va3M1Q3ZWOU5ldklpVVg4UDRucXAwWmZpMUxCUmF5TU5tbDhJbS1PQ05TV0ZtTnVSQ2h2RHBSZ0xicHZsRzhlV3Bza2VkTHJnVHJtaVRualhkaHpTcE9RSUVpVklaUEJScVNCejhBZGR0cGRCVGUtdnlWTkRZSi11U2pWREUyMHlqMjVIeXdKamR5TlIza2M1VDM5djVXQkd3WW9oMW1ENVFLSnFCVnZZdElQbmxGMTdFTGRpMFFhT2fSAYQCQVVfeXFMT2FuZTN0MEl5NjJGZjNxa1RIR1VwMXdrdURfVXcyMUp1WXdqbXNBNk1hUi1zVzRVcXN5UjQ0M3F0TExCODYyZWRESjdQRXBTRTZtNU55cm1MVktiUmFNbkl1alY5YnZvMlFLOWtRby1OV3lfTnlHTXMzRklvLUhmWmJrSmF0ZFBhc0NiX2VNUldsb09KOUNpQWt1cFNNcmRlZnFnSEk1OFFfQUdYR1VPcWFoaERxRWNiOUtZd0JuQlB4WnM0dWNBUkRyczFOd2cxMC05Q3hxdjJtd24tTWFTTWR3UTZ6OXc0NDM1UlpDa2pJbG92TXowTExtX1NId2NyMmtFRU8?oc=5",
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGwzakxBT3pPeVZPanJTRy1hZVdyZUtFR0R5aXk2Z0ZKQUlBVUljZ200STZXT2NvcTVBV2RtTG1mWHR2S1llUjdWLTI1SGxfUFlDTUcyVE9LR1BPTVZ4YVE0N28zSk1EZ2RSRXFBR2NsVFhhMUdMdnROT2lmaHp2UlNvdGtlRklHNGM4azM3aDhtRmp1VjNJY202a1BOY21vLTg4T19xQkxPQ2M3bkhfSW1UajdZanF6UER6eEhySTI1Vm95cFYzS3VTTnc3VUplUUVuYzVBWmxtZDFP?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZm5GWHJSWThpYnR0YWNTajBQT24wUUQzRjF0dnc2anB4N0VtbU9SRVhSNkFKYUpkNWJBOXRxbUpGVkR4UGlxdUxfNmdTM2ZmeVhoMi1lOGZGLUFzWVl0ckg1Vm5WZ0RRcXJEcFBfcjBVY2NQbjlpY1h6MXZXejhnYkM5SlptS0F0NncxVW5wb1I4Z3JvWi13WnpTQ01nTjhYRHhiejZ4MGdyUnZyeEZSV0kyZ0xRMmt4NHZOQlhLaVBsZlM2aGlNdTFGN2JJdGd5NG12TDhLUjlseENLMzhEWmw5UlNTeS1xTHBqcU1SVFZGOFk?oc=5"
   ],
   "palavras": [
     {
@@ -2818,6 +2825,18 @@
       "exemplo": "正しい判断をするためにデータを集めます。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-13",
+      "proxima": "2026-10-14",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-13-21:00-de",
+      "palavra": "das Ziel",
+      "leitura": "",
+      "sentido_pt": "o objetivo",
+      "exemplo": "Das Ziel der Mannschaft ist der Sieg.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-13",
       "proxima": "2026-10-14",
       "acertos": 0
