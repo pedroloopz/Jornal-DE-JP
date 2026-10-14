@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Ziel",
-    "jp": "判断"
+    "jp": "修復"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "正しい判断をするためにデータを集めます。",
+      "frase": "古い建物の修復には多くの時間がかかります。",
       "leitura": ""
     }
   },
@@ -1098,10 +1098,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-14",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-17:30",
     "2026-10-03-19:30",
     "2026-10-03-21:00",
     "2026-10-04-06:30",
@@ -1160,14 +1166,10 @@
     "2026-10-13-12:30",
     "2026-10-13-17:30",
     "2026-10-13-19:30",
-    "2026-10-13-21:00"
+    "2026-10-13-21:00",
+    "2026-10-14-06:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/05/this-magnificent-seven-stock-could-be-overdue-for-a-big-rally/?.tsrc=rss",
-    "https://finance.yahoo.com/m/9c90b53b-8f8f-31da-a2bd-40e22a1f7b08/dow-jones-futures%3A-nasdaq.html?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-outperforms-broader-market-204503183.html?.tsrc=rss",
-    "https://finance.yahoo.com/m/687e77fb-486c-339d-9a49-1b7cbc3224cb/nvidia-stock-hits-record-as.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/05/elon-musk-confirmed-terafab-talks-with-tsmc-intel-has-been-its-only-named-chip-partner/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFRubWlQbEhEOHA5ZE5MTERKZjV3Nmp3NnNLUFZBcUctQ0xiOHJCLWQwOTlpdmhGN3B3d2plZzM3aTEtbGQtcmRSZHUtQy1kbkJRVVA3RnFKU0k4bHFYOGZhREZtNnF1c1h6RkotNVlOaWJQMnNNVWxlbHp3bnNSN0hINDhOR1dERG5GZ3Y5S1hGT0xXWEpGSlZCX1RIbDlxZUFvc1ZuVkdINENxZGVpNUFnU01LSkxuMEppWDdTYVh2Y3dreGlPREs5eXplMVU0aHNkRXc5WmNWS3VoYko0?oc=5",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR19kWUQxZU51U1dNekg4N1NZVEwxTTg2M0dfYnJ6dy1pM2ROR242cVZOMGRneHhfQXhoVE5vZ2EtR1U2dWNjelJEN29uSU5DVmtrM2tRTXdRUkhFLXkzT1QyajRQaUNxYWk2TnJ1ZDBmLWlSRGlQSWdiTHFWQkM3UGZrV1psQTh0QlhTSzJLaHplOEUwWVZzTE9IMXZGWUQ3MUthWU56QjVJcVNrNExYOFlnRDlaM1IzbG5Yd0stNjQ2ZE9tdndOOWwwU1U2UGJGTThSYW8tMTdxd3V5YjhBOEZtUW96bUdCOTVEeHFzUGlwZVh0VE9SVVNB0gGIAkFVX3lxTFBtR0V1ZGs5dzhOcE1hT2xIeC11OVF1Qm8wa0YtOEVMOWRSeFRsc0FIeGE4dFZIa3ZvX0dOQkFfOFd0b2I0eUF0Y2RjczVYMjFjYk0xbXNSSWlTSUo4ZE5JUmRFTURwWWo1eENpd1dQTnQxNHRFX0k4OWFzU2YtbEZyaEdlOEM5MVNRMjVGZnhtWUVGVDVTR1BjZW42dU1KaXZHRF9GVUFoRkVwN0xJb0V1Y3pqU3lvZlpfaTNNUnFheG1FRDFqTEYtdEhJTV9ZZ1V1WjYxQ0FIVXBGeVdOMGFYZkZ2eFFvMWtoeDdmYjI4ekhEUG44YWxrOEJfUkdoV2dfNmNBZFNGWg?oc=5",
     "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTlREdUNVaDZqeUNHYWFNLWdfUGpfakxCclZIWEF2dS01cFV1YXI5MG9td0Y4bkhJd2paS1VHbkZDUnM3WjNPbWFNemR2RGxwcDB2WlpMbG1uTEptblA2V3dtRmRWdkRIU3dNNHkyTktIMXE3VW96QkNBWWtOWGRjaEE5X1NRUExadTMzZkNoaU5ZNXpBNXJlZGh0WmozWVdvQTJHSUJ6c3JuZHF4TmVQb09zdWFZVzlyUW1yQ3NsRlJBVkdSaFhudU9pYnJodG5VSEQybS11UUZmQ21VQmtmZHRWWE1vMU0?oc=5",
@@ -1362,7 +1364,12 @@
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQ2JnZW5sVjFHT0JWM1NKNVVERWFSTDdxdTE2QldVUUN4SEFkZTNFNUxqcDZ1cE1DMHJ2R3cweW1pTUQtSDdOa2ZoNkNhNERTSk9IX3l1ZVJCZ0xIVHM0LXQ4dnZ3TXBxMWhzWGF2b1pFR1hPWGF3Z3dBY0cxOHJjS3Z0N2dqUk5iZlhwdXdYcWxYbzJxSWExelE1dXJjb0J1MUJYSEh2WTBvWFJTYUd2VWRMQUs4ZGJvOEN6SmFxOG4xTC1BN1UzNmk0WVkyOUpmNmRjc0FtMkFRRkRVN0p3MFNScnpGTm9hcjNodFRCMDNSQkNXaEdn0gGGAkFVX3lxTE5TbF9McFNqVU9leEtCeTBqUDFLYVhKM3hFVDE4ZWlwRzdhbkNpNmJsSjZNQlZBWGFRT1lEMUpFSEN5M2dtNEMyYmViendObVpBeUtwOTJ4QkxCckM5MUkxR29wdFBweWlGRWc2NGJpVGFacWlxSmRfTXpUT2dqdkNwcXE3eEtJZ1JyWmxQTWxKNzdERnc0NFhadFJyQkI1aGN2WWpPc1J2Ul8xZkxUWldrQm1qb1pBNm9EWkd5R2p3S202QVhsRmNfS0x2UkRZN01mNkd1cG5GRkNyWEdLb0tpM2tiUlFNdk0zcDhYTWRWLW1LMERrWmxiNlZ4eDVhMmI3OGhUT3c?oc=5",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNclBMVExSWWwxU1FOX09JVkFndkt6TzJGQ1p0TWpOLXN4ZjNSa3cxc0NTUmw1eGJ0SEF6eE1Va3M1Q3ZWOU5ldklpVVg4UDRucXAwWmZpMUxCUmF5TU5tbDhJbS1PQ05TV0ZtTnVSQ2h2RHBSZ0xicHZsRzhlV3Bza2VkTHJnVHJtaVRualhkaHpTcE9RSUVpVklaUEJScVNCejhBZGR0cGRCVGUtdnlWTkRZSi11U2pWREUyMHlqMjVIeXdKamR5TlIza2M1VDM5djVXQkd3WW9oMW1ENVFLSnFCVnZZdElQbmxGMTdFTGRpMFFhT2fSAYQCQVVfeXFMT2FuZTN0MEl5NjJGZjNxa1RIR1VwMXdrdURfVXcyMUp1WXdqbXNBNk1hUi1zVzRVcXN5UjQ0M3F0TExCODYyZWRESjdQRXBTRTZtNU55cm1MVktiUmFNbkl1alY5YnZvMlFLOWtRby1OV3lfTnlHTXMzRklvLUhmWmJrSmF0ZFBhc0NiX2VNUldsb09KOUNpQWt1cFNNcmRlZnFnSEk1OFFfQUdYR1VPcWFoaERxRWNiOUtZd0JuQlB4WnM0dWNBUkRyczFOd2cxMC05Q3hxdjJtd24tTWFTTWR3UTZ6OXc0NDM1UlpDa2pJbG92TXowTExtX1NId2NyMmtFRU8?oc=5",
     "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGwzakxBT3pPeVZPanJTRy1hZVdyZUtFR0R5aXk2Z0ZKQUlBVUljZ200STZXT2NvcTVBV2RtTG1mWHR2S1llUjdWLTI1SGxfUFlDTUcyVE9LR1BPTVZ4YVE0N28zSk1EZ2RSRXFBR2NsVFhhMUdMdnROT2lmaHp2UlNvdGtlRklHNGM4azM3aDhtRmp1VjNJY202a1BOY21vLTg4T19xQkxPQ2M3bkhfSW1UajdZanF6UER6eEhySTI1Vm95cFYzS3VTTnc3VUplUUVuYzVBWmxtZDFP?oc=5",
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZm5GWHJSWThpYnR0YWNTajBQT24wUUQzRjF0dnc2anB4N0VtbU9SRVhSNkFKYUpkNWJBOXRxbUpGVkR4UGlxdUxfNmdTM2ZmeVhoMi1lOGZGLUFzWVl0ckg1Vm5WZ0RRcXJEcFBfcjBVY2NQbjlpY1h6MXZXejhnYkM5SlptS0F0NncxVW5wb1I4Z3JvWi13WnpTQ01nTjhYRHhiejZ4MGdyUnZyeEZSV0kyZ0xRMmt4NHZOQlhLaVBsZlM2aGlNdTFGN2JJdGd5NG12TDhLUjlseENLMzhEWmw5UlNTeS1xTHBqcU1SVFZGOFk?oc=5"
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZm5GWHJSWThpYnR0YWNTajBQT24wUUQzRjF0dnc2anB4N0VtbU9SRVhSNkFKYUpkNWJBOXRxbUpGVkR4UGlxdUxfNmdTM2ZmeVhoMi1lOGZGLUFzWVl0ckg1Vm5WZ0RRcXJEcFBfcjBVY2NQbjlpY1h6MXZXejhnYkM5SlptS0F0NncxVW5wb1I4Z3JvWi13WnpTQ01nTjhYRHhiejZ4MGdyUnZyeEZSV0kyZ0xRMmt4NHZOQlhLaVBsZlM2aGlNdTFGN2JJdGd5NG12TDhLUjlseENLMzhEWmw5UlNTeS1xTHBqcU1SVFZGOFk?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/forro-tunel-do-tempo-camara-dos-deputados.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-14-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/cratera-de-4-metros-esta-aberta-ha-quase-uma-semana-na-asa-norte-em-brasilia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/juventude-oxigena-campanhas-eleitorais-e-ganha-espaco-na-politica-do-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
   ],
   "palavras": [
     {
@@ -2839,6 +2846,18 @@
       "tema": "botafogo",
       "data": "2026-10-13",
       "proxima": "2026-10-14",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-14-06:30-jp",
+      "palavra": "修復",
+      "leitura": "しゅうふく",
+      "sentido_pt": "reparo / restauração",
+      "exemplo": "古い建物の修復には多くの時間がかかります。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-10-14",
+      "proxima": "2026-10-15",
       "acertos": 0
     }
   ]
