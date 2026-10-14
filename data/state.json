@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Ziel",
+    "de": "Werk",
     "jp": "修復"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Ziel der Mannschaft ist der Sieg.",
+      "frase": "Dieses Werk von Kafka ist weltweit bekannt.",
       "leitura": ""
     },
     "jp": {
@@ -21,7 +21,7 @@
   },
   "obra_idx": {
     "jp": 13,
-    "de": 11
+    "de": 12
   },
   "dominadas": {
     "jp": 0,
@@ -1105,10 +1105,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-14",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-19:30",
     "2026-10-03-21:00",
     "2026-10-04-06:30",
     "2026-10-04-08:00",
@@ -1167,7 +1173,8 @@
     "2026-10-13-17:30",
     "2026-10-13-19:30",
     "2026-10-13-21:00",
-    "2026-10-14-06:30"
+    "2026-10-14-06:30",
+    "2026-10-14-08:00"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFRubWlQbEhEOHA5ZE5MTERKZjV3Nmp3NnNLUFZBcUctQ0xiOHJCLWQwOTlpdmhGN3B3d2plZzM3aTEtbGQtcmRSZHUtQy1kbkJRVVA3RnFKU0k4bHFYOGZhREZtNnF1c1h6RkotNVlOaWJQMnNNVWxlbHp3bnNSN0hINDhOR1dERG5GZ3Y5S1hGT0xXWEpGSlZCX1RIbDlxZUFvc1ZuVkdINENxZGVpNUFnU01LSkxuMEppWDdTYVh2Y3dreGlPREs5eXplMVU0aHNkRXc5WmNWS3VoYko0?oc=5",
@@ -2856,6 +2863,18 @@
       "exemplo": "古い建物の修復には多くの時間がかかります。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-10-14",
+      "proxima": "2026-10-15",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-14-08:00-de",
+      "palavra": "das Werk",
+      "leitura": "",
+      "sentido_pt": "a obra",
+      "exemplo": "Dieses Werk von Kafka ist weltweit bekannt.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-10-14",
       "proxima": "2026-10-15",
       "acertos": 0
