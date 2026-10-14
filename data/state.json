@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Werk",
+    "de": "Gesetz",
     "jp": "有望"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Dieses Werk von Kafka ist weltweit bekannt.",
+      "frase": "Das Gesetz wurde gestern im Parlament diskutiert.",
       "leitura": ""
     },
     "jp": {
@@ -1119,10 +1119,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-14",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-04-06:30",
     "2026-10-04-08:00",
     "2026-10-04-12:30",
     "2026-10-04-17:30",
@@ -1181,14 +1187,10 @@
     "2026-10-13-21:00",
     "2026-10-14-06:30",
     "2026-10-14-08:00",
-    "2026-10-14-12:30"
+    "2026-10-14-12:30",
+    "2026-10-14-17:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZGlscWZkdkhZX1dsMDh1b294b1NQWE95ZUNicnNuSm5EblBnaGFfdWlwbjBsZVpTRkdUWmNBdkZxWjM5Y1MtRmpEVWhaMzJTdVpHcnVrMzJpRTJNUW16Zkk4S195Q2ZhNFFyOUdmOUZHdFdMellNYzdwcTZvNkJadGdvTUc0bmw1ZnlFcldFS1ZVS3ZEMk5QSTlhbzlZQ3NTRUNxLXVmYk5wUkludGdETF9EWWczS1k?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSVZGQ0dnN2Uya3dMOWxOUjE5d25HcGk2QzlTRjQ5WmpmeXNjcXJRcnBxNFpRdTZ2UGVrRXJ3TkJ4YlJDUmE0ZVRwV2ZnQ3hjSGFVR1RXc0diUUVkSzVSYVIyZWtYbTJtcTFPX1pPMXk2MXdsQl9mbl9rZmE0RzRhVzZwUUlxLXZNVTJSQU1IRVZPam41dWk1WHhQSEhzM2h3bE5aZDdJS1NaQ25uWW1IS29kRFAxdVVYdGFzSnZsMUZndDRwclNCbFhPeThsNnV0VGZlV09BNHBXSGlDNVVsODFUZVRNMHNpS1JqM3NR0gH8AUFVX3lxTFBXWVJ3VnlQcG0za1VZTmI3cTFWajFLQlJiRVpGR0RLUnhNZ0pXQUZmaWZvVDVjUWlndTE4TGd0Mjc5bkQzMTNiMGtGRDJNYWJIVEtkRXNLZFRJN1RYaDhDWkpmdGJpZnJjUFQzY0Z6S0tqeS1YcnduOG1CcjV5UGlwRlZueXhQVEFYTEFBWEM4T0tHVjhKV29JUDRPZGdwdVl1SzByZWtSY0t6eUlRaXZlX2tQYldrS283Y0xobVVsV2s0dTNaYjVlNHQ4Q2l2eTg3eGJhUzBFc1lWeFpOVnZscnppTGlULWtjMU1YVk0wd2FhQTFLNndFRktwdA?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZVN4S1ZTNzF5TUpyVmlUTHFUcjhoeXRQdTluRFAzMHVBdVQzRHIwcnhDOThkREhVV3ZWb1lQRFYzVE1CbUt5ZnJzSjdidW9CRTduUHoxTXl1QlNsSzF1cmZ5ZGQ2b2ZkSnFCaXdMNE14bWlXVEpTWjVNSThSWlh0aW5GYUJpTk0wYVk0QWFzT0pDWEp2UDhGem5GWThRazYtM3FLLS1IZmRUUEEydzlHS3Y5TjBBUFYxVHVEM2c5ZEd0MkxPVjNkT2lWck1nT1RGUmhGTmpZUWhwaTh4SnRjR1RiWWc0Zw?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZXBJQThsbjdpdXZOa09VN0FWZG1yQU5jZ2RfS3RRY2wzNzlQamI0MEJlMUlUUGFZeGYzZnhyTGtVRlAyMHpxXzc5MlhBQXppYXEycE5vd09qV0JZMmxHNXB1aDNnUUlUQkR0QS1tRXRPSExGZjZVZ0YwTDZhcktrWlVHZU5Uc093SGIyRWN5d3VIS0NjX1VXN0VaRjBxbTAxMm1zcXNXNjZfUFhscnItRll2MTNlQ3pJc29kTHluSkpoNmJSZ0VyZTJuRE5Qajg3aXJ2MlRBN1hza2VsNVFNdnZCYi0za0V4eFluUnZOczlnbWlIM05NdUhn0gGIAkFVX3lxTE05MGVkaXBPTFlXYjNJQ1UwUk1XYVMtVWVqMVZaQmRYODJ4QzFSRUNSeXh1UHVMUXExd1N1SmpMclB1SFVjWUVyTUxxZzg5M1lLY19MbVdHTHNOeXV2LTZGNkh3bEdxY3Y2LVVrVkFYXzJ5NHk5a29vOUVXUTlQQmJaZWRiWTJmWEplN2ZWT2w5aEY2NGRpNjR3ak5lWFVoU2hrXzE1TmlDVVBhLWZoam1sZVl6ekxGZlJ0SVNyd0tXT0tJT0d1cHZNRG13bmJBZUd2aTRxOUR2QVE1dUJzZjBMVDNCODNndG4zNFpYNWJMX1FhdUZNdkppUlJSUDBZTW96ZjQyUVZnSw?oc=5",
-    "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdmJGa01tb1dSZURkRFBsTm4xQlFkQ3JlOFRsSmtnWmtqSER3aGd6R003UEdFT2lGMXNJR0dWVlV3ckhGSU5WSHkxQ1BrWVpqc1NZcmRQS2E0Q3E5dVJ1NllmWGZHVHFnMFFMZ3FTTzVJdXo3am1mdjhDVFBjNTQyS201ZV9YY09BWUpKdWU3VlVtYm41LVpScnl6Q1pLU0VqSGEzMXN1amhGeWI3X0dZaS1YWm82TmhfTGZ6R0VNdGtIaWNjS1hTSUhtUnp0cmp4T2VscW15TU9tRXg1WkxSaW13Q094SGdY?oc=5",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/coligacao-paes-denuncia-panfletos.ghtml",
     "https://g1.globo.com/politica/ao-vivo/senado-pec-do-fim-da-escala-6x1.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/06/proibicao-das-bets-o-que-empresas-argumentam-e-o-que-a-agu-respondeu-veja-ponto-a-ponto.ghtml",
@@ -1383,7 +1385,12 @@
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHBwa0NySzF0cHJQUVlRV1Job1AzVThHWmhMb1ZzeFRibk1hY3c3SGZUWlNCRFUtSF8zTUNGemJBOWQ1ZTBzSzZqMmk5YnA4SnZ1QnN0ZmJlSGNVYVZwd25BRFdIVlR0Ml8ybTNFTVdIQW82T0E4ZDNsSTkwejhTRVNsNUFTRnZhSmUycDV3cEY1SExFV1dGOFZaUTExaGpxRWY4Qzkzc1dwR1hRdVZRT1NXYXRTYXoyR05vdHVVeEwxT29MLWZkVGR3?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGNZNmVUYy1PWWo4SVJTMGJVODNMdGtnUUhoN05wUm95M2ZTU0pxRXJWMDZ0WVA1MlVlZWFpbkJpV3JGVUg2T0NRNjNwM1JkQkFabk5wRnhDcGxWTW9UNWd4RkN6NDk0LURUQlhzVlBmZ3F4ekVGNFRYZWFJYWZ6cXhGem9MVGlDdlczZGVlaU15emlzQm5qYXZpejQ2NGJiWlBUS2xiS25NUF82d2xLTmhYLUNIR182c3BGNDlVS2piV2l5Z2dmMDhqd2RFc1ZNVGpSdi10M1BkTHdkVldnWTVHUEdTQdIB9AFBVV95cUxOcmVVei1CMC1XRWczMnMxOF8tQ0xUOWRiQXFQZ093VXNTNExSYTU3VVcxT3ZkWkhNRnFNZUQxUjdjejJFQWpwd0dJSnBwVG5KaHB4WFFLSWVyV0F2bXRkMHV1NjRiOVdhYXUwR3hkTTBLd2doMzhpSV9nRUdBUFZiZWtyWjJldFRNMHdEUW1qUmx2RjFQZGdiMHJ1NWZBTTFDWGdFNVpyMUhhazB5N0ZBcjhucms5VjkxQ3psZDlGNkI0dTdHUkZqc2FuRHhaeDBMbTBpSVZZOHpMcnlBYTZuaW85djE1NFlNWW9lVmh6REJ0YVVl?oc=5",
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJWcWdEQzdtSnZmZFlBSXdycVZMa2VRMUZ3RUhSODhqMW1za0VTMTV1SWZIWHQyQ2tGb2pwS3hmTThuRTh4TkljelY1NjlBOUpFZ21DOGd2OGllWGtJdE1PNXhtVWhBNTlKUzJmN2ZRRkZveEQyV0hhT3RUMUVsNTh1NkFaS1JCQjRPd25qQTA1UVVRUEJGSElFWmM2Y1EwaGgzbUxucnN1Zzk1aGNibg?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVdpZnQ0clE4V1cwendpbGFlR2E4cTdfQzBYUWdQbk96SFpSNTVNanBUTWUya3FhbFhVdlJadVdhTkFDSVBxdHVXNDliSWRjSVMtY1BsV3E4QWNJRHdYY0ZRQ25WbHdoblg0elNoR3g0MWpYejhNRnFHcjcyS2Frd2JXa1FmT2lwS09sb0UwVWp4cGdqN1JybXBsYXFRa3ZpZFQ3LVhXenRhNlFmOGpUNHVtUUtqWlp1NmZCZEdoM0NsT0pmZnc?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVdpZnQ0clE4V1cwendpbGFlR2E4cTdfQzBYUWdQbk96SFpSNTVNanBUTWUya3FhbFhVdlJadVdhTkFDSVBxdHVXNDliSWRjSVMtY1BsV3E4QWNJRHdYY0ZRQ25WbHdoblg0elNoR3g0MWpYejhNRnFHcjcyS2Frd2JXa1FmT2lwS09sb0UwVWp4cGdqN1JybXBsYXFRa3ZpZFQ3LVhXenRhNlFmOGpUNHVtUUtqWlp1NmZCZEdoM0NsT0pmZnc?oc=5",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-43percent-dos-eleitores-que-se-abstiveram-no-primeiro-turno-declaram-voto-em-lula-no-segundo.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/14/camara-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/tse-manda-retirar-posts-que-associam-falsamente-lula-a-ritual-satanico-na-paulista.ghtml",
+    "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-presidente-segundo-turno-14-outubro.ghtml"
   ],
   "palavras": [
     {
@@ -2894,6 +2901,18 @@
       "exemplo": "彼女は将来有望なサッカー選手です。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-14",
+      "proxima": "2026-10-15",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-14-17:30-de",
+      "palavra": "das Gesetz",
+      "leitura": "das Geh-setz",
+      "sentido_pt": "a lei",
+      "exemplo": "Das Gesetz wurde gestern im Parlament diskutiert.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-14",
       "proxima": "2026-10-15",
       "acertos": 0
