@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Demonstration",
-    "jp": "登録"
+    "jp": "判断"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "選挙陣営は新しい通信チャンネルの登録を裁判所に行った。",
+      "frase": "正しい判断をするためにデータを集めます。",
       "leitura": ""
     }
   },
@@ -1084,10 +1084,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-13",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-03-08:00",
     "2026-10-03-12:30",
     "2026-10-03-17:30",
     "2026-10-03-19:30",
@@ -1146,14 +1152,10 @@
     "2026-10-13-06:30",
     "2026-10-13-08:00",
     "2026-10-13-12:30",
-    "2026-10-13-17:30"
+    "2026-10-13-17:30",
+    "2026-10-13-19:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/articles/firmus-plans-allocate-half-ipo-042136602.html?.tsrc=rss",
-    "https://finance.yahoo.com/m/b98e0c13-f78a-3e19-ad93-12d5a340e701/dow-jones-futures%3A-nasdaq-at.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/04/2-super-semiconductor-stocks-to-buy-and-hold-throu/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/3-great-ai-stocks-watch-020606838.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/04/walmart-yields-less-than-1-the-surprising-reason-w/?.tsrc=rss",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/05/flavio-x-lula-no-2o-turno-quem-cercou-os-candidatos-em-discurso-apos-a-apuracao.ghtml",
     "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/05/e-fato-problema-na-rede-eletrica-atrasou-funcionamento-de-urna-em-barra-do-mendes-na-bahia.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/05/valdemar-diz-que-bolsonaro-vai-participar-de-eventual-governo-de-flavio.ghtml",
@@ -1348,7 +1350,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/video-cachorra-de-14-anos-morre-apos-ser-atacada-por-cao-de-grande-porte-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/manifestantes-fazem-ato-pro-lula-na-esplanada-dos-ministerios-em-brasilia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/dentista-suspenso-pelo-conselho-regional-e-autuado-por-exercicio-ilegal-da-profissao-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-13-de-outubro-de-2026.ghtml"
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-13-de-outubro-de-2026.ghtml",
+    "https://www.fool.com/investing/2026/10/13/harvard-s-judgment-professor-the-curse-of-optionality-and-one-habit-that-builds-better-judgment/?.tsrc=rss",
+    "https://247wallst.com/investing/etf/2026/10/13/if-you-own-spy-this-lower-cost-fund-tracks-identical-holdings-for-less-than-half-the-fee/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/4-factors-drive-share-outperformance-231000568.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/13/nvidia-in-5-years-where-the-stock-could-be-headed/?.tsrc=rss",
+    "https://finance.yahoo.com/video/apple-299-homeview-tech-giant-222100009.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2799,6 +2806,18 @@
       "exemplo": "Die Demonstration in Brasília war friedlich.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-13",
+      "proxima": "2026-10-14",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-13-19:30-jp",
+      "palavra": "判断",
+      "leitura": "はんだん",
+      "sentido_pt": "julgamento",
+      "exemplo": "正しい判断をするためにデータを集めます。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-13",
       "proxima": "2026-10-14",
       "acertos": 0
