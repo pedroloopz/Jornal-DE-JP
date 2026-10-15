@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Gesetz",
-    "jp": "有望"
+    "jp": "作品"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼女は将来有望なサッカー選手です。",
+      "frase": "この作家の作品は世界中で翻訳されています。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 13,
+    "jp": 14,
     "de": 12
   },
   "dominadas": {
@@ -1126,10 +1126,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-14",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-04-08:00",
     "2026-10-04-12:30",
     "2026-10-04-17:30",
     "2026-10-04-19:30",
@@ -1188,7 +1194,8 @@
     "2026-10-14-06:30",
     "2026-10-14-08:00",
     "2026-10-14-12:30",
-    "2026-10-14-17:30"
+    "2026-10-14-17:30",
+    "2026-10-14-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/coligacao-paes-denuncia-panfletos.ghtml",
@@ -2913,6 +2920,18 @@
       "exemplo": "Das Gesetz wurde gestern im Parlament diskutiert.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-14",
+      "proxima": "2026-10-15",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-14-19:30-jp",
+      "palavra": "作品",
+      "leitura": "",
+      "sentido_pt": "obra (literária ou artística)",
+      "exemplo": "この作家の作品は世界中で翻訳されています。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-14",
       "proxima": "2026-10-15",
       "acertos": 0
