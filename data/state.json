@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Gewinn",
-    "jp": "作品"
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この作家の作品は世界中で翻訳されています。",
+      "frase": "選挙の規則が変わり、手続きがスムーズになる見込みです。",
       "leitura": ""
     }
   },
@@ -1140,10 +1140,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-15",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-04-17:30",
     "2026-10-04-19:30",
     "2026-10-04-21:00",
     "2026-10-05-06:30",
@@ -1202,14 +1208,10 @@
     "2026-10-14-12:30",
     "2026-10-14-17:30",
     "2026-10-14-19:30",
-    "2026-10-14-21:00"
+    "2026-10-14-21:00",
+    "2026-10-15-06:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/video/markets-climb-handful-tech-stocks-201800223.html?.tsrc=rss",
-    "https://stocktwits.com/news-articles/markets/equity/spcx-stock-slips-after-hours-as-space-x-reportedly-seeks-40-b-for-nvidia-chips/cZDtlvbRBlZ?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-free-cash-flow-233904046.html?.tsrc=rss",
-    "https://stocktwits.com/news-articles/markets/equity/apple-reportedly-partners-with-lg-electronics-to-enter-smart-home-device-market/cZDtldhRBll?.tsrc=rss",
-    "https://247wallst.com/investing/etf/2026/10/06/xlk-does-not-own-alphabet-amazon-meta-netflix-or-tesla-three-stocks-are-35-87-of-it/?.tsrc=rss",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-como-foi-a-votacao-na-sua-cidade-no-1o-turno-consulte-por-estado.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/tse-nega-que-atraso-na-divulgacao-dos-resultados-tenha-comprometido-apuracao-dos-votos.ghtml",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/06/plenario-do-tse-vai-analisar-caso-garotinho-nesta-quinta-e-pode-definir-rumo-das-eleicoes-no-rio.ghtml",
@@ -1404,7 +1406,12 @@
     "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
     "https://www.trefis.com/articles/618659/is-netflix-stock-worth-more-than-its-competitors/2026-10-14?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/14/history-says-nvidia-stock-usually-rises-in-the-fourth-quarter-it-has-in-20-of-the-last-27/?.tsrc=rss",
-    "https://uk.finance.yahoo.com/news/britain-lacks-entrepreneurial-spirit-nvidia-231613886.html?.tsrc=rss"
+    "https://uk.finance.yahoo.com/news/britain-lacks-entrepreneurial-spirit-nvidia-231613886.html?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/por-unanimidade-tse-derruba-prazo-de-48-horas-para-uso-de-canais-registrados-de-forma-tardia-por-campanhas.ghtml",
+    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/15/fim-da-escala-6x1-como-reclamacao-de-balconista-de-farmacia-nas-redes-virou-pauta-aprovada-no-congresso-ouca-o-assunto.ghtml",
+    "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/pf-acha-dinheiro-dentro-de-adega-de-policial-preso-em-operacao-que-prendeu-deputado-e-ex-chefe-da-policia-civil-do-rj.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/tesouraco-de-flavio-mendonca-paralisa-julgamento-apos-tse-formar-maioria-para-derrubar-sua-decisao-contra-video-de-lula.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/15/lider-do-pt-defende-reduzir-maioridade-penal-para-16-anos-em-caso-de-crime-hediondo.ghtml"
   ],
   "palavras": [
     {
@@ -2953,6 +2960,18 @@
       "tema": "bolsa",
       "data": "2026-10-14",
       "proxima": "2026-10-15",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-15-06:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "選挙の規則が変わり、手続きがスムーズになる見込みです。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-10-15",
+      "proxima": "2026-10-16",
       "acertos": 0
     }
   ]
