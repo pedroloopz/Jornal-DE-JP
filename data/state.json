@@ -3,8 +3,8 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Unfall",
     "jp": "見込み"
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "選挙の規則が変わり、手続きがスムーズになる見込みです。",
+      "frase": "来年は売上が増える見込みです。",
       "leitura": ""
     }
   },
@@ -1154,10 +1154,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-15",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-04-21:00",
     "2026-10-05-06:30",
     "2026-10-05-12:30",
     "2026-10-05-17:30",
@@ -1216,14 +1222,10 @@
     "2026-10-14-19:30",
     "2026-10-14-21:00",
     "2026-10-15-06:30",
-    "2026-10-15-08:00"
+    "2026-10-15-08:00",
+    "2026-10-15-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/07/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-no-distrito-federal-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-cidade.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-no-seu-local-de-votacao-consulte-por-zona-eleitoral.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-como-foi-a-votacao-nos-locais-de-votacao-da-6a-zona-eleitoral.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-em-brasilia-df-votacao-para-presidente-na-escola-classe-parana-na-6a-zona-eleitoral.ghtml",
     "https://www.tikr.com/blog/apple-needs-chips-and-micron-sets-the-price-now-micron-is-making-more-money-than-apple?ref=yahoofinance&.tsrc=rss",
     "https://finance.yahoo.com/m/f4d24672-6d61-34bb-bcea-3ad5e39f9139/apple%2C-ibd-stock-of-the-day%2C.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/07/2-ai-stocks-to-buy-and-hold-for-the-next-decade/?.tsrc=rss",
@@ -1418,7 +1420,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/homem-acusado-de-matar-vizinho-a-tiros-por-causa-de-estacionamento-passa-vai-a-juri-popular-nesta-quinta-feira-15.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/jornais-entrevistas-com-candidatos-ao-governo-no-2o-turno-como-assistir.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/vorcaro-presta-depoimento-sobre-brb-na-tarde-desta-quinta-15.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/policia-prende-3-suspeitos-de-furtar-36-coletes-a-prova-de-balas-do-detran-em-brasilia.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/policia-prende-3-suspeitos-de-furtar-36-coletes-a-prova-de-balas-do-detran-em-brasilia.ghtml",
+    "https://www.benzinga.com/markets/prediction-markets/26/10/62396367/nvidia-ai-demand-orders-jensen-huang?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+    "https://app.moby.co/home/news/news-germany-wants-to-expand-europes-trade-war-with-china?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/15/meet-the-dividend-etf-with-big-stakes-in-these-3/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/15/prediction-1000-invested-nu-holdings-2030/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/15/asml-just-delivered-excellent-news-for-micron-stock-investors/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -2989,6 +2996,18 @@
       "exemplo": "Der Unfall passierte am Morgen auf der Straße.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-15",
+      "proxima": "2026-10-16",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-15-12:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "来年は売上が増える見込みです。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-15",
       "proxima": "2026-10-16",
       "acertos": 0
