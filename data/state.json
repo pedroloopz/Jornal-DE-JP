@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Verfassung",
-    "jp": "獲得"
+    "jp": "主人公"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "クラブは新しい選手の獲得を目指しています。",
+      "frase": "この小説の主人公はとても正義感が強い。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 14,
+    "jp": 15,
     "de": 13
   },
   "dominadas": {
@@ -1196,10 +1196,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-16",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-06-08:00",
     "2026-10-06-12:30",
     "2026-10-06-17:30",
     "2026-10-06-19:30",
@@ -1258,7 +1264,8 @@
     "2026-10-15-19:30",
     "2026-10-15-21:00",
     "2026-10-16-06:30",
-    "2026-10-16-08:00"
+    "2026-10-16-08:00",
+    "2026-10-16-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/08/a-eleicao-das-redes-sociais-e-o-que-muda-na-disputa-como-a-conhecemos-o-assunto-1821.ghtml",
@@ -3103,6 +3110,18 @@
       "exemplo": "Die neue Verfassung bringt große Veränderungen für das Land.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-16",
+      "proxima": "2026-10-17",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-16-12:30-jp",
+      "palavra": "主人公",
+      "leitura": "",
+      "sentido_pt": "personagem principal",
+      "exemplo": "この小説の主人公はとても正義感が強い。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-16",
       "proxima": "2026-10-17",
       "acertos": 0
