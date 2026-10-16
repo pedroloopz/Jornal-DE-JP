@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Werk",
+    "de": "Verfassung",
     "jp": "獲得"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Werk von den Brüder Grimm ist weltweit bekannt.",
+      "frase": "Die neue Verfassung bringt große Veränderungen für das Land.",
       "leitura": ""
     },
     "jp": {
@@ -1189,10 +1189,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-16",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-06-06:30",
     "2026-10-06-08:00",
     "2026-10-06-12:30",
     "2026-10-06-17:30",
@@ -1251,14 +1257,10 @@
     "2026-10-15-17:30",
     "2026-10-15-19:30",
     "2026-10-15-21:00",
-    "2026-10-16-06:30"
+    "2026-10-16-06:30",
+    "2026-10-16-08:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVZMcnYzdjk4eWUyeEdEMWd5eVl4R3IySldBcHVZWFZTQS1sbF9fckRjSUMxZ1NkWW9qOUxDa1ByV0ZqQ29ZaWNWVjRYRkhpYlNSdmxVM0YtOV92eDFta1RNUWRHS1N0YzkxNEZsWTFDbVRXTlp5N2hqTDd6Y1ViNVBJZnV0aHZUYW10X3FtVVdNNXZpNW9uYjBwbkkwSjUzSWc?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1UxV3daSkdROXpQMXhIYTB3MUYzUDY5VjlIS29mdGkxWExkRUFNanRUMTczNkRNekEteWVHaDVXZVlLTlpqak9tek5SZVJ3MEZncVNhMU56bzFRdUFaemNPTFVXaGkzUWRuLXZnQmJFMFMzcFVCVHBfQk45bWg4R1RsWkFfalMtQ3JkNHpZQTVOenhEamRPakRuRnZxbk43cnRVd0NqcUFnQlJTclN2cFE4bEhBeVQ4ZV9vdGZIbGJXcnVhaGxCWkFab9IB0AFBVV95cUxPTTVGYkcwVGdEdk5CY3RDNUpzTkFNeERaSUpWNlBXVXcwVk5zNUtXeTFOeGlRaXlHQ0tldWI5UTZmUnBLQ3pnY0Rxd05menRzTnk2VklYNFplRWdZMk1IQlEtZ29KckEwMTE5d3FWUk5HbzdibGtwNnpGQUJnZmdqTldWc2tjXy1YYTFmdU91R3FZMTBjeUtLYWpWa1gzelZYQTNXUzhNV0JtV0xqYmx6aVdmUVIyMTNCbmFWNWdpVkt1cmxVTGRMZ1lYMnk5YWdj?oc=5",
-    "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW01aDlwUFhIeS1vOEtQU0xlNXNlRk5Jc2JzVDI5QUlNN1lVLUpjSUpVV3hBUVdYMENJRlhhWEJCVE5qVF9hX1hDUXNrdkZKMjBxZFJaMmg2b0ROZ0lWdkUtRmV6UEktX2dyRnBhRmNhbUlzTzhYRFJWc2dZVFpUZU9pQXZUZkFIeTNETm5NMFFzc3NudlBEMWdQQTlsVmtsRjR6dEp2S0JDSkpnMDh1d1VwcENiMGZ4a0JnMWhPeGJOVEx2TERJZlk3MXp2RW8?oc=5",
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNR1RPNUd6bWJXX1Q4MmFWLWo2czV6MFQwZ3lCcFBDU3p1Ym1xalUtcERCaVNESjdTOUhHTERBQms5WHRQejBsWXVqbEpVQk1GWjZENVI0TUpvc1hKSm53MUpiazBibERaUEtCYjhqUHlqWUM1TEFBVFlMVW4yTXRsbEphWlRVOGo5Ty1LMnVmeUJ0b09Yakp0M3FrN0E1Wkh1TjNQOTZEaFRvWGV1VDNCUVY4eHlIOFA4QWNmUFhYQ1U2cXp4NlExajJHUzQybVpTd2hLT0t6S3VaOEtSUGJ4XzE2dWVIOWFycmdxTWpBbnR2dw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOcmxYTGVVM0Y2bG5XTzNVcHFJckUtUl9SUGZIR2RHZHVIbFZaNHNXY21ocHliZU9YcHdPWEdWQVFPTS1PT1NfdGtSZnpSVVprQk1GdmgxejlGNkxEMVZPVGdqZGc4anNlSUZra1NkNjEyUnZXQkUxN0hnUUpXWGZLcmZDNUMybVVFckhPdFNZS0ROMy11MDR0T0FEZWxLdw?oc=5",
     "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/08/a-eleicao-das-redes-sociais-e-o-que-muda-na-disputa-como-a-conhecemos-o-assunto-1821.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/08/datafolha-presidencial-2-turno-sai-nesta-quinta.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/maior-doador-da-eleicao-eleitos-e-nao-eleitos.ghtml",
@@ -1453,7 +1455,12 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2NsMXNCdHhEWnFZMXE3aWtqckN6RHUtRm8wUVVRby1TNmFraHRReXhuMnhGUjV1WXdSLUhOblp0OXpxcFhKTS1CUHNFZTZoR2YwTWFmLXZqMF9JOFFvMElHNWdfTEV2QzFPZ01JYnVITGRBVTJhdU5xNDJoWmxyaW1NeFFOQ1NmNjc1b0VrTFVrNm10Z2Y3Y2ExMnZSZ0FTaHNVWDFwdEl6QURnN3kyLXpPaGxyQXk2VHFaRA?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1d6QUpNWTYySWV6RkExODJ1bExvb0tLUl9EVlllZjZlaVhBcFR4U1pmNXV4QlFWTWVfaEQyQWQ0MkE4ZXN5WnEzX1YzX2phMTkyckxzblhBZEhlUmdxczJoTnc3Rm53dGhjWEJFbHBCQncwRzBPSlpjenJ0V0xYNTFrMzY2NWEzOUgyYzJ6UTZSOUR1aUdHV1QtZ1FhM1ZhRkVWcFlrakszMXBObG0zenFnSjdzQUk?oc=5",
     "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0pNOWp0cmI0LWdkTzU1RFJBMDFoN1laYzRhejlVakhfZHF3bGh2MG1UcGFodldUa2NKMzl4UGVRRk9NSTNRODRQbnFfQjJGc1FER3hwYm9FMVk5al9UQnM0X2czVWRhNjNWZENYa0Z6bktvTU1URUl5ZVViQVhxN1BzZHFzbmNQLUthbDY3ZmktLW9KejhFUXlhZ1lYX1h4Zm9iUXRERnF1X196T3MtUy1UemswMjJCYWlBa1o5YXRCUTBCQ0Zkc2YybVBQUWRRX0hJ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2s4ekdlTjNFNmZCY2FEV283RVc4UVBBVGNHUWZSNHhLaDJDMm9fLThaV1pXWXpVdEphbGFfSEpTYWZsMVJHS3IzeEc3WHNwNFl5TTRvRXY2UUVPOTh5LUN4dTJPYXFQNVpxalhia0NQeEdKNnhCV1VUZWRaMU9EOXJ3?oc=5"
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2s4ekdlTjNFNmZCY2FEV283RVc4UVBBVGNHUWZSNHhLaDJDMm9fLThaV1pXWXpVdEphbGFfSEpTYWZsMVJHS3IzeEc3WHNwNFl5TTRvRXY2UUVPOTh5LUN4dTJPYXFQNVpxalhia0NQeEdKNnhCV1VUZWRaMU9EOXJ3?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/10/16/apesar-de-votos-a-favor-apenas-um-senador-da-oposicao-comparece-a-promulgacao-da-pec-que-acaba-com-a-escala-6x1.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml",
+    "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/16/transicao-fim-da-escala-6x1.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml"
   ],
   "palavras": [
     {
@@ -3084,6 +3091,18 @@
       "exemplo": "クラブは新しい選手の獲得を目指しています。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-16",
+      "proxima": "2026-10-17",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-16-08:00-de",
+      "palavra": "die Verfassung",
+      "leitura": "",
+      "sentido_pt": "a constituição",
+      "exemplo": "Die neue Verfassung bringt große Veränderungen für das Land.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-16",
       "proxima": "2026-10-17",
       "acertos": 0
