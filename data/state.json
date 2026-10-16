@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Werk",
-    "jp": "主張"
+    "jp": "獲得"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼女は自分の考えを強く主張した。",
+      "frase": "クラブは新しい選手の獲得を目指しています。",
       "leitura": ""
     }
   },
@@ -1182,10 +1182,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-16",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-05-21:00",
     "2026-10-06-06:30",
     "2026-10-06-08:00",
     "2026-10-06-12:30",
@@ -1244,14 +1250,10 @@
     "2026-10-15-12:30",
     "2026-10-15-17:30",
     "2026-10-15-19:30",
-    "2026-10-15-21:00"
+    "2026-10-15-21:00",
+    "2026-10-16-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-7-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/justica-proibe-amazon-de-manter-funcionarios-em-pe-por-ate-12-horas-em-complexo-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-7-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/outubro-rosa-sesc-df-oferece-exames-e-consultas-gratuitas.ghtml",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVZMcnYzdjk4eWUyeEdEMWd5eVl4R3IySldBcHVZWFZTQS1sbF9fckRjSUMxZ1NkWW9qOUxDa1ByV0ZqQ29ZaWNWVjRYRkhpYlNSdmxVM0YtOV92eDFta1RNUWRHS1N0YzkxNEZsWTFDbVRXTlp5N2hqTDd6Y1ViNVBJZnV0aHZUYW10X3FtVVdNNXZpNW9uYjBwbkkwSjUzSWc?oc=5",
     "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1UxV3daSkdROXpQMXhIYTB3MUYzUDY5VjlIS29mdGkxWExkRUFNanRUMTczNkRNekEteWVHaDVXZVlLTlpqak9tek5SZVJ3MEZncVNhMU56bzFRdUFaemNPTFVXaGkzUWRuLXZnQmJFMFMzcFVCVHBfQk45bWg4R1RsWkFfalMtQ3JkNHpZQTVOenhEamRPakRuRnZxbk43cnRVd0NqcUFnQlJTclN2cFE4bEhBeVQ4ZV9vdGZIbGJXcnVhaGxCWkFab9IB0AFBVV95cUxPTTVGYkcwVGdEdk5CY3RDNUpzTkFNeERaSUpWNlBXVXcwVk5zNUtXeTFOeGlRaXlHQ0tldWI5UTZmUnBLQ3pnY0Rxd05menRzTnk2VklYNFplRWdZMk1IQlEtZ29KckEwMTE5d3FWUk5HbzdibGtwNnpGQUJnZmdqTldWc2tjXy1YYTFmdU91R3FZMTBjeUtLYWpWa1gzelZYQTNXUzhNV0JtV0xqYmx6aVdmUVIyMTNCbmFWNWdpVkt1cmxVTGRMZ1lYMnk5YWdj?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWW01aDlwUFhIeS1vOEtQU0xlNXNlRk5Jc2JzVDI5QUlNN1lVLUpjSUpVV3hBUVdYMENJRlhhWEJCVE5qVF9hX1hDUXNrdkZKMjBxZFJaMmg2b0ROZ0lWdkUtRmV6UEktX2dyRnBhRmNhbUlzTzhYRFJWc2dZVFpUZU9pQXZUZkFIeTNETm5NMFFzc3NudlBEMWdQQTlsVmtsRjR6dEp2S0JDSkpnMDh1d1VwcENiMGZ4a0JnMWhPeGJOVEx2TERJZlk3MXp2RW8?oc=5",
@@ -1446,7 +1448,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0R0WUVtNnZ6RHRhX0V3d2JycFozRktMMEZmUXVGWmJudnZlX3hRSkpoY19QTk1RRnczTUppbUVzX2ZTR1BGMXQyekFxTldEbTI1TjlUN2lRRlBueEVfOU9lZWh4Rm02M3RMMm9iUlFBVEl0Y2M3OUxqYVJaTE54UjJOdWRtQXF0TnBIOTBxOUtndi1ZeFUwREJfS0VWbDJKS2pvc2ktbG5hbnBrSkJQQ2lRNmRTUm03cW50LWxQSktSU2t5Tm5CbnM0UDLSAdsBQVVfeXFMUGQ5amZna3BLc25OWFpkT1NFSkZxOV9jeHEwM2JjazdrNnE2Rjdnc2J1NmttVzlmYXctakd3UGEtSlF0RThqY1QxQlRkSEM2ZFdtMHNGc1l3QldDbzU1YjBhdktjdnVBTS1aU3VoemtLbXZtR1M5cnBOMWxVYjFxRVFfY1k2Qks4cGo1Z0xEUHlPZnprRHpFRmExQ1I1MXpORlRPVDBOTXM3LXlwUmMzdUxKdXh5RDdoNzF3VEYtSHpXWkFHM1dmbnI5Yk55cTBfaEhhVXQ1UEIweGQ4?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2NsMXNCdHhEWnFZMXE3aWtqckN6RHUtRm8wUVVRby1TNmFraHRReXhuMnhGUjV1WXdSLUhOblp0OXpxcFhKTS1CUHNFZTZoR2YwTWFmLXZqMF9JOFFvMElHNWdfTEV2QzFPZ01JYnVITGRBVTJhdU5xNDJoWmxyaW1NeFFOQ1NmNjc1b0VrTFVrNm10Z2Y3Y2ExMnZSZ0FTaHNVWDFwdEl6QURnN3kyLXpPaGxyQXk2VHFaRA?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1d6QUpNWTYySWV6RkExODJ1bExvb0tLUl9EVlllZjZlaVhBcFR4U1pmNXV4QlFWTWVfaEQyQWQ0MkE4ZXN5WnEzX1YzX2phMTkyckxzblhBZEhlUmdxczJoTnc3Rm53dGhjWEJFbHBCQncwRzBPSlpjenJ0V0xYNTFrMzY2NWEzOUgyYzJ6UTZSOUR1aUdHV1QtZ1FhM1ZhRkVWcFlrakszMXBObG0zenFnSjdzQUk?oc=5",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0pNOWp0cmI0LWdkTzU1RFJBMDFoN1laYzRhejlVakhfZHF3bGh2MG1UcGFodldUa2NKMzl4UGVRRk9NSTNRODRQbnFfQjJGc1FER3hwYm9FMVk5al9UQnM0X2czVWRhNjNWZENYa0Z6bktvTU1URUl5ZVViQVhxN1BzZHFzbmNQLUthbDY3ZmktLW9KejhFUXlhZ1lYX1h4Zm9iUXRERnF1X196T3MtUy1UemswMjJCYWlBa1o5YXRCUTBCQ0Zkc2YybVBQUWRRX0hJ?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2s4ekdlTjNFNmZCY2FEV283RVc4UVBBVGNHUWZSNHhLaDJDMm9fLThaV1pXWXpVdEphbGFfSEpTYWZsMVJHS3IzeEc3WHNwNFl5TTRvRXY2UUVPOTh5LUN4dTJPYXFQNVpxalhia0NQeEdKNnhCV1VUZWRaMU9EOXJ3?oc=5"
   ],
   "palavras": [
     {
@@ -3067,6 +3074,18 @@
       "tema": "literatura",
       "data": "2026-10-15",
       "proxima": "2026-10-16",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-16-06:30-jp",
+      "palavra": "獲得",
+      "leitura": "かくとく",
+      "sentido_pt": "aquisição",
+      "exemplo": "クラブは新しい選手の獲得を目指しています。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-16",
+      "proxima": "2026-10-17",
       "acertos": 0
     }
   ]
