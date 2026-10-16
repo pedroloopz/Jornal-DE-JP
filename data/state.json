@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Niederlage",
-    "jp": "見込み"
+    "jp": "主張"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "来年は売上が増える見込みです。",
+      "frase": "彼女は自分の考えを強く主張した。",
       "leitura": ""
     }
   },
@@ -1168,10 +1168,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-15",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-05-12:30",
     "2026-10-05-17:30",
     "2026-10-05-21:00",
     "2026-10-06-06:30",
@@ -1230,14 +1236,10 @@
     "2026-10-15-06:30",
     "2026-10-15-08:00",
     "2026-10-15-12:30",
-    "2026-10-15-17:30"
+    "2026-10-15-17:30",
+    "2026-10-15-19:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNTAxVzRCcnVMUk03R3poLVRKWi1YdFhIUVJtNHhMb2hjSUxjNFpWd1lDRTZUNEtPejhmUTZzMTlfY0FXZS1pOFVvVTljS3VaOU5sNngxTWJRN2dZZkNPeEpfUnphaG14Ul8wTmtVWW03X3VqUzg4MGIySGFIVjlOdGdwdERiY0w2anY4T3o1S29sTHF3QUJXQzlpUHdDUFg3OUpndUxlZG1lOWZzSUpxakdQbjRibVFiWlR3YWtNVmQ3NkxZZzhkZkg1bll0Vjd3T1dLZEVydw?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxNM29BQWlLeUNOTnE0ZDVkR1dNZ00wYUZWcFlVZFVLSGJFX3VxUGNXdnJrTHNUQlBDQ3BnQ3Y1NHdQbDZ6UG5XWU1HdUtCcW5PNVdVQTNFaFVZSkt5cGFZUU1mMGxZLVJTcHViTDAxaEFMZTl4Wktaajg5c1A4VmVnbjdjakg1alNsbzUzNjBKMGk0YVpXcUxJVkdCV0Q3Z2Z6ekpvZUYxbnRQQlJRNThrQkhYbWRjOFFOUXpfOTJremU3Tll3N2lhZ1JkdXBaQdIB3AFBVV95cUxORXNUSXJhOUhfbHJPc1k5Sks4YzdYc0VBLTF4UllITG5paWpmb1BnNTNWdlpadS1lMWxEMVN4dEYwNDZBTXBGRGlEYnhoWW9WSjUxWnlqT1drajlFVzBwemxuMEM5OG5XWVh3c1UtWTFJcmpZaUplVDdnZkZNZldMbWlzWnV0S0ticGxkYUU5blFOU0otRjV3Z0VtQjNIX3BiemRRaXdQRi1zX29mMGF4NE9DbzR5d01jUkYza0psbV9PNjJkNDZhcDlNcDREUzFDYnMtN3hIOTJGeTNj?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZ3FoelNEUl9WYURVYmo5VXZFbXhOU3JYeW9ZV2lKQ3F1dkxqRjNuOWRWYWpiaENPN01LUXpMeU52eWJPazd1MXZ1ZDRuUTl6aWpRWThZelZDYTcxRUFfUUliQnZCSUZtei04M3NMUE1pMnVnYUNsSWVIRWFYQVh4RVlxbGQ1MkVic2kxaURiRkkwd2d1ems0alI5Vnd3eEZXSXhIOTlScEY3aHVfSlRQOWxVRC1fMmFPNlQ4LXYwVGxkSjVGRWM0a1EwU0RtYzc0WGRYenV3UWhjQ0d6R3p1WE0xRzc?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGtiV2dON3pWaWJ5UUxsRU9yTmxPSWZ2QWFtY3ZxWW5EZzNaYlRha3c2RGlUVkFoVWprQk9EQjZibVFPalhkWmw2X015ay01MEk0aE5TZ2trT2FhZFI4aTlLNnpPY21xRHdLaGY0SEJsT0ZPZkg1YmszZHAxSDlWSmV2ajVFYUpkUy1tWEE3Q1ozUC1MUWZhbnJjWV9lYjlhRWw2NVdKbUsyV3hxNmZ2RHNsOWROc0RuN3F6YQ?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbVpzRGx2a1ZhSjFsMk9uOVV2ZHFxMU5TRExJTHdEU3hfQlNUZldoUmMyb2xUWWZWV29tOGdrNW1UaGtxYUQzaGlHMDB0ZEk3N1hjTnluSHA1SWJLbjhiT182UnNEUFJBTWR0ZS10QWgxRk9mM1ppTUNDa2JUQkpwWmdZQ0JaQWxSWnE2RnNCZWliWk93Z09Id2xMWlBWV3c?oc=5",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/07/coordenador-de-campanha-de-flavio-rogerio-marinho-tem-alta-apos-ser-internado-no-df-com-mal-estar.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-7-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/07/justica-proibe-amazon-de-manter-funcionarios-em-pe-por-ate-12-horas-em-complexo-no-df.ghtml",
@@ -1432,7 +1434,12 @@
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVFFcWhLUlFmNmZyNDk2RGRmRUU1VXk0Mmdma1ZDa05EZWpIS3l4TWQ4czFYdVZxWnhjUXFod0ZqaHVfQ2xORVZxNEI4WHVpS0NjcEM0ZllkRnIzYWNjejF6bmlpb0JRRzljVEhUbmFoaHpsZFNpWWpMeGlRdTdqa2F3M082eGZnN3liY2F6dzd2QS1MQXdXeW53?oc=5",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcm5uZ3BDaWdnenRDR3JDeE4zVjc0ekJpLTVkLUpNMV9FZ1JHWmcwSlZreDFlbldFRWhaZE9fa0doRl9EWUctYmhkMUlkUXB4RXJMUGp6NDhRUVpfQVV1X3YwTkM2bmtqNU5fN3Q0MTgxaW12MlUyeEVBQTc4dkxvY0FfUVdtLWU1anRrQWhKNXVqSHduNnNzazVfU0t1Smd0cm9la21rWUhIUUk2dXlzd0x0V0VhdGstNHlReHFuV1R5VnVKQ1VyY1dMejVrcHhFTmcwYWpRR2J1WEkwLU92TDlGT3ZmLTZ3Y1ZV0gHrAUFVX3lxTE1ybm5ncENpZ2d6dENHckN4TjNWNzR6QmktNWQtSk0xX0VnUkdaZzBKVmt4MWVuV0VFaFpkT19rR2hGX0RZRy1iaGQxSWRRcHhFckxQano0OFFRWl9BVXVfdjBOQzZua2o1Tl83dDQxODFpbXYyVTJ4RUFBNzh2TG9jQV9RV20tZTVqdGtBaEo1dWpId242c3NrNV9TS3VKZ3Ryb2VrbWtZSEhRSTZ1eXN3THRXRWF0ay00eVF4cW5XVHlWdUpDVXJjV0x6NWtweEVOZzBhalFHYnVYSTAtT3ZMOUZPdmYtNndjVlU?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbi1JZVJJamttdjgxellzNEQyTWdfejBqUzlxU05WYUtSRFpPUFlFUE1TUEREV1V3UHVadXZqTWhEY3JGby1qaWhWaGZXa0I0RUF0Q01YTEdyOWt3MWdfZFJKb1g1TnJqV2x5VXdvWFUyNVdaeV81R2Nra2RHVnhCM1NHTS05di1jWGJlYnFjUEU4ck1vd1UtQkM4QWFiX3o5VFFPZ1A4UWVKb2hHTTZvYnB3bmJnT3M?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnp6NTlNQThIcEhyZDhwNHNHQko0SkdXNEVBWmlad0RmWVNDbm5yN0RvSE96Y003djAzZzZMaVNwZE1YVXB1b01ycXRET0pWM0hOMzNmTjNCWE0yczE3VmRWdFVjeW1nVkJrbDIyQVllQzliU0hEWlAxVU1qbUFIRkNUZUVadXAtdzdrOVFQLXFoSXAzWWNSMUw1MkhoREQwbnBSUmxLb1BQcHk2dm9ta24tTjlFaWR1T0hBMTV2c3V5Y0VuMHfSAcsBQVVfeXFMTlVGc0F5S19qd3Y1V3dwV2llU1F0a2JIQ1ZRZHlFR0Y0Ty1IRldXNXNpdDRTZEcxd0JaZWtWRjhOWGxWQ1NyVU9jNDlQQlU0b083UjByVFQ3bjBEODFPbm9zZ0RnYkZFUUVCdzlTZXlzTllVQ1RBN0xJX0RoSXRUQU5iOVZIM0tKdWU2UjAxNjVJZGkxV18tbEhGcTk0UXM4ZzRWOUU5WV9Fdnd5Q2FEaDNWcExtV2FCRlBwcGVxaDdORjljVFQwaW1aYUU?oc=5"
+    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnp6NTlNQThIcEhyZDhwNHNHQko0SkdXNEVBWmlad0RmWVNDbm5yN0RvSE96Y003djAzZzZMaVNwZE1YVXB1b01ycXRET0pWM0hOMzNmTjNCWE0yczE3VmRWdFVjeW1nVkJrbDIyQVllQzliU0hEWlAxVU1qbUFIRkNUZUVadXAtdzdrOVFQLXFoSXAzWWNSMUw1MkhoREQwbnBSUmxLb1BQcHk2dm9ta24tTjlFaWR1T0hBMTV2c3V5Y0VuMHfSAcsBQVVfeXFMTlVGc0F5S19qd3Y1V3dwV2llU1F0a2JIQ1ZRZHlFR0Y0Ty1IRldXNXNpdDRTZEcxd0JaZWtWRjhOWGxWQ1NyVU9jNDlQQlU0b083UjByVFQ3bjBEODFPbm9zZ0RnYkZFUUVCdzlTZXlzTllVQ1RBN0xJX0RoSXRUQU5iOVZIM0tKdWU2UjAxNjVJZGkxV18tbEhGcTk0UXM4ZzRWOUU5WV9Fdnd5Q2FEaDNWcExtV2FCRlBwcGVxaDdORjljVFQwaW1aYUU?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/playlist/videos-candidata-no-2-turno-celina-leao-e-entrevistada-no-df2.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml"
   ],
   "palavras": [
     {
@@ -3027,6 +3034,18 @@
       "exemplo": "Die Niederlage war sehr schmerzhaft für die Fans.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-15",
+      "proxima": "2026-10-16",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-15-19:30-jp",
+      "palavra": "主張",
+      "leitura": "しゅちょう",
+      "sentido_pt": "alegação, defesa de um ponto de vista",
+      "exemplo": "彼女は自分の考えを強く主張した。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-15",
       "proxima": "2026-10-16",
       "acertos": 0
