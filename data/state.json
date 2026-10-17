@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Regierung",
-    "jp": "方針"
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "多くの有権者が投票に参加する方針を示しています。",
+      "frase": "来週の試合で勝つ見込みが高い。",
       "leitura": ""
     }
   },
@@ -1224,10 +1224,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-17",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-06-21:00",
     "2026-10-07-06:30",
     "2026-10-07-08:00",
     "2026-10-07-12:30",
@@ -1286,14 +1292,10 @@
     "2026-10-16-12:30",
     "2026-10-16-17:30",
     "2026-10-16-19:30",
-    "2026-10-16-21:00"
+    "2026-10-16-21:00",
+    "2026-10-17-06:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/markets/stocks/articles/why-nvidia-nvda-stock-trading-000009960.html?.tsrc=rss",
-    "https://www.trefis.com/articles/617933/what-does-western-digital-offer-that-apple-does-not/2026-10-08?.tsrc=rss",
-    "https://stocktwits.com/news-articles/markets/equity/nasdaq-100-ends-lower-as-report-of-weaker-than-expected-open-ai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/cZDUxqbRBVd?.tsrc=rss",
-    "https://247wallst.com/videos/nvidia-apple-and-microsoft-spell-trouble-for-index-investors/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/08/is-a-berkshire-hathaway-class-a-stock-split-finally-coming/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ1ZsOXVkVmFxQy01WExwdUNpTTNPYldXMkJyR1hsYldUTzJ6ZEc2bmNTTTRHR2FJRlA3Wlk3WUZjOV9zTFoyRGpTZUNBbzZyWWM0eHVBS0tzMGtTOXk0dUtWZWhBNVN3V2Q1a0lRbDVQQVQ1em9RVlRGdmtQRkYyZ0ZVek5rSXRPc0NkMXBJQlpaUHlDSUEzVHhHdmFGSXZCSmpNdlZ1ZDFLV1V1ZW96eDMzM3BnbHZ6bTFLaXFMUmFvbEJOcVcyWkl5SklQLVFYcDBSVWVEZkc0dndWa25nRDZLRmFscENI0gH3AUFVX3lxTE5aWXFNWk01NGM1d3Zyem9yVEtlSDYxTHFUM2RCOUR3YVJRS3JOZi1nRFdYY3NnOS1PZVoyMmFlTmtCMVV3SVB1QWFvVFRWUkxPaXBxcXlyOHQwdUkxaHVLZGNhdVB6bDdDX2xuLTl2cDJwZHRGSkp6ZzRWbUw4ZExXWldzZV9KYWdLT0VqZktyN2c2SU12aXlTYWxZc0Zfa3ZCQlYtX0hIbGFENktGYjFmOXBFVV90SnRkV2FvNU80Ym1CcncycUZNcFB5eWZZR0g0WWo5NTRjc2Y5Q3dVLVJIVTN6dXVDcUI1a1IxQXVYOXppV2JpdzA?oc=5",
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNb3VIVzFHZ2t3LWlrZU1URmd6TFQ4TnZMRjhsMEV6a3M2SmhtWlA2aHFGVHltNVg1djQxTl9lVmJOellqMjgyV0JPdU13VjVCWTFBSVRDX2pIOWtWNnYzVWJ1QmxadHJQRXBPT1dpUm5nbmdKamUxUXJpbW5hVC1wWVd1Tzh0M3ZvcUlQbXNMS01XOGZOdXhlVzFWSWJqQV9qdF9ySWJTYzluanFtVWJaWnlNRkhFYmppSjNFYURTeVdOSG9QWndGMWFxdFI5bFBxWGY1WDAycEM2T2JrRDdFTW84aHlLODR1R1J2YzhmLUNyVDBU?oc=5",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOVjU4bXhIZWlsSkQ4RFFfQlNPWWZ6aE1yWl9YUF9saXp0alZ0OXYzUHZkM09KSHBLSm43Z3BHWkMxODM4Q1NrYUFZQmw3ME5pbkJWcThURDdUOUFPYVZXbDd3SWh5ZGltUlNab0ctY2V5bW51SlJ1cm9UR01mTHVnRjF2UVRQdXhVRVJlYmtnMVFIMFZ1Rk1mTTRmczBISkxpb3FxRnFlNkhwZHlDcHRONUMwZG5Sa01GWjRJRGNldEtoa01JMEhPUktad1Z3dmM1ZTRuZjBYaWdYYm5PeTRsZEs1T1ZacDBMb1YtbDhpc0lWaVpKaGhSNG04S2tRdw?oc=5",
@@ -1488,7 +1490,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/playlist/videos-candidato-no-2-turno-leandro-grass-e-entrevistado-no-df2.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/16/candidato-no-df-leandro-grass-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/16/veja-como-foi-sabatina-da-globo-com-leandro-grass-candidato-ao-governo-do-df-no-2o-turno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/governo-do-df-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/governo-do-df-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml",
+    "https://finance.yahoo.com/m/2ea92b1d-49c9-3825-bb7f-1768711b7070/apple%2C-salesforce-lead-five.html?.tsrc=rss",
+    "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
+    "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/17/spacex-is-changing-heres-what-you-need-to-know/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/17/how-many-shares-earn-1k-year-dividend-mdt/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3181,6 +3188,18 @@
       "tema": "brasilia",
       "data": "2026-10-16",
       "proxima": "2026-10-17",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-17-06:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "来週の試合で勝つ見込みが高い。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-10-17",
+      "proxima": "2026-10-18",
       "acertos": 0
     }
   ]
