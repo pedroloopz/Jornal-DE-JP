@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Tor",
-    "jp": "見込み"
+    "jp": "摘発"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": "Er schießt ein schönes Tor."
     },
     "jp": {
-      "frase": "来週の試合で勝つ見込みが高い。",
+      "frase": "警察は違法な労働環境を摘発しました。",
       "leitura": ""
     }
   },
@@ -1238,10 +1238,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-17",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-07-08:00",
     "2026-10-07-12:30",
     "2026-10-07-17:30",
     "2026-10-07-19:30",
@@ -1300,14 +1306,10 @@
     "2026-10-16-19:30",
     "2026-10-16-21:00",
     "2026-10-17-06:30",
-    "2026-10-17-08:00"
+    "2026-10-17-08:00",
+    "2026-10-17-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-9-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/09/lula-diz-que-virou-rei-da-selfie-e-preve-muito-debate-na-tv-e-na-internet-no-2o-turno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/09/lula-grass-em-ceilandia-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-9-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/pb/paraiba/noticia/2026/10/09/homem-foragido-ha-mais-de-20-anos-por-tentativa-de-homicidio-e-preso-em-campina-grande-pb.ghtml",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOEZJbjNDVjBZc2o0QVNtMFlvVU1SZWExY0JGd2ltTGo1ZlVzbjFRQXdPbENsd1l0SkR3ZFUzTVF0eXhIZHpRYlBjMUdxQ19GM2RBTWFSVTgwN3l4UlZuTGFvZW5zb0NGeFF1VU5KMmlnUmxTeS1XZHRiYnRRYzlFb1hOYTVlVE0xU1pfVXVxMDVQZzlRN1ZpcVFEU1JjSWZTRHVTNDdtWkJKU1JlNDFRZHY3NFF5MmRFclJ3?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeXRkYXN0WWxWOWRQeE9kWVZjZU0tYTFvOU11TWRNeXJUakMzeUQ1VUJzSlo4QW9xX3VjRG1ZdXZCb0dVZ0VaeGJWbEpKdVF5a2txWVZKblVJU2QzM2JJTGVvemlYckhScGJzRTFnY0U0Q0dHVXVSTmJsakloVzl4UXhPR0J6WXdpV1A5OS0zODVtbWxpb1ExZnZPMGwyUXVoZVhoeVFUcGpycGNuaTJJSVFITndGMVZqMDlLbUxndlc5a1U4VlhSMzVSTTM1MzVrQ2I2YmlveGdQUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdURsU2dRbUV3dkZ0aHhfZ210T1VLQ1lRTy1OazR1Y0J2ZUFXdzVKdDJsdzZVUVpZTWlGb2VndGFGZ1pabVgyYmtqVXVPaFQ4NUw2a196amNYY0hMNkl1WmZTNzVCU0tUU2Zxa2JNZ00xazc2cHZ6NlFaSUZhbzJsdjY0aU9MamZyWXY0SFdxalQ4QzFhU2pBNmFrT2JYbDh2dkJYaHJqcVZmaFZUZzhQZ1FJSm1XVVJS?oc=5",
@@ -1502,7 +1504,12 @@
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV3E0V0FTOVItRmdXVVhCYnM2am5xc2VIeWNidmRKbnhGSmRpZlJSU1dMZEhjUC1TdXF3Vm1CXy1zcWFULTVhUEZXcG01Qi1NUXdvXzktNTVYNnplb0JMb2pGelRxZnVxS3RjdUV1Y1VINFRSS0EteDFDUlNkQWhjTEk3MnFrVzVoZXBZaVo3TFhyZ256bl9sNjlrWDhZTXZ3a1Qzb0lNLXhpQTFUS3BGZm9ReDY3bUpnZ09QeUtnMU1GMVQ2RjdwdEhZZUNiY3JFbzlzRDdua3phdndDTTFGM3FlSU9rVDljdlo5VDFfSdIB_gFBVV95cUxQMVo1aHFyZ0N5WVVxYl96b2tERkpZOWtRX1dmSVV6SlI3ZUVDWVRibjhzd1JiWHFIS3h1MENybG5EV1RyNlpYN2k5cTh0clViS0Exb2FCa1hlcWtDTU1Id2s0X05MeDRocURGdk1ULVhmOFZsWXE3RGVHbDJib1BMZ0FqajR4WlRxR1FacEpzdF9jRWdlSl9JLXdFay12eGFmSVhPRGpmS0g3V2tSQWVuZDlzdnl4S0pGSDN4bXMtZllpS3lFUVU5OUxoM2RUc2toR2hhOTFyYXF0bWJ4bUNtS3B6T0cxRGFJZDZqbmFLSnAzc0hId21GdlpaRFoxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVFrQnQ0VEFyaXdYYlFOZEhBS1ZKdlo3TGIzRHBPa3pVOVJzRDVWejVHeXFDTC1Sc0wyZW4xcVpyNXVOTlZoVVBNQlc4VzJCVTRac012Ml9nSzNQa1paSm0yR1M4T3hHMmVyc0h2YmN3bU43WVJsNjNHV2tOS05UWE1Bc0Q3dG1iOHA4Y1dIb3kyak91YjFfT1o4REM5N2kxbnNJMGQ3bC1pYTRXaUxqX1BLUWlWQmFPSjIzUWFVcWhEejY3WS1NeUF1bS1ldw?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXpXSVJ6UWlPeEFoandtZEJhMWhVell4QUFCV1BsdVU0dGU3X1BjUjhHT3F2T2JOR2pBMWpBemlxZzNKRGxVSjNZNzJGVmJhNVJ3UXlxVHlJYXNteFBJTGJFbURLYnBldUNKLUxReVByMHRmRDJCWU9CMDhiYkJqeERIWnllNF9TT21GbjRCNm56WXFmU3FVX3NVVXE?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOME1odlk3TXMyQ1pvd2hRSkxhM255Qi1PUl9KcVBKYWFtNTRhX3J1d2Y1YzQ2NlpfSmtQRU5FSWVkdkRQb1MzTzNTQktSSERVSEpjSHpGYXJlcXNTU1lVRWJtZWdzUjlkLXlqLVZUSlBVT2ZDdjFBQnV3VEc1RVduUkdvSTdvSERueGFCbzZWNUZKVzRPd2lxN1QtdTdBdnNkOHVmQUpSTU9JWjR3dUtZelZSV1VBcjNSVzRpMkk0V2lpVEhocDN1WGJ3OTVIMXpWU01adXhUQXhrTUo1?oc=5"
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOME1odlk3TXMyQ1pvd2hRSkxhM255Qi1PUl9KcVBKYWFtNTRhX3J1d2Y1YzQ2NlpfSmtQRU5FSWVkdkRQb1MzTzNTQktSSERVSEpjSHpGYXJlcXNTU1lVRWJtZWdzUjlkLXlqLVZUSlBVT2ZDdjFBQnV3VEc1RVduUkdvSTdvSERueGFCbzZWNUZKVzRPd2lxN1QtdTdBdnNkOHVmQUpSTU9JWjR3dUtZelZSV1VBcjNSVzRpMkk0V2lpVEhocDN1WGJ3OTVIMXpWU01adXhUQXhrTUo1?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mpt-processa-diplomata-aposentada-e-filho-por-trabalho-analogo-a-escravidao-em-area-nobre-de-brasilia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mulher-de-30-anos-que-morreu-baleada-perto-de-casa-e-velada-neste-sabado-17-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/professores-de-escola-rural-no-df-denunciam-perseguicao-e-assedio-moral-de-diretora-veja-relatos.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/17/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/com-pec-promulgada-camara-diz-que-vai-aplicar-fim-da-escala-6x1-ja-a-partir-da-proxima-semana.ghtml"
   ],
   "palavras": [
     {
@@ -3217,6 +3224,18 @@
       "exemplo": "Er schießt ein schönes Tor.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-17",
+      "proxima": "2026-10-18",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-17-12:30-jp",
+      "palavra": "摘発",
+      "leitura": "",
+      "sentido_pt": "descoberta e denúncia (de crime, infração)",
+      "exemplo": "警察は違法な労働環境を摘発しました。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-17",
       "proxima": "2026-10-18",
       "acertos": 0
