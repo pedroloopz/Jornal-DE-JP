@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "才能"
+    "jp": "見通し"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は音楽において素晴らしい才能を持っている。",
-      "leitura": ""
+      "frase": "選挙の勝敗の見通しはまだ立っていません。",
+      "leitura": "せんきょのしょうはいのみとおしはまだたっていません。"
     }
   },
   "obra_idx": {
@@ -1280,10 +1280,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-18",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-08-12:30",
     "2026-10-08-17:30",
     "2026-10-08-19:30",
     "2026-10-08-21:00",
@@ -1342,14 +1348,10 @@
     "2026-10-17-19:30",
     "2026-10-17-21:00",
     "2026-10-18-06:30",
-    "2026-10-18-08:00"
+    "2026-10-18-08:00",
+    "2026-10-18-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml",
-    "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/10/justica-italiana-marca-para-o-fim-de-outubro-novo-julgamento-sobre-extradicao-de-zambelli.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/10/a-unica-capital-da-uniao-europeia-onde-flavio-bolsonaro-venceu-o-1o-turno.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/10/fachin-deve-receber-relatorios-da-pf-com-mencoes-a-ministros-do-stf-no-caso-master.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/10/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-para-saude-educacao-e-seguranca.ghtml",
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/10/dia-das-criancas-veja-onde-comemorar-a-data-com-a-garotada-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/10/previsao-do-tempo-hoje-para-brasilia-df-dia-de-sol-com-aumento-de-nuvens-a-partir-da-tarde-nao-chove.ghtml",
@@ -1544,7 +1546,12 @@
     "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
     "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
     "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss"
+    "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
+    "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml"
   ],
   "palavras": [
     {
@@ -3331,6 +3338,18 @@
       "exemplo": "Ich habe eine Aktie von Apple gekauft.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-18",
+      "proxima": "2026-10-19",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-18-12:30-jp",
+      "palavra": "見通し",
+      "leitura": "みとおし",
+      "sentido_pt": "perspectiva",
+      "exemplo": "選挙の勝敗の見通しはまだ立っていません。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-18",
       "proxima": "2026-10-19",
       "acertos": 0
