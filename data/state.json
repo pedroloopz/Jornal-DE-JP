@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Stimme",
+    "de": "Aktie",
     "jp": "才能"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Jeder Bürger hat eine Stimme bei der Wahl.",
-      "leitura": "Jeder Bürger hat eine Stimme bei der Wahl."
+      "frase": "Ich habe eine Aktie von Apple gekauft.",
+      "leitura": ""
     },
     "jp": {
       "frase": "彼は音楽において素晴らしい才能を持っている。",
@@ -1273,10 +1273,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-18",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-08-06:30",
     "2026-10-08-12:30",
     "2026-10-08-17:30",
     "2026-10-08-19:30",
@@ -1335,14 +1341,10 @@
     "2026-10-17-17:30",
     "2026-10-17-19:30",
     "2026-10-17-21:00",
-    "2026-10-18-06:30"
+    "2026-10-18-06:30",
+    "2026-10-18-08:00"
   ],
   "links_usados": [
-    "https://stocktwits.com/news-articles/markets/equity/mag-7-voices-how-nvidia-microsoft-alphabet-meta-reshaped-ai-this-week/cZxT1H2RBn8?.tsrc=rss",
-    "https://www.thestreet.com/investing/stocks/cramer-ai-stocks-nvidia-selloff?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/09/what-is-physical-ai-nvidia-is-the-stock-i-d-buy-to-own-it/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/09/why-crowdstrike-holdings-stock-crushed-it-on-friday/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/why-apple-aapl-stock-trading-231510875.html?.tsrc=rss",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/10/flavio-bolsonaro-agenda-rj.ghtml",
     "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/10/no-rn-lula-diz-que-tesouraco-de-flavio-sera-feito-em-cima-de-programas-sociais-e-que-candidato-do-pl-beija-a-bandeira-dos-eua.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/10/justica-italiana-marca-para-o-fim-de-outubro-novo-julgamento-sobre-extradicao-de-zambelli.ghtml",
@@ -1537,7 +1539,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/17/empresaria-amiga-de-lulinha-rebate-declaracao-de-lula-diz-que-nao-e-pilantra-e-que-virou-boi-de-piranha.ghtml",
-    "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml"
+    "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml",
+    "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
+    "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
+    "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3312,6 +3319,18 @@
       "exemplo": "彼は音楽において素晴らしい才能を持っている。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-18",
+      "proxima": "2026-10-19",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-18-08:00-de",
+      "palavra": "die Aktie",
+      "leitura": "",
+      "sentido_pt": "a ação",
+      "exemplo": "Ich habe eine Aktie von Apple gekauft.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-18",
       "proxima": "2026-10-19",
       "acertos": 0
