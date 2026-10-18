@@ -36,10 +36,10 @@ TZ = ZoneInfo("America/Sao_Paulo")
 TMP = Path(tempfile.gettempdir())
 TEM_FFMPEG = bool(shutil.which("ffmpeg") and shutil.which("ffprobe"))
 
-TOKEN = os.environ["TELEGRAM_TOKEN"]
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "")  # vazio: mensagens vão só para a Central/Discord
 TG = f"https://api.telegram.org/bot{TOKEN}"
 TG_FILE = f"https://api.telegram.org/file/bot{TOKEN}"
-CHAT = str(os.environ["TELEGRAM_CHAT_ID"]).strip()
+CHAT = str(os.environ.get("TELEGRAM_CHAT_ID", "")).strip()
 # Tópico 🇯🇵🇩🇪 Idiomas do grupo (vazio = conversa privada, como antes)
 THREAD = (os.environ.get("TELEGRAM_THREAD_ID") or "").strip()
 TOPICO = {"message_thread_id": int(THREAD)} if THREAD else {}

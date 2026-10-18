@@ -33,8 +33,8 @@ import central  # noqa: E402
 AQUI = Path(__file__).parent
 ESTADO = AQUI / "state.json"
 TZ = ZoneInfo("America/Sao_Paulo")
-TOKEN = os.environ["TELEGRAM_TOKEN"]
-CHAT = str(os.environ["TELEGRAM_CHAT_ID"]).strip()
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "")  # vazio: mensagens vão só para a Central/Discord
+CHAT = str(os.environ.get("TELEGRAM_CHAT_ID", "")).strip()
 THREAD = (os.environ.get("TELEGRAM_THREAD_ID") or "").strip()  # tópico do grupo (vazio = sem tópico)
 TG = f"https://api.telegram.org/bot{TOKEN}"
 GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
