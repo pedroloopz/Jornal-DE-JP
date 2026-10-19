@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Wetter",
+    "de": "Tor",
     "jp": "資本"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Wetter in Brasília ist heute sehr warm.",
+      "frase": "Er schoss das entscheidende Tor in der letzten Minute.",
       "leitura": ""
     },
     "jp": {
@@ -1301,10 +1301,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-18",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-08-21:00",
     "2026-10-09-06:30",
     "2026-10-09-08:00",
     "2026-10-09-12:30",
@@ -1363,14 +1369,10 @@
     "2026-10-18-08:00",
     "2026-10-18-12:30",
     "2026-10-18-17:30",
-    "2026-10-18-19:30"
+    "2026-10-18-19:30",
+    "2026-10-18-21:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRqYWVzTXpVMGVreE1NS0pBWG1aQkpMOHU0dkwzWFdrTU1vUUdnNFZRTkJsYVFlLWNQZW96V2hYS0RfMEQ2R0xlY041UnFwQ3hqalZDOC1TeWs0OGsydTRIcXlMUndZSEpRRGd5X2pjVjRuTE5McXJkLW1Ec3htTWQ2YkxnbTZiVXZkbVFUUFA2S21uNHFDbGsxY0RKVkFvdGEwdWhkTldzRGxaRUJscnRXTlJhajZJcUZnMXNvWk5QTkhkR2lFVTBWQlZrYVpvNkRhSndZcXp5RGtlanROMXVReUYxWFc5YktLYWpEcDFTWkFxRGtENzVkSFJfUdIBjAJBVV95cUxNZ0JEVXVoaS1UMXY2X3EyU3piTG1SaE9BeGhxSDU2SHZnNjZYV3Qya1dpZno3T0Qya1lGZ1pDc3lpRzlqZUUxejhFdzZmNXZfS293a2VnQVVzYThzQmZTelg0R0c3RWNGemd2QVJtSEZ3QVVCVFhJckdfY0tIbmNocmZzY09fUGNNcnZtZXhCY0plN2VFMlZLUjl3TENLbGNobC1nZFZWRHFkUVFITHlzSV9rV3lVUXZFR0RaNnRzYWt1N05icTNwOW5tZEQ0UnNyYzM0QkpIWGFjX2JCaFdnVEl0WmVydERrQjh4d1EtdWNYT1Z5a3FWSVdXLWJ2amhXUXpYRUt4QkpjWDhT?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVdIM2VrSjBrZU8yc2dzNmtWdnFfbGR1bGh1bDVTTWk3eWNIZ3dDd0V1THkzQy1yMEZVc2l1Y0RSUlp1T0lLQWx3dmw0NHA0S2lQWUFPOGlWc1J0ZzhLZDVXWExvaWgwUnE1QTY0UnFqeE9HUFZ2Q015OEw2SGZVN3ZlLThocFItVG4xaHpMWklaSDFwTkNPMERWVmk5VDVzOE9OaGZ1aDdWUzg?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmpvNnJPamFZaUJzbXd4WkRDSG5xZ094UU5TakZaM3ctSUg2Qnk4X0o1MkR1dkRpY2xtVURKMVhwTTdyZllRZGdFa2tFQTFEMS1wemxlQWJrUmdHUFVDMTY0UEZqVXBzVXptMmU1N2hOMzF6U01FZVp4ZklkUnlYT0YzWUdGTWhfX3haRmVMc2J6SW13YW9ncUxhejJsd1MzNWNOY0RmU2tST2JkY2hkcTFuSXJVQzN2Sm1XOFFGb1E0Qzl0N2VaYjF2bXBlSDl1Q05mYU9LWVRTOVM4TGlIb1c5TVprT2gyNHo0bGpuZw?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNclJORzg0a19tNl9xX1NxVWEtQ3liVnhkMWFyYWR2d3BqemtZaGNCZEhMNkYxaE9ucnRaN3FKQkJpMkIyczk1TjZKSmhXZkFhTFBQcExrQnBjOElVdnowdUhScHpZZjg5cEduUEVrV2dnSHJjVDBQSDJkc2NyUGRWT1pGY19nbkNsTV9UWmJRTEplM244Zm1vcTc4Y3E1djNybW0weUdIenBWaWs4akg1djNrbzZ0SmlhUXUtdHpzd3HSAcYBQVVfeXFMTWQteUpsMU85dmJFd2pXMXNFZ1NSM1R5OHNiZWVuUlljT3lNSnRWa185enV0NV9PMEZnaVZPU2g4R0lublJBc1VrWkVkMXNxYVoxNmNodk1ZY3BsQlVLd2EyNGRhNFFPNGNodlJpV1RpMElLRU0xenZUTmdHa0h2R2pjNWpQVHFFd3NWX0JTcGlLbGRFYW11bFZSa29iajJsY1dLNDNvZDQwYW1MR1kxeXNPeXdiWnVSeWV6ekZVQmRPZjZJRFFR?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFVBVGFOZmhVSGdacDMxRWU4SnZ5MU1WMEVBRmdTaUxfWjcxd0ZoaVBOcGROQS1MWFo0M0V1LVNsekJHZjIzQzd2c0Ridjl5QWlsTTlGeGtzV1Jqbl9zdW55Qzhpa0x2Z3VneWdEdjAxd3BoTmRQRlpWVHU5cUJlbTIyTzhEdkRMTlBXd3Z3Qzl4Uy1YeXZjQk55TDg5VHRGTThoQXpaTmY4cHJzU3BPV0JfamZkR19najczZ3BjV1E?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/motorista-de-aplicativo-perde-controle-do-carro-e-derruba-poste-no-lago-sul-veja-video.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-tenta-matar-desafeto-a-tiros-em-bar-no-df-e-atinge-outras-duas-pessoas.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/policia-apreende-botox-anabolizantes-e-materiais-suspeitos-de-falsificacao-de-medicamentos-no-df.ghtml",
@@ -1565,7 +1567,12 @@
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcU8xa3dfdU8teUF4U0pPZ3hsUkhpVmQ2Vnp6MnBVVi1FM241dWc3QktqRF9OUWo5LVVlTkpBdG5rMXVQTk83SlVSUkdPQWRWSUlxZVF3MDN3MEIwT2RPYmd4dEprbEMtbnVoRG5MX2YzQzlvWXFVNkRMRVRsai1CUnF4djBBZno0eVdvVlAtU0hjSVBlMjA1X0lHM3l1UHZsNVdvRkdldHRPVXIzbXlMaVo5cVh6VElfZmktbjF2VW1GTXliZl9XTUp4TWhRYzhkZ3B6WTZjbExsM0ZTRDQ2M1pOTE4zaHc2RTRKNzcxUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTdCLTl2d2dhUkxiZktidGxFdlZWV3NsMFhMVjdqYVlXY0tDRU82Ynp3UldiQnRKX1E4N0VDOUNVZklDYWQza2dhTTlDM19SeTZNWER0SG1qSkVXMlRLT25mXzBsQWNYbktGWUN6R1VlWmc5Z1Z3MWo4RFVydEltU2gwbEdwNHhwZjh6ajlOQ25qb010dXhIaXQ4Nk5qSEJlMDlCVXR6RVdscHg1eVhhZjNya1FCV0NMMzFPVA?oc=5",
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo5NFd2MDhlZ2x0YjNCeWdJQy1oUno2R3RPdDloS2o0RHlkR3BaaE9paDctcDhPSE1pU0xIY0lNZVVObGM5ZkNkeFhWU3NRcHRDWGhDeU0wU1hDNktRUkVCZnR4RV9WUElKTWN3VDZNT1FrbWswb3VvZUtmc3U4b3FyWHU1ejlYMGRmLUhYbV8wUFU?oc=5",
+    "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTkxuRllLN3dOSGE3b1NjUjRVNWVFYlpUdkU4akpXUkVqOGN6dEtmWTA1a2UtYUV4eW5QVnVMQzc2dmdCT3hqd3lmdWt2LU9vSXdNR05jRzlCVGU0ZzhFQ2dFRXRyQXNhSG56d3pTTnlCN0syMXhReW1PQlhGcVNEM3dabTQtUmxFNmRjaG05M09qM2ZPMjRnODl4WnZ1LVdFX3RhamZjaktxaGNRVzNURWxKTVh4XzNEdXNfWW5Pdkg2MjdVbmpwbHJoZl9KUGJoM0V3ak1faEgzNFZrdzVUeWotSkhfZTlxNm5XRldqcTZiakhVX2pCblBRX0VwaHhUaE1DbQ?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0JwZnh2OW5KWDJiU2NFRGRITGV0VG4tRWdNdDV6bktKX3pTcldZSnNseVdvTGpvRlA2cTdpaWNWYkg4bW14NHNDX2pqZ01RTGo5ck50b0ZGU0wxWXFqQ1cteVdmRjE3d0M1QVp2OGtxdVNQalF2aWpVd0doeDl2RnFxa0x2YUZGMkZYTDZsdWo3eUtfZ2RHYkV1X0wxM3B2eFhRRGwxM3A3aEhIQTN1dw?oc=5"
   ],
   "palavras": [
     {
@@ -3388,6 +3395,18 @@
       "exemplo": "新しい技術の開発には多くの資本が必要です。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-18",
+      "proxima": "2026-10-19",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-18-21:00-de",
+      "palavra": "das Tor",
+      "leitura": "",
+      "sentido_pt": "o gol",
+      "exemplo": "Er schoss das entscheidende Tor in der letzten Minute.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-18",
       "proxima": "2026-10-19",
       "acertos": 0
