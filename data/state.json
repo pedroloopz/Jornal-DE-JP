@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Wetter",
-    "jp": "見通し"
+    "jp": "資本"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "選挙の勝敗の見通しはまだ立っていません。",
-      "leitura": "せんきょのしょうはいのみとおしはまだたっていません。"
+      "frase": "新しい技術の開発には多くの資本が必要です。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1294,10 +1294,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-18",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-08-19:30",
     "2026-10-08-21:00",
     "2026-10-09-06:30",
     "2026-10-09-08:00",
@@ -1356,14 +1362,10 @@
     "2026-10-18-06:30",
     "2026-10-18-08:00",
     "2026-10-18-12:30",
-    "2026-10-18-17:30"
+    "2026-10-18-17:30",
+    "2026-10-18-19:30"
   ],
   "links_usados": [
-    "https://www.thestreet.com/investing/burry-eisman-big-short-investors-split-over-ai-risk-that-matters-most?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/10/1-reason-the-meta-muse-ai-agent-has-the-upper-hand/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-more-doubled-revenue-132539113.html?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/ai-revenue-questions-pull-semiconductor-163800808.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/10/can-1000-in-bitcoin-help-you-retire-a-millionaire/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbnRqYWVzTXpVMGVreE1NS0pBWG1aQkpMOHU0dkwzWFdrTU1vUUdnNFZRTkJsYVFlLWNQZW96V2hYS0RfMEQ2R0xlY041UnFwQ3hqalZDOC1TeWs0OGsydTRIcXlMUndZSEpRRGd5X2pjVjRuTE5McXJkLW1Ec3htTWQ2YkxnbTZiVXZkbVFUUFA2S21uNHFDbGsxY0RKVkFvdGEwdWhkTldzRGxaRUJscnRXTlJhajZJcUZnMXNvWk5QTkhkR2lFVTBWQlZrYVpvNkRhSndZcXp5RGtlanROMXVReUYxWFc5YktLYWpEcDFTWkFxRGtENzVkSFJfUdIBjAJBVV95cUxNZ0JEVXVoaS1UMXY2X3EyU3piTG1SaE9BeGhxSDU2SHZnNjZYV3Qya1dpZno3T0Qya1lGZ1pDc3lpRzlqZUUxejhFdzZmNXZfS293a2VnQVVzYThzQmZTelg0R0c3RWNGemd2QVJtSEZ3QVVCVFhJckdfY0tIbmNocmZzY09fUGNNcnZtZXhCY0plN2VFMlZLUjl3TENLbGNobC1nZFZWRHFkUVFITHlzSV9rV3lVUXZFR0RaNnRzYWt1N05icTNwOW5tZEQ0UnNyYzM0QkpIWGFjX2JCaFdnVEl0WmVydERrQjh4d1EtdWNYT1Z5a3FWSVdXLWJ2amhXUXpYRUt4QkpjWDhT?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeVdIM2VrSjBrZU8yc2dzNmtWdnFfbGR1bGh1bDVTTWk3eWNIZ3dDd0V1THkzQy1yMEZVc2l1Y0RSUlp1T0lLQWx3dmw0NHA0S2lQWUFPOGlWc1J0ZzhLZDVXWExvaWgwUnE1QTY0UnFqeE9HUFZ2Q015OEw2SGZVN3ZlLThocFItVG4xaHpMWklaSDFwTkNPMERWVmk5VDVzOE9OaGZ1aDdWUzg?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQmpvNnJPamFZaUJzbXd4WkRDSG5xZ094UU5TakZaM3ctSUg2Qnk4X0o1MkR1dkRpY2xtVURKMVhwTTdyZllRZGdFa2tFQTFEMS1wemxlQWJrUmdHUFVDMTY0UEZqVXBzVXptMmU1N2hOMzF6U01FZVp4ZklkUnlYT0YzWUdGTWhfX3haRmVMc2J6SW13YW9ncUxhejJsd1MzNWNOY0RmU2tST2JkY2hkcTFuSXJVQzN2Sm1XOFFGb1E0Qzl0N2VaYjF2bXBlSDl1Q05mYU9LWVRTOVM4TGlIb1c5TVprT2gyNHo0bGpuZw?oc=5",
@@ -1558,7 +1560,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/18/2o-turno-no-df-conheca-as-propostas-de-celina-e-grass-para-enfrentar-desastres-climaticos.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/homem-e-preso-em-flagrante-por-agredir-e-esfaquear-mulher-em-ceilandia-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/adolescente-morre-apos-ser-esfaqueado-durante-discussao-por-ciumes-em-ceilandia.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/adolescente-morre-apos-ser-esfaqueado-durante-discussao-por-ciumes-em-ceilandia.ghtml",
+    "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3369,6 +3376,18 @@
       "exemplo": "Das Wetter in Brasília ist heute sehr warm.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-18",
+      "proxima": "2026-10-19",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-18-19:30-jp",
+      "palavra": "資本",
+      "leitura": "",
+      "sentido_pt": "capital",
+      "exemplo": "新しい技術の開発には多くの資本が必要です。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-18",
       "proxima": "2026-10-19",
       "acertos": 0
