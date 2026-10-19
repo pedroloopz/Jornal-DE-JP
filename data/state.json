@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Tor",
+    "de": "Erzählung",
     "jp": "対象"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Er schoss das entscheidende Tor in der letzten Minute.",
+      "frase": "Die Erzählung ist sehr spannend und geheimnisvoll.",
       "leitura": ""
     },
     "jp": {
@@ -21,7 +21,7 @@
   },
   "obra_idx": {
     "jp": 16,
-    "de": 14
+    "de": 15
   },
   "dominadas": {
     "jp": 0,
@@ -1315,10 +1315,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-19",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-09-08:00",
     "2026-10-09-12:30",
     "2026-10-09-17:30",
     "2026-10-09-19:30",
@@ -1377,7 +1383,8 @@
     "2026-10-18-17:30",
     "2026-10-18-19:30",
     "2026-10-18-21:00",
-    "2026-10-19-06:30"
+    "2026-10-19-06:30",
+    "2026-10-19-08:00"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0tSRTlCRGRiRWI1ZVpxT1lpcFJrWld5UVpfQldaRGppMlBzSUxQSktKMUNjbGZLNk9tdERSeTI1NXlxWFR1WkZIQ1BuWVhuNjktYjJIVGtHYUM1QVJhbmJKQy15Q3czdjVuMTNzOVlXdDRZTlJsNjRaUnFfRFpYdHZ4NURGLVU1TXF2VS1jMXc3NUtNaGVKdmJRaDBReVozSDBzTDRBdDIwYkQzRW1pdVUyTkdUaTRtOUR6QnhBUXRnQQ?oc=5",
@@ -3426,6 +3433,18 @@
       "exemplo": "この奨学金は大学生を対象にしています。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-10-19",
+      "proxima": "2026-10-20",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-19-08:00-de",
+      "palavra": "die Erzählung",
+      "leitura": "",
+      "sentido_pt": "a narrativa / a história",
+      "exemplo": "Die Erzählung ist sehr spannend und geheimnisvoll.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-10-19",
       "proxima": "2026-10-20",
       "acertos": 0
