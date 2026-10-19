@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Tor",
-    "jp": "資本"
+    "jp": "対象"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "新しい技術の開発には多くの資本が必要です。",
-      "leitura": ""
+      "frase": "この奨学金は大学生を対象にしています。",
+      "leitura": "このしょうがく金はだいがくせいをたいしょうにしています。"
     }
   },
   "obra_idx": {
@@ -1308,10 +1308,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-19",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-09-06:30",
     "2026-10-09-08:00",
     "2026-10-09-12:30",
     "2026-10-09-17:30",
@@ -1370,14 +1376,10 @@
     "2026-10-18-12:30",
     "2026-10-18-17:30",
     "2026-10-18-19:30",
-    "2026-10-18-21:00"
+    "2026-10-18-21:00",
+    "2026-10-19-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/motorista-de-aplicativo-perde-controle-do-carro-e-derruba-poste-no-lago-sul-veja-video.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-tenta-matar-desafeto-a-tiros-em-bar-no-df-e-atinge-outras-duas-pessoas.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/policia-apreende-botox-anabolizantes-e-materiais-suspeitos-de-falsificacao-de-medicamentos-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/incendio-atinge-galpao-de-cooperativa-de-reciclagem-na-cidade-do-automovel-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/10/homem-de-46-anos-morre-apos-ser-atropelado-por-onibus-ao-tentar-atravessar-pista-na-estrutural-df.ghtml",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0tSRTlCRGRiRWI1ZVpxT1lpcFJrWld5UVpfQldaRGppMlBzSUxQSktKMUNjbGZLNk9tdERSeTI1NXlxWFR1WkZIQ1BuWVhuNjktYjJIVGtHYUM1QVJhbmJKQy15Q3czdjVuMTNzOVlXdDRZTlJsNjRaUnFfRFpYdHZ4NURGLVU1TXF2VS1jMXc3NUtNaGVKdmJRaDBReVozSDBzTDRBdDIwYkQzRW1pdVUyTkdUaTRtOUR6QnhBUXRnQQ?oc=5",
     "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTldzMHVyTi15VWg0OTNZUXFSZjhISV9FS3FrWGRfMTlmbnVBRkhsQzVTRGxhT0UyZlptVHcxYjhrQkdvZ1JOR0NXT1VEQWRrRmlFSlkzeERHaGw4dWd6SVhmWTdoakpReDRrVHVmU2JPOUlNMi10NkVHeE5iUzhTclNLcmR1dE9IM1loM3M1MEZLYmlEQTFOUzJfb3BiYjM5Nkd1dXRTYjlzOTJHbXRfU0kxRXZBYk1pRnNDdUlGNzRqWnBwQ2c0a3lpVkJJaHdVQ1FJcWEySW5zT25DdzI4aw?oc=5",
     "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1dXQWcxU2R0Z0F1RlZjcmtkQnIzLXFHRl85T3k3cXFOdDRPZTV3aE1HMDRsOVNZelRjLU81dHJrdzJ0X1NOUS04YUtiYmM4Nk5nNTFaWW5QNjN1bGgxWXY2TVFWc2ttTFZULUwtbUszU1FrTVBnZHJHWXF2OXM2OGFlNDc0YWJtSWxuYlZwZzNiSFRvSWZ6UW1ncGtDVmFxTVBYaThEZFJaTFd0aWlNbkMtR3dMLTVKcGdLTmlNZWdSaE50MlBPYVdkc0Z3MUdlbzRnZ0ZEZ01LWHpQQThLb2FfUXNFU3M0ODZVdklrMnBNTHZwOTNV0gGGAkFVX3lxTE5ZT1o2c0t4dzBqaTFOLTBfT0xSTFAxSURqa2hQcmtYRzl6MmNRZExFNnk4dG5PemszY1lpaVh3MmlEZ2VySlUyR3BkdFZuNExxZldEOFNtVGt0X2tNVlh4d2ZKU1dqMDJsbWdfOERoMndSN0pvMHhVdFIxSTVBUjFqN2FMTHlTQmpoMTJEODVZWnR2Y25fYkZiZDEtdWRLWm1DZjcxRXJ1SzUycG9yN0pLNmxHSDY1Z3RyLUFMaFNLcGpralctWHhSanRYRnhxZ19iaXQyTGVGdFV5YkotRHRxRmJ2YU5tZHFiR205Q3pLQmh5bFdOZGhndHJnRXgzR3lvM1lOOGc?oc=5",
@@ -1572,7 +1574,12 @@
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTdCLTl2d2dhUkxiZktidGxFdlZWV3NsMFhMVjdqYVlXY0tDRU82Ynp3UldiQnRKX1E4N0VDOUNVZklDYWQza2dhTTlDM19SeTZNWER0SG1qSkVXMlRLT25mXzBsQWNYbktGWUN6R1VlWmc5Z1Z3MWo4RFVydEltU2gwbEdwNHhwZjh6ajlOQ25qb010dXhIaXQ4Nk5qSEJlMDlCVXR6RVdscHg1eVhhZjNya1FCV0NMMzFPVA?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo5NFd2MDhlZ2x0YjNCeWdJQy1oUno2R3RPdDloS2o0RHlkR3BaaE9paDctcDhPSE1pU0xIY0lNZVVObGM5ZkNkeFhWU3NRcHRDWGhDeU0wU1hDNktRUkVCZnR4RV9WUElKTWN3VDZNT1FrbWswb3VvZUtmc3U4b3FyWHU1ejlYMGRmLUhYbV8wUFU?oc=5",
     "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTkxuRllLN3dOSGE3b1NjUjRVNWVFYlpUdkU4akpXUkVqOGN6dEtmWTA1a2UtYUV4eW5QVnVMQzc2dmdCT3hqd3lmdWt2LU9vSXdNR05jRzlCVGU0ZzhFQ2dFRXRyQXNhSG56d3pTTnlCN0syMXhReW1PQlhGcVNEM3dabTQtUmxFNmRjaG05M09qM2ZPMjRnODl4WnZ1LVdFX3RhamZjaktxaGNRVzNURWxKTVh4XzNEdXNfWW5Pdkg2MjdVbmpwbHJoZl9KUGJoM0V3ak1faEgzNFZrdzVUeWotSkhfZTlxNm5XRldqcTZiakhVX2pCblBRX0VwaHhUaE1DbQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0JwZnh2OW5KWDJiU2NFRGRITGV0VG4tRWdNdDV6bktKX3pTcldZSnNseVdvTGpvRlA2cTdpaWNWYkg4bW14NHNDX2pqZ01RTGo5ck50b0ZGU0wxWXFqQ1cteVdmRjE3d0M1QVp2OGtxdVNQalF2aWpVd0doeDl2RnFxa0x2YUZGMkZYTDZsdWo3eUtfZ2RHYkV1X0wxM3B2eFhRRGwxM3A3aEhIQTN1dw?oc=5"
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0JwZnh2OW5KWDJiU2NFRGRITGV0VG4tRWdNdDV6bktKX3pTcldZSnNseVdvTGpvRlA2cTdpaWNWYkg4bW14NHNDX2pqZ01RTGo5ck50b0ZGU0wxWXFqQ1cteVdmRjE3d0M1QVp2OGtxdVNQalF2aWpVd0doeDl2RnFxa0x2YUZGMkZYTDZsdWo3eUtfZ2RHYkV1X0wxM3B2eFhRRGwxM3A3aEhIQTN1dw?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/19/df-nao-tem-mudancas-em-locais-de-votacao-no-2o-turno-afirma-tre.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/era-um-menino-bom-nao-merecia-isso-diz-irma-de-adolescente-morto-esfaqueado-no-df-motivo-do-crime-seria-ciumes.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/unb-abre-processo-seletivo-para-idosos-entrarem-na-universidade-veja-como-se-inscrever.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/motociclista-morre-em-acidente-na-ponte-jk-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/adolescente-morto-apos-ser-esfaqueado-em-ceilandia-sera-velado-nesta-segunda-feira.ghtml"
   ],
   "palavras": [
     {
@@ -3409,6 +3416,18 @@
       "tema": "botafogo",
       "data": "2026-10-18",
       "proxima": "2026-10-19",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-19-06:30-jp",
+      "palavra": "対象",
+      "leitura": "たいしょう",
+      "sentido_pt": "alvo, público-alvo, objeto",
+      "exemplo": "この奨学金は大学生を対象にしています。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-10-19",
+      "proxima": "2026-10-20",
       "acertos": 0
     }
   ]
