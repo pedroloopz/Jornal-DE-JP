@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Erzählung",
-    "jp": "対象"
+    "jp": "監査"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この奨学金は大学生を対象にしています。",
-      "leitura": "このしょうがく金はだいがくせいをたいしょうにしています。"
+      "frase": "クラブの財務状況を確認するために監査が行われました。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1322,10 +1322,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-19",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-09-12:30",
     "2026-10-09-17:30",
     "2026-10-09-19:30",
     "2026-10-09-21:00",
@@ -1384,14 +1390,10 @@
     "2026-10-18-19:30",
     "2026-10-18-21:00",
     "2026-10-19-06:30",
-    "2026-10-19-08:00"
+    "2026-10-19-08:00",
+    "2026-10-19-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc0tSRTlCRGRiRWI1ZVpxT1lpcFJrWld5UVpfQldaRGppMlBzSUxQSktKMUNjbGZLNk9tdERSeTI1NXlxWFR1WkZIQ1BuWVhuNjktYjJIVGtHYUM1QVJhbmJKQy15Q3czdjVuMTNzOVlXdDRZTlJsNjRaUnFfRFpYdHZ4NURGLVU1TXF2VS1jMXc3NUtNaGVKdmJRaDBReVozSDBzTDRBdDIwYkQzRW1pdVUyTkdUaTRtOUR6QnhBUXRnQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTldzMHVyTi15VWg0OTNZUXFSZjhISV9FS3FrWGRfMTlmbnVBRkhsQzVTRGxhT0UyZlptVHcxYjhrQkdvZ1JOR0NXT1VEQWRrRmlFSlkzeERHaGw4dWd6SVhmWTdoakpReDRrVHVmU2JPOUlNMi10NkVHeE5iUzhTclNLcmR1dE9IM1loM3M1MEZLYmlEQTFOUzJfb3BiYjM5Nkd1dXRTYjlzOTJHbXRfU0kxRXZBYk1pRnNDdUlGNzRqWnBwQ2c0a3lpVkJJaHdVQ1FJcWEySW5zT25DdzI4aw?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQM1dXQWcxU2R0Z0F1RlZjcmtkQnIzLXFHRl85T3k3cXFOdDRPZTV3aE1HMDRsOVNZelRjLU81dHJrdzJ0X1NOUS04YUtiYmM4Nk5nNTFaWW5QNjN1bGgxWXY2TVFWc2ttTFZULUwtbUszU1FrTVBnZHJHWXF2OXM2OGFlNDc0YWJtSWxuYlZwZzNiSFRvSWZ6UW1ncGtDVmFxTVBYaThEZFJaTFd0aWlNbkMtR3dMLTVKcGdLTmlNZWdSaE50MlBPYVdkc0Z3MUdlbzRnZ0ZEZ01LWHpQQThLb2FfUXNFU3M0ODZVdklrMnBNTHZwOTNV0gGGAkFVX3lxTE5ZT1o2c0t4dzBqaTFOLTBfT0xSTFAxSURqa2hQcmtYRzl6MmNRZExFNnk4dG5PemszY1lpaVh3MmlEZ2VySlUyR3BkdFZuNExxZldEOFNtVGt0X2tNVlh4d2ZKU1dqMDJsbWdfOERoMndSN0pvMHhVdFIxSTVBUjFqN2FMTHlTQmpoMTJEODVZWnR2Y25fYkZiZDEtdWRLWm1DZjcxRXJ1SzUycG9yN0pLNmxHSDY1Z3RyLUFMaFNLcGpralctWHhSanRYRnhxZ19iaXQyTGVGdFV5YkotRHRxRmJ2YU5tZHFiR205Q3pLQmh5bFdOZGhndHJnRXgzR3lvM1lOOGc?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3pEY0FqZEFRd0x6QXMtdlpmUHp2cFF6QUJaVTEwUjdGSm1wZUJkSWt2MnROLXNWa3BIR2FfbUk5WFh2SThublNmSE92Q2Nsb0szYjdOSXVzbWNDd2VTS0NENGgzVHZpMlpPMVVXUWJUUFpfTkFHT3p6M2ZsczRzNk40MzlxbnZ2ZEhLZTRwekJUZ3c0Rk1Ca1lwalRBVjhlQ1dSd3FmU19JYURNeFJWTTZkUUdYVFpIN2c?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNzNNOC1mWUtub0lTVjhxX21DWlJETi1nQlFkM3kxdjZmOUhqTG41QnlxREFpVU5sWE44OXJnckcyY3I1bUZtSmkzZl9fcnVneFF1cEJhV0M0cEp4SHBOZ2lCM0NQWjR0Rk1QQmwzbHlEZk95eEdhdElyNDlCNWNESHlhekl6UFowNUpNOF9xNlZhUHhwLU14Q0czRnFLX0hBSnM5bDdjS1haZ9IBuAFBVV95cUxPcTl3cU16NEszMldEXzRqME5ETUZTbVNJQlA0eHJabUQwY0p1ZEVPSUc0eTdPOTEtQjhJVVN3dHNaNWFrU3UzUmNWZm9rTDNzM0wxT3pFR3VYQ0tGVF9fWFVSS053SU1qRzQ3UUV2NDB3ME5xeEswZVV3a3RVZjNReHE1Ni1idnl3TWlzNXJpSW9wVGtFSHlTZ2RwWjAwTTVURXVNWS1MMDY2eElabEktd3ZjWHl5M0dh?oc=5",
     "https://g1.globo.com/politica/noticia/2026/10/11/lula-reclama-de-decisoes-tendenciosas-do-tse-apos-decisao-para-derrubar-canal-nas-redes.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/nunes-marques-manda-derrubar-canal-exercito-do-lula-nas-redes.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/11/interlocutores-de-flavio-bolsonaro-procuram-gilmar-mendes.ghtml",
@@ -1586,7 +1588,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/era-um-menino-bom-nao-merecia-isso-diz-irma-de-adolescente-morto-esfaqueado-no-df-motivo-do-crime-seria-ciumes.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/unb-abre-processo-seletivo-para-idosos-entrarem-na-universidade-veja-como-se-inscrever.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/motociclista-morre-em-acidente-na-ponte-jk-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/adolescente-morto-apos-ser-esfaqueado-em-ceilandia-sera-velado-nesta-segunda-feira.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/adolescente-morto-apos-ser-esfaqueado-em-ceilandia-sera-velado-nesta-segunda-feira.ghtml",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGFYWE5HSTl3ZFVRN1dIbTNiWExoUUxFVlZIVXVBdWZaYmZtZHd3OExvSGg3V2l2NEEwRWYxYkRKUzNFejdYaFRZbkxsY25sWWU0RGxXX0kwaEVEX2x5aVlMTThrVW9HS0JuMVFZaGcyd3BRT1Y0QkNmUXFBZlpVQ05SNzFuYlNKOFFVQzB0MjhJZmFsZHZ2LUkyZGpOSTg1SkFwMXY2UTg4RzFRWUVaSEs4WllzZUZNOWMxR05YQ2ZuYnVMY2I1RjBqbjQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2szcTNLVjktV01xLUxBYzItZ1J3eUtOel9qcVhMbUxsVkI4bGJEWTd6YWk5aUh3YmtwcGNWMkh6ZU11TjVTYkhpeEs4UURvdmp4Ml9IbzVxYkE2Q2lFMVN3SVdnMkhlMGh4cjBPRUtzOE5HNTNUUnJ0MlBaWWFoVVNBLW8wVGUxdG5halFmd3d2bklXRlp3QXU0THFMS1RmR0ZNbUo3WkVoYVdCRDBEMS0wMFIydG5EN2c0R1dQdVNONHdPLUQyZ0JaT3dwVlFMcEVvY2hfWEh4RHprakNESWJwSzNrT1d1bXNQedIB-wFBVV95cUxPWUxOTkhVZTZmRDg1Wm00MWJPa3dBRENkdVNFMGJUTjFCZlIwSXdXcW5WUktHY3hnOXB0RnhtM2ktV2M4Tzh1TzQ3ODVVRUoyLXdwVVB6WmNLR2NGenkwdWxaaXdCYVVRYzFiYlM3N0xtaWJwWkV4VmQ1aHN4ejNSUmtzYnNkQ2FWWjkyQkdIU2tZb1l2eFdMR3RfOXlqOGpZYVRWRUh0WjhLdG5icWs4c2h1bDBDS210a1lpdnJ3am9remo1b3Q1azJiOXV1SFVuSkpHN2ZZbmFPWkprUVZtakdvcV9IQW5TR01nUlZPZDRPakJnTXR4Tm1Kdw?oc=5",
+    "https://news.google.com/rss/articles/CBMic0FVX3lxTE83T2tnc3hBT2dJUWpDbHIxUl90ZEZGWG1HTTNSTHZDMWl2YkUtRlJLVUpNYm1jWkd5LTNkLUlSTHVxOW1BN0dTYlV6dmNjWFA1MEZRZ1E0SGJkeXRaYm9UREM2dlNmeFVBN01LelplckNNRE0?oc=5",
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxPYno5VjJOQ3FGWmU0Z1VMcVFnd09YME5fWTRGb0RsblZ5Umpvejk5OGp6RkUxZ2NkbGotaVhFR0JuQlJncnpVd1pYcUFtMmQtYlhsdjVSMWltcDEyM29OMTNCNERRbktXVVFKSnB4Wnc2QU1vOEZQTFlSNWRkMldpZFJ1dEowaWlWRHZZelRLZm0zZTUzTFJ1azBBWG9JVE90TjU0Z3phRFpGYm8xY05IQUdieWJVTW1VbGFHTV9EWlkyWHYwTHc1T09BYTNlRkpGSTk5QzVYR2toZHJ5N0s1Rno4QXpvbnVpaHhORHkya0lsX3NEM1R4NmwxNjZpblpp0gGPAkFVX3lxTE1aM2hSZlM3dm0yZzN3aHY0anJfbzh0OUhSSDBZdDE0U19GRWs0a0dPTmNXVldHVnhsMUxyUGNQYk5DV1VCMUpEMDU5XzBqOGk4ZlgzVEUzODBtZFZIVmFNZnBZXzdHX1ZIQW5PZnZUVV9rNUpYRURJdUVuOHNhOVJHa05JV3NWYTZvZVZMQnJiWjZNZDl0RGJzekVwSWEybnphRk5PQ3J5TkQ0MlNuNGRGRjBRWWpOR3laYVZkSjNaS1RBbmZYMkZpaGVkd3ZqZlpvZmQ5dVZ5YTVTZjJMNC1EYWhielpLX2ZSN3U1bW5oT1VSQWF2aF9QVFZIaGNmRzAyZ3ZNeFBzOHg0NkVFOUU?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRW9LQy1nM01TMEhiN3ktOVp5eDhxT0hnbGhSYmxmR2xJU3VaY3M2c3NtNlUzUUhZX3NVcmVYM1pQeDBTUDkzRnZPN1F3N1NXdHFrWlJjS0UxLWZKSGlTdWUzTmQ4VzRQVGZUUEtva25aaTBQSEV0SUEyUXFyRFlTUUxvNFVnSElDTXZnNG5uU1JkcEFZUG1EMERaZ0Q1OW9PWHFqMUJ4VmF4b0F4RWd5R0VuOTFnUU5YUWZhZTctc05MdnJBejh2b1lyNEQ4VkhWNnQ5dldVWko?oc=5"
   ],
   "palavras": [
     {
@@ -3445,6 +3452,18 @@
       "exemplo": "Die Erzählung ist sehr spannend und geheimnisvoll.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-19",
+      "proxima": "2026-10-20",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-19-12:30-jp",
+      "palavra": "監査",
+      "leitura": "",
+      "sentido_pt": "auditoria",
+      "exemplo": "クラブの財務状況を確認するために監査が行われました。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-19",
       "proxima": "2026-10-20",
       "acertos": 0
