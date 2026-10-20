@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Ziel",
-    "jp": "対立"
+    "jp": "懸念"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "両候補の対立が選挙戦で激しくなっている。",
-      "leitura": ""
+      "frase": "業績の低下に対する懸念が広がっている。",
+      "leitura": "ぎょうせきのていかに対するけねんがひろがっている。"
     }
   },
   "obra_idx": {
@@ -1364,10 +1364,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-20",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-10-12:30",
     "2026-10-10-17:30",
     "2026-10-10-19:30",
     "2026-10-10-21:00",
@@ -1426,14 +1432,10 @@
     "2026-10-19-19:30",
     "2026-10-19-21:00",
     "2026-10-20-06:30",
-    "2026-10-20-08:00"
+    "2026-10-20-08:00",
+    "2026-10-20-12:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/12/the-stock-market-is-repeating-a-pattern-seen-just/?.tsrc=rss",
-    "https://finance.yahoo.com/video/apple-plans-compete-home-power-184214442.html?.tsrc=rss",
-    "https://finance.yahoo.com/video/cisco-nvidia-tackle-ais-growing-182401270.html?.tsrc=rss",
-    "https://www.thestreet.com/investing/apple-cuts-iphone-18-pro-orders-as-ai-raises-the-bill?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/12/4-no-brainer-chip-stocks-to-own-for-10-years/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ05pbmg2M2tBUEVXUmxsVG9Oa1o2b3BtOVpTc1dERmJDdjV2RHJfZzNLUUt1RXI1UTRKT242cmRtWXdqX3AybGJNRGRfV1prcHlhemFpeHFnVE45N01kcm5QOGtGVjBDQzRrTzJRWUg5RkRVTllFckNnTjRaaHVPMTRwRWU5ZXZScHBwcDZESk5YUzFaNVJaMmxHWnBHVUloY0pPbHNaTktKb2FaV0RWdXJyMkVGc25fZUZFZUpPenVqZjFWQUltVDk3S1UxbTJfdGZoUGlR0gHkAUFVX3lxTE14YVVtTEZDYVJNOXNFQld2NXloSk1TNHZILWRaUnIxbTZQeVdxVk9HUlBrSXlaN25ZT0FSUC16SkkzWGx2cHEyWE02MXhyeUphcE9faElaakh1bi1DS0JzSnVTYXY0Y3JJNjZIX19MLXVUbGZHcE0tMUl3Y2tYTGd2YmRlYXBjUlFNRGI2Qmxybk1mVjY4OU1rUWV6ZEtpMXZoNS1jaW53TVlWZDVDU01uWmM2Sk9wNzNRa1FrWFZ1ZXd1OFBUa2hrbDlwODkxNEtSb0szbnl2cnI3RXVGYm5rUGxxMA?oc=5",
     "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVUNiY2prYlFjc3dkZERkdHU3QmQ5OVpibGtGNEJJdVdySFRKR3AxU2FsNzRHeElKOGJfMldMTkpnNlNBYTdVellraC04eGxCbmJqOW9SSXZEajhkc1owM2s1MnVNTFB5RmRKdFdlQlNaMGsxM2sxWGZsQXowMEJCYVFnalpabVdOY1E4QncwYWpBekFwZmRBN1lYS0hTTWVUeVFzUUNGczhCU2dVMlMzZVR5YkwyWFk2SjhQYmdZQXVNXzlYZUhOUUh6aGFkc2IwMkl1a0lNbFByOXVkNXRVNlRhRG80VDBGc3IyYXNDWTdsZzJ5dC1Gdjl30gGIAkFVX3lxTE1FX0ZYRFl0aEkybkI3SWhscVNSMGdjOWJVTzVVUWhSSlB6QUNVMXdUTnBRVDVEMzNPNk9idENtSnl1NUZObG5KdlBVelpYbUV3clU4bUZTWXdlTnpaVTJwMzNucG5WVjkzZ3JHMEFVV29zdnlYNHByN0VuZ3BubW4zQldqOTBzTnVuTndaNGZpQ2s0ZTdrV0FodWVpYnB1NTdRZFRheE9rYmdGeEREdXkwT0FqTkNDcWJiZUpHdEFtd2JXNDg2VjZqcW9mRk1PaVhRb0pKOXV3aHZnVjdkMXFFN1U5RHBlS21QeUxCaFJRYzZSUjI3RUlMM2RkcnlUWDZLWTJMLTZYag?oc=5",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOazNZZW1JT3p6cE9VakVScHNHX3ZwcklZeHVRWUd0MlFrS0xoc3lkNVE0dnRYSklRQ0t4Y1BYNE5iZXIyR3VZeUFQbTItaGVtSDUya2lkdG1Oc0p1V053ZE5obTFnWnY2TzNKODBmTlNrREFEZGFYZ2JIVDJuc093dFN4eHhIc1VfWHExaF9CZnNzcm42QUI2SzlHendXT0tYLWlEVDh3RFdsdDhrSi01VjZCSTctMzAyNEdjUkNMUjNIeE9lT29IYXlRLV8zRHRMRkRsbzFxWlhicVI2NGtR?oc=5",
@@ -1628,7 +1630,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/20/qual-e-o-numero-de-celina-leao-pp-para-o-governo-do-distrito-federal.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/homem-e-preso-por-violencia-domestica-e-por-descumprir-medida-protetiva-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-e-presa-enquanto-tentava-entrar-na-papuda-no-df-com-droga-escondida-nas-partes-intimas.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/df-tera-reversao-de-faixa-no-acesso-e-na-ponte-jk-a-partir-desta-quarta-entenda-como-vai-funcionar.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/df-tera-reversao-de-faixa-no-acesso-e-na-ponte-jk-a-partir-desta-quarta-entenda-como-vai-funcionar.ghtml",
+    "https://www.fool.com/investing/2026/10/20/3-artificial-intelligence-ai-stocks-that-look-like-great-buys-right-now/?.tsrc=rss",
+    "https://www.proactiveinvestors.com/companies/news/1100418/apple-faces-gross-margin-pressure-as-ubs-flags-slowing-iphone-growth-ahead-of-earnings-1100418.html?.tsrc=rss",
+    "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/20/nvidia-reportedly-just-landed-usd35-billion-in-chip-orders-from-chinese-companies-here-s-why-that-could-be-great-news-for-the-stock/?.tsrc=rss",
+    "https://finance.yahoo.com/m/80cbc8ec-aaa7-3785-849b-f4bbd56ee635/not-even-rumors-of-a-big.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3559,6 +3566,18 @@
       "exemplo": "Das Ziel ist ein besserer Verkehr am Morgen.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-20",
+      "proxima": "2026-10-21",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-20-12:30-jp",
+      "palavra": "懸念",
+      "leitura": "けねん",
+      "sentido_pt": "preocupação",
+      "exemplo": "業績の低下に対する懸念が広がっている。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-20",
       "proxima": "2026-10-21",
       "acertos": 0
