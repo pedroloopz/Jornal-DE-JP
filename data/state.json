@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Wahl",
+    "de": "Börse",
     "jp": "交流"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Wahl ist sehr wichtig für das Land.",
+      "frase": "Viele Menschen investieren ihr Geld an der Börse.",
       "leitura": ""
     },
     "jp": {
@@ -1343,10 +1343,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-19",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-09-21:00",
     "2026-10-10-06:30",
     "2026-10-10-08:00",
     "2026-10-10-12:30",
@@ -1405,14 +1411,10 @@
     "2026-10-19-08:00",
     "2026-10-19-12:30",
     "2026-10-19-17:30",
-    "2026-10-19-19:30"
+    "2026-10-19-19:30",
+    "2026-10-19-21:00"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/11/forget-chasing-volume-heres-the-most-active-stock/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/11/following-openai-s-revenue-report-should-you-really-buy-ai-stocks-right-now/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-may-27-190909543.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/11/beyond-sp-500-index-funds-heres-the-1-sector-id-bu/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/11/micron-is-down-x-from-its-high-history-suggests-th/?.tsrc=rss",
     "https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/11/corregedor-do-tse-suspende-preliminarmente-decisao-de-nunes-marques-e-libera-canal-exercito-do-lula-decisao-final-sera-do-plenario.ghtml",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml",
@@ -1607,7 +1609,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/campanha-de-lula-volta-a-acionar-tse-e-diz-que-meta-continua-favorecendo-flavio-bolsonaro-nas-redes.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/globonews-debate-campanhas-flavio-bolsonaro-lula.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro-discutem-estrategias.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/lula-tse-quebra-sigilo.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/lula-tse-quebra-sigilo.ghtml",
+    "https://www.fool.com/investing/2026/10/19/up-10-in-the-last-two-weeks-is-airbnb-the-perfect-stock-for-today-s-market/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/deep-hardware-software-integration-drives-163110026.html?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-cheap-14-times-170800201.html?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-afford-next-185615035.html?.tsrc=rss",
+    "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3502,6 +3509,18 @@
       "exemplo": "地域社会との交流を深める。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-19",
+      "proxima": "2026-10-20",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-19-21:00-de",
+      "palavra": "die Börse",
+      "leitura": "di bërse",
+      "sentido_pt": "a bolsa de valores",
+      "exemplo": "Viele Menschen investieren ihr Geld an der Börse.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-19",
       "proxima": "2026-10-20",
       "acertos": 0
