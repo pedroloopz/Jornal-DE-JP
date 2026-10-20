@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Börse",
-    "jp": "交流"
+    "jp": "対立"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "地域社会との交流を深める。",
-      "leitura": "ちいきしゃかいとのこうりゅうをふかめる。"
+      "frase": "両候補の対立が選挙戦で激しくなっている。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1350,10 +1350,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-20",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-10-06:30",
     "2026-10-10-08:00",
     "2026-10-10-12:30",
     "2026-10-10-17:30",
@@ -1412,14 +1418,10 @@
     "2026-10-19-12:30",
     "2026-10-19-17:30",
     "2026-10-19-19:30",
-    "2026-10-19-21:00"
+    "2026-10-19-21:00",
+    "2026-10-20-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/10/11/mendonca-proibe-pt-de-impulsionar-videos-que-dizem-que-flavio-bolsonaro-e-contra-a-escala-6x1.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/11/corregedor-do-tse-suspende-preliminarmente-decisao-de-nunes-marques-e-libera-canal-exercito-do-lula-decisao-final-sera-do-plenario.ghtml",
-    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-canal-campanha-lula-whatsapp-faz-divulgacao-mentiras.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/flavio-bolsonaro-se-reune-com-prefeitos-de-sp-e-orienta-campanha-nas-cidades-nao-podemos-baixar-a-guarda.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/11/estreantes-congresso-eleicoes-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/casal-e-encontrado-morto-dentro-de-casa-em-ceilandia-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/papa-anuncio-operacao-cnbb-carta.ghtml",
@@ -1614,7 +1616,12 @@
     "https://finance.yahoo.com/markets/stocks/articles/deep-hardware-software-integration-drives-163110026.html?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-cheap-14-times-170800201.html?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-afford-next-185615035.html?.tsrc=rss",
-    "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss"
+    "https://finance.yahoo.com/m/fc8c5a2b-d77d-3107-a23a-2331f80e2b71/dow-jones-futures%3A-amd%2C.html?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-geraldo-alckmin-vice-de-lula.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml",
+    "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml"
   ],
   "palavras": [
     {
@@ -3523,6 +3530,18 @@
       "tema": "bolsa",
       "data": "2026-10-19",
       "proxima": "2026-10-20",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-20-06:30-jp",
+      "palavra": "対立",
+      "leitura": "たいりつ",
+      "sentido_pt": "oposição",
+      "exemplo": "両候補の対立が選挙戦で激しくなっている。",
+      "lang": "jp",
+      "tema": "politica",
+      "data": "2026-10-20",
+      "proxima": "2026-10-21",
       "acertos": 0
     }
   ]
