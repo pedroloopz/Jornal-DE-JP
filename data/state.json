@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Börse",
+    "de": "Ziel",
     "jp": "対立"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Viele Menschen investieren ihr Geld an der Börse.",
+      "frase": "Das Ziel ist ein besserer Verkehr am Morgen.",
       "leitura": ""
     },
     "jp": {
@@ -1357,10 +1357,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-20",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-10-08:00",
     "2026-10-10-12:30",
     "2026-10-10-17:30",
     "2026-10-10-19:30",
@@ -1419,14 +1425,10 @@
     "2026-10-19-17:30",
     "2026-10-19-19:30",
     "2026-10-19-21:00",
-    "2026-10-20-06:30"
+    "2026-10-20-06:30",
+    "2026-10-20-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/12/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-e-periodos-de-ceu-nublado-noite-com-pancadas-de-chuva.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/casal-e-encontrado-morto-dentro-de-casa-em-ceilandia-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/11/papa-anuncio-operacao-cnbb-carta.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/bancada-100percent-feminina-e-nao-feminista-vai-representar-o-df-no-senado-veja-perfis.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/11/2o-turno-no-df-o-que-ha-nos-planos-de-governo-de-celina-e-grass-sobre-brb-transporte-e-assistencia-social.ghtml",
     "https://www.fool.com/investing/2026/10/12/the-stock-market-is-repeating-a-pattern-seen-just/?.tsrc=rss",
     "https://finance.yahoo.com/video/apple-plans-compete-home-power-184214442.html?.tsrc=rss",
     "https://finance.yahoo.com/video/cisco-nvidia-tackle-ais-growing-182401270.html?.tsrc=rss",
@@ -1621,7 +1623,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/eleicoes-2026-quem-e-alfredo-gaspar-vice-na-chapa-de-flavio-bolsonaro.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/20/lula-protocola-documento-no-tse-em-que-diz-que-libera-a-divulgacao-de-sigilos-dele-e-de-parentes-se-flavio-tambem-o-fizer.ghtml",
     "https://g1.globo.com/economia/noticia/2026/10/20/flavio-promete-se-eleito-retomar-beneficio-para-eventos-encerrado-por-lula-apos-suspeitas-de-irregularidades-e-alto-custo.ghtml",
-    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml"
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/20/flavio-ve-otimismo-na-reta-final-mas-alerta-campanha-apos-ruido-sobre-bolsa-familia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/20/qual-e-o-numero-de-leandro-grass-pt-para-o-governo-do-distrito-federal.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/20/qual-e-o-numero-de-celina-leao-pp-para-o-governo-do-distrito-federal.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/homem-e-preso-por-violencia-domestica-e-por-descumprir-medida-protetiva-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-e-presa-enquanto-tentava-entrar-na-papuda-no-df-com-droga-escondida-nas-partes-intimas.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/df-tera-reversao-de-faixa-no-acesso-e-na-ponte-jk-a-partir-desta-quarta-entenda-como-vai-funcionar.ghtml"
   ],
   "palavras": [
     {
@@ -3540,6 +3547,18 @@
       "exemplo": "両候補の対立が選挙戦で激しくなっている。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-20",
+      "proxima": "2026-10-21",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-20-08:00-de",
+      "palavra": "das Ziel",
+      "leitura": "",
+      "sentido_pt": "o objetivo",
+      "exemplo": "Das Ziel ist ein besserer Verkehr am Morgen.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-20",
       "proxima": "2026-10-21",
       "acertos": 0
