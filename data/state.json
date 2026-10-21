@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Schulden",
-    "jp": "必要"
+    "jp": "特徴"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "クラブの経営には選手の売却が必要だと報じられています。",
+      "frase": "この小説の大きな特徴は不思議な世界観です。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 17,
+    "jp": 18,
     "de": 16
   },
   "dominadas": {
@@ -1406,10 +1406,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-21",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-11-12:30",
     "2026-10-11-17:30",
     "2026-10-11-19:30",
     "2026-10-11-21:00",
@@ -1468,7 +1474,8 @@
     "2026-10-20-19:30",
     "2026-10-20-21:00",
     "2026-10-21-06:30",
-    "2026-10-21-08:00"
+    "2026-10-21-08:00",
+    "2026-10-21-12:30"
   ],
   "links_usados": [
     "https://finance.yahoo.com/video/apples-privacy-edge-may-not-be-enough-to-save-it-in-ai-phone-race-171652870.html?.tsrc=rss",
@@ -3673,6 +3680,18 @@
       "exemplo": "Der Präsident hat alte Schulden erlassen.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-21",
+      "proxima": "2026-10-22",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-21-12:30-jp",
+      "palavra": "特徴",
+      "leitura": "とくちょう",
+      "sentido_pt": "característica",
+      "exemplo": "この小説の大きな特徴は不思議な世界観です。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-21",
       "proxima": "2026-10-22",
       "acertos": 0
