@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Buch",
+    "de": "Schulden",
     "jp": "必要"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Buch liegt auf dem Tisch.",
+      "frase": "Der Präsident hat alte Schulden erlassen.",
       "leitura": ""
     },
     "jp": {
@@ -1399,10 +1399,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-21",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-11-08:00",
     "2026-10-11-12:30",
     "2026-10-11-17:30",
     "2026-10-11-19:30",
@@ -1461,14 +1467,10 @@
     "2026-10-20-17:30",
     "2026-10-20-19:30",
     "2026-10-20-21:00",
-    "2026-10-21-06:30"
+    "2026-10-21-06:30",
+    "2026-10-21-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/13/o-movimento-contra-o-voto-feminino-no-brasil-e-no-mundo-o-assunto-1823.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/13/novas-pesquisas-eleitorais-presidenciais-2o-turno-quaest-e-datafolha.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/12/tse-manda-flavio-bolsonaro-apagar-video-enganoso-sobre-manifestacao-pro-lula-na-paulista.ghtml",
-    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/12/e-fake-que-video-de-mulher-com-suposta-substancia-ilicita-seja-de-ato-pro-lula-na-paulista.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/12/nunes-marques-proibe-circulacao-de-jornal-sindical-que-compara-propostas-de-lula-e-flavio-bolsonaro.ghtml",
     "https://finance.yahoo.com/video/apples-privacy-edge-may-not-be-enough-to-save-it-in-ai-phone-race-171652870.html?.tsrc=rss",
     "https://finance.yahoo.com/healthcare/articles/nvidia-says-invest-french-medical-175332118.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/13/apple-is-taking-on-amazon-and-google-in-the-smart-home-with-a-299-siri-ai-device-is-homeview-the-first-big-win-for-new-ceo-john-ternus/?.tsrc=rss",
@@ -1663,7 +1665,12 @@
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJXNkE2SmtfVjIzNDNzN1BFMDhfeE5nVXV1SlM4N19NX0xfamtBYUV3V3lZRjZwSnNOZEd5Smg5cndJV0FRb0hSRGRJV0lQaXotVlJBX2JjS0ROc3BqODdDUy1EWTZsMlYyS25HZWVZZDFNQjBLNEo2U3pRa21Vbks1dlkyaFJEQVZsOTk3SDdpQVVtR1VWNk9RSGNHMEV3cFlkUUhEOHE5UHhWaEhyODMwZ1I0aV81VWtQY0tiRFRPOWdQV19NblhnRzlfc2UzUk9VZzN0REFJUdIB3wFBVV95cUxOa2NoV3N6UXRIV0pkYjdGZnBzMG56M3FGd2Y1MXlCSG1TYXo2Yi15Mkd5RGQ0QVBqUVc4MVA3Yk41OXAwV29WR0Q0NTJfNjV4LUpXTW1FQ3lWNmRkREhCR2JaOWQ0TFFCb29CZUhzV0l0dVVtcnJ6N2lqbmQzcmVCZnRkc1hnX3Q3RG1OakdVSFpFZXRNMlpKeGlXdlFvLU5xdHNoX3VVenpvSWVHTmRWeWYwNl9sYnMtS2Q0bFB4bV9vWi11QnF6WW1Zc1hINTBZNV9MY0lvN3VIbXFvUTlN?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWxERU11N0JLeTR5TzU4YlNnR0tTR2lwWjQzanJkVlJ4V3pTTTlPc2dOMVd4SDVDTmI5c0hPeUlvRUwyQ0FZd09ucUs4RVhRbk51SEk0eVZnYWFGRkNHbDF6YmRDX1YxV3BicEc1VE8xZXR5Z0RZeEJLdmUtV2NrMTJQREpFdzBZY09B?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1NZN3lJQVQ2ZkZFdjR1Y2pZcFFERHNiQWl2eDB5YTlMNjRfRXAxejFfRU5FZ0NBQTZ6TEY4eUUyNks3LVFUTWl6MUwwVzBFSV9JYmN3dEowZTFnSER2ZkQ0NUoxcEhLb3lFVXVuNWRDMUZsd1l5SG11WG1lSktHQWgtWkV1NkZ0VWI5Sm92NVpBX2lKV2doZ0JQX2UzTmt3OVVFd3cwWG9aTVVrdXBSakpfazFlWFo2Tk5YTi1ubkxTRUJfcEZpWjQ2YzlIeVRvUXlEbjVTSkFidw?oc=5",
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlhJSUk5YTZQLVU3VWNiNjBlNTJScjREUnNNQWl6Z0tCRUt5STZSQmQzWDVHT3JQT2JJU1FQM1JQcTBfNlE2cnVpVE95bjJmZVZWaHJaMmFtb2pGV0dXT0R1TS14VzFXM212WmJ6RU5EWW94SWpDQktOajFlRWJ3RkN3N3c2c0hkRW9TaTZuclpKMDlRUG5vTjZxbUF1WTlmc2c4cmVRNUpVbnFrX2Z0eWVNQm9RcU5rSEhyMm9WOA?oc=5"
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlhJSUk5YTZQLVU3VWNiNjBlNTJScjREUnNNQWl6Z0tCRUt5STZSQmQzWDVHT3JQT2JJU1FQM1JQcTBfNlE2cnVpVE95bjJmZVZWaHJaMmFtb2pGV0dXT0R1TS14VzFXM212WmJ6RU5EWW94SWpDQktOajFlRWJ3RkN3N3c2c0hkRW9TaTZuclpKMDlRUG5vTjZxbUF1WTlmc2c4cmVRNUpVbnFrX2Z0eWVNQm9RcU5rSEhyMm9WOA?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/10/21/ministros-do-tse-discutiram-bloqueio-de-canais-politicos-no-whatsapp-as-vesperas-da-eleicao.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/21/em-cerimonia-de-anuncio-de-medidas-lula-diz-que-pobre-e-bom-pagador-e-que-tem-muito-rico-que-gosta-de-dever.ghtml",
+    "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/perdao-de-dividas-de-meis.ghtml",
+    "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/lula-perdao-dividas-mei.ghtml",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/21/eleicao-acirrada-vira-palco-de-promessas-que-aumentam-pressao-sobre-as-contas-publicas.ghtml"
   ],
   "palavras": [
     {
@@ -3654,6 +3661,18 @@
       "exemplo": "クラブの経営には選手の売却が必要だと報じられています。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-21",
+      "proxima": "2026-10-22",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-21-08:00-de",
+      "palavra": "die Schulden",
+      "leitura": "Der brasilianische Präsident Luiz Inácio Lula da Silva hat am Mittwoch ein neues Gesetz unterschrieben. Dieses Gesetz hilft vielen kleinen Unternehmern und erlasst alte Schulden. Gleichzeitig gibt es neue Regeln für die Wirtschaft im Land. Viele Experten diskutieren jetzt über die Zukunft der öffentlichen Finanzen. Die Politiker versprechen viele Verbesserungen für die Bürger. Die Situation bleibt sehr spannend für alle Menschen in Brasilien.",
+      "sentido_pt": "as dívidas",
+      "exemplo": "Der Präsident hat alte Schulden erlassen.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-21",
       "proxima": "2026-10-22",
       "acertos": 0
