@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Buch",
-    "jp": "調査"
+    "jp": "必要"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は事故の原因を調査している。",
-      "leitura": "けいさつはじこのげんいんをちょうさしている。"
+      "frase": "クラブの経営には選手の売却が必要だと報じられています。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1392,10 +1392,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-21",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-11-06:30",
     "2026-10-11-08:00",
     "2026-10-11-12:30",
     "2026-10-11-17:30",
@@ -1454,14 +1460,10 @@
     "2026-10-20-12:30",
     "2026-10-20-17:30",
     "2026-10-20-19:30",
-    "2026-10-20-21:00"
+    "2026-10-20-21:00",
+    "2026-10-21-06:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVZIbVVBcm5BVUZuOE9QYktDbjQydjViV0RsTm5jRXVaRVJndXAwQVRQZ3Yzcy1KZ0M1ZUxDZ2hzcFVMLWhsV3d5NWVOeTFNdmRvMHYzQzZnbkZPRmRjbW9XZW82SjVvbnh6aklRd1NjaHBtWGZ0S1ljbXU0U3VPcFhlRXRkYmVQdktWYzdyc2hXMng0TDZQUGF1YlFIQkh0dFBDa19Salk3UzJnMW5Oblp4MXdmdmZpRHfSAb8BQVVfeXFMTVAtQ0NYdVpFMXRJUjQ2aHBRM2Q1c3ltT1RPZjNmYTNYTkZYajg5VWsyb05TSkV3WnZPRFhHcTZOS29Pd3Z0Z0phelplUmtIdV9hRVo5a1hLaTRINmg3ZWdmZjlwR1RXOE92ay1KajJRYmRsaWdXU2s1bWd6SHFBaVB0WGh0SDVJcWRJZFZJSlZQQVVhRDQtUlZ0dlR2SEhJbzdxdDJBY2Njajd1WmdqNnVFVUhjR19na1FmaFF0ZVE?oc=5",
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN190WksyVmJMd2gzbXI4aTBzcHVKbC1jMkFUeV9uVFJlWHA0NVJvSlotQ0wxX1BDWlh2VnJ6Y0hiMnJiZHlFc3dFa0ppV19uVUFoZklrR0tPV1ZiSm5VWkhjNkpxV0xPYURab29zQVliWlhqUnM4anVGRDNObjMwcHFWdFA4OTE0aXFuN2dvaHF5TUxpLXdmUUVRaTV6b2cyek95UW9KemxUR0hCQ3h6TDFKMkZjQjV2OGlOcGxR0gHDAUFVX3lxTFB5bU14UGNEa3lyV2J3VUN5MHo3VjVqWVhCMk9ZSmNqcTUwOEV5MHhaTUFDeDE4NWt1WkpOUWQ3cnNkM1JaT1R0c0Q5czFXZzh1UjF0djEtWXZ1S1U5MzlDZU16eDQxY1dyNDZOYi02YkJrRm9kQ1ViVmtuOUxySEZrRFJrckpHOTlnVEcxUVhmQXl4TlF6ZGFkZDZ4UzM5ZVZweGpGWUdsUU1WRV9hbml2cDZSWkFHQ1Q4UHllUTlDY2lfQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWl6bW5HTlc4YjhoT3JkY2JPM25JRGtvQWlxci05ZW9EeVlmMEtDeHFNWWx0UUxZUjJteF8zeW5MZVBhcWFHQndmOTBYbkNBblJNUUY4Y3EwUUJodHFyVmFYNXNtYVNOSExYcmVDQVRZaEY2Y3NZUDRjcG5ISmVsTGUtMk15c1VCeDFnZmctSXZTN2Q0RGJnbmJueXRhU09RWldEbHY1YUJpbmxDS0V2OTliVTUxTFZTNXc3X0FEV3k4b1hPdlE?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRVgxUFY3SEhkR0xsMUxnUE5ZaVRXOVlFOUpvVWZLdGdWQ3JpNTdwNUo0TXk0dkc3ZERIaUNscFVBWHpaRXdXbnA1ZmVRcGw0STZuQ0ppVkNGendKbnl1TFBYeFlvUXQyWDdBR1F5cGJxZXlBY2J5dVgxaWZET0thLV9WWjJ6NTlPSEkzRkpEbGZXS0Z2b1ROcTIxX0ctZjVtcXFHU1VmWmZRS216UW5XeGdHeXhfNVJsaFE?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVllScTE3R0t6b0ZaVjIyckwwM3VlYjFwbldSNVNjN2VheWdJQS12YTIyLURPOWtoQUpxZnQwck9LVkdjeTczUUxWeHB1V2ppdXYxNk9EYkFiMGpOUGNTVG5qdFZGbTlLUnFubHU2a1dEZWpPSlRhMmlGa0VKT3VWOWpYS0xPZG5YZVlXS0lETUpfM0hza1N1YkJhemxyb0syYkZrRzFXTQ?oc=5",
     "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/13/o-movimento-contra-o-voto-feminino-no-brasil-e-no-mundo-o-assunto-1823.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/13/novas-pesquisas-eleitorais-presidenciais-2o-turno-quaest-e-datafolha.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/12/tse-manda-flavio-bolsonaro-apagar-video-enganoso-sobre-manifestacao-pro-lula-na-paulista.ghtml",
@@ -1656,7 +1658,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-suspeita-de-furtar-36-coletes-balisticos-do-detran-se-apresenta-a-policia-e-e-presa.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/parte-do-teto-de-escola-desaba-no-paranoa-no-df-e-atinge-monitora-veja-video.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-20-de-outubro-de-2026.ghtml"
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-20-de-outubro-de-2026.ghtml",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2JJSFgwTTBIc3F1dHA4SkM0QUppVUo4b2JrT1M4cHVRSkJmRXRRaWs0NVZIYTM1blhtdDFEYkhDMy1PQzBqd01PLXJPOG9nZV9ZU01wYUd2c0RDOTZwZHIxNDVLN1UwMHJwcTdQN29iSHFQdHB6cXA1eE51Yy1vdGxXdTZUWUZiS09RcDZuemxOcC1LU0FiT3NjUUFYS04wc3pTYkZnQndBVVVudGRTTkw5ekVZcTBlNTVjSFN5VkxONklyNzI4?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJXNkE2SmtfVjIzNDNzN1BFMDhfeE5nVXV1SlM4N19NX0xfamtBYUV3V3lZRjZwSnNOZEd5Smg5cndJV0FRb0hSRGRJV0lQaXotVlJBX2JjS0ROc3BqODdDUy1EWTZsMlYyS25HZWVZZDFNQjBLNEo2U3pRa21Vbks1dlkyaFJEQVZsOTk3SDdpQVVtR1VWNk9RSGNHMEV3cFlkUUhEOHE5UHhWaEhyODMwZ1I0aV81VWtQY0tiRFRPOWdQV19NblhnRzlfc2UzUk9VZzN0REFJUdIB3wFBVV95cUxOa2NoV3N6UXRIV0pkYjdGZnBzMG56M3FGd2Y1MXlCSG1TYXo2Yi15Mkd5RGQ0QVBqUVc4MVA3Yk41OXAwV29WR0Q0NTJfNjV4LUpXTW1FQ3lWNmRkREhCR2JaOWQ0TFFCb29CZUhzV0l0dVVtcnJ6N2lqbmQzcmVCZnRkc1hnX3Q3RG1OakdVSFpFZXRNMlpKeGlXdlFvLU5xdHNoX3VVenpvSWVHTmRWeWYwNl9sYnMtS2Q0bFB4bV9vWi11QnF6WW1Zc1hINTBZNV9MY0lvN3VIbXFvUTlN?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWxERU11N0JLeTR5TzU4YlNnR0tTR2lwWjQzanJkVlJ4V3pTTTlPc2dOMVd4SDVDTmI5c0hPeUlvRUwyQ0FZd09ucUs4RVhRbk51SEk0eVZnYWFGRkNHbDF6YmRDX1YxV3BicEc1VE8xZXR5Z0RZeEJLdmUtV2NrMTJQREpFdzBZY09B?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc1NZN3lJQVQ2ZkZFdjR1Y2pZcFFERHNiQWl2eDB5YTlMNjRfRXAxejFfRU5FZ0NBQTZ6TEY4eUUyNks3LVFUTWl6MUwwVzBFSV9JYmN3dEowZTFnSER2ZkQ0NUoxcEhLb3lFVXVuNWRDMUZsd1l5SG11WG1lSktHQWgtWkV1NkZ0VWI5Sm92NVpBX2lKV2doZ0JQX2UzTmt3OVVFd3cwWG9aTVVrdXBSakpfazFlWFo2Tk5YTi1ubkxTRUJfcEZpWjQ2YzlIeVRvUXlEbjVTSkFidw?oc=5",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlhJSUk5YTZQLVU3VWNiNjBlNTJScjREUnNNQWl6Z0tCRUt5STZSQmQzWDVHT3JQT2JJU1FQM1JQcTBfNlE2cnVpVE95bjJmZVZWaHJaMmFtb2pGV0dXT0R1TS14VzFXM212WmJ6RU5EWW94SWpDQktOajFlRWJ3RkN3N3c2c0hkRW9TaTZuclpKMDlRUG5vTjZxbUF1WTlmc2c4cmVRNUpVbnFrX2Z0eWVNQm9RcU5rSEhyMm9WOA?oc=5"
   ],
   "palavras": [
     {
@@ -3637,6 +3644,18 @@
       "tema": "literatura",
       "data": "2026-10-20",
       "proxima": "2026-10-21",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-21-06:30-jp",
+      "palavra": "必要",
+      "leitura": "ひつよう",
+      "sentido_pt": "necessidade",
+      "exemplo": "クラブの経営には選手の売却が必要だと報じられています。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-21",
+      "proxima": "2026-10-22",
       "acertos": 0
     }
   ]
