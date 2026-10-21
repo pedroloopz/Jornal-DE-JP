@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Talent",
-    "jp": "懸念"
+    "jp": "調査"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "業績の低下に対する懸念が広がっている。",
-      "leitura": "ぎょうせきのていかに対するけねんがひろがっている。"
+      "frase": "警察は事故の原因を調査している。",
+      "leitura": "けいさつはじこのげんいんをちょうさしている。"
     }
   },
   "obra_idx": {
@@ -1378,10 +1378,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-20",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-10-19:30",
     "2026-10-10-21:00",
     "2026-10-11-06:30",
     "2026-10-11-08:00",
@@ -1440,14 +1446,10 @@
     "2026-10-20-06:30",
     "2026-10-20-08:00",
     "2026-10-20-12:30",
-    "2026-10-20-17:30"
+    "2026-10-20-17:30",
+    "2026-10-20-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/arcebispo-de-brasilia-alerta-para-tempo-de-divisoes-e-palavras-agressivas-e-pede-por-amor-em-missa-de-nossa-senhora-aparecida.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-avaliacao-governo-celina-12-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-presidente-segundo-turno-12-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/12/quaest-df-governador-segundo-turno-12-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/12/vizinho-de-casal-morto-no-df-e-preso-apos-contradicoes-em-depoimento-diz-policia.ghtml",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVZIbVVBcm5BVUZuOE9QYktDbjQydjViV0RsTm5jRXVaRVJndXAwQVRQZ3Yzcy1KZ0M1ZUxDZ2hzcFVMLWhsV3d5NWVOeTFNdmRvMHYzQzZnbkZPRmRjbW9XZW82SjVvbnh6aklRd1NjaHBtWGZ0S1ljbXU0U3VPcFhlRXRkYmVQdktWYzdyc2hXMng0TDZQUGF1YlFIQkh0dFBDa19Salk3UzJnMW5Oblp4MXdmdmZpRHfSAb8BQVVfeXFMTVAtQ0NYdVpFMXRJUjQ2aHBRM2Q1c3ltT1RPZjNmYTNYTkZYajg5VWsyb05TSkV3WnZPRFhHcTZOS29Pd3Z0Z0phelplUmtIdV9hRVo5a1hLaTRINmg3ZWdmZjlwR1RXOE92ay1KajJRYmRsaWdXU2s1bWd6SHFBaVB0WGh0SDVJcWRJZFZJSlZQQVVhRDQtUlZ0dlR2SEhJbzdxdDJBY2Njajd1WmdqNnVFVUhjR19na1FmaFF0ZVE?oc=5",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN190WksyVmJMd2gzbXI4aTBzcHVKbC1jMkFUeV9uVFJlWHA0NVJvSlotQ0wxX1BDWlh2VnJ6Y0hiMnJiZHlFc3dFa0ppV19uVUFoZklrR0tPV1ZiSm5VWkhjNkpxV0xPYURab29zQVliWlhqUnM4anVGRDNObjMwcHFWdFA4OTE0aXFuN2dvaHF5TUxpLXdmUUVRaTV6b2cyek95UW9KemxUR0hCQ3h6TDFKMkZjQjV2OGlOcGxR0gHDAUFVX3lxTFB5bU14UGNEa3lyV2J3VUN5MHo3VjVqWVhCMk9ZSmNqcTUwOEV5MHhaTUFDeDE4NWt1WkpOUWQ3cnNkM1JaT1R0c0Q5czFXZzh1UjF0djEtWXZ1S1U5MzlDZU16eDQxY1dyNDZOYi02YkJrRm9kQ1ViVmtuOUxySEZrRFJrckpHOTlnVEcxUVhmQXl4TlF6ZGFkZDZ4UzM5ZVZweGpGWUdsUU1WRV9hbml2cDZSWkFHQ1Q4UHllUTlDY2lfQQ?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWl6bW5HTlc4YjhoT3JkY2JPM25JRGtvQWlxci05ZW9EeVlmMEtDeHFNWWx0UUxZUjJteF8zeW5MZVBhcWFHQndmOTBYbkNBblJNUUY4Y3EwUUJodHFyVmFYNXNtYVNOSExYcmVDQVRZaEY2Y3NZUDRjcG5ISmVsTGUtMk15c1VCeDFnZmctSXZTN2Q0RGJnbmJueXRhU09RWldEbHY1YUJpbmxDS0V2OTliVTUxTFZTNXc3X0FEV3k4b1hPdlE?oc=5",
@@ -1642,7 +1644,12 @@
     "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNV94bE1oUjktM0c5czliTkVNcHc2aVoxNXdMWlE0SWZTMENFMzVRQmw1aGtQWXo3eWpPV1FrQm0zeDExUjZIUV96a2RINlFjWnF6bV9UV0d6ZVRGckhkajVMWWJHZVhQdkdFbDYtYThFXzI1eWhUR1g4anVBbUdGc21jTHN0cEQ5WG5RZlB6cDZWMzd3ay1qb1gzQkxITzhBU0RFeEY2WW9BQUoyZENWSWE5OWJUUEdHcXhNLTF1dTBUZVFGOWxLMWF5eEtRX1VpbGhLTjZTS0J6dTc1Yk03dmxPTnl5cU5sajJuT0pHMlNENFplWk5kUG1FVW9BUdIBjAJBVV95cUxPZFQwMkRxdWFtWlZOVEtwOXl2dkxYWjFVX3JHWk5XRXUxNjBBTDBQMkxBcUg4UWR4WVpaa3VuYUFIUkZNZjVfTEJhOW5jTnc3RDhqUHN0WjBYUUhqUWpuT2x5M05OQ1EtTlphQW5vTExMUGVPM1djNjhScDNMOXFScEc0WWFfbjJRZlZKU2ZuMEJVZG1YdFBkZG9aTWVldG03aUVtR3VyVURqNFFlVGNLVXZCaXFxYUhiMjBza2x2d216YktOWmdyZ3pMb1JORGh1dDBQWDQwR1BpRVlZa3plcENpUm8tNWF2SFlVYUx4Y2cyMU11TnkzRHFhWXBtS3ZoY3o4cHoyYXc0T3dC?oc=5",
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjFwczVkYTFLS0tvN0pjWkpxYlNPQmdKaTNVdWFDTmdkY09SUHZJVUtmS20yMThSZEZTYWFfMjdjaFVFb1UxWG9OMEJkVHNNYzdtVzY5WU1xV2VoNnd6MHlQU3BNUGtCbEtQTU1CenctcFUzeENreHRDMTZwTHdXc2xCTjBiTWdZVmxzUjgzVQ?oc=5",
     "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUt5bW5RMGluQWk0QzNVX2JTS3ZNdGpZM1pHZHN4N0Z4d09KcnRmLW9kdGxpZnRaRER3MEhZelBlM0cxdWRTeW11ZVZCbWxkQUQ0WnRQNHZZb0dBX3VyQTVJaXJ1bmNqM045b1hvdEpSY0VhVnpldFZoVmJuV1JhcEdFc1VTNkJPNmZuaHdUUVpvelB6SjM3NWR1d3lqUWVCaG56YlI4WXJKWGEzQ1dsMzVVVDg5b1JNbGlFVHJhRWdJc1lBWUE1X9IBzgFBVV95cUxPZlhSRFVxeHF0NFB1eU9obVRyeFN4YXI4OWNESk1oMEJ1aTd6Ni1lRFF1VkFWaWxGdTRPSTdkWWhMYU5IYkYtYzJBaUdkZ0EtZTdqQjJ2QWk3bU5qUUhRRFhqOEtKS1VISjNNS3kxQ0dqNTRlaTRKUklib2U1X2xyMmNIS3BlZnA3aXlndVcxM2dIdU9DcmV5ZXVFb3RiOTZ0YTQ0WG5mMFlEVUpZYnprQkJ5bkJuWUR6ZTRxQWNmdVNtN2k1Q2k3QUlHNmNwdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZYYXRnZGY5NUdlNWVfVEdfT3pwZzB2aWx6dGRlRTJmaGpwN042M01tT2d2X1lWcWtPdWNmSjBrTlBFOXlBSWdLdThXUVlJRmxac0FKcktpeHZZa1lzcV8xWG1NLTJhdl9HRzVzNGRrbXRyQU8zTXptWTlITHd3RHRWTjhDVk02MFhnRzNhYm1pWVFiVEdwU2RVTk0tVkFfaEljRjFwRnJndw?oc=5"
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZYYXRnZGY5NUdlNWVfVEdfT3pwZzB2aWx6dGRlRTJmaGpwN042M01tT2d2X1lWcWtPdWNmSjBrTlBFOXlBSWdLdThXUVlJRmxac0FKcktpeHZZa1lzcV8xWG1NLTJhdl9HRzVzNGRrbXRyQU8zTXptWTlITHd3RHRWTjhDVk02MFhnRzNhYm1pWVFiVEdwU2RVTk0tVkFfaEljRjFwRnJndw?oc=5",
+    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-20-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-suspeita-de-furtar-36-coletes-balisticos-do-detran-se-apresenta-a-policia-e-e-presa.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/parte-do-teto-de-escola-desaba-no-paranoa-no-df-e-atinge-monitora-veja-video.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-20-de-outubro-de-2026.ghtml"
   ],
   "palavras": [
     {
@@ -3597,6 +3604,18 @@
       "exemplo": "Der junge Spieler ist ein grosses Talent.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-20",
+      "proxima": "2026-10-21",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-20-19:30-jp",
+      "palavra": "調査",
+      "leitura": "ちょうさ",
+      "sentido_pt": "investigação",
+      "exemplo": "警察は事故の原因を調査している。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-20",
       "proxima": "2026-10-21",
       "acertos": 0
