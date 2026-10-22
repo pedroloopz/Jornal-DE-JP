@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Erfolg",
+    "de": "Wahl",
     "jp": "証拠"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Geduld ist sehr wichtig für den Erfolg.",
+      "frase": "Die Wahl in Brasilia ist sehr wichtig.",
       "leitura": ""
     },
     "jp": {
@@ -1427,10 +1427,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-21",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-11-21:00",
     "2026-10-12-06:30",
     "2026-10-12-08:00",
     "2026-10-12-12:30",
@@ -1489,14 +1495,10 @@
     "2026-10-21-08:00",
     "2026-10-21-12:30",
     "2026-10-21-17:30",
-    "2026-10-21-19:30"
+    "2026-10-21-19:30",
+    "2026-10-21-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/quaest-2-turno-estados-flavio-bolsonaro-lula-13-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/video-cachorra-de-14-anos-morre-apos-ser-atacada-por-cao-de-grande-porte-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/manifestantes-fazem-ato-pro-lula-na-esplanada-dos-ministerios-em-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/dentista-suspenso-pelo-conselho-regional-e-autuado-por-exercicio-ilegal-da-profissao-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-13-de-outubro-de-2026.ghtml",
     "https://www.fool.com/investing/2026/10/13/harvard-s-judgment-professor-the-curse-of-optionality-and-one-habit-that-builds-better-judgment/?.tsrc=rss",
     "https://247wallst.com/investing/etf/2026/10/13/if-you-own-spy-this-lower-cost-fund-tracks-identical-holdings-for-less-than-half-the-fee/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/4-factors-drive-share-outperformance-231000568.html?.tsrc=rss",
@@ -1691,7 +1693,12 @@
     "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/globo-entrevista-leandro-grass-candidato-ao-governo-do-df-nesta-quinta-veja-como-assistir.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/celina-leao-opta-por-nao-ir-a-debate-no-df-e-globo-entrevistara-leandro-grass-nesta-quinta.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/cnbb-prega-respeito-ao-resultado-da-eleicao-e-encoraja-ida-as-urnas-atentos-aos-pobres-aos-ameacados-e-aos-que-trabalham-pela-justica.ghtml",
+    "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-21-de-outubro-de-2026.ghtml"
   ],
   "palavras": [
     {
@@ -3730,6 +3737,18 @@
       "exemplo": "警察は犯罪の証拠を集めています。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-21",
+      "proxima": "2026-10-22",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-21-21:00-de",
+      "palavra": "die Wahl",
+      "leitura": "",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl in Brasilia ist sehr wichtig.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-21",
       "proxima": "2026-10-22",
       "acertos": 0
