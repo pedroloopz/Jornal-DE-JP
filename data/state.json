@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Erfolg",
-    "jp": "特徴"
+    "jp": "証拠"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この小説の大きな特徴は不思議な世界観です。",
+      "frase": "警察は犯罪の証拠を集めています。",
       "leitura": ""
     }
   },
@@ -1420,10 +1420,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-21",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-11-19:30",
     "2026-10-11-21:00",
     "2026-10-12-06:30",
     "2026-10-12-08:00",
@@ -1482,14 +1488,10 @@
     "2026-10-21-06:30",
     "2026-10-21-08:00",
     "2026-10-21-12:30",
-    "2026-10-21-17:30"
+    "2026-10-21-17:30",
+    "2026-10-21-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/apos-polemica-com-exercito-do-lula-equipe-do-pl-diz-que-fara-complemento-para-informar-ao-tse-canal-tropa-do-flavio.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-governadores-primeiro-turno-recorde.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/nunes-marques-diz-que-apos-registro-canal-de-whatsapp-exercito-do-lula-pode-ser-retomado-apos-48-horas.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/cronologia-entenda-o-vai-vem-do-canal-exercito-do-lula-na-justica-eleitoral.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/horario-eleitoral-13-outubro-flavio-lula.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/quaest-2-turno-estados-flavio-bolsonaro-lula-13-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/video-cachorra-de-14-anos-morre-apos-ser-atacada-por-cao-de-grande-porte-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/13/manifestantes-fazem-ato-pro-lula-na-esplanada-dos-ministerios-em-brasilia.ghtml",
@@ -1684,7 +1686,12 @@
     "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
     "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/everpure-p-stock-trades-why-230239370.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/21/why-netflix-stock-dropped-today/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/21/why-netflix-stock-dropped-today/?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml"
   ],
   "palavras": [
     {
@@ -3711,6 +3718,18 @@
       "exemplo": "Geduld ist sehr wichtig für den Erfolg.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-21",
+      "proxima": "2026-10-22",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-21-19:30-jp",
+      "palavra": "証拠",
+      "leitura": "しょうこ",
+      "sentido_pt": "evidência",
+      "exemplo": "警察は犯罪の証拠を集めています。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-21",
       "proxima": "2026-10-22",
       "acertos": 0
