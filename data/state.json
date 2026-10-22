@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Schulden",
-    "jp": "証拠"
+    "jp": "捜索"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は犯罪の証拠を集めています。",
+      "frase": "警察は行方不明になった少年の捜索を続けています。",
       "leitura": ""
     }
   },
@@ -1441,10 +1441,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-22",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-12-08:00",
     "2026-10-12-12:30",
     "2026-10-12-17:30",
     "2026-10-12-19:30",
@@ -1503,14 +1509,10 @@
     "2026-10-21-17:30",
     "2026-10-21-19:30",
     "2026-10-21-21:00",
-    "2026-10-22-08:00"
+    "2026-10-22-08:00",
+    "2026-10-22-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN2czdFlDMkR5T1dDS1FadGVtbEhCcmZsc0tVWVVPRGdFbnRYLVROWXlEeVdDWC1kVkYwUDBHRHBzSmotTjdNa0J3cmRFUUZRSlk4UHR2aDA2aUtpX3pqQWQ3ckh5YlotUm9iWko0NUtUWlVtVXJMdVJmc0YtS1hzQ2VxbWd1dmhtWWVPYVo5WmthSGV4T1B1cGRkZzdHNi1ITm0tRHdvNjV1bTkzRWJ5bV9CS2Jyc1BnMkJ6MFFYNVnSAcYBQVVfeXFMT3gxTWoyU0E2LVhlNC1jeS12YVVvX3VFR0JNMjZUam5iRXpaS3doZ3I5NFlHOXNJRWV6bmk4dzM3aHNtXy1LUjVEOUI5Wl9rS3lHTTk1dkNhd1c0VDhmUGlmMlYzOWx0S2U5dENIUV9tcFRWWW40dnB3RFN4U0dVekljaHFndmt6eHMydk9PVFk3am5MbE1sekVRNHN5MEN0WWR2TFFsc3FYWk43MkU1RG5QVVM0TFoza1ozenp1TzNKaHhUZy1R?oc=5",
-    "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQ2JnZW5sVjFHT0JWM1NKNVVERWFSTDdxdTE2QldVUUN4SEFkZTNFNUxqcDZ1cE1DMHJ2R3cweW1pTUQtSDdOa2ZoNkNhNERTSk9IX3l1ZVJCZ0xIVHM0LXQ4dnZ3TXBxMWhzWGF2b1pFR1hPWGF3Z3dBY0cxOHJjS3Z0N2dqUk5iZlhwdXdYcWxYbzJxSWExelE1dXJjb0J1MUJYSEh2WTBvWFJTYUd2VWRMQUs4ZGJvOEN6SmFxOG4xTC1BN1UzNmk0WVkyOUpmNmRjc0FtMkFRRkRVN0p3MFNScnpGTm9hcjNodFRCMDNSQkNXaEdn0gGGAkFVX3lxTE5TbF9McFNqVU9leEtCeTBqUDFLYVhKM3hFVDE4ZWlwRzdhbkNpNmJsSjZNQlZBWGFRT1lEMUpFSEN5M2dtNEMyYmViendObVpBeUtwOTJ4QkxCckM5MUkxR29wdFBweWlGRWc2NGJpVGFacWlxSmRfTXpUT2dqdkNwcXE3eEtJZ1JyWmxQTWxKNzdERnc0NFhadFJyQkI1aGN2WWpPc1J2Ul8xZkxUWldrQm1qb1pBNm9EWkd5R2p3S202QVhsRmNfS0x2UkRZN01mNkd1cG5GRkNyWEdLb0tpM2tiUlFNdk0zcDhYTWRWLW1LMERrWmxiNlZ4eDVhMmI3OGhUT3c?oc=5",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNclBMVExSWWwxU1FOX09JVkFndkt6TzJGQ1p0TWpOLXN4ZjNSa3cxc0NTUmw1eGJ0SEF6eE1Va3M1Q3ZWOU5ldklpVVg4UDRucXAwWmZpMUxCUmF5TU5tbDhJbS1PQ05TV0ZtTnVSQ2h2RHBSZ0xicHZsRzhlV3Bza2VkTHJnVHJtaVRualhkaHpTcE9RSUVpVklaUEJScVNCejhBZGR0cGRCVGUtdnlWTkRZSi11U2pWREUyMHlqMjVIeXdKamR5TlIza2M1VDM5djVXQkd3WW9oMW1ENVFLSnFCVnZZdElQbmxGMTdFTGRpMFFhT2fSAYQCQVVfeXFMT2FuZTN0MEl5NjJGZjNxa1RIR1VwMXdrdURfVXcyMUp1WXdqbXNBNk1hUi1zVzRVcXN5UjQ0M3F0TExCODYyZWRESjdQRXBTRTZtNU55cm1MVktiUmFNbkl1alY5YnZvMlFLOWtRby1OV3lfTnlHTXMzRklvLUhmWmJrSmF0ZFBhc0NiX2VNUldsb09KOUNpQWt1cFNNcmRlZnFnSEk1OFFfQUdYR1VPcWFoaERxRWNiOUtZd0JuQlB4WnM0dWNBUkRyczFOd2cxMC05Q3hxdjJtd24tTWFTTWR3UTZ6OXc0NDM1UlpDa2pJbG92TXowTExtX1NId2NyMmtFRU8?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOaGwzakxBT3pPeVZPanJTRy1hZVdyZUtFR0R5aXk2Z0ZKQUlBVUljZ200STZXT2NvcTVBV2RtTG1mWHR2S1llUjdWLTI1SGxfUFlDTUcyVE9LR1BPTVZ4YVE0N28zSk1EZ2RSRXFBR2NsVFhhMUdMdnROT2lmaHp2UlNvdGtlRklHNGM4azM3aDhtRmp1VjNJY202a1BOY21vLTg4T19xQkxPQ2M3bkhfSW1UajdZanF6UER6eEhySTI1Vm95cFYzS3VTTnc3VUplUUVuYzVBWmxtZDFP?oc=5",
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZm5GWHJSWThpYnR0YWNTajBQT24wUUQzRjF0dnc2anB4N0VtbU9SRVhSNkFKYUpkNWJBOXRxbUpGVkR4UGlxdUxfNmdTM2ZmeVhoMi1lOGZGLUFzWVl0ckg1Vm5WZ0RRcXJEcFBfcjBVY2NQbjlpY1h6MXZXejhnYkM5SlptS0F0NncxVW5wb1I4Z3JvWi13WnpTQ01nTjhYRHhiejZ4MGdyUnZyeEZSV0kyZ0xRMmt4NHZOQlhLaVBsZlM2aGlNdTFGN2JJdGd5NG12TDhLUjlseENLMzhEWmw5UlNTeS1xTHBqcU1SVFZGOFk?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/forro-tunel-do-tempo-camara-dos-deputados.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-14-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/cratera-de-4-metros-esta-aberta-ha-quase-uma-semana-na-asa-norte-em-brasilia.ghtml",
@@ -1705,7 +1707,12 @@
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQU5ydnd5UmZwa29uN05seTE1NTZFYTNsM3FsREhVZGlSZGo4c0tIaDN3U0FxZlBzalVpYVJya0k2WEpHTVJCbU92b0FVaUlhSmtGMXhGWTF3cUVsMEYwRTRMM3hobHJ2dF9nNkxDOGtBS0k0cmZqeGx1QkI1Q1l3OC1lNXlaQ2VpR1dTT2trYkVVdkN5YkU0ZjVaZjJta0FJVmgzUTJLdFRQRUt1b2d5RDFsLWhFOG5l0gG-AUFVX3lxTE10aGhKeWpNOGw3LXBaeHJlbnJzSXhwZkVYbVZFOV85NlpPMjRNYWtHNDlYZEpBZUpzVWdoWjFDcjdzWVB4QkM2bmNteHhjbnloLVpDRFVfdXZPcHhmSFVXNWlwa1BFdWhBdXVfMTAwd2RsR1VEdFV6UHpucm1aX2ZLaGpkS1JmUS0zcTNtYUtUdUJVOVpBUmhGeGh3cFZuTWhjNjFRYzdtUGFBbXBmV094bW10QklWQzliMGlxRXc?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWUhwN1BFNnRtWFlBbFhCWlc4RTNscVdDRGU4c1BVdlh2ZVVvN0JSQ0t5NVZodmNPOWRfT3FXLU0xUEphSHNRRW8tRWw0ZzA0cnplWVhXUEY3OEdQNUdJNGFnVk1yYnJxdGVnS2o5WlhMSXF3dnp1anZmYU9aMXFmQlVrZ2UwdWpwcklXTXBwMXhwTXo5aDNrM3ROVjZvYThSSlRrQjExaDJ6bUZTRW9vRklDTzFneVhQYVRmVHQzWXhNNk5BQ1IwMDZJcmJjQ1J6bXF4TGRNazVVSjJUc05panFoR3FKMm9UNVNMVWpR0gH8AUFVX3lxTE5VN2doOHVwb2FQU3diY2VSUmQzZHdZTDBld1NmSXB2QnpwZ2pOeTZzZjJUX3FHVEtiWG9INlJXUUp3WXY0eUdPNHRTVFBwalRzcTZ5OGJnUEF4SnV2REtFUnNtdTB4V005ZjJpLTJLV2dOblFRc0plM0tTRV9BMHd5WjQ3U2xQM0I1Um5yRkRNN2g2R1ZqU2JaSGhXaXdlQkRHVTRyaHE5R2pJVlM1dW1HRzdRd3VtS3lVTEZnbFJDZXlVV2RQTlpjbGpPaENMbzdETUN5M2ktcXQtRTZuVVV1U0VrMUVTTlFBdHVJWnJ1NW9vYk1VRk9JM0Vkdg?oc=5",
     "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdmdGZjltbWgwQTZZT1VGbklRSkNLY3JIUjhGamlXR3lqa3pqRk0xRmltbl9UUlZPN3o3Q1lrVjVzYUpPMGJESElZQ1pnVG02a3JjOXlGWWh4bWw3NnNEWHdqMFZtUTlyTmFITmU0SFQ0MElUUVVWXzdFeWpsZHg5dHhNOTFfQVkyY3JmWjZ2aVRxYkJNMEFFcVRzQ3VzQzlXT3N0a0ZRN3BvYXk2N0RpSkxmaXZFZzlfcXJpSDJFMlhtUnV3MnZyMDZ1dXdrQmZLMkhfVmwxaEtTLWdMc214VjJiSmJaQWhQLWJuN3lZZXg3N1FIckhHb2YzZG5jMlh0?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGdQMmRmaFQxNkkwOEFaazJNcDFsQVRHX2ZCUF9VLUtGUWg2N0lXWnR0c3FLQmtGSmV2SEZzODJ5c1pxbUlnRUFCTjhiaXFXZ3JYbXpxdlF4UkplakZXZ3VmRVQyNHJoQlV6V19VaW9zYVVYYUdfUUFvaWNvNDZFWjdjY3hwUi1ZRmczV2hVWVl6ZkxTcTBqblRqcG1Ga0xUNkRPcGVYUkFHc1Z2b3dRM1VmRzdBek5kenlsenJCMWF6ZGNWY2lJY0I4SHM?oc=5"
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGdQMmRmaFQxNkkwOEFaazJNcDFsQVRHX2ZCUF9VLUtGUWg2N0lXWnR0c3FLQmtGSmV2SEZzODJ5c1pxbUlnRUFCTjhiaXFXZ3JYbXpxdlF4UkplakZXZ3VmRVQyNHJoQlV6V19VaW9zYVVYYUdfUUFvaWNvNDZFWjdjY3hwUi1ZRmczV2hVWVl6ZkxTcTBqblRqcG1Ga0xUNkRPcGVYUkFHc1Z2b3dRM1VmRzdBek5kenlsenJCMWF6ZGNWY2lJY0I4SHM?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/enfermeira-do-df-morre-durante-lua-de-mel-em-portugal.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-escolas-publicas-e-privadas-do-df-nao-tem-aulas-nesta-sexta-por-conta-do-2o-turno.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quinta-feira-22-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/idoso-prensado-entre-dois-carros-no-df-diz-que-foi-ameacado-por-motorista-suspeito-de-17-anos-esta-foragido.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/adolescente-de-13-anos-e-esfaqueado-e-tem-bicicleta-roubada-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -3768,6 +3775,18 @@
       "exemplo": "Die Schulden des Vereins sind sehr hoch.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-22",
+      "proxima": "2026-10-23",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-22-12:30-jp",
+      "palavra": "捜索",
+      "leitura": "",
+      "sentido_pt": "busca, revistada",
+      "exemplo": "警察は行方不明になった少年の捜索を続けています。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-22",
       "proxima": "2026-10-23",
       "acertos": 0
