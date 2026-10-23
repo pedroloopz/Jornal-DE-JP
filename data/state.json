@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Unternehmen",
-    "jp": "描写"
+    "jp": "変更"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この小説の美しい描写は読者の心に残る。",
+      "frase": "投票所の変更について、公式サイトでお知らせします。",
       "leitura": ""
     }
   },
@@ -1469,10 +1469,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-12-21:00",
     "2026-10-13-06:30",
     "2026-10-13-08:00",
     "2026-10-13-12:30",
@@ -1531,14 +1537,10 @@
     "2026-10-22-12:30",
     "2026-10-22-21:00",
     "2026-10-23-06:30",
-    "2026-10-23-08:00"
+    "2026-10-23-08:00",
+    "2026-10-23-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-43percent-dos-eleitores-que-se-abstiveram-no-primeiro-turno-declaram-voto-em-lula-no-segundo.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/14/camara-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/tse-manda-retirar-posts-que-associam-falsamente-lula-a-ritual-satanico-na-paulista.ghtml",
-    "https://g1.globo.com/es/espirito-santo/eleicoes/2026/noticia/2026/10/14/quaest-espirito-santo-presidente-segundo-turno-14-outubro.ghtml",
     "https://finance.yahoo.com/markets/stocks/article/global-chip-sell-off-deepens-as-south-korean-market-plunges-024927049.html?.tsrc=rss",
     "https://stocktwits.com/news-articles/markets/equity/fisv-nu-lpla-analyst-picks-top-3-financial-stocks-in-forgettable-year-for-sector/cZxWWJvRBqt?.tsrc=rss",
     "https://www.trefis.com/articles/618659/is-netflix-stock-worth-more-than-its-competitors/2026-10-14?.tsrc=rss",
@@ -1733,7 +1735,12 @@
     "https://finance.yahoo.com/video/the-case-for-why-load-bearing-ai-companies-should-not-be-bailed-out-143229389.html?.tsrc=rss",
     "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?.tsrc=rss",
+    "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/23/sobe-para-5-o-numero-de-locais-de-votacao-alterados-no-2-turno-em-sp-veja-enderecos.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/23/ministro-do-tse-barra-nova-suspensao-do-canal-exercito-do-lula.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/gilmar-cita-imunidade-parlamentar-e-rejeita-queixa-de-vice-de-flavio-contra-congressistas-que-mencionaram-acusacao-de-estupro.ghtml"
   ],
   "palavras": [
     {
@@ -3844,6 +3851,18 @@
       "exemplo": "Apple ist ein sehr grosses Unternehmen.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-23",
+      "proxima": "2026-10-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-23-12:30-jp",
+      "palavra": "変更",
+      "leitura": "",
+      "sentido_pt": "mudança, alteração",
+      "exemplo": "投票所の変更について、公式サイトでお知らせします。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-23",
       "proxima": "2026-10-24",
       "acertos": 0
