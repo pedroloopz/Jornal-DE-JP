@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Wahl",
+    "de": "Unternehmen",
     "jp": "描写"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Wahl findet im Oktober statt.",
+      "frase": "Apple ist ein sehr grosses Unternehmen.",
       "leitura": ""
     },
     "jp": {
@@ -1462,10 +1462,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-23",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-12-19:30",
     "2026-10-12-21:00",
     "2026-10-13-06:30",
     "2026-10-13-08:00",
@@ -1524,14 +1530,10 @@
     "2026-10-22-08:00",
     "2026-10-22-12:30",
     "2026-10-22-21:00",
-    "2026-10-23-06:30"
+    "2026-10-23-06:30",
+    "2026-10-23-08:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkVIS3laTTVhRE1vd0VLUEFUeTlLY1RKVU5fUFhmLUhXYkYxQUt1c3pFX3E3TTZyM3VKYzQ5emt0ZE5mc3hrQjE2V2ZIYk9LdWFRa0pscmVtYnhlcUIzck5iZUZYel8tQ2ltcWpsUU5odm0zSVJDVnVVWHk2Nk5Gb2dNQ3RNaG5UMnVYbHVfMVcxWGxodnA4dW9NWjdnUU5xS0RPbHhWaDRnLXBOckRoQ1B5azVmVzB2bUJiUGJIVHdEYVFEdnpHRmphS1ZKTjF3MlFMcTl0cEhVRUNwTk5Jd0g1dWZVQjdzeW8ySzdhS2hMaDg?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHBwa0NySzF0cHJQUVlRV1Job1AzVThHWmhMb1ZzeFRibk1hY3c3SGZUWlNCRFUtSF8zTUNGemJBOWQ1ZTBzSzZqMmk5YnA4SnZ1QnN0ZmJlSGNVYVZwd25BRFdIVlR0Ml8ybTNFTVdIQW82T0E4ZDNsSTkwejhTRVNsNUFTRnZhSmUycDV3cEY1SExFV1dGOFZaUTExaGpxRWY4Qzkzc1dwR1hRdVZRT1NXYXRTYXoyR05vdHVVeEwxT29MLWZkVGR3?oc=5",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGNZNmVUYy1PWWo4SVJTMGJVODNMdGtnUUhoN05wUm95M2ZTU0pxRXJWMDZ0WVA1MlVlZWFpbkJpV3JGVUg2T0NRNjNwM1JkQkFabk5wRnhDcGxWTW9UNWd4RkN6NDk0LURUQlhzVlBmZ3F4ekVGNFRYZWFJYWZ6cXhGem9MVGlDdlczZGVlaU15emlzQm5qYXZpejQ2NGJiWlBUS2xiS25NUF82d2xLTmhYLUNIR182c3BGNDlVS2piV2l5Z2dmMDhqd2RFc1ZNVGpSdi10M1BkTHdkVldnWTVHUEdTQdIB9AFBVV95cUxOcmVVei1CMC1XRWczMnMxOF8tQ0xUOWRiQXFQZ093VXNTNExSYTU3VVcxT3ZkWkhNRnFNZUQxUjdjejJFQWpwd0dJSnBwVG5KaHB4WFFLSWVyV0F2bXRkMHV1NjRiOVdhYXUwR3hkTTBLd2doMzhpSV9nRUdBUFZiZWtyWjJldFRNMHdEUW1qUmx2RjFQZGdiMHJ1NWZBTTFDWGdFNVpyMUhhazB5N0ZBcjhucms5VjkxQ3psZDlGNkI0dTdHUkZqc2FuRHhaeDBMbTBpSVZZOHpMcnlBYTZuaW85djE1NFlNWW9lVmh6REJ0YVVl?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOEJWcWdEQzdtSnZmZFlBSXdycVZMa2VRMUZ3RUhSODhqMW1za0VTMTV1SWZIWHQyQ2tGb2pwS3hmTThuRTh4TkljelY1NjlBOUpFZ21DOGd2OGllWGtJdE1PNXhtVWhBNTlKUzJmN2ZRRkZveEQyV0hhT3RUMUVsNTh1NkFaS1JCQjRPd25qQTA1UVVRUEJGSElFWmM2Y1EwaGgzbUxucnN1Zzk1aGNibg?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbVdpZnQ0clE4V1cwendpbGFlR2E4cTdfQzBYUWdQbk96SFpSNTVNanBUTWUya3FhbFhVdlJadVdhTkFDSVBxdHVXNDliSWRjSVMtY1BsV3E4QWNJRHdYY0ZRQ25WbHdoblg0elNoR3g0MWpYejhNRnFHcjcyS2Frd2JXa1FmT2lwS09sb0UwVWp4cGdqN1JybXBsYXFRa3ZpZFQ3LVhXenRhNlFmOGpUNHVtUUtqWlp1NmZCZEdoM0NsT0pmZnc?oc=5",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/14/campanhas-de-lula-e-flavio-nao-chegam-a-acordo-e-criterios-para-registros-de-canais-pode-ficar-para-plenario.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/14/quaest-43percent-dos-eleitores-que-se-abstiveram-no-primeiro-turno-declaram-voto-em-lula-no-segundo.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/14/camara-aprova-projeto-que-amplia-limite-do-mei-e-perdoa-dividas-de-inadimplentes.ghtml",
@@ -1726,7 +1728,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-presidente-segundo-turno-22-outubro-recortes.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/o-perfil-das-doacoes-a-lula-e-flavio-bolsonaro.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/doadores-recorrentes-campanhas-2022-2026-flavio-bolsonaro-lula.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/23/com-apoio-do-centrao-e-da-esquerda-motta-pode-isolar-pl-na-escolha-por-comissoes-em-2027.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/23/com-apoio-do-centrao-e-da-esquerda-motta-pode-isolar-pl-na-escolha-por-comissoes-em-2027.ghtml",
+    "https://finance.yahoo.com/video/how-apple-dethroned-nvidia-to-become-worlds-most-valuable-company-150819601.html?.tsrc=rss",
+    "https://finance.yahoo.com/video/the-case-for-why-load-bearing-ai-companies-should-not-be-bailed-out-143229389.html?.tsrc=rss",
+    "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -3825,6 +3832,18 @@
       "exemplo": "この小説の美しい描写は読者の心に残る。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-23",
+      "proxima": "2026-10-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-23-08:00-de",
+      "palavra": "das Unternehmen",
+      "leitura": "",
+      "sentido_pt": "a empresa",
+      "exemplo": "Apple ist ein sehr grosses Unternehmen.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-23",
       "proxima": "2026-10-24",
       "acertos": 0
