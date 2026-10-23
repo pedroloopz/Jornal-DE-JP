@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Schulden",
+    "de": "Wahl",
     "jp": "捜索"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Schulden des Vereins sind sehr hoch.",
+      "frase": "Die Wahl findet im Oktober statt.",
       "leitura": ""
     },
     "jp": {
@@ -1448,10 +1448,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-22",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-12-12:30",
     "2026-10-12-17:30",
     "2026-10-12-19:30",
     "2026-10-12-21:00",
@@ -1510,14 +1516,10 @@
     "2026-10-21-19:30",
     "2026-10-21-21:00",
     "2026-10-22-08:00",
-    "2026-10-22-12:30"
+    "2026-10-22-12:30",
+    "2026-10-22-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/forro-tunel-do-tempo-camara-dos-deputados.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-14-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/cratera-de-4-metros-esta-aberta-ha-quase-uma-semana-na-asa-norte-em-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/14/juventude-oxigena-campanhas-eleitorais-e-ganha-espaco-na-politica-do-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/14/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkVIS3laTTVhRE1vd0VLUEFUeTlLY1RKVU5fUFhmLUhXYkYxQUt1c3pFX3E3TTZyM3VKYzQ5emt0ZE5mc3hrQjE2V2ZIYk9LdWFRa0pscmVtYnhlcUIzck5iZUZYel8tQ2ltcWpsUU5odm0zSVJDVnVVWHk2Nk5Gb2dNQ3RNaG5UMnVYbHVfMVcxWGxodnA4dW9NWjdnUU5xS0RPbHhWaDRnLXBOckRoQ1B5azVmVzB2bUJiUGJIVHdEYVFEdnpHRmphS1ZKTjF3MlFMcTl0cEhVRUNwTk5Jd0g1dWZVQjdzeW8ySzdhS2hMaDg?oc=5",
     "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHBwa0NySzF0cHJQUVlRV1Job1AzVThHWmhMb1ZzeFRibk1hY3c3SGZUWlNCRFUtSF8zTUNGemJBOWQ1ZTBzSzZqMmk5YnA4SnZ1QnN0ZmJlSGNVYVZwd25BRFdIVlR0Ml8ybTNFTVdIQW82T0E4ZDNsSTkwejhTRVNsNUFTRnZhSmUycDV3cEY1SExFV1dGOFZaUTExaGpxRWY4Qzkzc1dwR1hRdVZRT1NXYXRTYXoyR05vdHVVeEwxT29MLWZkVGR3?oc=5",
     "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWGNZNmVUYy1PWWo4SVJTMGJVODNMdGtnUUhoN05wUm95M2ZTU0pxRXJWMDZ0WVA1MlVlZWFpbkJpV3JGVUg2T0NRNjNwM1JkQkFabk5wRnhDcGxWTW9UNWd4RkN6NDk0LURUQlhzVlBmZ3F4ekVGNFRYZWFJYWZ6cXhGem9MVGlDdlczZGVlaU15emlzQm5qYXZpejQ2NGJiWlBUS2xiS25NUF82d2xLTmhYLUNIR182c3BGNDlVS2piV2l5Z2dmMDhqd2RFc1ZNVGpSdi10M1BkTHdkVldnWTVHUEdTQdIB9AFBVV95cUxOcmVVei1CMC1XRWczMnMxOF8tQ0xUOWRiQXFQZ093VXNTNExSYTU3VVcxT3ZkWkhNRnFNZUQxUjdjejJFQWpwd0dJSnBwVG5KaHB4WFFLSWVyV0F2bXRkMHV1NjRiOVdhYXUwR3hkTTBLd2doMzhpSV9nRUdBUFZiZWtyWjJldFRNMHdEUW1qUmx2RjFQZGdiMHJ1NWZBTTFDWGdFNVpyMUhhazB5N0ZBcjhucms5VjkxQ3psZDlGNkI0dTdHUkZqc2FuRHhaeDBMbTBpSVZZOHpMcnlBYTZuaW85djE1NFlNWW9lVmh6REJ0YVVl?oc=5",
@@ -1712,7 +1714,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-escolas-publicas-e-privadas-do-df-nao-tem-aulas-nesta-sexta-por-conta-do-2o-turno.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quinta-feira-22-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/idoso-prensado-entre-dois-carros-no-df-diz-que-foi-ameacado-por-motorista-suspeito-de-17-anos-esta-foragido.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/adolescente-de-13-anos-e-esfaqueado-e-tem-bicicleta-roubada-no-df.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/adolescente-de-13-anos-e-esfaqueado-e-tem-bicicleta-roubada-no-df.ghtml",
+    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/23/datafolha-presidente-segundo-turno-22-outubro-recortes.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/o-perfil-das-doacoes-a-lula-e-flavio-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/doadores-recorrentes-campanhas-2022-2026-flavio-bolsonaro-lula.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/23/com-apoio-do-centrao-e-da-esquerda-motta-pode-isolar-pl-na-escolha-por-comissoes-em-2027.ghtml"
   ],
   "palavras": [
     {
@@ -3787,6 +3794,18 @@
       "exemplo": "警察は行方不明になった少年の捜索を続けています。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-10-22",
+      "proxima": "2026-10-23",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-22-21:00-de",
+      "palavra": "die Wahl",
+      "leitura": "",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl findet im Oktober statt.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-22",
       "proxima": "2026-10-23",
       "acertos": 0
