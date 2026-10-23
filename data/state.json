@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Wahl",
-    "jp": "捜索"
+    "jp": "描写"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は行方不明になった少年の捜索を続けています。",
+      "frase": "この小説の美しい描写は読者の心に残る。",
       "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 18,
+    "jp": 19,
     "de": 16
   },
   "dominadas": {
@@ -1455,10 +1455,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-12-17:30",
     "2026-10-12-19:30",
     "2026-10-12-21:00",
     "2026-10-13-06:30",
@@ -1517,7 +1523,8 @@
     "2026-10-21-21:00",
     "2026-10-22-08:00",
     "2026-10-22-12:30",
-    "2026-10-22-21:00"
+    "2026-10-22-21:00",
+    "2026-10-23-06:30"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMkVIS3laTTVhRE1vd0VLUEFUeTlLY1RKVU5fUFhmLUhXYkYxQUt1c3pFX3E3TTZyM3VKYzQ5emt0ZE5mc3hrQjE2V2ZIYk9LdWFRa0pscmVtYnhlcUIzck5iZUZYel8tQ2ltcWpsUU5odm0zSVJDVnVVWHk2Nk5Gb2dNQ3RNaG5UMnVYbHVfMVcxWGxodnA4dW9NWjdnUU5xS0RPbHhWaDRnLXBOckRoQ1B5azVmVzB2bUJiUGJIVHdEYVFEdnpHRmphS1ZKTjF3MlFMcTl0cEhVRUNwTk5Jd0g1dWZVQjdzeW8ySzdhS2hMaDg?oc=5",
@@ -3808,6 +3815,18 @@
       "tema": "politica",
       "data": "2026-10-22",
       "proxima": "2026-10-23",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-23-06:30-jp",
+      "palavra": "描写",
+      "leitura": "びょうしゃ",
+      "sentido_pt": "descrição",
+      "exemplo": "この小説の美しい描写は読者の心に残る。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-10-23",
+      "proxima": "2026-10-24",
       "acertos": 0
     }
   ]
