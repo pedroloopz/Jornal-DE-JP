@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Spiel",
-    "jp": "動向"
+    "jp": "見通し"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "市場の動向を注意深く確認する。",
+      "frase": "天気が回復する見通しです。",
       "leitura": ""
     }
   },
@@ -1497,10 +1497,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-13-17:30",
     "2026-10-13-19:30",
     "2026-10-13-21:00",
     "2026-10-14-06:30",
@@ -1559,14 +1565,10 @@
     "2026-10-23-12:30",
     "2026-10-23-17:30",
     "2026-10-23-19:30",
-    "2026-10-23-21:00"
+    "2026-10-23-21:00",
+    "2026-10-24-06:30"
   ],
   "links_usados": [
-    "https://www.benzinga.com/markets/prediction-markets/26/10/62396367/nvidia-ai-demand-orders-jensen-huang?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
-    "https://app.moby.co/home/news/news-germany-wants-to-expand-europes-trade-war-with-china?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/15/meet-the-dividend-etf-with-big-stakes-in-these-3/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/15/prediction-1000-invested-nu-holdings-2030/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/15/asml-just-delivered-excellent-news-for-micron-stock-investors/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDVmV3pVVnVqdmdGRXVodExjUW94R29NVDgwMUZtVmtsNjNMT29sY3dvbzhnU2ZiVVBvdFhQZFhTQVcxZmtzQ3k1RU1RNHAwc2c2dzByTW1IR1hRZTdlNG82ZXo4by1ldm15M21TM3R5TDBlQ0VDUjE2VUl0VXg5SmxDVnkxYk04aEFkQkVPR2FPSEV4VjhuLTFwdDZFVHJiTkJaaThpMkdYUVlWQnhEbHM3RzBVNmx3QzRBU2JYdkxGOWdDbFBYdXFSWFRnM0lkNUdRckNHbDZ0Zi1CcGJzc0xkSVB3Q2Zocl9vUkdOcUw3UdIBgAJBVV95cUxQY25kQXAza3lyZlVqbmRGclZST1BXd1JnM2JxSkh5eDVHZ2Eyb1UwYUlBSlZuVEZrM0xfblZhLWdRRHkyUVgzNEREOTBsQjhvVXJUUVExYkpPMUdhQl9Gc2ZHbExpU0NJT2h6aFg1UjdaOTU2blhEbHZvSlVod3hjMGdCZFp6U0JrYWNpTmZrNFZPM2lSREp4S0F5NnUxUXgySU5jVnBwZnROYmxyLTYtSnRGWmNwRk9SV3U0WkpER1RVZS1LT1ZUWVVtblZsbE5WbWQwVmhmQVAxZE1nNEZsZlZYV000M3AtN0sxS0ZETFB5YnNfdTQwYlU4b0kxdVBT?oc=5",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVFFcWhLUlFmNmZyNDk2RGRmRUU1VXk0Mmdma1ZDa05EZWpIS3l4TWQ4czFYdVZxWnhjUXFod0ZqaHVfQ2xORVZxNEI4WHVpS0NjcEM0ZllkRnIzYWNjejF6bmlpb0JRRzljVEhUbmFoaHpsZFNpWWpMeGlRdTdqa2F3M082eGZnN3liY2F6dzd2QS1MQXdXeW53?oc=5",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcm5uZ3BDaWdnenRDR3JDeE4zVjc0ekJpLTVkLUpNMV9FZ1JHWmcwSlZreDFlbldFRWhaZE9fa0doRl9EWUctYmhkMUlkUXB4RXJMUGp6NDhRUVpfQVV1X3YwTkM2bmtqNU5fN3Q0MTgxaW12MlUyeEVBQTc4dkxvY0FfUVdtLWU1anRrQWhKNXVqSHduNnNzazVfU0t1Smd0cm9la21rWUhIUUk2dXlzd0x0V0VhdGstNHlReHFuV1R5VnVKQ1VyY1dMejVrcHhFTmcwYWpRR2J1WEkwLU92TDlGT3ZmLTZ3Y1ZV0gHrAUFVX3lxTE1ybm5ncENpZ2d6dENHckN4TjNWNzR6QmktNWQtSk0xX0VnUkdaZzBKVmt4MWVuV0VFaFpkT19rR2hGX0RZRy1iaGQxSWRRcHhFckxQano0OFFRWl9BVXVfdjBOQzZua2o1Tl83dDQxODFpbXYyVTJ4RUFBNzh2TG9jQV9RV20tZTVqdGtBaEo1dWpId242c3NrNV9TS3VKZ3Ryb2VrbWtZSEhRSTZ1eXN3THRXRWF0ay00eVF4cW5XVHlWdUpDVXJjV0x6NWtweEVOZzBhalFHYnVYSTAtT3ZMOUZPdmYtNndjVlU?oc=5",
@@ -1761,7 +1763,12 @@
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGdNU0VaME4zdEJFSFd6X25OOEwxNnBrbGQ1ZHJ2bk1OZ0hzU0FHS0lrdW9FOVNNWWF2OW9yQld0YldtTWpjS2gzcHU3TXVfR19IcVFIQ0RVeTRXUlZSU051bzJnMGpZRVo1Tm1iek1IZHhaZmF1c3FFNWRuSUhMckF0ME9IMk4zOEliSGY1SVgyU21jOXNFTGFRSVJoY3I4cDQ1SHZSV0xLRGRRYk9kaEhfOFpHS1J4aXdueFlYNmhKYWliZDYtUWxRTmlOY1l0ZlVfdXhXM25mcG9ycjU4V1hB?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9oTFpXXzFiNlpSdTBQTHJxMXk2OTJpUE9PU0NxZVYtM3BKR1JmNHpkVHNQTWpVRU83Y00zN3U0MHNWdzFsT1BCZG15VWVET2p2bHNKaFZIczNoMWM2OF85XzdKVnBGeXNaY3diZHc4MDRQSVNhNThFY3QyVTR5QWNRaDU2Rkd2ZGVmZEpEX09KUmtGaTQwZHk2WTRWZw?oc=5",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUxOa3E3M25wTm5HVV9BUzVuMXJUb1Ywa1NVRFU5REdpOWxHeFM4Q3h3bjNkRG93VEVjcC1XUEo0QTc1WGx3ZVN3bnJYTU1ZSkVBNS1sODdwTEduU29TbHU5SjBZTE5mZTRKeF9UYUx1YkJRQkUxSTcwYjd3UFFjX2ljVndaNmIydHk3ajJubVZ0N3RJWktwNi14UGx0VDN2MFhrdm1HMjFGak1NWFpPME5jb0g?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGJueDQtYUpMUFo2ZjlCTDM4Y1NLY3U4bHAyempmRndCVzRhZzZ4SV8zRFVIV001X2NhUEVleUtSb3VhQldwUXRKMnh3YWtwM1E4UHZ6QjNqLTI3Y3FQcEdxWGJoUFlPTWlROXFHdENZdmtfM3NiYXhHZzRVR3h1NEhyd1NLdXlEbFBiU3FZN1JfQVpLRlVkN0lvdWNRNTVHQ0RDSFIyNmc0c3VURUo1TW5VSUxxcEJz?oc=5"
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGJueDQtYUpMUFo2ZjlCTDM4Y1NLY3U4bHAyempmRndCVzRhZzZ4SV8zRFVIV001X2NhUEVleUtSb3VhQldwUXRKMnh3YWtwM1E4UHZ6QjNqLTI3Y3FQcEdxWGJoUFlPTWlROXFHdENZdmtfM3NiYXhHZzRVR3h1NEhyd1NLdXlEbFBiU3FZN1JfQVpLRlVkN0lvdWNRNTVHQ0RDSFIyNmc0c3VURUo1TW5VSUxxcEJz?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/cameras-corporais-veiculares-e-5-mil-pms-a-mais-nas-ruas-veja-esquema-de-seguranca-para-o-segundo-turno-das-eleicoes-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/fio-de-cabelo-de-sao-carlo-acutis-padroeiro-da-internet-e-exposto-para-visitacao-24-horas-em-santuario-de-brasilia-entenda.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/identidade-novos-apoios-e-busca-por-eleitorado-as-estrategias-de-celina-e-grass-no-2o-turno-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/df-tera-fim-de-semana-quente-com-previsao-de-chuvas-isoladas-no-segundo-turno-das-eleicoes.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
   ],
   "palavras": [
     {
@@ -3922,6 +3929,18 @@
       "tema": "botafogo",
       "data": "2026-10-23",
       "proxima": "2026-10-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-06:30-jp",
+      "palavra": "見通し",
+      "leitura": "みとおし",
+      "sentido_pt": "previsão",
+      "exemplo": "天気が回復する見通しです。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
       "acertos": 0
     }
   ]
