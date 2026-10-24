@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Spiel",
+    "de": "Buch",
     "jp": "見通し"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Spiel beginnt um zwanzig Uhr.",
+      "frase": "Ich lese jeden Abend ein spannendes Buch.",
       "leitura": ""
     },
     "jp": {
@@ -21,7 +21,7 @@
   },
   "obra_idx": {
     "jp": 19,
-    "de": 16
+    "de": 17
   },
   "dominadas": {
     "jp": 0,
@@ -1504,10 +1504,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-13-19:30",
     "2026-10-13-21:00",
     "2026-10-14-06:30",
     "2026-10-14-08:00",
@@ -1566,7 +1572,8 @@
     "2026-10-23-17:30",
     "2026-10-23-19:30",
     "2026-10-23-21:00",
-    "2026-10-24-06:30"
+    "2026-10-24-06:30",
+    "2026-10-24-08:00"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDVmV3pVVnVqdmdGRXVodExjUW94R29NVDgwMUZtVmtsNjNMT29sY3dvbzhnU2ZiVVBvdFhQZFhTQVcxZmtzQ3k1RU1RNHAwc2c2dzByTW1IR1hRZTdlNG82ZXo4by1ldm15M21TM3R5TDBlQ0VDUjE2VUl0VXg5SmxDVnkxYk04aEFkQkVPR2FPSEV4VjhuLTFwdDZFVHJiTkJaaThpMkdYUVlWQnhEbHM3RzBVNmx3QzRBU2JYdkxGOWdDbFBYdXFSWFRnM0lkNUdRckNHbDZ0Zi1CcGJzc0xkSVB3Q2Zocl9vUkdOcUw3UdIBgAJBVV95cUxQY25kQXAza3lyZlVqbmRGclZST1BXd1JnM2JxSkh5eDVHZ2Eyb1UwYUlBSlZuVEZrM0xfblZhLWdRRHkyUVgzNEREOTBsQjhvVXJUUVExYkpPMUdhQl9Gc2ZHbExpU0NJT2h6aFg1UjdaOTU2blhEbHZvSlVod3hjMGdCZFp6U0JrYWNpTmZrNFZPM2lSREp4S0F5NnUxUXgySU5jVnBwZnROYmxyLTYtSnRGWmNwRk9SV3U0WkpER1RVZS1LT1ZUWVVtblZsbE5WbWQwVmhmQVAxZE1nNEZsZlZYV000M3AtN0sxS0ZETFB5YnNfdTQwYlU4b0kxdVBT?oc=5",
@@ -3939,6 +3946,18 @@
       "exemplo": "天気が回復する見通しです。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-08:00-de",
+      "palavra": "das Buch",
+      "leitura": "",
+      "sentido_pt": "o livro",
+      "exemplo": "Ich lese jeden Abend ein spannendes Buch.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-10-24",
       "proxima": "2026-10-25",
       "acertos": 0
