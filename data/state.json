@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Wahl",
-    "jp": "変更"
+    "jp": "動向"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "投票所の変更について、公式サイトでお知らせします。",
+      "frase": "市場の動向を注意深く確認する。",
       "leitura": ""
     }
   },
@@ -1483,10 +1483,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-23",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-13-08:00",
     "2026-10-13-12:30",
     "2026-10-13-17:30",
     "2026-10-13-19:30",
@@ -1545,14 +1551,10 @@
     "2026-10-23-06:30",
     "2026-10-23-08:00",
     "2026-10-23-12:30",
-    "2026-10-23-17:30"
+    "2026-10-23-17:30",
+    "2026-10-23-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/por-unanimidade-tse-derruba-prazo-de-48-horas-para-uso-de-canais-registrados-de-forma-tardia-por-campanhas.ghtml",
-    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/15/fim-da-escala-6x1-como-reclamacao-de-balconista-de-farmacia-nas-redes-virou-pauta-aprovada-no-congresso-ouca-o-assunto.ghtml",
-    "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/15/pf-acha-dinheiro-dentro-de-adega-de-policial-preso-em-operacao-que-prendeu-deputado-e-ex-chefe-da-policia-civil-do-rj.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/tesouraco-de-flavio-mendonca-paralisa-julgamento-apos-tse-formar-maioria-para-derrubar-sua-decisao-contra-video-de-lula.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/15/lider-do-pt-defende-reduzir-maioridade-penal-para-16-anos-em-caso-de-crime-hediondo.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/video-carro-bate-em-poste-que-cai-e-atinge-motociclista-de-raspao-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/homem-acusado-de-matar-vizinho-a-tiros-por-causa-de-estacionamento-passa-vai-a-juri-popular-nesta-quinta-feira-15.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/jornais-entrevistas-com-candidatos-ao-governo-no-2o-turno-como-assistir.ghtml",
@@ -1747,7 +1749,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/23/familia-de-enfermeira-que-morreu-apos-comer-frutos-do-mar-em-portugal-ainda-aguarda-autopsia-para-trazer-corpo-ao-brasil.ghtml",
     "https://g1.globo.com/df/distrito-federal/df1/playlist/videos-df1-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-23-de-outubro-de-2026.ghtml"
+    "https://g1.globo.com/df/distrito-federal/bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-23-de-outubro-de-2026.ghtml",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWlYWjdubkxfRWVNd2hIcWZ2NGNrMThHRVo0aURCT0JHTklLZGtSNVQwaHFxUkdFYVpQWDJwSkhqeW00SWcwcVZTUTFsZGMzSmQ0V3lDdUV4Rm5ZQU1qbGo5bFBvSk5PX0FHeTBRUUtTcjlWNjRrVVdYeVZVR1dJbmRxUF9qeGhINmpoUE5zeHd3YUxtUjN5VFB2MmR3amg3VkxKeWtQdjA2SlJWbVNUUnJ5RGhUTTFuSUtkUg?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JGZUZ2YzF0RXhiSlFhQjJETkFVbVIzam1peTdMMjNHY2E5NVdldDFrREQ3RU9wcU00dkpNTWtjS0lDU2ltRVozcWNsSlZ5QzhIQXUwUW1UNnd3RWoyb0dBZHRDMm1aTmE2UWxob0NvbnNVODlmZnhFSGxWM2NBSGVCX1gzdjlGWklGNFRiMmVnd2FYVzRVd3FwM0JUSkk0MUh6dE5mcnZBLVE?oc=5",
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaWNBTE1zTVpKZGs1d3I0bTY5SkEzQ1lsUlQ3SHNwSk5qemxnazE4RkhBZzBQUmhUeXdrNC1tQXRtaFNGdXBMRGFVakoycDBsWnphaEtfTlJKdw?oc=5",
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdmJzcVU4SEw1Tk95cUNTS2JwZHhpX3ZLQTFXUFlVeVJldVVWZ24wc2Naak40UjFaZXV6dkNoQ254RXhWa0pyalFzU25aeGlOZzBXLXB3?oc=5",
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmd3TTVOQjJVRm9WajZfS1prNHRsRUtRU3hNeXlEQlpzYjZodlNidnQxdDRzTkw0cUQ1UzNvT29TVkJYaVJ5M1VueXBSX2psS0RHdmhCOTNwRE5jcGhZRExFcGdvdHdzbk5UeWpleF9PSGs1enpoejZmamRkQS1VbHJqNzkyNzRfb0ZldzZxNmZCRzhDOHhaUkJ3U2JpSXkxM3liRDRzZFljaDMtNkl1RXhmZ2VXZms5MlZGX2V6TkVCV0l4RTJURnVlM3R0MjN2RDJqNWhJNHR3SVNIalQyVnFnV3h5LXlyTU1tdDVncDZPTUlWNVIwaUxB?oc=5"
   ],
   "palavras": [
     {
@@ -3882,6 +3889,18 @@
       "exemplo": "Die Wahl in Brasília ist sehr wichtig für die Bürger.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-23",
+      "proxima": "2026-10-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-23-19:30-jp",
+      "palavra": "動向",
+      "leitura": "どうこう",
+      "sentido_pt": "tendência",
+      "exemplo": "市場の動向を注意深く確認する。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-23",
       "proxima": "2026-10-24",
       "acertos": 0
