@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Buch",
-    "jp": "見通し"
+    "jp": "方針"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "天気が回復する見通しです。",
+      "frase": "監督は同じメンバーで試合に臨む方針を示した。",
       "leitura": ""
     }
   },
@@ -1511,10 +1511,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-13-21:00",
     "2026-10-14-06:30",
     "2026-10-14-08:00",
     "2026-10-14-12:30",
@@ -1573,14 +1579,10 @@
     "2026-10-23-19:30",
     "2026-10-23-21:00",
     "2026-10-24-06:30",
-    "2026-10-24-08:00"
+    "2026-10-24-08:00",
+    "2026-10-24-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcDVmV3pVVnVqdmdGRXVodExjUW94R29NVDgwMUZtVmtsNjNMT29sY3dvbzhnU2ZiVVBvdFhQZFhTQVcxZmtzQ3k1RU1RNHAwc2c2dzByTW1IR1hRZTdlNG82ZXo4by1ldm15M21TM3R5TDBlQ0VDUjE2VUl0VXg5SmxDVnkxYk04aEFkQkVPR2FPSEV4VjhuLTFwdDZFVHJiTkJaaThpMkdYUVlWQnhEbHM3RzBVNmx3QzRBU2JYdkxGOWdDbFBYdXFSWFRnM0lkNUdRckNHbDZ0Zi1CcGJzc0xkSVB3Q2Zocl9vUkdOcUw3UdIBgAJBVV95cUxQY25kQXAza3lyZlVqbmRGclZST1BXd1JnM2JxSkh5eDVHZ2Eyb1UwYUlBSlZuVEZrM0xfblZhLWdRRHkyUVgzNEREOTBsQjhvVXJUUVExYkpPMUdhQl9Gc2ZHbExpU0NJT2h6aFg1UjdaOTU2blhEbHZvSlVod3hjMGdCZFp6U0JrYWNpTmZrNFZPM2lSREp4S0F5NnUxUXgySU5jVnBwZnROYmxyLTYtSnRGWmNwRk9SV3U0WkpER1RVZS1LT1ZUWVVtblZsbE5WbWQwVmhmQVAxZE1nNEZsZlZYV000M3AtN0sxS0ZETFB5YnNfdTQwYlU4b0kxdVBT?oc=5",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVFFcWhLUlFmNmZyNDk2RGRmRUU1VXk0Mmdma1ZDa05EZWpIS3l4TWQ4czFYdVZxWnhjUXFod0ZqaHVfQ2xORVZxNEI4WHVpS0NjcEM0ZllkRnIzYWNjejF6bmlpb0JRRzljVEhUbmFoaHpsZFNpWWpMeGlRdTdqa2F3M082eGZnN3liY2F6dzd2QS1MQXdXeW53?oc=5",
-    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcm5uZ3BDaWdnenRDR3JDeE4zVjc0ekJpLTVkLUpNMV9FZ1JHWmcwSlZreDFlbldFRWhaZE9fa0doRl9EWUctYmhkMUlkUXB4RXJMUGp6NDhRUVpfQVV1X3YwTkM2bmtqNU5fN3Q0MTgxaW12MlUyeEVBQTc4dkxvY0FfUVdtLWU1anRrQWhKNXVqSHduNnNzazVfU0t1Smd0cm9la21rWUhIUUk2dXlzd0x0V0VhdGstNHlReHFuV1R5VnVKQ1VyY1dMejVrcHhFTmcwYWpRR2J1WEkwLU92TDlGT3ZmLTZ3Y1ZV0gHrAUFVX3lxTE1ybm5ncENpZ2d6dENHckN4TjNWNzR6QmktNWQtSk0xX0VnUkdaZzBKVmt4MWVuV0VFaFpkT19rR2hGX0RZRy1iaGQxSWRRcHhFckxQano0OFFRWl9BVXVfdjBOQzZua2o1Tl83dDQxODFpbXYyVTJ4RUFBNzh2TG9jQV9RV20tZTVqdGtBaEo1dWpId242c3NrNV9TS3VKZ3Ryb2VrbWtZSEhRSTZ1eXN3THRXRWF0ay00eVF4cW5XVHlWdUpDVXJjV0x6NWtweEVOZzBhalFHYnVYSTAtT3ZMOUZPdmYtNndjVlU?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbi1JZVJJamttdjgxellzNEQyTWdfejBqUzlxU05WYUtSRFpPUFlFUE1TUEREV1V3UHVadXZqTWhEY3JGby1qaWhWaGZXa0I0RUF0Q01YTEdyOWt3MWdfZFJKb1g1TnJqV2x5VXdvWFUyNVdaeV81R2Nra2RHVnhCM1NHTS05di1jWGJlYnFjUEU4ck1vd1UtQkM4QWFiX3o5VFFPZ1A4UWVKb2hHTTZvYnB3bmJnT3M?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnp6NTlNQThIcEhyZDhwNHNHQko0SkdXNEVBWmlad0RmWVNDbm5yN0RvSE96Y003djAzZzZMaVNwZE1YVXB1b01ycXRET0pWM0hOMzNmTjNCWE0yczE3VmRWdFVjeW1nVkJrbDIyQVllQzliU0hEWlAxVU1qbUFIRkNUZUVadXAtdzdrOVFQLXFoSXAzWWNSMUw1MkhoREQwbnBSUmxLb1BQcHk2dm9ta24tTjlFaWR1T0hBMTV2c3V5Y0VuMHfSAcsBQVVfeXFMTlVGc0F5S19qd3Y1V3dwV2llU1F0a2JIQ1ZRZHlFR0Y0Ty1IRldXNXNpdDRTZEcxd0JaZWtWRjhOWGxWQ1NyVU9jNDlQQlU0b083UjByVFQ3bjBEODFPbm9zZ0RnYkZFUUVCdzlTZXlzTllVQ1RBN0xJX0RoSXRUQU5iOVZIM0tKdWU2UjAxNjVJZGkxV18tbEhGcTk0UXM4ZzRWOUU5WV9Fdnd5Q2FEaDNWcExtV2FCRlBwcGVxaDdORjljVFQwaW1aYUU?oc=5",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/playlist/videos-candidata-no-2-turno-celina-leao-e-entrevistada-no-df2.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
@@ -1775,7 +1777,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/fio-de-cabelo-de-sao-carlo-acutis-padroeiro-da-internet-e-exposto-para-visitacao-24-horas-em-santuario-de-brasilia-entenda.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/identidade-novos-apoios-e-busca-por-eleitorado-as-estrategias-de-celina-e-grass-no-2o-turno-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/df-tera-fim-de-semana-quente-com-previsao-de-chuvas-isoladas-no-segundo-turno-das-eleicoes.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml"
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaEpJOEpjcDg1MXN5clByUmtESWZ0XzhTMTljeW1PUVlsMWtORmRuLVFYLUtSQjdQV0thM1FXRjE5cjlUVkl4eE02bm5PZEpma2QzRU8tZDVUZ1hwSTctOVFadzFwdE1GRlVfa0dITFMzNXdCUlcwTTQ3TTZtNFYwbEFmbUZuYXcyVFNCeTFEMnpBR0JxTmxFT21sTnkxYVBiLXdwVE45R2t3Z21IdnVIelBsamxqczBVRkZveHZLUXBOb1RYLTFKZXVKeU5oQ0RyeXlsamFPejlzWjZrblZz0gHuAUFVX3lxTFBJRU9KSmtlbkpnTGJnUkNIUjd4YzZ1bE5Yampkb3VtVDc3ZWx0ZnZQZFFxLXFqSlBwZGdXendZRnQxMnFoZGdFMDdWampJMExPbXI3YlA0ZWRQRFdNZG5CX3VVblU5S19ZcmNzcnkyR2RZUW9HVDlUc3ZfeF80dGdrYlQ1dmxOUXYyRjg1Y1cwUVJfZUZfclZFUi1DVXRGMlFQQjRBdEx5U1pWTkpQQkdGRlZLenJGWjAya2xSaFdzbkE3bjdWQUViLTd4c2tFVmlwd3JibGI0VTI2ZTNta25hWE8wamtfVm5wdWZJNEE?oc=5",
+    "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWVo4bnBZd2lSUWZHbDFFbnZSU2I1ZlJnQWFhRGZjMm1tZWtoby1TMk4tNjJrMlRaQWNSZnVxV2hUUDhsS0Y2QWdPZDUtSjdUMG5PUGlRdjJ1VU1BeVhKdEQyWDNPTHNrMmtuUU5zQzU1YjRmVHhseE5EdVhudjRndllQME93SjFzaEQyR3ZNUHBST2hQel9JTHAxTUV6dW9NQ0NSMF9pLUszRjdpSURUUVB0UEtqR0E0NGs3eGVBTmZnQWlLX3VTRWxGWk8talJXQm12SjBtUS1PMlhubzFyLW1mYVlHN3JaMG5LcVpxTlE4aDg?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXhqTXpseG1Rdlg2OVhxb1FTaTRBbThDRUtkLVpSTHNnb0tyOTZVQ21HYTZ3eXRZdThoT2lQZVBkMzNmSDkxWjJBSWJPVWhuOTdUdWo4c1g0eGRJMjRfQTNmb19KWko2cnB6VUQ5OGxPUlRMNFNuRzdIQ3l6LXZsd3ROTFdMY3pWckJzY1RObE9GRDZyYk54RWM5SkhKN2pCMDBMZmsyNGQ1TDlEbEhqaVRUVFdkZGNicHA0ZmFlNE92ak55S2tBa1BSY0VBS3U0Ni1fd9IB4wFBVV95cUxPUkRxZWFqNS0ya2F6NHp4U05KMTFPQzhMMlZzNGpiVDZaaldEVXhIWlRzMkdnR3FFVmdHbVlYMks2akdPNW5TbndBRC0xYldvaDJrLTdrNFBNbFpfYWVrMGpxb3R5NjByNHdxUFRsWjA4VHZUU0g2NG9tcnN3b2dSUE11blJEazJ3dm5hX3JWVmloMElIenl1YkE5LUk3LWttWC1Qc1NVOGx5YlJOQnVRNEpHMjlDcW5nU0xwdDlIYjFaaGdZRUE5UW9OZWtIcFc1dnVQN0ZUaC1yMlBmemZxay11UQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWhVbXNjSlJ6WXREN1cwZ3dpdkhkbm1lTnNranJUaTBEaGkyRWNvOFhBZVZsT1FaR2daUGE2RERmSlRNS0hQQkg0bm1Ca1V1SmROUUdYMk45eXlDNnM1bUJ0ODZuaU81SFp1REhxT1p5S3pmWHhKNUljVTlYcFVGdTZrNFkxX1VN?oc=5",
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSUdQR0ZOVFd5Z3pNUGJlejBaeDh5Q2o1VlFWLUZZV29jd2hzSTJKT05wVGV6VXBMVEJJNXdodDEyVU1Xd1Bsc1NRMUJRUkNDeG9JWmk2VnhZc1B0b2tWbTg4QnhjMHBIdlgyNGVsOFBfdExjOG9TOWpCaDRVZjhCeXlIM0t5djNMV1RDYmhpR1l2RDJTSkttS1VTSnpja3N3M2RPSFBJYlFuakVlMUJzQnlIYTBNWWZ1YnEyY0tpRmlDUVF6bnhMZ0drQVdkT2FFM1NNU1BlUjQ5S29EZ1ZyMUE0MjZnNzRXLTZobUYyQl9YTm9LZHNfRTZTLWt1bUVlMnFqcFpxT08tbklPT1FR0gGeAkFVX3lxTFBVUzZWbGJMczkxaHZTLXlVd3hQYWQ3SmlSanZaLVJOMGdMT3l5NGpKT3JXZ3lWclkwcThvMmFzSUxDdTdHa283aXhLRUZVRTU3NV9jZ2ltWHhyOEVvWjQtdUNhcE5WS0s4Y2RrY1d4bDRBUlVDSjlzbGtXWHc5ZExSYXRHV0RMM0E0VFVVTDd5cXgxdzg4Q3Q1ck1vMWEzaFdhcGlkWDdFTDZaUkZLU3hqbEYwMEd6SVdURElnaVNlcjVRdWcycDJFanYwUHdTMGgzTThOXy1LQ0F4WEV0NU42R3ZCeVh1ZDg2b0R5cHQyLWpkbGU4RUstMXUzNVdYWlIwWHhiczN0bm40d05HVDRsM1VDY3ZYS04yUmRoS0E?oc=5"
   ],
   "palavras": [
     {
@@ -3958,6 +3965,18 @@
       "exemplo": "Ich lese jeden Abend ein spannendes Buch.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-12:30-jp",
+      "palavra": "方針",
+      "leitura": "ほうしん",
+      "sentido_pt": "diretriz, política, plano",
+      "exemplo": "監督は同じメンバーで試合に臨む方針を示した。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-24",
       "proxima": "2026-10-25",
       "acertos": 0
