@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Buch",
+    "de": "Wahl",
     "jp": "方針"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Ich lese jeden Abend ein spannendes Buch.",
+      "frase": "Die Wahl findet am Sonntag statt.",
       "leitura": ""
     },
     "jp": {
@@ -1518,10 +1518,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-14-06:30",
     "2026-10-14-08:00",
     "2026-10-14-12:30",
     "2026-10-14-17:30",
@@ -1580,14 +1586,10 @@
     "2026-10-23-21:00",
     "2026-10-24-06:30",
     "2026-10-24-08:00",
-    "2026-10-24-12:30"
+    "2026-10-24-12:30",
+    "2026-10-24-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/playlist/videos-candidata-no-2-turno-celina-leao-e-entrevistada-no-df2.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/candidata-no-df-celina-leao-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quinta-feira-15-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/entrevista-candidatos-df-segundo-turno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/15/veja-como-foi-sabatina-da-globo-com-celina-leao-candidata-ao-governo-do-df-no-2o-turno.ghtml",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0R0WUVtNnZ6RHRhX0V3d2JycFozRktMMEZmUXVGWmJudnZlX3hRSkpoY19QTk1RRnczTUppbUVzX2ZTR1BGMXQyekFxTldEbTI1TjlUN2lRRlBueEVfOU9lZWh4Rm02M3RMMm9iUlFBVEl0Y2M3OUxqYVJaTE54UjJOdWRtQXF0TnBIOTBxOUtndi1ZeFUwREJfS0VWbDJKS2pvc2ktbG5hbnBrSkJQQ2lRNmRTUm03cW50LWxQSktSU2t5Tm5CbnM0UDLSAdsBQVVfeXFMUGQ5amZna3BLc25OWFpkT1NFSkZxOV9jeHEwM2JjazdrNnE2Rjdnc2J1NmttVzlmYXctakd3UGEtSlF0RThqY1QxQlRkSEM2ZFdtMHNGc1l3QldDbzU1YjBhdktjdnVBTS1aU3VoemtLbXZtR1M5cnBOMWxVYjFxRVFfY1k2Qks4cGo1Z0xEUHlPZnprRHpFRmExQ1I1MXpORlRPVDBOTXM3LXlwUmMzdUxKdXh5RDdoNzF3VEYtSHpXWkFHM1dmbnI5Yk55cTBfaEhhVXQ1UEIweGQ4?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2NsMXNCdHhEWnFZMXE3aWtqckN6RHUtRm8wUVVRby1TNmFraHRReXhuMnhGUjV1WXdSLUhOblp0OXpxcFhKTS1CUHNFZTZoR2YwTWFmLXZqMF9JOFFvMElHNWdfTEV2QzFPZ01JYnVITGRBVTJhdU5xNDJoWmxyaW1NeFFOQ1NmNjc1b0VrTFVrNm10Z2Y3Y2ExMnZSZ0FTaHNVWDFwdEl6QURnN3kyLXpPaGxyQXk2VHFaRA?oc=5",
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1d6QUpNWTYySWV6RkExODJ1bExvb0tLUl9EVlllZjZlaVhBcFR4U1pmNXV4QlFWTWVfaEQyQWQ0MkE4ZXN5WnEzX1YzX2phMTkyckxzblhBZEhlUmdxczJoTnc3Rm53dGhjWEJFbHBCQncwRzBPSlpjenJ0V0xYNTFrMzY2NWEzOUgyYzJ6UTZSOUR1aUdHV1QtZ1FhM1ZhRkVWcFlrakszMXBObG0zenFnSjdzQUk?oc=5",
@@ -1782,7 +1784,12 @@
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWVo4bnBZd2lSUWZHbDFFbnZSU2I1ZlJnQWFhRGZjMm1tZWtoby1TMk4tNjJrMlRaQWNSZnVxV2hUUDhsS0Y2QWdPZDUtSjdUMG5PUGlRdjJ1VU1BeVhKdEQyWDNPTHNrMmtuUU5zQzU1YjRmVHhseE5EdVhudjRndllQME93SjFzaEQyR3ZNUHBST2hQel9JTHAxTUV6dW9NQ0NSMF9pLUszRjdpSURUUVB0UEtqR0E0NGs3eGVBTmZnQWlLX3VTRWxGWk8talJXQm12SjBtUS1PMlhubzFyLW1mYVlHN3JaMG5LcVpxTlE4aDg?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXhqTXpseG1Rdlg2OVhxb1FTaTRBbThDRUtkLVpSTHNnb0tyOTZVQ21HYTZ3eXRZdThoT2lQZVBkMzNmSDkxWjJBSWJPVWhuOTdUdWo4c1g0eGRJMjRfQTNmb19KWko2cnB6VUQ5OGxPUlRMNFNuRzdIQ3l6LXZsd3ROTFdMY3pWckJzY1RObE9GRDZyYk54RWM5SkhKN2pCMDBMZmsyNGQ1TDlEbEhqaVRUVFdkZGNicHA0ZmFlNE92ak55S2tBa1BSY0VBS3U0Ni1fd9IB4wFBVV95cUxPUkRxZWFqNS0ya2F6NHp4U05KMTFPQzhMMlZzNGpiVDZaaldEVXhIWlRzMkdnR3FFVmdHbVlYMks2akdPNW5TbndBRC0xYldvaDJrLTdrNFBNbFpfYWVrMGpxb3R5NjByNHdxUFRsWjA4VHZUU0g2NG9tcnN3b2dSUE11blJEazJ3dm5hX3JWVmloMElIenl1YkE5LUk3LWttWC1Qc1NVOGx5YlJOQnVRNEpHMjlDcW5nU0xwdDlIYjFaaGdZRUE5UW9OZWtIcFc1dnVQN0ZUaC1yMlBmemZxay11UQ?oc=5",
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaWhVbXNjSlJ6WXREN1cwZ3dpdkhkbm1lTnNranJUaTBEaGkyRWNvOFhBZVZsT1FaR2daUGE2RERmSlRNS0hQQkg0bm1Ca1V1SmROUUdYMk45eXlDNnM1bUJ0ODZuaU81SFp1REhxT1p5S3pmWHhKNUljVTlYcFVGdTZrNFkxX1VN?oc=5",
-    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSUdQR0ZOVFd5Z3pNUGJlejBaeDh5Q2o1VlFWLUZZV29jd2hzSTJKT05wVGV6VXBMVEJJNXdodDEyVU1Xd1Bsc1NRMUJRUkNDeG9JWmk2VnhZc1B0b2tWbTg4QnhjMHBIdlgyNGVsOFBfdExjOG9TOWpCaDRVZjhCeXlIM0t5djNMV1RDYmhpR1l2RDJTSkttS1VTSnpja3N3M2RPSFBJYlFuakVlMUJzQnlIYTBNWWZ1YnEyY0tpRmlDUVF6bnhMZ0drQVdkT2FFM1NNU1BlUjQ5S29EZ1ZyMUE0MjZnNzRXLTZobUYyQl9YTm9LZHNfRTZTLWt1bUVlMnFqcFpxT08tbklPT1FR0gGeAkFVX3lxTFBVUzZWbGJMczkxaHZTLXlVd3hQYWQ3SmlSanZaLVJOMGdMT3l5NGpKT3JXZ3lWclkwcThvMmFzSUxDdTdHa283aXhLRUZVRTU3NV9jZ2ltWHhyOEVvWjQtdUNhcE5WS0s4Y2RrY1d4bDRBUlVDSjlzbGtXWHc5ZExSYXRHV0RMM0E0VFVVTDd5cXgxdzg4Q3Q1ck1vMWEzaFdhcGlkWDdFTDZaUkZLU3hqbEYwMEd6SVdURElnaVNlcjVRdWcycDJFanYwUHdTMGgzTThOXy1LQ0F4WEV0NU42R3ZCeVh1ZDg2b0R5cHQyLWpkbGU4RUstMXUzNVdYWlIwWHhiczN0bm40d05HVDRsM1VDY3ZYS04yUmRoS0E?oc=5"
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSUdQR0ZOVFd5Z3pNUGJlejBaeDh5Q2o1VlFWLUZZV29jd2hzSTJKT05wVGV6VXBMVEJJNXdodDEyVU1Xd1Bsc1NRMUJRUkNDeG9JWmk2VnhZc1B0b2tWbTg4QnhjMHBIdlgyNGVsOFBfdExjOG9TOWpCaDRVZjhCeXlIM0t5djNMV1RDYmhpR1l2RDJTSkttS1VTSnpja3N3M2RPSFBJYlFuakVlMUJzQnlIYTBNWWZ1YnEyY0tpRmlDUVF6bnhMZ0drQVdkT2FFM1NNU1BlUjQ5S29EZ1ZyMUE0MjZnNzRXLTZobUYyQl9YTm9LZHNfRTZTLWt1bUVlMnFqcFpxT08tbklPT1FR0gGeAkFVX3lxTFBVUzZWbGJMczkxaHZTLXlVd3hQYWQ3SmlSanZaLVJOMGdMT3l5NGpKT3JXZ3lWclkwcThvMmFzSUxDdTdHa283aXhLRUZVRTU3NV9jZ2ltWHhyOEVvWjQtdUNhcE5WS0s4Y2RrY1d4bDRBUlVDSjlzbGtXWHc5ZExSYXRHV0RMM0E0VFVVTDd5cXgxdzg4Q3Q1ck1vMWEzaFdhcGlkWDdFTDZaUkZLU3hqbEYwMEd6SVdURElnaVNlcjVRdWcycDJFanYwUHdTMGgzTThOXy1LQ0F4WEV0NU42R3ZCeVh1ZDg2b0R5cHQyLWpkbGU4RUstMXUzNVdYWlIwWHhiczN0bm40d05HVDRsM1VDY3ZYS04yUmRoS0E?oc=5",
+    "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/24/quaest-rn-governador-segundo-turno-24-outubro.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-presidente-segundo-turno-24-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-governador-segundo-turno-24-outubro.ghtml"
   ],
   "palavras": [
     {
@@ -3977,6 +3984,18 @@
       "exemplo": "監督は同じメンバーで試合に臨む方針を示した。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-17:30-de",
+      "palavra": "die Wahl",
+      "leitura": "",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl findet am Sonntag statt.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-24",
       "proxima": "2026-10-25",
       "acertos": 0
