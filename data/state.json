@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Wahl",
+    "de": "Spiel",
     "jp": "動向"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Wahl in Brasília ist sehr wichtig für die Bürger.",
+      "frase": "Das Spiel beginnt um zwanzig Uhr.",
       "leitura": ""
     },
     "jp": {
@@ -1490,10 +1490,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-23",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-13-12:30",
     "2026-10-13-17:30",
     "2026-10-13-19:30",
     "2026-10-13-21:00",
@@ -1552,14 +1558,10 @@
     "2026-10-23-08:00",
     "2026-10-23-12:30",
     "2026-10-23-17:30",
-    "2026-10-23-19:30"
+    "2026-10-23-19:30",
+    "2026-10-23-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/video-carro-bate-em-poste-que-cai-e-atinge-motociclista-de-raspao-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/homem-acusado-de-matar-vizinho-a-tiros-por-causa-de-estacionamento-passa-vai-a-juri-popular-nesta-quinta-feira-15.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/15/jornais-entrevistas-com-candidatos-ao-governo-no-2o-turno-como-assistir.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/vorcaro-presta-depoimento-sobre-brb-na-tarde-desta-quinta-15.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/15/policia-prende-3-suspeitos-de-furtar-36-coletes-a-prova-de-balas-do-detran-em-brasilia.ghtml",
     "https://www.benzinga.com/markets/prediction-markets/26/10/62396367/nvidia-ai-demand-orders-jensen-huang?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
     "https://app.moby.co/home/news/news-germany-wants-to-expand-europes-trade-war-with-china?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
     "https://www.fool.com/investing/2026/10/15/meet-the-dividend-etf-with-big-stakes-in-these-3/?.tsrc=rss",
@@ -1754,7 +1756,12 @@
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JGZUZ2YzF0RXhiSlFhQjJETkFVbVIzam1peTdMMjNHY2E5NVdldDFrREQ3RU9wcU00dkpNTWtjS0lDU2ltRVozcWNsSlZ5QzhIQXUwUW1UNnd3RWoyb0dBZHRDMm1aTmE2UWxob0NvbnNVODlmZnhFSGxWM2NBSGVCX1gzdjlGWklGNFRiMmVnd2FYVzRVd3FwM0JUSkk0MUh6dE5mcnZBLVE?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaWNBTE1zTVpKZGs1d3I0bTY5SkEzQ1lsUlQ3SHNwSk5qemxnazE4RkhBZzBQUmhUeXdrNC1tQXRtaFNGdXBMRGFVakoycDBsWnphaEtfTlJKdw?oc=5",
     "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdmJzcVU4SEw1Tk95cUNTS2JwZHhpX3ZLQTFXUFlVeVJldVVWZ24wc2Naak40UjFaZXV6dkNoQ254RXhWa0pyalFzU25aeGlOZzBXLXB3?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmd3TTVOQjJVRm9WajZfS1prNHRsRUtRU3hNeXlEQlpzYjZodlNidnQxdDRzTkw0cUQ1UzNvT29TVkJYaVJ5M1VueXBSX2psS0RHdmhCOTNwRE5jcGhZRExFcGdvdHdzbk5UeWpleF9PSGs1enpoejZmamRkQS1VbHJqNzkyNzRfb0ZldzZxNmZCRzhDOHhaUkJ3U2JpSXkxM3liRDRzZFljaDMtNkl1RXhmZ2VXZms5MlZGX2V6TkVCV0l4RTJURnVlM3R0MjN2RDJqNWhJNHR3SVNIalQyVnFnV3h5LXlyTU1tdDVncDZPTUlWNVIwaUxB?oc=5"
+    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmd3TTVOQjJVRm9WajZfS1prNHRsRUtRU3hNeXlEQlpzYjZodlNidnQxdDRzTkw0cUQ1UzNvT29TVkJYaVJ5M1VueXBSX2psS0RHdmhCOTNwRE5jcGhZRExFcGdvdHdzbk5UeWpleF9PSGs1enpoejZmamRkQS1VbHJqNzkyNzRfb0ZldzZxNmZCRzhDOHhaUkJ3U2JpSXkxM3liRDRzZFljaDMtNkl1RXhmZ2VXZms5MlZGX2V6TkVCV0l4RTJURnVlM3R0MjN2RDJqNWhJNHR3SVNIalQyVnFnV3h5LXlyTU1tdDVncDZPTUlWNVIwaUxB?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVkTTFmbWowX2tTUVRUd2p2aTNIMlg3SEVEWk93WmlJX0o0Rk8xYklhOEVTLWkwNnc4R3dZaGJXajdMcUREWk1qemxRcktMYlJ2N0o5bTh2VF9KUjB4UnN0ekVrQlZhd3Fla195M1hkaDg5M1ZDRlB6bUFKZEJ5Wk9QT3M5V0tOQnN5OW1iSWxIemRUejVURGljRno?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGdNU0VaME4zdEJFSFd6X25OOEwxNnBrbGQ1ZHJ2bk1OZ0hzU0FHS0lrdW9FOVNNWWF2OW9yQld0YldtTWpjS2gzcHU3TXVfR19IcVFIQ0RVeTRXUlZSU051bzJnMGpZRVo1Tm1iek1IZHhaZmF1c3FFNWRuSUhMckF0ME9IMk4zOEliSGY1SVgyU21jOXNFTGFRSVJoY3I4cDQ1SHZSV0xLRGRRYk9kaEhfOFpHS1J4aXdueFlYNmhKYWliZDYtUWxRTmlOY1l0ZlVfdXhXM25mcG9ycjU4V1hB?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9oTFpXXzFiNlpSdTBQTHJxMXk2OTJpUE9PU0NxZVYtM3BKR1JmNHpkVHNQTWpVRU83Y00zN3U0MHNWdzFsT1BCZG15VWVET2p2bHNKaFZIczNoMWM2OF85XzdKVnBGeXNaY3diZHc4MDRQSVNhNThFY3QyVTR5QWNRaDU2Rkd2ZGVmZEpEX09KUmtGaTQwZHk2WTRWZw?oc=5",
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYUxOa3E3M25wTm5HVV9BUzVuMXJUb1Ywa1NVRFU5REdpOWxHeFM4Q3h3bjNkRG93VEVjcC1XUEo0QTc1WGx3ZVN3bnJYTU1ZSkVBNS1sODdwTEduU29TbHU5SjBZTE5mZTRKeF9UYUx1YkJRQkUxSTcwYjd3UFFjX2ljVndaNmIydHk3ajJubVZ0N3RJWktwNi14UGx0VDN2MFhrdm1HMjFGak1NWFpPME5jb0g?oc=5",
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdGJueDQtYUpMUFo2ZjlCTDM4Y1NLY3U4bHAyempmRndCVzRhZzZ4SV8zRFVIV001X2NhUEVleUtSb3VhQldwUXRKMnh3YWtwM1E4UHZ6QjNqLTI3Y3FQcEdxWGJoUFlPTWlROXFHdENZdmtfM3NiYXhHZzRVR3h1NEhyd1NLdXlEbFBiU3FZN1JfQVpLRlVkN0lvdWNRNTVHQ0RDSFIyNmc0c3VURUo1TW5VSUxxcEJz?oc=5"
   ],
   "palavras": [
     {
@@ -3901,6 +3908,18 @@
       "exemplo": "市場の動向を注意深く確認する。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-23",
+      "proxima": "2026-10-24",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-23-21:00-de",
+      "palavra": "das Spiel",
+      "leitura": "",
+      "sentido_pt": "o jogo",
+      "exemplo": "Das Spiel beginnt um zwanzig Uhr.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-23",
       "proxima": "2026-10-24",
       "acertos": 0
