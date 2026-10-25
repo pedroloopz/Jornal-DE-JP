@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Wahl",
-    "jp": "方針"
+    "jp": "欲望"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "監督は同じメンバーで試合に臨む方針を示した。",
-      "leitura": ""
+      "frase": "彼は物質的な欲望を捨てて静かに暮らした。",
+      "leitura": "かれはぶっしつてきなよくぼうをすててしずかにくらした。"
     }
   },
   "obra_idx": {
-    "jp": 19,
+    "jp": 20,
     "de": 17
   },
   "dominadas": {
@@ -1525,10 +1525,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-14-08:00",
     "2026-10-14-12:30",
     "2026-10-14-17:30",
     "2026-10-14-19:30",
@@ -1587,7 +1593,8 @@
     "2026-10-24-06:30",
     "2026-10-24-08:00",
     "2026-10-24-12:30",
-    "2026-10-24-17:30"
+    "2026-10-24-17:30",
+    "2026-10-24-19:30"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0R0WUVtNnZ6RHRhX0V3d2JycFozRktMMEZmUXVGWmJudnZlX3hRSkpoY19QTk1RRnczTUppbUVzX2ZTR1BGMXQyekFxTldEbTI1TjlUN2lRRlBueEVfOU9lZWh4Rm02M3RMMm9iUlFBVEl0Y2M3OUxqYVJaTE54UjJOdWRtQXF0TnBIOTBxOUtndi1ZeFUwREJfS0VWbDJKS2pvc2ktbG5hbnBrSkJQQ2lRNmRTUm03cW50LWxQSktSU2t5Tm5CbnM0UDLSAdsBQVVfeXFMUGQ5amZna3BLc25OWFpkT1NFSkZxOV9jeHEwM2JjazdrNnE2Rjdnc2J1NmttVzlmYXctakd3UGEtSlF0RThqY1QxQlRkSEM2ZFdtMHNGc1l3QldDbzU1YjBhdktjdnVBTS1aU3VoemtLbXZtR1M5cnBOMWxVYjFxRVFfY1k2Qks4cGo1Z0xEUHlPZnprRHpFRmExQ1I1MXpORlRPVDBOTXM3LXlwUmMzdUxKdXh5RDdoNzF3VEYtSHpXWkFHM1dmbnI5Yk55cTBfaEhhVXQ1UEIweGQ4?oc=5",
@@ -3996,6 +4003,18 @@
       "exemplo": "Die Wahl findet am Sonntag statt.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-19:30-jp",
+      "palavra": "欲望",
+      "leitura": "よくぼう",
+      "sentido_pt": "desejo, cobiça",
+      "exemplo": "彼は物質的な欲望を捨てて静かに暮らした。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-24",
       "proxima": "2026-10-25",
       "acertos": 0
