@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Wahl",
+    "de": "Aktie",
     "jp": "欲望"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Wahl findet am Sonntag statt.",
+      "frase": "Er kauft jeden Monat eine Aktie von Apple.",
       "leitura": ""
     },
     "jp": {
@@ -1532,10 +1532,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-24",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-14-12:30",
     "2026-10-14-17:30",
     "2026-10-14-19:30",
     "2026-10-14-21:00",
@@ -1594,14 +1600,10 @@
     "2026-10-24-08:00",
     "2026-10-24-12:30",
     "2026-10-24-17:30",
-    "2026-10-24-19:30"
+    "2026-10-24-19:30",
+    "2026-10-24-21:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0R0WUVtNnZ6RHRhX0V3d2JycFozRktMMEZmUXVGWmJudnZlX3hRSkpoY19QTk1RRnczTUppbUVzX2ZTR1BGMXQyekFxTldEbTI1TjlUN2lRRlBueEVfOU9lZWh4Rm02M3RMMm9iUlFBVEl0Y2M3OUxqYVJaTE54UjJOdWRtQXF0TnBIOTBxOUtndi1ZeFUwREJfS0VWbDJKS2pvc2ktbG5hbnBrSkJQQ2lRNmRTUm03cW50LWxQSktSU2t5Tm5CbnM0UDLSAdsBQVVfeXFMUGQ5amZna3BLc25OWFpkT1NFSkZxOV9jeHEwM2JjazdrNnE2Rjdnc2J1NmttVzlmYXctakd3UGEtSlF0RThqY1QxQlRkSEM2ZFdtMHNGc1l3QldDbzU1YjBhdktjdnVBTS1aU3VoemtLbXZtR1M5cnBOMWxVYjFxRVFfY1k2Qks4cGo1Z0xEUHlPZnprRHpFRmExQ1I1MXpORlRPVDBOTXM3LXlwUmMzdUxKdXh5RDdoNzF3VEYtSHpXWkFHM1dmbnI5Yk55cTBfaEhhVXQ1UEIweGQ4?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV2NsMXNCdHhEWnFZMXE3aWtqckN6RHUtRm8wUVVRby1TNmFraHRReXhuMnhGUjV1WXdSLUhOblp0OXpxcFhKTS1CUHNFZTZoR2YwTWFmLXZqMF9JOFFvMElHNWdfTEV2QzFPZ01JYnVITGRBVTJhdU5xNDJoWmxyaW1NeFFOQ1NmNjc1b0VrTFVrNm10Z2Y3Y2ExMnZSZ0FTaHNVWDFwdEl6QURnN3kyLXpPaGxyQXk2VHFaRA?oc=5",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1d6QUpNWTYySWV6RkExODJ1bExvb0tLUl9EVlllZjZlaVhBcFR4U1pmNXV4QlFWTWVfaEQyQWQ0MkE4ZXN5WnEzX1YzX2phMTkyckxzblhBZEhlUmdxczJoTnc3Rm53dGhjWEJFbHBCQncwRzBPSlpjenJ0V0xYNTFrMzY2NWEzOUgyYzJ6UTZSOUR1aUdHV1QtZ1FhM1ZhRkVWcFlrakszMXBObG0zenFnSjdzQUk?oc=5",
-    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU0pNOWp0cmI0LWdkTzU1RFJBMDFoN1laYzRhejlVakhfZHF3bGh2MG1UcGFodldUa2NKMzl4UGVRRk9NSTNRODRQbnFfQjJGc1FER3hwYm9FMVk5al9UQnM0X2czVWRhNjNWZENYa0Z6bktvTU1URUl5ZVViQVhxN1BzZHFzbmNQLUthbDY3ZmktLW9KejhFUXlhZ1lYX1h4Zm9iUXRERnF1X196T3MtUy1UemswMjJCYWlBa1o5YXRCUTBCQ0Zkc2YybVBQUWRRX0hJ?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ2s4ekdlTjNFNmZCY2FEV283RVc4UVBBVGNHUWZSNHhLaDJDMm9fLThaV1pXWXpVdEphbGFfSEpTYWZsMVJHS3IzeEc3WHNwNFl5TTRvRXY2UUVPOTh5LUN4dTJPYXFQNVpxalhia0NQeEdKNnhCV1VUZWRaMU9EOXJ3?oc=5",
     "https://g1.globo.com/politica/noticia/2026/10/16/apesar-de-votos-a-favor-apenas-um-senador-da-oposicao-comparece-a-promulgacao-da-pec-que-acaba-com-a-escala-6x1.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/16/moraes-vota-para-tornar-oswaldo-eustaquio-reu-por-associacao-criminosa.ghtml",
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/16/datafolha-mostra-desafios-a-candidatos-flavio-bolsonaro-tem-de-evitar-mais-perda-de-votos-lula-precisa-ganhar-eleitores.ghtml",
@@ -1796,7 +1798,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-presidente-segundo-turno-24-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-governador-segundo-turno-24-outubro.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-governador-segundo-turno-24-outubro.ghtml",
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/nvidia-3-ai-infrastructure-stocks-221122731.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/24/should-investors-buy-the-meta-platforms-dip/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4015,6 +4022,18 @@
       "exemplo": "彼は物質的な欲望を捨てて静かに暮らした。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-24",
+      "proxima": "2026-10-25",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-24-21:00-de",
+      "palavra": "die Aktie",
+      "leitura": "",
+      "sentido_pt": "a ação",
+      "exemplo": "Er kauft jeden Monat eine Aktie von Apple.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-24",
       "proxima": "2026-10-25",
       "acertos": 0
