@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Aktie",
+    "de": "Wahl",
     "jp": "選挙"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Er kauft jeden Monat eine Aktie von Apple.",
-      "leitura": ""
+      "frase": "Die Wahl in Brasilia ist sehr wichtig.",
+      "leitura": "Die Wahl findet heute statt."
     },
     "jp": {
       "frase": "日曜日に大統領選挙が行われました。",
@@ -1546,10 +1546,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-25",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-14-19:30",
     "2026-10-14-21:00",
     "2026-10-15-06:30",
     "2026-10-15-08:00",
@@ -1608,14 +1614,10 @@
     "2026-10-24-17:30",
     "2026-10-24-19:30",
     "2026-10-24-21:00",
-    "2026-10-25-06:30"
+    "2026-10-25-06:30",
+    "2026-10-25-08:00"
   ],
   "links_usados": [
-    "https://www.fool.com/coverage/stock-market-today/2026/10/16/stock-market-today-oct-16-apple-edges-higher-on-iphone-duo-preorder-surge/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/16/prediction-1000-invested-in-taiwan-semi-tsmc-today/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/16/inflation-rose-to-3-7-in-september-is-it-time-to-sell-the-s-and-p-500/?.tsrc=rss",
-    "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ladder-capital-corp-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "https://www.thestreet.com/investing/stocks/coreweave-stock-plunges-12-but-wall-street-analyst-says-buy-the-dip-crwv?.tsrc=rss",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/16/flavio-bolsonaro-entrevista-globo.ghtml",
     "https://g1.globo.com/jornal-nacional/ao-vivo/flavio-bolsonaro-entrevista-candidatos-presidente-segundo-turno.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/16/flavio-bolsonaro-visita-sede-da-globo-no-rio.ghtml",
@@ -1810,7 +1812,12 @@
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/sete-municipios-terao-eleicoes-suplementares-para-prefeito-e-vice-neste-domingo-veja-lista.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia-que-o-grande-vencedor-seja-o-eleitor-seja-o-pais.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/famosos-votam-no-2o-turno-das-eleicoes-de-2026-fotos.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/25/daniel-vorcaro-e-alessandro-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/25/daniel-vorcaro-e-alessandro-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/suspeita-de-boca-de-urna-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/leandro-grass-pt-vota-no-guara-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-pp-vota-no-lago-norte-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/maioria-das-eleicoes-para-governador-no-df-teve-2-turno-veja-como-foi-cada-disputa.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/sabia-que-o-df-ja-teve-prefeitos-entenda-como-era-a-organizacao-politica-da-capital-antes-de-1969.ghtml"
   ],
   "palavras": [
     {
@@ -4053,6 +4060,18 @@
       "exemplo": "日曜日に大統領選挙が行われました。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-25",
+      "proxima": "2026-10-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-25-08:00-de",
+      "palavra": "die Wahl",
+      "leitura": "In Brasilia finden wichtige Wahlen statt.",
+      "sentido_pt": "a eleição",
+      "exemplo": "Die Wahl in Brasilia ist sehr wichtig.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-25",
       "proxima": "2026-10-26",
       "acertos": 0
