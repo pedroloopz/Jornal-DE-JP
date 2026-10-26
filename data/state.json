@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Verein",
-    "jp": "選挙"
+    "jp": "再選"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "日曜日に大統領選挙が行われました。",
-      "leitura": "にちようびにだいとうりょうせんきょがこなわれませんでした。"
+      "frase": "彼女は選挙で再選を果たした。",
+      "leitura": "かのじょはせんきょでさいせんをはたした。"
     }
   },
   "obra_idx": {
@@ -1560,10 +1560,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-25",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-15-06:30",
     "2026-10-15-08:00",
     "2026-10-15-12:30",
     "2026-10-15-17:30",
@@ -1622,14 +1628,10 @@
     "2026-10-24-21:00",
     "2026-10-25-06:30",
     "2026-10-25-08:00",
-    "2026-10-25-17:30"
+    "2026-10-25-17:30",
+    "2026-10-25-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-sexta-feira-16-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/playlist/videos-candidato-no-2-turno-leandro-grass-e-entrevistado-no-df2.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/16/candidato-no-df-leandro-grass-da-entrevista-a-globo-no-2o-turno-veja-integra-e-trechos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/16/veja-como-foi-sabatina-da-globo-com-leandro-grass-candidato-ao-governo-do-df-no-2o-turno.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/governo-do-df-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml",
     "https://finance.yahoo.com/m/2ea92b1d-49c9-3825-bb7f-1768711b7070/apple%2C-salesforce-lead-five.html?.tsrc=rss",
     "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
     "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/?.tsrc=rss",
@@ -1824,7 +1826,12 @@
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTBGUzJTNEdyRXlrZHRqZ1dQTVpERkRCR0p4enpLbFRDWEdTM1NTYjJKQVo4a25FVEJhd2RMSFdXZXI2UnhGRFN0T3ZRWVZzZ2xLeGlmZGV2am1fcl9tX29SbmJ2bEpkMXJINjJDZHlsSFVqd0l3LUhFd3FMc3cwUm56Wk0yYldjS21nZ01EMlVUR0ZhY2llR2xuckhGT20wOHJHZ3BoSmlLQ0FJUGx6N0ctN1ZoMFh5eHJ1YlAyMGVHWTBWcUE?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hR2VVaTVRU2MyZ3VYY183WGdaNUg5SHBHaHNLTlFxaEh0MGRzUjZZV2J1bUc4S1NjTWxadF94bmk1eVpOaVRvNXpZS3pEdGxvWWJENVhtdEtKQ3c5X2hnLXJZalJyVzBWVW42WktVMA?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOF9mMHY4bFlXLV9od3dsbDRjaWJyU0Z4UG81TVExQ2FsWTB4bHo3ZU9PWFFNYm5jQ1JKWGE5WlZtYnhWRG5LM1BzZFFkdmg2SE1VZnIwcDhBd29CaHNwVXVBbmNPbjFORHZSQktRZ0J6Q05JaGhDUlotdVkyMmxRWXR6aVhicGZjWEFJYTQ5Skh6cHI4VXk3dnB0VGllRUhuc0trRTJyc1Fsei1DQjZKMll1b0Y1bnppdjFGNzVfWVdsZWtWdFJKbGdpeTlrTVhUdGNxSFN6Q1Fkc1U5dFpDVmRWWi1fSy1ERmFvS0Vtaw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjR1ZWZ3emFMUW1PbEdYa2xzQ04wNWZnZ2tZYTdndHYtQ3Q5Rk95Z3dFalFOWERTZHlBeEpuZ3RrVWM5WmMybWZOR3VSa0ZuQnZwczd1UklrWlVqdWRFWjU0QmQxMmNfaGVBVENyaE9uSV9JWm1KdTZaQzVUMUk0T19jREc2QXRzQ1dQMkxrcDlVTGs1?oc=5"
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjR1ZWZ3emFMUW1PbEdYa2xzQ04wNWZnZ2tZYTdndHYtQ3Q5Rk95Z3dFalFOWERTZHlBeEpuZ3RrVWM5WmMybWZOR3VSa0ZuQnZwczd1UklrWlVqdWRFWjU0QmQxMmNfaGVBVENyaE9uSV9JWm1KdTZaQzVUMUk0T19jREc2QXRzQ1dQMkxrcDlVTGs1?oc=5",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-fala-em-governar-para-todos-apos-ser-reeleita-no-df-fazer-desta-capital-um-modelo-para-o-brasil.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/conheca-a-trajetoria-e-as-propostas-de-celina-leao-primeira-mulher-eleita-governadora-do-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-e-reeleita-governadora-do-distrito-federal.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/eleitor-no-df-relata-ter-sido-agredido-apos-fazer-o-l-para-uma-amiga-em-area-publica-neste-domingo.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/fechamento-urnas-df-prorrogacao.ghtml"
   ],
   "palavras": [
     {
@@ -4091,6 +4098,18 @@
       "exemplo": "Der Verein Botafogo hat viele Fans in Rio de Janeiro.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-25",
+      "proxima": "2026-10-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-25-19:30-jp",
+      "palavra": "再選",
+      "leitura": "さいせん",
+      "sentido_pt": "reeleição",
+      "exemplo": "彼女は選挙で再選を果たした。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-25",
       "proxima": "2026-10-26",
       "acertos": 0
