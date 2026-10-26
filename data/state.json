@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Gedicht",
+    "de": "Politik",
     "jp": "方針"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Goethe hat ein sehr langes Gedicht geschrieben.",
+      "frase": "Die Politik in Brasilien ist sehr dynamisch.",
       "leitura": ""
     },
     "jp": {
@@ -1581,10 +1581,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-15-17:30",
     "2026-10-15-19:30",
     "2026-10-15-21:00",
     "2026-10-16-06:30",
@@ -1643,14 +1649,10 @@
     "2026-10-25-17:30",
     "2026-10-25-19:30",
     "2026-10-25-21:00",
-    "2026-10-26-06:30"
+    "2026-10-26-06:30",
+    "2026-10-26-08:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYTRMMFVPU3VJU2VUa2ZjSlhxa3FKTzNEZm9lbkZXaER1ZGlFeTBHVTQ2RDZKY2tqN09sVWtONzJjNUlsT0pEQURTUS11ZFRTcTFYYkl2NVBycHl2aDlKTjUtVXBNY3JVd1JYdzhMNUlXOWN1MlFTV2lQZ3JrdDFaUUUxWXhDd0FtNzNpS2JUMlFzTGRZam5GcEdHX0tGazE2aDJQaXRndmpuOUxUa0VuMlZyZ2UxVUtGczZZdjlJUlBidXI4bEtGQU1UWHRBejdDWDhQamlSYkV4Z9IB6AFBVV95cUxNZnpYOWN4OTdzRTFucGYzTTJsU0h0eFZ2VjNBeDBsQ3N6djFLYncxU0oxcko2TS1HdUdMQjlsN1REWTBSOUpOX1VRNk41TEFxTnpvYXZHV3BtZ0dvQW5WcTFRTzRrX2NkNm9fNTRqOWVCamVQeE1zQ0l2TUxhaFBPT0hGWThuRFk4SWFXSDFnT1Fzcl8zZUtYa0FDRjJmU3R1REl2Qmhjckp2QmdJM0RiWE1iUFV0N0J1VDNzSFV4d3ZhaU00Y1YwZGdTS25tekhNN01ldENHcnRYWnpwVmt4R1pxOENjSld4?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV3E0V0FTOVItRmdXVVhCYnM2am5xc2VIeWNidmRKbnhGSmRpZlJSU1dMZEhjUC1TdXF3Vm1CXy1zcWFULTVhUEZXcG01Qi1NUXdvXzktNTVYNnplb0JMb2pGelRxZnVxS3RjdUV1Y1VINFRSS0EteDFDUlNkQWhjTEk3MnFrVzVoZXBZaVo3TFhyZ256bl9sNjlrWDhZTXZ3a1Qzb0lNLXhpQTFUS3BGZm9ReDY3bUpnZ09QeUtnMU1GMVQ2RjdwdEhZZUNiY3JFbzlzRDdua3phdndDTTFGM3FlSU9rVDljdlo5VDFfSdIB_gFBVV95cUxQMVo1aHFyZ0N5WVVxYl96b2tERkpZOWtRX1dmSVV6SlI3ZUVDWVRibjhzd1JiWHFIS3h1MENybG5EV1RyNlpYN2k5cTh0clViS0Exb2FCa1hlcWtDTU1Id2s0X05MeDRocURGdk1ULVhmOFZsWXE3RGVHbDJib1BMZ0FqajR4WlRxR1FacEpzdF9jRWdlSl9JLXdFay12eGFmSVhPRGpmS0g3V2tSQWVuZDlzdnl4S0pGSDN4bXMtZllpS3lFUVU5OUxoM2RUc2toR2hhOTFyYXF0bWJ4bUNtS3B6T0cxRGFJZDZqbmFLSnAzc0hId21GdlpaRFoxUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVFrQnQ0VEFyaXdYYlFOZEhBS1ZKdlo3TGIzRHBPa3pVOVJzRDVWejVHeXFDTC1Sc0wyZW4xcVpyNXVOTlZoVVBNQlc4VzJCVTRac012Ml9nSzNQa1paSm0yR1M4T3hHMmVyc0h2YmN3bU43WVJsNjNHV2tOS05UWE1Bc0Q3dG1iOHA4Y1dIb3kyak91YjFfT1o4REM5N2kxbnNJMGQ3bC1pYTRXaUxqX1BLUWlWQmFPSjIzUWFVcWhEejY3WS1NeUF1bS1ldw?oc=5",
-    "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLXpXSVJ6UWlPeEFoandtZEJhMWhVell4QUFCV1BsdVU0dGU3X1BjUjhHT3F2T2JOR2pBMWpBemlxZzNKRGxVSjNZNzJGVmJhNVJ3UXlxVHlJYXNteFBJTGJFbURLYnBldUNKLUxReVByMHRmRDJCWU9CMDhiYkJqeERIWnllNF9TT21GbjRCNm56WXFmU3FVX3NVVXE?oc=5",
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOME1odlk3TXMyQ1pvd2hRSkxhM255Qi1PUl9KcVBKYWFtNTRhX3J1d2Y1YzQ2NlpfSmtQRU5FSWVkdkRQb1MzTzNTQktSSERVSEpjSHpGYXJlcXNTU1lVRWJtZWdzUjlkLXlqLVZUSlBVT2ZDdjFBQnV3VEc1RVduUkdvSTdvSERueGFCbzZWNUZKVzRPd2lxN1QtdTdBdnNkOHVmQUpSTU9JWjR3dUtZelZSV1VBcjNSVzRpMkk0V2lpVEhocDN1WGJ3OTVIMXpWU01adXhUQXhrTUo1?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mpt-processa-diplomata-aposentada-e-filho-por-trabalho-analogo-a-escravidao-em-area-nobre-de-brasilia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mulher-de-30-anos-que-morreu-baleada-perto-de-casa-e-velada-neste-sabado-17-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/professores-de-escola-rural-no-df-denunciam-perseguicao-e-assedio-moral-de-diretora-veja-relatos.ghtml",
@@ -1845,7 +1847,12 @@
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa01NQlE3NHFVUXVmRlR1U1hrR2drd1drQnNUUU1SV0cyV29mQTZfZmlQTERqcjZ4YlF5NUJjS2QyZ3VHd1NIWnIzZGNIemx5Y3U0dXRCTW1hSUYzUFhxV0NLd21zelNIY3p1Zndyd2R2X01QTlFvbEgzSGkzU1NaTndhWjV4WFlEU2ZESWRRczZ3aDlmbXROVWlvUC1KQ2hNT3dMTm9zQkpaZXJ4U19aRXBUbXpGWHpnWlZ3dHI0bFRPcG52RHJZ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXduM0c0ZVpmaldYeEt2TTY4c3BGNzhqbkVPYWVJZkg0WnBRRFpIWXJ6UVRNNkptcElNb2NvUXpMekNUYy1PdmliMWdtemt3dEpaSTJkRnVvbTBmek9tNkJKcDg1cXpVdXY1THJCR20wM1o2U1NJTGlqNzVjamktTURaRE1rMlIwUTFlcUNCRmpOT1VpQl8yTGQ1UUZPbHZucloxemNla24zRWNHUE1BZHFR?oc=5",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGo1c0xLRDFiOHVLZ0ZlS0RKOFdtbS04amVhY0lKYXZqZzlGYVhWaXk0X0J4aTFsaTVBVjBKTVBVU2dvZ1c5U2Q0U2h2eWY3ZTNlQy1mOE5FTjdtb0k4Y2J4MHFIV1VMWDBTVWNsWml4OE5lRUEzT2lWM3dNVDhfUDA4MG1LUm9NR3RSSzViYmwyMU9OVTc0Q2dIdTdQZXRNZlRYLUs2Yw?oc=5",
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUE1hb0JZM2N3dVgza3liWTdRM1FxWmJkYnZlT0Vhend6MVJnUzF3NFhCMVd4MUltNU1OVXBtdDNjTnRvTnZZZmM3amZSd080dVJQYTVUdmdMYk05ODgzZzgyTjRaY2VGRmNSWkFka2h0VlMzaUQxNml5aGtoY3luWWRoWDZoSmJuYkVpRjFkMVl3UUVQbjhGbEY2elVPMGc?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUE1hb0JZM2N3dVgza3liWTdRM1FxWmJkYnZlT0Vhend6MVJnUzF3NFhCMVd4MUltNU1OVXBtdDNjTnRvTnZZZmM3amZSd080dVJQYTVUdmdMYk05ODgzZzgyTjRaY2VGRmNSWkFka2h0VlMzaUQxNml5aGtoY3luWWRoWDZoSmJuYkVpRjFkMVl3UUVQbjhGbEY2elVPMGc?oc=5",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-pf-registrou-86-ocorrencias-de-possiveis-crimes-eleitorais-em-20-estados-e-no-df.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/26/lula-enfrentara-congresso-a-direita-crise-no-stf-e-precisara-conciliar-promessas-com-economia-no-4o-mandato.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml"
   ],
   "palavras": [
     {
@@ -4148,6 +4155,18 @@
       "exemplo": "クラブは新しい選手を獲得する方針です。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-26",
+      "proxima": "2026-10-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-26-08:00-de",
+      "palavra": "die Politik",
+      "leitura": "",
+      "sentido_pt": "a política",
+      "exemplo": "Die Politik in Brasilien ist sehr dynamisch.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-26",
       "proxima": "2026-10-27",
       "acertos": 0
