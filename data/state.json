@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Gedicht",
-    "jp": "再選"
+    "jp": "方針"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼女は選挙で再選を果たした。",
-      "leitura": "かのじょはせんきょでさいせんをはたした。"
+      "frase": "クラブは新しい選手を獲得する方針です。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1574,10 +1574,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-26",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-15-12:30",
     "2026-10-15-17:30",
     "2026-10-15-19:30",
     "2026-10-15-21:00",
@@ -1636,14 +1642,10 @@
     "2026-10-25-08:00",
     "2026-10-25-17:30",
     "2026-10-25-19:30",
-    "2026-10-25-21:00"
+    "2026-10-25-21:00",
+    "2026-10-26-06:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/m/2ea92b1d-49c9-3825-bb7f-1768711b7070/apple%2C-salesforce-lead-five.html?.tsrc=rss",
-    "https://247wallst.com/investing/2026/10/17/bofa-warns-ai-investors-could-lose-even-if-the-technology-works/?.tsrc=rss",
-    "https://247wallst.com/investing/2026/10/17/nvidias-ceo-says-all-of-this-is-going-to-pass-after-tech-lost-1-trillion-in-a-day/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/17/spacex-is-changing-heres-what-you-need-to-know/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/17/how-many-shares-earn-1k-year-dividend-mdt/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYTRMMFVPU3VJU2VUa2ZjSlhxa3FKTzNEZm9lbkZXaER1ZGlFeTBHVTQ2RDZKY2tqN09sVWtONzJjNUlsT0pEQURTUS11ZFRTcTFYYkl2NVBycHl2aDlKTjUtVXBNY3JVd1JYdzhMNUlXOWN1MlFTV2lQZ3JrdDFaUUUxWXhDd0FtNzNpS2JUMlFzTGRZam5GcEdHX0tGazE2aDJQaXRndmpuOUxUa0VuMlZyZ2UxVUtGczZZdjlJUlBidXI4bEtGQU1UWHRBejdDWDhQamlSYkV4Z9IB6AFBVV95cUxNZnpYOWN4OTdzRTFucGYzTTJsU0h0eFZ2VjNBeDBsQ3N6djFLYncxU0oxcko2TS1HdUdMQjlsN1REWTBSOUpOX1VRNk41TEFxTnpvYXZHV3BtZ0dvQW5WcTFRTzRrX2NkNm9fNTRqOWVCamVQeE1zQ0l2TUxhaFBPT0hGWThuRFk4SWFXSDFnT1Fzcl8zZUtYa0FDRjJmU3R1REl2Qmhjckp2QmdJM0RiWE1iUFV0N0J1VDNzSFV4d3ZhaU00Y1YwZGdTS25tekhNN01ldENHcnRYWnpwVmt4R1pxOENjSld4?oc=5",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV3E0V0FTOVItRmdXVVhCYnM2am5xc2VIeWNidmRKbnhGSmRpZlJSU1dMZEhjUC1TdXF3Vm1CXy1zcWFULTVhUEZXcG01Qi1NUXdvXzktNTVYNnplb0JMb2pGelRxZnVxS3RjdUV1Y1VINFRSS0EteDFDUlNkQWhjTEk3MnFrVzVoZXBZaVo3TFhyZ256bl9sNjlrWDhZTXZ3a1Qzb0lNLXhpQTFUS3BGZm9ReDY3bUpnZ09QeUtnMU1GMVQ2RjdwdEhZZUNiY3JFbzlzRDdua3phdndDTTFGM3FlSU9rVDljdlo5VDFfSdIB_gFBVV95cUxQMVo1aHFyZ0N5WVVxYl96b2tERkpZOWtRX1dmSVV6SlI3ZUVDWVRibjhzd1JiWHFIS3h1MENybG5EV1RyNlpYN2k5cTh0clViS0Exb2FCa1hlcWtDTU1Id2s0X05MeDRocURGdk1ULVhmOFZsWXE3RGVHbDJib1BMZ0FqajR4WlRxR1FacEpzdF9jRWdlSl9JLXdFay12eGFmSVhPRGpmS0g3V2tSQWVuZDlzdnl4S0pGSDN4bXMtZllpS3lFUVU5OUxoM2RUc2toR2hhOTFyYXF0bWJ4bUNtS3B6T0cxRGFJZDZqbmFLSnAzc0hId21GdlpaRFoxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxONVFrQnQ0VEFyaXdYYlFOZEhBS1ZKdlo3TGIzRHBPa3pVOVJzRDVWejVHeXFDTC1Sc0wyZW4xcVpyNXVOTlZoVVBNQlc4VzJCVTRac012Ml9nSzNQa1paSm0yR1M4T3hHMmVyc0h2YmN3bU43WVJsNjNHV2tOS05UWE1Bc0Q3dG1iOHA4Y1dIb3kyak91YjFfT1o4REM5N2kxbnNJMGQ3bC1pYTRXaUxqX1BLUWlWQmFPSjIzUWFVcWhEejY3WS1NeUF1bS1ldw?oc=5",
@@ -1838,7 +1840,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/conheca-a-trajetoria-e-as-propostas-de-celina-leao-primeira-mulher-eleita-governadora-do-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-e-reeleita-governadora-do-distrito-federal.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/eleitor-no-df-relata-ter-sido-agredido-apos-fazer-o-l-para-uma-amiga-em-area-publica-neste-domingo.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/fechamento-urnas-df-prorrogacao.ghtml"
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/fechamento-urnas-df-prorrogacao.ghtml",
+    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcWZvTG5rSjRaNXhPdHZTOXVycVEtV0dYY21kLThNcXhpdm5keHA0MmI0ZWFqY3REMnIwcDJCUUhwZkZnUGc3WVlabjNkWnBpMGwyU3BETV9fczJJRVNfYmJNRHFNYWlMaGU0ZWx4ekNLUDdZeks2cUQyTTl3OWQ4OUtXZG4wLW1EV0ktRmpXMHg0UWttTEJOMlp1V1ZDVDQ3Q0VuZVUtbnlRWHdzS1lhb3pxeDhQRWxhMTVkaHFfZUFkZ2pnQ0VlcTlyS0tlc1psTDZyWHdCQXJuN21OS0FzOVJxRDR4N056NUR5Z0dSSkVFNGNleUHSAYQCQVVfeXFMTkg3dkRaYW91dWZrY2F4SFpNbWZfeU91b0l5Z3BJUHhKd1RpQnZRZmtvdWdYclg0ZEYzSTIwSVZ5eUdpZDZjOG9mNllyd3g2cGZNX3BkZjdHMVZDQ3RPQlJtNmItY09HZ1IwYWx5OVZPS2kyYWNwYW5DQS14V1RWRGpkNDRVeXllX3RJdmpQd1hpVFQ5WDZwcDdtMGczM3BKcloxTHk3MV80dXpUb09SSDlWQXFIbG1ya3RRMUxXQlhRc3M5clItWEZUcEZsQXBVdEFOS2J1RXF1NnpWVjZsU0Z0bWkycnJtRjFuOGJJWTlMNWF6NktnbXJoaWVWS3Z4VTctRDA?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa01NQlE3NHFVUXVmRlR1U1hrR2drd1drQnNUUU1SV0cyV29mQTZfZmlQTERqcjZ4YlF5NUJjS2QyZ3VHd1NIWnIzZGNIemx5Y3U0dXRCTW1hSUYzUFhxV0NLd21zelNIY3p1Zndyd2R2X01QTlFvbEgzSGkzU1NaTndhWjV4WFlEU2ZESWRRczZ3aDlmbXROVWlvUC1KQ2hNT3dMTm9zQkpaZXJ4U19aRXBUbXpGWHpnWlZ3dHI0bFRPcG52RHJZ?oc=5",
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXduM0c0ZVpmaldYeEt2TTY4c3BGNzhqbkVPYWVJZkg0WnBRRFpIWXJ6UVRNNkptcElNb2NvUXpMekNUYy1PdmliMWdtemt3dEpaSTJkRnVvbTBmek9tNkJKcDg1cXpVdXY1THJCR20wM1o2U1NJTGlqNzVjamktTURaRE1rMlIwUTFlcUNCRmpOT1VpQl8yTGQ1UUZPbHZucloxemNla24zRWNHUE1BZHFR?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUGo1c0xLRDFiOHVLZ0ZlS0RKOFdtbS04amVhY0lKYXZqZzlGYVhWaXk0X0J4aTFsaTVBVjBKTVBVU2dvZ1c5U2Q0U2h2eWY3ZTNlQy1mOE5FTjdtb0k4Y2J4MHFIV1VMWDBTVWNsWml4OE5lRUEzT2lWM3dNVDhfUDA4MG1LUm9NR3RSSzViYmwyMU9OVTc0Q2dIdTdQZXRNZlRYLUs2Yw?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUE1hb0JZM2N3dVgza3liWTdRM1FxWmJkYnZlT0Vhend6MVJnUzF3NFhCMVd4MUltNU1OVXBtdDNjTnRvTnZZZmM3amZSd080dVJQYTVUdmdMYk05ODgzZzgyTjRaY2VGRmNSWkFka2h0VlMzaUQxNml5aGtoY3luWWRoWDZoSmJuYkVpRjFkMVl3UUVQbjhGbEY2elVPMGc?oc=5"
   ],
   "palavras": [
     {
@@ -4131,6 +4138,18 @@
       "tema": "literatura",
       "data": "2026-10-25",
       "proxima": "2026-10-26",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-26-06:30-jp",
+      "palavra": "方針",
+      "leitura": "",
+      "sentido_pt": "diretriz",
+      "exemplo": "クラブは新しい選手を獲得する方針です。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-26",
+      "proxima": "2026-10-27",
       "acertos": 0
     }
   ]
