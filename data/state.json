@@ -4,14 +4,14 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Politik",
+    "de": "Wachstum",
     "jp": "方針"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Politik in Brasilien ist sehr dynamisch.",
+      "frase": "Das Wachstum von Nvidia ist sehr schnell.",
       "leitura": ""
     },
     "jp": {
@@ -1588,10 +1588,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-15-19:30",
     "2026-10-15-21:00",
     "2026-10-16-06:30",
     "2026-10-16-08:00",
@@ -1650,14 +1656,10 @@
     "2026-10-25-19:30",
     "2026-10-25-21:00",
     "2026-10-26-06:30",
-    "2026-10-26-08:00"
+    "2026-10-26-08:00",
+    "2026-10-26-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mpt-processa-diplomata-aposentada-e-filho-por-trabalho-analogo-a-escravidao-em-area-nobre-de-brasilia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/mulher-de-30-anos-que-morreu-baleada-perto-de-casa-e-velada-neste-sabado-17-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/professores-de-escola-rural-no-df-denunciam-perseguicao-e-assedio-moral-de-diretora-veja-relatos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/17/previsao-do-tempo-hoje-para-brasilia-df-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/16/com-pec-promulgada-camara-diz-que-vai-aplicar-fim-da-escala-6x1-ja-a-partir-da-proxima-semana.ghtml",
     "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzVPcGNfeXl6M1dCdEFDNGVJY0Q0SnRiOUUtSmhGbUxaUUxmMFdWRWNvdzVJNkZmU1RQa1VETlE3UGQ1Y3FGWDZmU3JIRkhMeTdtOXBxZkJQNFFhaTRaeXk2eUhfdzh6M0pOZ2didEhWS3Q2YVlYeEk2cWhuZjFfVG5UdEMyVjlqbzJHRDM1dEhkNlBfRndObWl0Q1V4UGxuSHNJbFlfeXlfU21nRDBWQi13YWFSelBRWldpcmlB0gHMAUFVX3lxTE9VQ0JfY1BicVZrLWgzRHk2UXNTWUxmUXRSdk5lMjhxRzhqVmZlWlYtd3E3UC1XcXJKbE05eTFQYWhOTVNzV01WQ1RnMjBYU2hCUHVKbWhPbUE0ZjFtTnpjVlZJRXZmd2p2Vk9BcW1JYjFUcXUxa1g3TTB1SGY4Sjhmd0ZMSFk5am84UjBHS3NtMkQ2R19uWTV2U3RkVm1zc2RwMERJeWtOU0xjV19PNVJuVkZZSWktVE1lZTVST0RsQkU0T1RIb2N2aWpaZQ?oc=5",
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxON0lCMjd4bVJScFk2Mkh5VWxtSkdoNk5QNFczSzFKX3RiYzQ3VFhSZkkycTZyeWg1dUJXREwyZmROanNHS1BoN1FoV3ZuYzZVUTg0djU2ZW1BXzlncFZwZFZsMl9KdE5hR0Y2Ukx5QXp4d3BJV2hRQncyakFXNHBGQWtzNl9DeFZ1OHJZYWhlNlA?oc=5",
     "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaHplaDdSaF95djJEUU8xcGl2QWJRNGVRVktGWjRqNWNUS0J4TVlDX21UUngyNTVUcjlmYjVlRlFwZHA4azBSVDRrYXhqd3RYNEpBbnAxLTNWVzZkUFNraUwwei01ZkVnNUVwbWdBUTYzZ0JNdXAzaW53b1JHYjF5QjBxdXNOSjBPNUhJdDVMMDNRd1RjN29EeFlrMFNWRDdsNVhfMmhBRlVBUnVhTUo5RkktMXk1TFFMX2l4VW1LdnJIZEVFVkxDYkVqWGN1Ry1XYkxCTXBmYTJKVTNFa2IzOUZCNW3SAfMBQVVfeXFMTmozT2VWcFlHelJZWWVrTGUwYWdIZWRGZjRLZDJIR2EtZU1MTUxRMlZTQ3hEbzZqVnVxcTNid1VYRi1EMXJSNkE4U0VGbGR1eVdKSm0wT2lHMlZsVS04WEtGVWdsWHVIQnBqVm1VTDM1NXA3SU9JSGJpM2pvWWxRazdZOTUzM0JXMTZiUkVnUGNacUFsS0JTUnNNV3NEclVuM2R1eG9xSTBDT3QxOHA4OHlIRUFFZjhyRkc0aWtsXzFVU1JPR2ItbFd0ajhRdWhoQkRMS1VSd2pFRENKSmtOdWROOHlFVkNoZDhtd1R1OUgzX04w?oc=5",
@@ -1852,7 +1854,12 @@
     "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/26/lula-enfrentara-congresso-a-direita-crise-no-stf-e-precisara-conciliar-promessas-com-economia-no-4o-mandato.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml"
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml",
+    "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss",
+    "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
+    "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/26/anthropic-just-filed-to-go-public-should-you-buy-the-stock/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/26/berkshire-hathaway-is-the-stock-still-a-safe-buy-without-warren-buffett/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4167,6 +4174,18 @@
       "exemplo": "Die Politik in Brasilien ist sehr dynamisch.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-26",
+      "proxima": "2026-10-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-26-17:30-de",
+      "palavra": "das Wachstum",
+      "leitura": "",
+      "sentido_pt": "o crescimento",
+      "exemplo": "Das Wachstum von Nvidia ist sehr schnell.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-26",
       "proxima": "2026-10-27",
       "acertos": 0
