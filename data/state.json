@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Flugzeug",
+    "de": "Sieg",
     "jp": "予測"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Flugzeug fliegt nach Miami.",
+      "frase": "Jeder Sieg bringt Freude im Stadion.",
       "leitura": ""
     },
     "jp": {
@@ -1616,10 +1616,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-27",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-16-12:30",
     "2026-10-16-17:30",
     "2026-10-16-19:30",
     "2026-10-16-21:00",
@@ -1678,14 +1684,10 @@
     "2026-10-26-17:30",
     "2026-10-26-19:30",
     "2026-10-26-21:00",
-    "2026-10-27-06:30"
+    "2026-10-27-06:30",
+    "2026-10-27-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
-    "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/17/depois-de-lula-flavio-bolsonaro-diz-ser-prejudicado-pela-meta-e-pede-para-tse-proibir-impulsionamento-de-posts-negativos.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/17/stj-abre-investigacao-e-exonera-servidor-suspeito-de-vazar-minutas-a-advogado-amigo-de-flavio.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/18/apoiadores-de-lula-fazem-ato-no-centro-de-brasilia-veja-imagens.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/18/2o-turno-no-df-conheca-as-propostas-de-celina-e-grass-para-enfrentar-desastres-climaticos.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
@@ -1880,7 +1882,12 @@
     "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-vs-msft-googl-145956028.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/27/3-dirt-cheap-dividend-stocks-to-buy-hand-over-fist/?.tsrc=rss",
     "https://beincrypto.com/cramer-broadcom-anthropic-deal-nvidia/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/800-vdc-data-center-power-141400243.html?.tsrc=rss"
+    "https://finance.yahoo.com/technology/ai/articles/800-vdc-data-center-power-141400243.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk8xbFZsOXRtcXg5WmdVWTRpZkp3S21SOEwxN1MtMGduMzk3ZGh6VGdIZUVhRnMyRXg2eElhZVRpWXc5ajFsOUY2NWs5UUc4VWRpS0NSb0ZHc1BCSFZVOFpKQ2VTZGt1YndMRTBzeHE1YjFzZ1p0eDNDVUVxMElvZkpDV0VhU2piTnVUTG9qRkpqZ0IzVndaY0l2S1hwUW5DbVI3VGJONFBjREw5c2UxYzdqWEh6VTIyNTlsWFpIUUlFUQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlZobnRWVXREaWNZTDRIeExJZm5odEVJNkhVS3BpOXNBX3c4UWRMeFZ3WW93MmVreHhvVGplZHlSRU13WnpScFdqLVlsa3ZWXzhqOHYxMC1LX2ZPRWlESkN1UjJ3azhZeXFicHM3amVHa3RnSEgySmlDa053RW9ZXzYzMktBS2x6NGItLVJyb21CQzdxTHg2Q0FxMzVJSERWRUl6bjUxemg5dw?oc=5",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0FMZzNJZTZ6ekJ3VzRKWE1LOUtMcEFRcW1pVHZXTDB4UUphRGdsam5XQjZSUmpKZVVMdEpiWWhNN3o1dkpjcHFGVWo5TnByYmtPalF0NVBmeDRYVFRuajBOdmdIcWVNbkdLRk1sQlhRYWV4SUlHQzZNUm5mbnBiajl4VnFUVXRxWDNfS3M3aXlzdWo3bzNBd1VzZndLdnl5QUdDb1FhYTZrM1NOWGg1SHpnVGpOeTVEb3ZwTUxQTDhZSm90Z180aHkwWThJZ3FtS3RyWmw3YVByWXZLVy1XM2J5UmNVQlpnb3c?oc=5",
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGR0U0NkNFBfQVp3ZWVKWThRaXpRWGl2ZElCUXpnQ2Z6Nk5WX3IzMmtzTVpfTDFzRWw4eGFRUFBKV0RGdDYxOC1PTHdWbzM2LVpJR1NHM0dUU3pMM0k4MjE4UTQ0RGpxMWc4R09BLUl4RF9rSkVHa2pzMXhMQzBnZGF4ejhmYXRPanRkZw?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcW9zM2lGUDV4X1JmXzFzc0dGNGVlV1BiMVFCYV9CbkxtX1lhLTVpcGxGTzQ0dFB1YkpzQ2h5dXh5X2Y3Z0IzWFVtSG5Fd3gtRjdvalZRakV4TE1qSHd2V1N1Rm1vQUhLUW5VNXRXOHRZUEFWR2NyNm5ZWUVScDk5TllFZ3g4QlNJSEc5aklrWEEtM2xVZ2t3TC1Ea092cEFhWFJhSFdYVzFhRVlobmhRSEQ0eG1qcFVxN082aVFHZmhqRzZHM2JUZmZoTG96ZlhmVk5tQWljdW45UQ?oc=5"
   ],
   "palavras": [
     {
@@ -4243,6 +4250,18 @@
       "exemplo": "専門家は今年の株価上昇を予測しています。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-27",
+      "proxima": "2026-10-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-27-08:00-de",
+      "palavra": "der Sieg",
+      "leitura": "Der Botafogo hat wichtige Neuigkeiten. Der Verein kauft neue Anteile. Jetzt hat der Klub mehr als neunzig Prozent der SAF. Nach dem Rückzug von Eagle übernimmt der soziale Club die Kontrolle. Die Fans hoffen auf eine gute Zukunft. Das Team muss jetzt hart arbeiten. Trainer und Spieler wollen wieder gewinnen. Jeder Sieg bringt Freude im Stadion.",
+      "sentido_pt": "a vitória",
+      "exemplo": "Jeder Sieg bringt Freude im Stadion.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-27",
       "proxima": "2026-10-28",
       "acertos": 0
