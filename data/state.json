@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Sieg",
-    "jp": "予測"
+    "jp": "労働"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "専門家は今年の株価上昇を予測しています。",
-      "leitura": ""
+      "frase": "彼らは過酷な労働環境で働いていた。",
+      "leitura": "かれらはかこくなろうどうかんきょうではたらいていた。"
     }
   },
   "obra_idx": {
@@ -1623,10 +1623,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-27",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-16-17:30",
     "2026-10-16-19:30",
     "2026-10-16-21:00",
     "2026-10-17-06:30",
@@ -1685,14 +1691,10 @@
     "2026-10-26-19:30",
     "2026-10-26-21:00",
     "2026-10-27-06:30",
-    "2026-10-27-08:00"
+    "2026-10-27-08:00",
+    "2026-10-27-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/18/apoiadores-de-lula-fazem-ato-no-centro-de-brasilia-veja-imagens.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/18/2o-turno-no-df-conheca-as-propostas-de-celina-e-grass-para-enfrentar-desastres-climaticos.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/18/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/homem-e-preso-em-flagrante-por-agredir-e-esfaquear-mulher-em-ceilandia-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/17/adolescente-morre-apos-ser-esfaqueado-durante-discussao-por-ciumes-em-ceilandia.ghtml",
     "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
@@ -1887,7 +1889,12 @@
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlZobnRWVXREaWNZTDRIeExJZm5odEVJNkhVS3BpOXNBX3c4UWRMeFZ3WW93MmVreHhvVGplZHlSRU13WnpScFdqLVlsa3ZWXzhqOHYxMC1LX2ZPRWlESkN1UjJ3azhZeXFicHM3amVHa3RnSEgySmlDa053RW9ZXzYzMktBS2x6NGItLVJyb21CQzdxTHg2Q0FxMzVJSERWRUl6bjUxemg5dw?oc=5",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0FMZzNJZTZ6ekJ3VzRKWE1LOUtMcEFRcW1pVHZXTDB4UUphRGdsam5XQjZSUmpKZVVMdEpiWWhNN3o1dkpjcHFGVWo5TnByYmtPalF0NVBmeDRYVFRuajBOdmdIcWVNbkdLRk1sQlhRYWV4SUlHQzZNUm5mbnBiajl4VnFUVXRxWDNfS3M3aXlzdWo3bzNBd1VzZndLdnl5QUdDb1FhYTZrM1NOWGg1SHpnVGpOeTVEb3ZwTUxQTDhZSm90Z180aHkwWThJZ3FtS3RyWmw3YVByWXZLVy1XM2J5UmNVQlpnb3c?oc=5",
     "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGR0U0NkNFBfQVp3ZWVKWThRaXpRWGl2ZElCUXpnQ2Z6Nk5WX3IzMmtzTVpfTDFzRWw4eGFRUFBKV0RGdDYxOC1PTHdWbzM2LVpJR1NHM0dUU3pMM0k4MjE4UTQ0RGpxMWc4R09BLUl4RF9rSkVHa2pzMXhMQzBnZGF4ejhmYXRPanRkZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcW9zM2lGUDV4X1JmXzFzc0dGNGVlV1BiMVFCYV9CbkxtX1lhLTVpcGxGTzQ0dFB1YkpzQ2h5dXh5X2Y3Z0IzWFVtSG5Fd3gtRjdvalZRakV4TE1qSHd2V1N1Rm1vQUhLUW5VNXRXOHRZUEFWR2NyNm5ZWUVScDk5TllFZ3g4QlNJSEc5aklrWEEtM2xVZ2t3TC1Ea092cEFhWFJhSFdYVzFhRVlobmhRSEQ0eG1qcFVxN082aVFHZmhqRzZHM2JUZmZoTG96ZlhmVk5tQWljdW45UQ?oc=5"
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcW9zM2lGUDV4X1JmXzFzc0dGNGVlV1BiMVFCYV9CbkxtX1lhLTVpcGxGTzQ0dFB1YkpzQ2h5dXh5X2Y3Z0IzWFVtSG5Fd3gtRjdvalZRakV4TE1qSHd2V1N1Rm1vQUhLUW5VNXRXOHRZUEFWR2NyNm5ZWUVScDk5TllFZ3g4QlNJSEc5aklrWEEtM2xVZ2t3TC1Ea092cEFhWFJhSFdYVzFhRVlobmhRSEQ0eG1qcFVxN082aVFHZmhqRzZHM2JUZmZoTG96ZlhmVk5tQWljdW45UQ?oc=5",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-27-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/27/celina-leao-promete-reduzir-tempo-de-espera-na-saude-e-reafirma-compromisso-com-tarifa-zero-e-educacao-integral.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/caseiro-e-resgatado-apos-28-anos-de-trabalho-escravo-domestico-no-df-ele-era-usado-como-laranja-em-esquema-da-familia.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/policia-investiga-morte-de-bebe-de-1-anos-em-upa-do-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/video-apos-denuncia-de-som-alto-grupo-ataca-carro-da-pm-e-destroi-portao-de-vizinha-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -4262,6 +4269,18 @@
       "exemplo": "Jeder Sieg bringt Freude im Stadion.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-27",
+      "proxima": "2026-10-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-27-12:30-jp",
+      "palavra": "労働",
+      "leitura": "ろうどう",
+      "sentido_pt": "trabalho",
+      "exemplo": "彼らは過酷な労働環境で働いていた。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-27",
       "proxima": "2026-10-28",
       "acertos": 0
