@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Wachstum",
+    "de": "Flugzeug",
     "jp": "措置"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Wachstum von Nvidia ist sehr schnell.",
+      "frase": "Das Flugzeug fliegt nach Miami.",
       "leitura": ""
     },
     "jp": {
@@ -1602,10 +1602,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-26",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-16-06:30",
     "2026-10-16-08:00",
     "2026-10-16-12:30",
     "2026-10-16-17:30",
@@ -1664,14 +1670,10 @@
     "2026-10-26-06:30",
     "2026-10-26-08:00",
     "2026-10-26-17:30",
-    "2026-10-26-19:30"
+    "2026-10-26-19:30",
+    "2026-10-26-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/17/empresaria-amiga-de-lulinha-rebate-declaracao-de-lula-diz-que-nao-e-pilantra-e-que-virou-boi-de-piranha.ghtml",
-    "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/apoiadores-de-lula-foram-as-ruas-neste-sabado-em-cidades-e-capitais.ghtml",
     "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
     "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
     "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
@@ -1866,7 +1868,12 @@
     "https://g1.globo.com/politica/noticia/2026/10/26/governo-federal-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/10/26/aprovacao-de-trump-sobe-1percent-e-chega-a-32percent-antes-das-eleicoes-nos-eua.ghtml",
     "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/investigacao-acorrentado-barra.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/neoenergia-oferece-54-vagas-gratuitas-para-formar-eletricistas-no-df-saiba-como-se-inscrever.ghtml",
+    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/26/cnbb-parabeniza-lula-e-diz-que-polarizacao-nao-pode-determinar-o-horizonte-do-proximo-governo.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/camara-do-df-pode-mudar-regra-e-liberar-3o-mandato-de-wellington-luiz-na-presidencia-da-casa.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/justica-federal-concede-acesso-a-prontuario-e-documentos-sigilosos-da-morte-de-tancredo-neves.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/gol-cancela-rotas-internacionais-e-df-ficara-sem-voo-direto-para-os-eua-pela-primeira-vez-em-17-anos.ghtml"
   ],
   "palavras": [
     {
@@ -4205,6 +4212,18 @@
       "exemplo": "政府はこの措置について説明しました。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-26",
+      "proxima": "2026-10-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-26-21:00-de",
+      "palavra": "das Flugzeug",
+      "leitura": "lei-tu-ra",
+      "sentido_pt": "o avião",
+      "exemplo": "Das Flugzeug fliegt nach Miami.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-26",
       "proxima": "2026-10-27",
       "acertos": 0
