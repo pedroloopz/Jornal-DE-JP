@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Wachstum",
-    "jp": "方針"
+    "jp": "措置"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "クラブは新しい選手を獲得する方針です。",
-      "leitura": ""
+      "frase": "政府はこの措置について説明しました。",
+      "leitura": "せいふはこのそちについてせつめいしました。"
     }
   },
   "obra_idx": {
@@ -1595,10 +1595,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-26",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-15-21:00",
     "2026-10-16-06:30",
     "2026-10-16-08:00",
     "2026-10-16-12:30",
@@ -1657,14 +1663,10 @@
     "2026-10-25-21:00",
     "2026-10-26-06:30",
     "2026-10-26-08:00",
-    "2026-10-26-17:30"
+    "2026-10-26-17:30",
+    "2026-10-26-19:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUzVPcGNfeXl6M1dCdEFDNGVJY0Q0SnRiOUUtSmhGbUxaUUxmMFdWRWNvdzVJNkZmU1RQa1VETlE3UGQ1Y3FGWDZmU3JIRkhMeTdtOXBxZkJQNFFhaTRaeXk2eUhfdzh6M0pOZ2didEhWS3Q2YVlYeEk2cWhuZjFfVG5UdEMyVjlqbzJHRDM1dEhkNlBfRndObWl0Q1V4UGxuSHNJbFlfeXlfU21nRDBWQi13YWFSelBRWldpcmlB0gHMAUFVX3lxTE9VQ0JfY1BicVZrLWgzRHk2UXNTWUxmUXRSdk5lMjhxRzhqVmZlWlYtd3E3UC1XcXJKbE05eTFQYWhOTVNzV01WQ1RnMjBYU2hCUHVKbWhPbUE0ZjFtTnpjVlZJRXZmd2p2Vk9BcW1JYjFUcXUxa1g3TTB1SGY4Sjhmd0ZMSFk5am84UjBHS3NtMkQ2R19uWTV2U3RkVm1zc2RwMERJeWtOU0xjV19PNVJuVkZZSWktVE1lZTVST0RsQkU0T1RIb2N2aWpaZQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikAFBVV95cUxON0lCMjd4bVJScFk2Mkh5VWxtSkdoNk5QNFczSzFKX3RiYzQ3VFhSZkkycTZyeWg1dUJXREwyZmROanNHS1BoN1FoV3ZuYzZVUTg0djU2ZW1BXzlncFZwZFZsMl9KdE5hR0Y2Ukx5QXp4d3BJV2hRQncyakFXNHBGQWtzNl9DeFZ1OHJZYWhlNlA?oc=5",
-    "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaHplaDdSaF95djJEUU8xcGl2QWJRNGVRVktGWjRqNWNUS0J4TVlDX21UUngyNTVUcjlmYjVlRlFwZHA4azBSVDRrYXhqd3RYNEpBbnAxLTNWVzZkUFNraUwwei01ZkVnNUVwbWdBUTYzZ0JNdXAzaW53b1JHYjF5QjBxdXNOSjBPNUhJdDVMMDNRd1RjN29EeFlrMFNWRDdsNVhfMmhBRlVBUnVhTUo5RkktMXk1TFFMX2l4VW1LdnJIZEVFVkxDYkVqWGN1Ry1XYkxCTXBmYTJKVTNFa2IzOUZCNW3SAfMBQVVfeXFMTmozT2VWcFlHelJZWWVrTGUwYWdIZWRGZjRLZDJIR2EtZU1MTUxRMlZTQ3hEbzZqVnVxcTNid1VYRi1EMXJSNkE4U0VGbGR1eVdKSm0wT2lHMlZsVS04WEtGVWdsWHVIQnBqVm1VTDM1NXA3SU9JSGJpM2pvWWxRazdZOTUzM0JXMTZiUkVnUGNacUFsS0JTUnNNV3NEclVuM2R1eG9xSTBDT3QxOHA4OHlIRUFFZjhyRkc0aWtsXzFVU1JPR2ItbFd0ajhRdWhoQkRMS1VSd2pFRENKSmtOdWROOHlFVkNoZDhtd1R1OUgzX04w?oc=5",
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGp6czhUNlZxblhMdFdZWlI3dGNoQmxORnBxSFktUVMwY3p2YzB6MXFKUERZUm5sak44RmtNcWhvLXl3UG1XbFFLeTdYeXpRSDVBT2dRaGpqd0dDNDdKaGtCMlRYeFdGODBCMWdpekNmTjhMd3ZiTnAzd0pWRnFkSmNycjNuZUFhUkpoM2FMeVcxSnQzc2lLS25iYmJhSzNvczBFSHBVQklMZEtIa28teDJ3VFRuUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOTg4YU1mblRwUUFSZ2JUTmp1YUp1QW01V2cxblAzWkV5emo3ek9kUjBHSllEWXdBVjVVSHF3anIySDdYOTV2aERMM3FLcUZheW42dl9reHFaYzBsQzhfOTBiYmJfdXFCcDNoUTZUUFlxcXMxWl9ySG9uUVp0YXgyRXVlMWl1LUl0MGhKTktNMmdRRm1T?oc=5",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/campanha-eleitoral-radio-flavio-bolsonaro-lula.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/instagram-lula-flavio-bolsonaro-segundo-turno.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/18/alcolumbre-conta-votos-e-traca-planos-para-seguir-no-comando-do-senado-em-governo-de-lula-ou-de-flavio.ghtml",
@@ -1859,7 +1861,12 @@
     "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
     "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/26/anthropic-just-filed-to-go-public-should-you-buy-the-stock/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/26/berkshire-hathaway-is-the-stock-still-a-safe-buy-without-warren-buffett/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/26/berkshire-hathaway-is-the-stock-still-a-safe-buy-without-warren-buffett/?.tsrc=rss",
+    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/26/governo-federal-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/26/aprovacao-de-trump-sobe-1percent-e-chega-a-32percent-antes-das-eleicoes-nos-eua.ghtml",
+    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/investigacao-acorrentado-barra.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml"
   ],
   "palavras": [
     {
@@ -4186,6 +4193,18 @@
       "exemplo": "Das Wachstum von Nvidia ist sehr schnell.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-26",
+      "proxima": "2026-10-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-26-19:30-jp",
+      "palavra": "措置",
+      "leitura": "そち",
+      "sentido_pt": "medida / providência",
+      "exemplo": "政府はこの措置について説明しました。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-26",
       "proxima": "2026-10-27",
       "acertos": 0
