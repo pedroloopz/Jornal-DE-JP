@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Flugzeug",
-    "jp": "措置"
+    "jp": "予測"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "政府はこの措置について説明しました。",
-      "leitura": "せいふはこのそちについてせつめいしました。"
+      "frase": "専門家は今年の株価上昇を予測しています。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1609,10 +1609,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-27",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-16-08:00",
     "2026-10-16-12:30",
     "2026-10-16-17:30",
     "2026-10-16-19:30",
@@ -1671,14 +1677,10 @@
     "2026-10-26-08:00",
     "2026-10-26-17:30",
     "2026-10-26-19:30",
-    "2026-10-26-21:00"
+    "2026-10-26-21:00",
+    "2026-10-27-06:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/18/own-vgt-heres-how-much-of-it-is-really-nvidia-appl/?.tsrc=rss",
-    "https://www.tikr.com/blog/apple-stock-iphone-duo-preorders-sell-out?ref=yahoofinance&.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/18/the-best-growth-stock-to-invest-usd10-000-in-right-now/?.tsrc=rss",
-    "https://www.fool.com/investing/breakfast-news/2026/10/18/breakfast-news/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/meta-earnings-restore-confidence-ai-110009627.html?.tsrc=rss",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/18/reta-final-do-2o-turno-lula-aposta-em-medidas-populares-para-virar-e-flavio-quer-reforcar-que-mantera-programas-sociais.ghtml",
     "https://g1.globo.com/jornal-nacional/noticia/2026/10/17/flavio-bolsonaro-faz-campanha-em-vitoria-e-salvador-apoiadores-realizam-atos-e-carreatas-em-capitais-brasileiras.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/17/maria-do-carmo-faz-caminhada-no-centro-de-manaus-e-apresenta-propostas-para-infraestrutura.ghtml",
@@ -1873,7 +1875,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/26/cnbb-parabeniza-lula-e-diz-que-polarizacao-nao-pode-determinar-o-horizonte-do-proximo-governo.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/camara-do-df-pode-mudar-regra-e-liberar-3o-mandato-de-wellington-luiz-na-presidencia-da-casa.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/justica-federal-concede-acesso-a-prontuario-e-documentos-sigilosos-da-morte-de-tancredo-neves.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/gol-cancela-rotas-internacionais-e-df-ficara-sem-voo-direto-para-os-eua-pela-primeira-vez-em-17-anos.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/gol-cancela-rotas-internacionais-e-df-ficara-sem-voo-direto-para-os-eua-pela-primeira-vez-em-17-anos.ghtml",
+    "https://247wallst.com/investing/2026/10/27/dont-be-surprised-if-nvidia-micron-and-sandisk-outperform-the-market-again/?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-vs-msft-googl-145956028.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/27/3-dirt-cheap-dividend-stocks-to-buy-hand-over-fist/?.tsrc=rss",
+    "https://beincrypto.com/cramer-broadcom-anthropic-deal-nvidia/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/800-vdc-data-center-power-141400243.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4226,6 +4233,18 @@
       "tema": "brasilia",
       "data": "2026-10-26",
       "proxima": "2026-10-27",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-27-06:30-jp",
+      "palavra": "予測",
+      "leitura": "よそく",
+      "sentido_pt": "previsão",
+      "exemplo": "専門家は今年の株価上昇を予測しています。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-10-27",
+      "proxima": "2026-10-28",
       "acertos": 0
     }
   ]
