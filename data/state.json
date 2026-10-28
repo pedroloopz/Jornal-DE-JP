@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Märchen",
+    "de": "Grenze",
     "jp": "取得"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Märchen von Rumpelstilzchen ist sehr alt.",
-      "leitura": ""
+      "frase": "Die Polizei kontrolliert die Grenze sehr streng.",
+      "leitura": "Die Grenze ist lang."
     },
     "jp": {
       "frase": "クラブは新しい株式の取得を発表しました。",
@@ -1644,10 +1644,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-27",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-17-06:30",
     "2026-10-17-08:00",
     "2026-10-17-12:30",
     "2026-10-17-17:30",
@@ -1706,14 +1712,10 @@
     "2026-10-27-08:00",
     "2026-10-27-12:30",
     "2026-10-27-17:30",
-    "2026-10-27-19:30"
+    "2026-10-27-19:30",
+    "2026-10-27-21:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcU8xa3dfdU8teUF4U0pPZ3hsUkhpVmQ2Vnp6MnBVVi1FM241dWc3QktqRF9OUWo5LVVlTkpBdG5rMXVQTk83SlVSUkdPQWRWSUlxZVF3MDN3MEIwT2RPYmd4dEprbEMtbnVoRG5MX2YzQzlvWXFVNkRMRVRsai1CUnF4djBBZno0eVdvVlAtU0hjSVBlMjA1X0lHM3l1UHZsNVdvRkdldHRPVXIzbXlMaVo5cVh6VElfZmktbjF2VW1GTXliZl9XTUp4TWhRYzhkZ3B6WTZjbExsM0ZTRDQ2M1pOTE4zaHc2RTRKNzcxUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTdCLTl2d2dhUkxiZktidGxFdlZWV3NsMFhMVjdqYVlXY0tDRU82Ynp3UldiQnRKX1E4N0VDOUNVZklDYWQza2dhTTlDM19SeTZNWER0SG1qSkVXMlRLT25mXzBsQWNYbktGWUN6R1VlWmc5Z1Z3MWo4RFVydEltU2gwbEdwNHhwZjh6ajlOQ25qb010dXhIaXQ4Nk5qSEJlMDlCVXR6RVdscHg1eVhhZjNya1FCV0NMMzFPVA?oc=5",
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo5NFd2MDhlZ2x0YjNCeWdJQy1oUno2R3RPdDloS2o0RHlkR3BaaE9paDctcDhPSE1pU0xIY0lNZVVObGM5ZkNkeFhWU3NRcHRDWGhDeU0wU1hDNktRUkVCZnR4RV9WUElKTWN3VDZNT1FrbWswb3VvZUtmc3U4b3FyWHU1ejlYMGRmLUhYbV8wUFU?oc=5",
-    "https://news.google.com/rss/articles/CBMihAJBVV95cUxOTkxuRllLN3dOSGE3b1NjUjRVNWVFYlpUdkU4akpXUkVqOGN6dEtmWTA1a2UtYUV4eW5QVnVMQzc2dmdCT3hqd3lmdWt2LU9vSXdNR05jRzlCVGU0ZzhFQ2dFRXRyQXNhSG56d3pTTnlCN0syMXhReW1PQlhGcVNEM3dabTQtUmxFNmRjaG05M09qM2ZPMjRnODl4WnZ1LVdFX3RhamZjaktxaGNRVzNURWxKTVh4XzNEdXNfWW5Pdkg2MjdVbmpwbHJoZl9KUGJoM0V3ak1faEgzNFZrdzVUeWotSkhfZTlxNm5XRldqcTZiakhVX2pCblBRX0VwaHhUaE1DbQ?oc=5",
-    "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU0JwZnh2OW5KWDJiU2NFRGRITGV0VG4tRWdNdDV6bktKX3pTcldZSnNseVdvTGpvRlA2cTdpaWNWYkg4bW14NHNDX2pqZ01RTGo5ck50b0ZGU0wxWXFqQ1cteVdmRjE3d0M1QVp2OGtxdVNQalF2aWpVd0doeDl2RnFxa0x2YUZGMkZYTDZsdWo3eUtfZ2RHYkV1X0wxM3B2eFhRRGwxM3A3aEhIQTN1dw?oc=5",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/19/df-nao-tem-mudancas-em-locais-de-votacao-no-2o-turno-afirma-tre.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/era-um-menino-bom-nao-merecia-isso-diz-irma-de-adolescente-morto-esfaqueado-no-df-motivo-do-crime-seria-ciumes.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/unb-abre-processo-seletivo-para-idosos-entrarem-na-universidade-veja-como-se-inscrever.ghtml",
@@ -1908,7 +1910,12 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUZ6ZGctNWNrdzJZRU1nNENtcF9EeVh1YXhPcU5rbXBEMkdlcmQ0UVY5NWxRRGsxbU0xak1tU3BSSUZDajh6QWU5c3pfV3JhRkZmak5sWF9nVmRhUzRHTTJyNmQzLVU3Uk13dG1zWWhiMGRTWHlqN2h0dWhrRjd2WXdOblJWTlJxYWNGZGE3dl9ELTc0MlNqaTFDUFpJeHVVWlhLVVhHbjJjaTlZdVFCbTNfYU1TTkVFMVFFd3FwSDA?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTJ4M0ZLV3g0X1BPTHhrMEl5YllqRlVwa1hIdXp0VFNncGExVHVGZFNsN2FtVnpUcHRYZWpHd2tzNmtEYUpaRThGY3N3Y244Q2E4WkpfbzhkU1ZuY3A5Q2lURUxMWWUza2ExSW1wcmdZeFRBU1J1d2R2ekZkVzRYZFRJYWt2Q3VNVllFUWp0VUFEZEpxajhBYmV6VWlZSkNtX3kwQVRqMHJlNmYtd3I2cTFKRGx4b2I1SG42SHluNTNqY2Uz?oc=5",
     "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZWN6QUttQVh0YXFaLUhzaTJPZ09rSm5ZOFVTT0dHR19HNFRHOXNvd2tZQm54OGdVdnh2UmZuSWFnYV9MYWtJeFQ4QjQ3QnZGRWVYOEEzUEZGd2tBcndaOG1zNnZwSVI2TFp4U1BjWU9PWkkxV0JhQUxXVzNTM1hvNzZfTW5zdWdjenhFVFpjeVl1YS11Q05BLThpZkQwa0hsU1FiM2VwZDFDbUw5Um1oZzRkaUVrX2hlclRwU0h3dlZ3Ul93V2x1OWdIZ05QeTlESUh3WWozVDdUTDJSdFR5SnEtVkZMNERIeXVJWk5hYmVTbDRGa3Ixb2dnYTdRZlVrZEd2WkU1VU55NDVfelZBZEpXVFRFcXhnWUxKSklndkhXdw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdDM4RU92UldabGw3eXE1REtROFEyRUJWWkFQMVpxZzE2QWR5dE5nZktPOGxfbWJzRTRST0k0OG5HSjA0aC1wTGFOSDhHN05xTDhKdVhGQl95bEhkOXZha1NZWS1xcWlGTFRMNzZIdXctUQ?oc=5"
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdDM4RU92UldabGw3eXE1REtROFEyRUJWWkFQMVpxZzE2QWR5dE5nZktPOGxfbWJzRTRST0k0OG5HSjA0aC1wTGFOSDhHN05xTDhKdVhGQl95bEhkOXZha1NZWS1xcWlGTFRMNzZIdXctUQ?oc=5",
+    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/28/a-rota-de-fuga-de-flavio-bolsonaro-o-assunto-1834.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/27/camara-aprova-projeto-que-da-incentivos-para-a-producao-de-cana-no-nordeste.ghtml",
+    "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/27/xuxa-comenta-caso-de-pastor-agredido-por-estar-com-camiseta-vermelha-no-dia-da-eleicao-em-goiania-que-odio-meu-deus.ghtml",
+    "https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml"
   ],
   "palavras": [
     {
@@ -4319,6 +4326,18 @@
       "exemplo": "クラブは新しい株式の取得を発表しました。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-27",
+      "proxima": "2026-10-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-27-21:00-de",
+      "palavra": "die Grenze",
+      "leitura": "diː ˈɡʁɛnt͡sə",
+      "sentido_pt": "a fronteira",
+      "exemplo": "Die Polizei kontrolliert die Grenze sehr streng.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-27",
       "proxima": "2026-10-28",
       "acertos": 0
