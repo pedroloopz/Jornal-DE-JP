@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Grenze",
+    "de": "Ergebnis",
     "jp": "心理"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Polizei kontrolliert die Grenze sehr streng.",
-      "leitura": "Die Grenze ist lang."
+      "frase": "Das Ergebnis von NVDA ist sehr gut.",
+      "leitura": ""
     },
     "jp": {
       "frase": "小説は登場人物の複雑な心理を上手に描いている。",
@@ -1658,10 +1658,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-28",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-17-12:30",
     "2026-10-17-17:30",
     "2026-10-17-19:30",
     "2026-10-17-21:00",
@@ -1720,14 +1726,10 @@
     "2026-10-27-17:30",
     "2026-10-27-19:30",
     "2026-10-27-21:00",
-    "2026-10-28-06:30"
+    "2026-10-28-06:30",
+    "2026-10-28-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/19/df-nao-tem-mudancas-em-locais-de-votacao-no-2o-turno-afirma-tre.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/era-um-menino-bom-nao-merecia-isso-diz-irma-de-adolescente-morto-esfaqueado-no-df-motivo-do-crime-seria-ciumes.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/unb-abre-processo-seletivo-para-idosos-entrarem-na-universidade-veja-como-se-inscrever.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/motociclista-morre-em-acidente-na-ponte-jk-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/19/adolescente-morto-apos-ser-esfaqueado-em-ceilandia-sera-velado-nesta-segunda-feira.ghtml",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaGFYWE5HSTl3ZFVRN1dIbTNiWExoUUxFVlZIVXVBdWZaYmZtZHd3OExvSGg3V2l2NEEwRWYxYkRKUzNFejdYaFRZbkxsY25sWWU0RGxXX0kwaEVEX2x5aVlMTThrVW9HS0JuMVFZaGcyd3BRT1Y0QkNmUXFBZlpVQ05SNzFuYlNKOFFVQzB0MjhJZmFsZHZ2LUkyZGpOSTg1SkFwMXY2UTg4RzFRWUVaSEs4WllzZUZNOWMxR05YQ2ZuYnVMY2I1RjBqbjQ?oc=5",
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM2szcTNLVjktV01xLUxBYzItZ1J3eUtOel9qcVhMbUxsVkI4bGJEWTd6YWk5aUh3YmtwcGNWMkh6ZU11TjVTYkhpeEs4UURvdmp4Ml9IbzVxYkE2Q2lFMVN3SVdnMkhlMGh4cjBPRUtzOE5HNTNUUnJ0MlBaWWFoVVNBLW8wVGUxdG5halFmd3d2bklXRlp3QXU0THFMS1RmR0ZNbUo3WkVoYVdCRDBEMS0wMFIydG5EN2c0R1dQdVNONHdPLUQyZ0JaT3dwVlFMcEVvY2hfWEh4RHprakNESWJwSzNrT1d1bXNQedIB-wFBVV95cUxPWUxOTkhVZTZmRDg1Wm00MWJPa3dBRENkdVNFMGJUTjFCZlIwSXdXcW5WUktHY3hnOXB0RnhtM2ktV2M4Tzh1TzQ3ODVVRUoyLXdwVVB6WmNLR2NGenkwdWxaaXdCYVVRYzFiYlM3N0xtaWJwWkV4VmQ1aHN4ejNSUmtzYnNkQ2FWWjkyQkdIU2tZb1l2eFdMR3RfOXlqOGpZYVRWRUh0WjhLdG5icWs4c2h1bDBDS210a1lpdnJ3am9remo1b3Q1azJiOXV1SFVuSkpHN2ZZbmFPWkprUVZtakdvcV9IQW5TR01nUlZPZDRPakJnTXR4Tm1Kdw?oc=5",
     "https://news.google.com/rss/articles/CBMic0FVX3lxTE83T2tnc3hBT2dJUWpDbHIxUl90ZEZGWG1HTTNSTHZDMWl2YkUtRlJLVUpNYm1jWkd5LTNkLUlSTHVxOW1BN0dTYlV6dmNjWFA1MEZRZ1E0SGJkeXRaYm9UREM2dlNmeFVBN01LelplckNNRE0?oc=5",
@@ -1922,7 +1924,12 @@
     "https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/27/camara-aprova-projeto-que-da-incentivos-para-a-producao-de-cana-no-nordeste.ghtml",
     "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/27/xuxa-comenta-caso-de-pastor-agredido-por-estar-com-camiseta-vermelha-no-dia-da-eleicao-em-goiania-que-odio-meu-deus.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml"
+    "https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml",
+    "https://finance.yahoo.com/m/6921f512-7bf2-33e1-8213-72c6fd574804/nvidia-partner-vertiv-soars.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/28/why-micron-technology-stock-rallied-today/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/articles/onq-unveils-retail-security-brackets-160000275.html?.tsrc=rss",
+    "https://www.investopedia.com/market-update-nvidia-partner-vertiv-leads-sp-500-gainers-after-strong-earnings-raised-outlook-vrt-12198396?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/28/why-chefs-warehouse-stock-popped-then-dropped/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4357,6 +4364,18 @@
       "exemplo": "小説は登場人物の複雑な心理を上手に描いている。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-28",
+      "proxima": "2026-10-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-28-08:00-de",
+      "palavra": "das Ergebnis",
+      "leitura": "",
+      "sentido_pt": "o resultado",
+      "exemplo": "Das Ergebnis von NVDA ist sehr gut.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-28",
       "proxima": "2026-10-29",
       "acertos": 0
