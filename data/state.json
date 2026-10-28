@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Märchen",
-    "jp": "労働"
+    "jp": "取得"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼らは過酷な労働環境で働いていた。",
-      "leitura": "かれらはかこくなろうどうかんきょうではたらいていた。"
+      "frase": "クラブは新しい株式の取得を発表しました。",
+      "leitura": "くらぶはあたらしいかぶしきのしゅとくをぴんぴつしました。"
     }
   },
   "obra_idx": {
@@ -1637,10 +1637,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-27",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-16-21:00",
     "2026-10-17-06:30",
     "2026-10-17-08:00",
     "2026-10-17-12:30",
@@ -1699,14 +1705,10 @@
     "2026-10-27-06:30",
     "2026-10-27-08:00",
     "2026-10-27-12:30",
-    "2026-10-27-17:30"
+    "2026-10-27-17:30",
+    "2026-10-27-19:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/18/the-bond-market-is-sending-a-warning-to-nvidia-sha/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/nvidia-2-other-fast-growing-220935780.html?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/next-ai-race-won-credit-210000006.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/18/the-5-trillion-club-which-is-the-better-stock-to-o/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/18/president-trumps-push-to-reschedule-marijuana-hit/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcU8xa3dfdU8teUF4U0pPZ3hsUkhpVmQ2Vnp6MnBVVi1FM241dWc3QktqRF9OUWo5LVVlTkpBdG5rMXVQTk83SlVSUkdPQWRWSUlxZVF3MDN3MEIwT2RPYmd4dEprbEMtbnVoRG5MX2YzQzlvWXFVNkRMRVRsai1CUnF4djBBZno0eVdvVlAtU0hjSVBlMjA1X0lHM3l1UHZsNVdvRkdldHRPVXIzbXlMaVo5cVh6VElfZmktbjF2VW1GTXliZl9XTUp4TWhRYzhkZ3B6WTZjbExsM0ZTRDQ2M1pOTE4zaHc2RTRKNzcxUQ?oc=5",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaTdCLTl2d2dhUkxiZktidGxFdlZWV3NsMFhMVjdqYVlXY0tDRU82Ynp3UldiQnRKX1E4N0VDOUNVZklDYWQza2dhTTlDM19SeTZNWER0SG1qSkVXMlRLT25mXzBsQWNYbktGWUN6R1VlWmc5Z1Z3MWo4RFVydEltU2gwbEdwNHhwZjh6ajlOQ25qb010dXhIaXQ4Nk5qSEJlMDlCVXR6RVdscHg1eVhhZjNya1FCV0NMMzFPVA?oc=5",
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLWo5NFd2MDhlZ2x0YjNCeWdJQy1oUno2R3RPdDloS2o0RHlkR3BaaE9paDctcDhPSE1pU0xIY0lNZVVObGM5ZkNkeFhWU3NRcHRDWGhDeU0wU1hDNktRUkVCZnR4RV9WUElKTWN3VDZNT1FrbWswb3VvZUtmc3U4b3FyWHU1ejlYMGRmLUhYbV8wUFU?oc=5",
@@ -1901,7 +1903,12 @@
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/27/celina-leao-promete-reduzir-tempo-de-espera-na-saude-e-reafirma-compromisso-com-tarifa-zero-e-educacao-integral.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/caseiro-e-resgatado-apos-28-anos-de-trabalho-escravo-domestico-no-df-ele-era-usado-como-laranja-em-esquema-da-familia.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/policia-investiga-morte-de-bebe-de-1-anos-em-upa-do-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/video-apos-denuncia-de-som-alto-grupo-ataca-carro-da-pm-e-destroi-portao-de-vizinha-no-df.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/video-apos-denuncia-de-som-alto-grupo-ataca-carro-da-pm-e-destroi-portao-de-vizinha-no-df.ghtml",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFpscEpmV1hTVTlLLWFjV1pkd3dKVnlxZ0Vvbm0wUTlQQXAzZXhuUDREOGJmVzcwOTZySTdOLUV1WFM4ZEx2NV9acTVoOXBoaEtVOFMtVEY4d0pLZmY5UzZuR2tnaEtpTVdZaWpVSEI0U0lVS29pWGNCVnBQOHFjcWxWVnRHUkRVU0VQeTVwRldKNWpZUFVFa21Nd1dJS3hwcnc2R0h1YldmNHpWU1hOdGd0N2YxU1JYMFHSAcgBQVVfeXFMUEdOTF8yWmVneld3SkpaT0JqQTdlR2Y5ZHFGU1E4X1ZwR0R5Z09ERzRFMllrX3hWUnVtOWNnVE5YQXYwUEN6U3dxamtCbHo2RWxocG1KNlFmV092LXdZRl9acEVxekJma0psY002SjdnWGtKOFVoWFJVVUlVWk1ySnI1eDNjRU1BVlkzYW02WWxYWWhPRFRKYXVGVzQza1hla2d5bmhTNEVqekNhdUZDZV9fSHl3c2IzdDNRTWw1OWlEa21VMm8wdEg?oc=5",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUZ6ZGctNWNrdzJZRU1nNENtcF9EeVh1YXhPcU5rbXBEMkdlcmQ0UVY5NWxRRGsxbU0xak1tU3BSSUZDajh6QWU5c3pfV3JhRkZmak5sWF9nVmRhUzRHTTJyNmQzLVU3Uk13dG1zWWhiMGRTWHlqN2h0dWhrRjd2WXdOblJWTlJxYWNGZGE3dl9ELTc0MlNqaTFDUFpJeHVVWlhLVVhHbjJjaTlZdVFCbTNfYU1TTkVFMVFFd3FwSDA?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTJ4M0ZLV3g0X1BPTHhrMEl5YllqRlVwa1hIdXp0VFNncGExVHVGZFNsN2FtVnpUcHRYZWpHd2tzNmtEYUpaRThGY3N3Y244Q2E4WkpfbzhkU1ZuY3A5Q2lURUxMWWUza2ExSW1wcmdZeFRBU1J1d2R2ekZkVzRYZFRJYWt2Q3VNVllFUWp0VUFEZEpxajhBYmV6VWlZSkNtX3kwQVRqMHJlNmYtd3I2cTFKRGx4b2I1SG42SHluNTNqY2Uz?oc=5",
+    "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZWN6QUttQVh0YXFaLUhzaTJPZ09rSm5ZOFVTT0dHR19HNFRHOXNvd2tZQm54OGdVdnh2UmZuSWFnYV9MYWtJeFQ4QjQ3QnZGRWVYOEEzUEZGd2tBcndaOG1zNnZwSVI2TFp4U1BjWU9PWkkxV0JhQUxXVzNTM1hvNzZfTW5zdWdjenhFVFpjeVl1YS11Q05BLThpZkQwa0hsU1FiM2VwZDFDbUw5Um1oZzRkaUVrX2hlclRwU0h3dlZ3Ul93V2x1OWdIZ05QeTlESUh3WWozVDdUTDJSdFR5SnEtVkZMNERIeXVJWk5hYmVTbDRGa3Ixb2dnYTdRZlVrZEd2WkU1VU55NDVfelZBZEpXVFRFcXhnWUxKSklndkhXdw?oc=5",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdDM4RU92UldabGw3eXE1REtROFEyRUJWWkFQMVpxZzE2QWR5dE5nZktPOGxfbWJzRTRST0k0OG5HSjA0aC1wTGFOSDhHN05xTDhKdVhGQl95bEhkOXZha1NZWS1xcWlGTFRMNzZIdXctUQ?oc=5"
   ],
   "palavras": [
     {
@@ -4300,6 +4307,18 @@
       "exemplo": "Das Märchen von Rumpelstilzchen ist sehr alt.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-10-27",
+      "proxima": "2026-10-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-27-19:30-jp",
+      "palavra": "取得",
+      "leitura": "しゅとく",
+      "sentido_pt": "aquisição",
+      "exemplo": "クラブは新しい株式の取得を発表しました。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-10-27",
       "proxima": "2026-10-28",
       "acertos": 0
