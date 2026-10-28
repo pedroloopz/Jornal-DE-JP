@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Grenze",
-    "jp": "取得"
+    "jp": "心理"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": "Die Grenze ist lang."
     },
     "jp": {
-      "frase": "クラブは新しい株式の取得を発表しました。",
-      "leitura": "くらぶはあたらしいかぶしきのしゅとくをぴんぴつしました。"
+      "frase": "小説は登場人物の複雑な心理を上手に描いている。",
+      "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 20,
+    "jp": 21,
     "de": 19
   },
   "dominadas": {
@@ -1651,10 +1651,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-28",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-17-08:00",
     "2026-10-17-12:30",
     "2026-10-17-17:30",
     "2026-10-17-19:30",
@@ -1713,7 +1719,8 @@
     "2026-10-27-12:30",
     "2026-10-27-17:30",
     "2026-10-27-19:30",
-    "2026-10-27-21:00"
+    "2026-10-27-21:00",
+    "2026-10-28-06:30"
   ],
   "links_usados": [
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/19/df-nao-tem-mudancas-em-locais-de-votacao-no-2o-turno-afirma-tre.ghtml",
@@ -4340,6 +4347,18 @@
       "tema": "politica",
       "data": "2026-10-27",
       "proxima": "2026-10-28",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-28-06:30-jp",
+      "palavra": "心理",
+      "leitura": "しんり",
+      "sentido_pt": "psicologia, estado mental",
+      "exemplo": "小説は登場人物の複雑な心理を上手に描いている。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-10-28",
+      "proxima": "2026-10-29",
       "acertos": 0
     }
   ]
