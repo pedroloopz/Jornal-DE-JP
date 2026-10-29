@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Ergebnis",
+    "de": "Nachricht",
     "jp": "出国"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Ergebnis von NVDA ist sehr gut.",
+      "frase": "Die Nachricht aus Brasília ist sehr interessant.",
       "leitura": ""
     },
     "jp": {
@@ -1672,10 +1672,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-28",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-17-19:30",
     "2026-10-17-21:00",
     "2026-10-18-06:30",
     "2026-10-18-08:00",
@@ -1734,14 +1740,10 @@
     "2026-10-27-21:00",
     "2026-10-28-06:30",
     "2026-10-28-08:00",
-    "2026-10-28-12:30"
+    "2026-10-28-12:30",
+    "2026-10-28-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/19/manifestantes-protestam-em-frente-a-sede-da-meta-em-sp-contra-suposta-interferencia-nas-eleicoes.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/campanha-de-lula-volta-a-acionar-tse-e-diz-que-meta-continua-favorecendo-flavio-bolsonaro-nas-redes.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/globonews-debate-campanhas-flavio-bolsonaro-lula.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/globonews-debate-coordenadores-das-campanhas-de-lula-e-flavio-bolsonaro-discutem-estrategias.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/19/lula-tse-quebra-sigilo.ghtml",
     "https://www.fool.com/investing/2026/10/19/up-10-in-the-last-two-weeks-is-airbnb-the-perfect-stock-for-today-s-market/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/deep-hardware-software-integration-drives-163110026.html?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/oneok-oke-cheap-14-times-170800201.html?.tsrc=rss",
@@ -1936,7 +1938,12 @@
     "https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/2026/lula-4-composicao-edinho-silva.ghtml",
     "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/pf-flavio-bolsonaro-ordem-judicial.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/pf-indiciamentos-vorcaro-master.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/pf-indiciamentos-vorcaro-master.ghtml",
+    "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-28-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/caso-master-veja-os-nomes-e-as-condutas-dos-15-indiciados-no-relatorio-da-pf-lista-inclui-vorcaro-e-ex-presidente-do-brb.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/diretoria-do-brb-foi-alertada-sobre-falhas-em-90percent-de-carteira-do-master-em-2024-diz-relatorio-da-pf.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-28-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/paciente-ganha-cerimonia-de-casamento-com-ajuda-de-funcionarios-de-hospital-publico-no-df.ghtml"
   ],
   "palavras": [
     {
@@ -4395,6 +4402,18 @@
       "exemplo": "彼はパスポートの有効期限が切れる前に急いで出国した。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-28",
+      "proxima": "2026-10-29",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-28-17:30-de",
+      "palavra": "die Nachricht",
+      "leitura": "",
+      "sentido_pt": "a notícia",
+      "exemplo": "Die Nachricht aus Brasília ist sehr interessant.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-28",
       "proxima": "2026-10-29",
       "acertos": 0
