@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Politik",
+    "de": "Risiko",
     "jp": "可能性"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Politik beeinflusst unser tägliches Leben.",
-      "leitura": "Die Politik ist oft kompliziert."
+      "frase": "Das Risiko an der Börse ist oft hoch.",
+      "leitura": ""
     },
     "jp": {
       "frase": "この本には新しい発見をする可能性が満ちている。",
@@ -1728,10 +1728,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-29",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-19-06:30",
     "2026-10-19-08:00",
     "2026-10-19-12:30",
     "2026-10-19-17:30",
@@ -1790,14 +1796,10 @@
     "2026-10-29-08:00",
     "2026-10-29-12:30",
     "2026-10-29-17:30",
-    "2026-10-29-19:30"
+    "2026-10-29-19:30",
+    "2026-10-29-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-20-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-suspeita-de-furtar-36-coletes-balisticos-do-detran-se-apresenta-a-policia-e-e-presa.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/parte-do-teto-de-escola-desaba-no-paranoa-no-df-e-atinge-monitora-veja-video.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-20-de-outubro-de-2026.ghtml",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2JJSFgwTTBIc3F1dHA4SkM0QUppVUo4b2JrT1M4cHVRSkJmRXRRaWs0NVZIYTM1blhtdDFEYkhDMy1PQzBqd01PLXJPOG9nZV9ZU01wYUd2c0RDOTZwZHIxNDVLN1UwMHJwcTdQN29iSHFQdHB6cXA1eE51Yy1vdGxXdTZUWUZiS09RcDZuemxOcC1LU0FiT3NjUUFYS04wc3pTYkZnQndBVVVudGRTTkw5ekVZcTBlNTVjSFN5VkxONklyNzI4?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXJXNkE2SmtfVjIzNDNzN1BFMDhfeE5nVXV1SlM4N19NX0xfamtBYUV3V3lZRjZwSnNOZEd5Smg5cndJV0FRb0hSRGRJV0lQaXotVlJBX2JjS0ROc3BqODdDUy1EWTZsMlYyS25HZWVZZDFNQjBLNEo2U3pRa21Vbks1dlkyaFJEQVZsOTk3SDdpQVVtR1VWNk9RSGNHMEV3cFlkUUhEOHE5UHhWaEhyODMwZ1I0aV81VWtQY0tiRFRPOWdQV19NblhnRzlfc2UzUk9VZzN0REFJUdIB3wFBVV95cUxOa2NoV3N6UXRIV0pkYjdGZnBzMG56M3FGd2Y1MXlCSG1TYXo2Yi15Mkd5RGQ0QVBqUVc4MVA3Yk41OXAwV29WR0Q0NTJfNjV4LUpXTW1FQ3lWNmRkREhCR2JaOWQ0TFFCb29CZUhzV0l0dVVtcnJ6N2lqbmQzcmVCZnRkc1hnX3Q3RG1OakdVSFpFZXRNMlpKeGlXdlFvLU5xdHNoX3VVenpvSWVHTmRWeWYwNl9sYnMtS2Q0bFB4bV9vWi11QnF6WW1Zc1hINTBZNV9MY0lvN3VIbXFvUTlN?oc=5",
     "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWWxERU11N0JLeTR5TzU4YlNnR0tTR2lwWjQzanJkVlJ4V3pTTTlPc2dOMVd4SDVDTmI5c0hPeUlvRUwyQ0FZd09ucUs4RVhRbk51SEk0eVZnYWFGRkNHbDF6YmRDX1YxV3BicEc1VE8xZXR5Z0RZeEJLdmUtV2NrMTJQREpFdzBZY09B?oc=5",
@@ -1992,7 +1994,12 @@
     "https://g1.globo.com/politica/noticia/2026/10/29/fachin-decide-devolver-investigacao-do-inss-a-mendonca-presidente-do-stf-mantem-sob-sua-responsabilidade-caso-master.ghtml",
     "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml",
     "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/29/aliados-avaliam-que-flavio-esvazia-lideranca-politica-ao-se-apresentar-moderado-na-campanha-e-extremista-em-carta-apos-fuga.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/vorcaro-nega-danos-ao-brb-e-diz-que-rombo-bilionario-foi-causado-pela-investigacao-banco-vive-de-credibilidade-veja-video.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/vorcaro-nega-danos-ao-brb-e-diz-que-rombo-bilionario-foi-causado-pela-investigacao-banco-vive-de-credibilidade-veja-video.ghtml",
+    "https://finance.yahoo.com/technology/ai/articles/ai-factory-expansion-impact-nvidia-031530191.html?.tsrc=rss",
+    "https://www.fool.com/coverage/charts/2026/10/29/asml-vs-nvidia-who-really-captures-the-ai-chip-boom/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/elizabeth-warren-says-nvidia-board-015437533.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-bets-smart-strategy-011724661.html?.tsrc=rss",
+    "https://www.thestreet.com/investing/stocks/intel-stock-plunges-20-as-chipmaker-warns-of-tough-year-ahead-intc?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4547,6 +4554,18 @@
       "exemplo": "この本には新しい発見をする可能性が満ちている。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-10-29",
+      "proxima": "2026-10-30",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-29-21:00-de",
+      "palavra": "das Risiko",
+      "leitura": "",
+      "sentido_pt": "o risco",
+      "exemplo": "Das Risiko an der Börse ist oft hoch.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-10-29",
       "proxima": "2026-10-30",
       "acertos": 0
