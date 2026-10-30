@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Risiko",
+    "de": "Nachricht",
     "jp": "意向"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Risiko an der Börse ist oft hoch.",
+      "frase": "Ich habe eine wichtige Nachricht erhalten.",
       "leitura": ""
     },
     "jp": {
@@ -1742,10 +1742,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-30",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-19-12:30",
     "2026-10-19-17:30",
     "2026-10-19-19:30",
     "2026-10-19-21:00",
@@ -1804,14 +1810,10 @@
     "2026-10-29-17:30",
     "2026-10-29-19:30",
     "2026-10-29-21:00",
-    "2026-10-30-06:30"
+    "2026-10-30-06:30",
+    "2026-10-30-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/10/21/ministros-do-tse-discutiram-bloqueio-de-canais-politicos-no-whatsapp-as-vesperas-da-eleicao.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/21/em-cerimonia-de-anuncio-de-medidas-lula-diz-que-pobre-e-bom-pagador-e-que-tem-muito-rico-que-gosta-de-dever.ghtml",
-    "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/perdao-de-dividas-de-meis.ghtml",
-    "https://g1.globo.com/empreendedorismo/noticia/2026/10/21/lula-perdao-dividas-mei.ghtml",
-    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/21/eleicao-acirrada-vira-palco-de-promessas-que-aumentam-pressao-sobre-as-contas-publicas.ghtml",
     "https://www.fool.com/investing/2026/10/21/history-says-this-etf-is-a-millionaire-maker-her/?.tsrc=rss",
     "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
     "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
@@ -2006,7 +2008,12 @@
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/30/governo-lula-nao-quer-transformar-em-crise-ajuda-da-casa-branca-para-fuga-de-flavio-bolsonaro.ghtml",
     "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/30/flavio-bolsonaro-se-isola-e-perde-apoio-ate-de-aliados.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/10/30/flavio-bolsonaro-nos-eua-relembre-a-relacao-de-afinidade-e-distancia-entre-o-senador-e-trump.ghtml",
-    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml"
+    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/30/a-posicao-do-brasil-no-mundo-com-a-reeleicao-de-lula-o-assunto-1836.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/detran-df-alerta-para-mensagens-falsas-enviadas-sobre-multas-e-suspensao-de-cnh.ghtml",
+    "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/30/gostosuras-ou-travessuras-veja-onde-curtir-o-halloween-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/30/criolo-iza-elvis-in-concert-amaro-freitas-e-dino-dsantiago-animam-fim-de-semana-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/df-tem-mais-de-2-mil-vagas-abertas-para-cursos-gratuitos-de-formacao-profissional-veja-como-se-inscrever.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/dia-do-servidor-publico-e-finados-veja-o-que-abre-e-o-que-fecha-no-df-neste-feriadao.ghtml"
   ],
   "palavras": [
     {
@@ -4585,6 +4592,18 @@
       "exemplo": "彼は新しい法案について自分の意向を表明した。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-10-30",
+      "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-30-08:00-de",
+      "palavra": "die Nachricht",
+      "leitura": "di na-khri-t",
+      "sentido_pt": "a mensagem",
+      "exemplo": "Ich habe eine wichtige Nachricht erhalten.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
       "acertos": 0
