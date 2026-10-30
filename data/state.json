@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Nachricht",
-    "jp": "意向"
+    "jp": "期待"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は新しい法案について自分の意向を表明した。",
-      "leitura": "いこう"
+      "frase": "この製品は市場の期待を大きく上回った。",
+      "leitura": "このせいひんはしじょうのきだいをおおきうわまわった。"
     }
   },
   "obra_idx": {
@@ -1749,10 +1749,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-30",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-19-17:30",
     "2026-10-19-19:30",
     "2026-10-19-21:00",
     "2026-10-20-06:30",
@@ -1811,14 +1817,10 @@
     "2026-10-29-19:30",
     "2026-10-29-21:00",
     "2026-10-30-06:30",
-    "2026-10-30-08:00"
+    "2026-10-30-08:00",
+    "2026-10-30-12:30"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/21/history-says-this-etf-is-a-millionaire-maker-her/?.tsrc=rss",
-    "https://beincrypto.com/lbank-nvidia-stock-trading-crypto-exchange/?.tsrc=rss",
-    "https://www.thestreet.com/technology/spacex-shares-soar-possible-merger-with-tesla?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/everpure-p-stock-trades-why-230239370.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/21/why-netflix-stock-dropped-today/?.tsrc=rss",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
@@ -2013,7 +2015,12 @@
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/30/gostosuras-ou-travessuras-veja-onde-curtir-o-halloween-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/o-que-fazer-no-distrito-federal/noticia/2026/10/30/criolo-iza-elvis-in-concert-amaro-freitas-e-dino-dsantiago-animam-fim-de-semana-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/df-tem-mais-de-2-mil-vagas-abertas-para-cursos-gratuitos-de-formacao-profissional-veja-como-se-inscrever.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/dia-do-servidor-publico-e-finados-veja-o-que-abre-e-o-que-fecha-no-df-neste-feriadao.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/dia-do-servidor-publico-e-finados-veja-o-que-abre-e-o-que-fecha-no-df-neste-feriadao.ghtml",
+    "https://finance.yahoo.com/markets/article/alphabets-october-wipeout-hits-766-billion-its-worst-month-ever-181407937.html?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/30/why-nvidia-stock-took-a-dive-today/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/30/forget-rescheduling-green-thumbs-cash-flow-is-the/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/10/30/why-did-firefly-aerospace-stock-just-crash/?.tsrc=rss",
+    "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4604,6 +4611,18 @@
       "exemplo": "Ich habe eine wichtige Nachricht erhalten.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-10-30",
+      "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-30-12:30-jp",
+      "palavra": "期待",
+      "leitura": "きたい",
+      "sentido_pt": "expectativa",
+      "exemplo": "この製品は市場の期待を大きく上回った。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
       "acertos": 0
