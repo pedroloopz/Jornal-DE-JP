@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Nachricht",
+    "de": "Mannschaft",
     "jp": "期待"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Ich habe eine wichtige Nachricht erhalten.",
+      "frase": "Die Mannschaft spielt heute Abend in Rio de Janeiro.",
       "leitura": ""
     },
     "jp": {
@@ -1756,10 +1756,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-30",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-19-19:30",
     "2026-10-19-21:00",
     "2026-10-20-06:30",
     "2026-10-20-08:00",
@@ -1818,14 +1824,10 @@
     "2026-10-29-21:00",
     "2026-10-30-06:30",
     "2026-10-30-08:00",
-    "2026-10-30-12:30"
+    "2026-10-30-12:30",
+    "2026-10-30-17:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/21/entenda-polemica-entre-richarlison-flavio-bolsonaro-e-willer-tomaz-ilha-em-angra.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/21/gilmar-mendes-critica-atropelo-da-justica-sobre-criacao-de-cursos-de-medicina-e-pede-novo-julgamento.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/presidente-do-tse-derruba-20-postagens-contra-lula-e-proibe-que-flavio-e-aliados-republiquem-conteudo.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/21/pf-diz-que-encontrou-sala-secreta-com-maquina-de-contar-dinheiro-no-hangar-de-willer-tomaz-veja-imagens.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/globo-entrevista-leandro-grass-candidato-ao-governo-do-df-nesta-quinta-veja-como-assistir.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/celina-leao-opta-por-nao-ir-a-debate-no-df-e-globo-entrevistara-leandro-grass-nesta-quinta.ghtml",
@@ -2020,7 +2022,12 @@
     "https://www.fool.com/investing/2026/10/30/why-nvidia-stock-took-a-dive-today/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/30/forget-rescheduling-green-thumbs-cash-flow-is-the/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/30/why-did-firefly-aerospace-stock-just-crash/?.tsrc=rss",
-    "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss"
+    "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd3pnamlKYWI3R1NGT1BvcnlqRVpHUktzM2dnTExxTnBQTEh5LTNDMlJPRzJiUEtDLWtUOVRNQUV6ckFEZ0k4by1uTFM4c1VDcmFVWnVBMlZ1NDNJdndKLXk2MDJrWFFka2k1LXc2UW04N1hpOE15WEhRTi1ZbzZsdDhEeG1wd2tmRTlZN3lDeVZ2dllKbU5xaU9Ycll3WmRydmhN?oc=5",
+    "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2QUhBWUJZdzBUN0FTYXQzUlJiUnJxMndiME1nTWdxNXZiMHI5NmNzTjhwYjAta21tazhhYzJNQllkREdOU3c3ajNpMEZyWVlTWGxMVUtXV216S1N2NFFfMElrcDJKeE1HZ0hWN3lIbjk?oc=5",
+    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVTFiLVpnNjlTcFFGWk1BTUxkdGYzV29Ub2xwdEt4c0FSX0FQUEdZd3dZeXpRTFFYOXZYSGRYeHNFVG9NRWQ3bTM0X3lzWWc4RzRZUlJILWRFZXFPMmNyU0NPUVYxTWNpV3FjVDhZRmpjY09sbzFtQ3R3N0ZsVmZ2T3RQZkJ4aTFUVmRSVFZlNHZVOVhGZWtfWEp4MmdEZ2pVTzNSU0dsR0VUN25RWXRuWl9Qd0JJQ0VUbVJ3SGlYTlVOSFVFSTFqbUtRb1FSbHF2UFRET1M3bVZaVWR0OU5xaW5id3QyNmNhcGc?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzZpN25UQnVnYkdWZF9nalIzckt3ZnVJT2cxOTNWYjJ2eVE2MTlINmRzeC1yN2xKTko3NUNZNFVzNExINE42Tl9xLV9faU9uRUVMbzZqZ2ZEYjloekt4YXdkN29XeDdlNGEyLVZSalkwYmZYWXVuWjVQczRVcDRLUw?oc=5",
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmNGczdudGY2YnMtdFlNTzI5NEVINTl5YmtYNFZSLWlJWHdfRXd4TkE5UFNxaDZTVExQeWdCcEgzUXVQOHZKcTlkUktaTWdHcVd3dkVlN25BTmg3XzJIUFlIc0o2aHJ0d2FLZjh2a0JOSXZ5QUVKQjVRMW5jMDY2RUIzSTA1UzU4V3h0LUdDakMwMG9FMFRNR3hWMEo0bGNWVzhpc3kwbW54TDNOUm9pdHJFVXJvdmltTXV5WndzY2F4ZjExbURjdkh1WE5xUnZZaWxicjlnONIB5gFBVV95cUxNM1lmYTRvaEt5STYtZXQwRnpKNy1ZUHZ2NWJwaWk5cFg0cm15Z3ljaHd1bmJvNWhVT1BneUhCTmxaWFNJVGhCRm1oNnFlU0k2cHB6U1FZWUdHT0EtUmthT2hEZWZYMkViS1BWT28wOXFndjU1TWE4cmkwNlNGRnhEdFB1YzVOcDVTeXVaWFhoRFkyUzJZVXJRZVJ4RElOYzV1UWR2UV9xNmZBb29Gbk9VU09PNmh0YXBRN3pNQjNZYWttckNDWUxGcm94WkJFUC1yQ08zM2UzeHFaR2RWcjZBWXg4Tkdpdw?oc=5"
   ],
   "palavras": [
     {
@@ -4623,6 +4630,18 @@
       "exemplo": "この製品は市場の期待を大きく上回った。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-10-30",
+      "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-30-17:30-de",
+      "palavra": "die Mannschaft",
+      "leitura": "",
+      "sentido_pt": "a equipe / o time",
+      "exemplo": "Die Mannschaft spielt heute Abend in Rio de Janeiro.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
       "acertos": 0
