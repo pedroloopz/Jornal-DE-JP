@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Werk",
+    "de": "Politik",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Dieses Werk von Wilhelm Busch ist weltweit bekannt.",
-      "leitura": ""
+      "frase": "Die Politik beeinflusst unser tägliches Leben.",
+      "leitura": "Die Politik ist oft kompliziert."
     },
     "jp": {
       "frase": "来週新しい選手がチームに合流する見込みです。",
@@ -1714,10 +1714,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-29",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-18-19:30",
     "2026-10-18-21:00",
     "2026-10-19-06:30",
     "2026-10-19-08:00",
@@ -1776,14 +1782,10 @@
     "2026-10-28-21:00",
     "2026-10-29-06:30",
     "2026-10-29-08:00",
-    "2026-10-29-12:30"
+    "2026-10-29-12:30",
+    "2026-10-29-17:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMigAJBVV95cUxOZjQ2LVRZd1l4aUJhdVBBc2lvbFdSTU9zT093LUxYZXpsa1B0NHBLeDQxSnJIVGdFcU4zd3EwRHFFVlFOQWYxU1pNOGR5c0lVUVhOTHQ5VXJ6M2JTVnJFdWpYR0JiNEZUQjh6anZWcW9oQndKUWd2UEgzN1JQekxVLS1hZUptT2ZtSWZYNVcwQ0Z0bEFXUzZfeW95SW5zaGhRLVZVNWcyU053V2lWd042b0s0X0NkRERmajNjRDA3bVQ1Q3RWU3JDMFY1VW9ZTnZmMWUtR05yQ0VMVkxNclUyVG1tWmpvQUM2ZExPUTlOeC1RMVBRS3dvbmlZNTFnUlpv?oc=5",
-    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNV94bE1oUjktM0c5czliTkVNcHc2aVoxNXdMWlE0SWZTMENFMzVRQmw1aGtQWXo3eWpPV1FrQm0zeDExUjZIUV96a2RINlFjWnF6bV9UV0d6ZVRGckhkajVMWWJHZVhQdkdFbDYtYThFXzI1eWhUR1g4anVBbUdGc21jTHN0cEQ5WG5RZlB6cDZWMzd3ay1qb1gzQkxITzhBU0RFeEY2WW9BQUoyZENWSWE5OWJUUEdHcXhNLTF1dTBUZVFGOWxLMWF5eEtRX1VpbGhLTjZTS0J6dTc1Yk03dmxPTnl5cU5sajJuT0pHMlNENFplWk5kUG1FVW9BUdIBjAJBVV95cUxPZFQwMkRxdWFtWlZOVEtwOXl2dkxYWjFVX3JHWk5XRXUxNjBBTDBQMkxBcUg4UWR4WVpaa3VuYUFIUkZNZjVfTEJhOW5jTnc3RDhqUHN0WjBYUUhqUWpuT2x5M05OQ1EtTlphQW5vTExMUGVPM1djNjhScDNMOXFScEc0WWFfbjJRZlZKU2ZuMEJVZG1YdFBkZG9aTWVldG03aUVtR3VyVURqNFFlVGNLVXZCaXFxYUhiMjBza2x2d216YktOWmdyZ3pMb1JORGh1dDBQWDQwR1BpRVlZa3plcENpUm8tNWF2SFlVYUx4Y2cyMU11TnkzRHFhWXBtS3ZoY3o4cHoyYXc0T3dC?oc=5",
-    "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjFwczVkYTFLS0tvN0pjWkpxYlNPQmdKaTNVdWFDTmdkY09SUHZJVUtmS20yMThSZEZTYWFfMjdjaFVFb1UxWG9OMEJkVHNNYzdtVzY5WU1xV2VoNnd6MHlQU3BNUGtCbEtQTU1CenctcFUzeENreHRDMTZwTHdXc2xCTjBiTWdZVmxzUjgzVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUt5bW5RMGluQWk0QzNVX2JTS3ZNdGpZM1pHZHN4N0Z4d09KcnRmLW9kdGxpZnRaRER3MEhZelBlM0cxdWRTeW11ZVZCbWxkQUQ0WnRQNHZZb0dBX3VyQTVJaXJ1bmNqM045b1hvdEpSY0VhVnpldFZoVmJuV1JhcEdFc1VTNkJPNmZuaHdUUVpvelB6SjM3NWR1d3lqUWVCaG56YlI4WXJKWGEzQ1dsMzVVVDg5b1JNbGlFVHJhRWdJc1lBWUE1X9IBzgFBVV95cUxPZlhSRFVxeHF0NFB1eU9obVRyeFN4YXI4OWNESk1oMEJ1aTd6Ni1lRFF1VkFWaWxGdTRPSTdkWWhMYU5IYkYtYzJBaUdkZ0EtZTdqQjJ2QWk3bU5qUUhRRFhqOEtKS1VISjNNS3kxQ0dqNTRlaTRKUklib2U1X2xyMmNIS3BlZnA3aXlndVcxM2dIdU9DcmV5ZXVFb3RiOTZ0YTQ0WG5mMFlEVUpZYnprQkJ5bkJuWUR6ZTRxQWNmdVNtN2k1Q2k3QUlHNmNwdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTZYYXRnZGY5NUdlNWVfVEdfT3pwZzB2aWx6dGRlRTJmaGpwN042M01tT2d2X1lWcWtPdWNmSjBrTlBFOXlBSWdLdThXUVlJRmxac0FKcktpeHZZa1lzcV8xWG1NLTJhdl9HRzVzNGRrbXRyQU8zTXptWTlITHd3RHRWTjhDVk02MFhnRzNhYm1pWVFiVEdwU2RVTk0tVkFfaEljRjFwRnJndw?oc=5",
     "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-terca-feira-20-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/globo-fara-debate-entre-candidatos-ao-governo-do-df-no-segundo-turno-nesta-quinta-g1-transmite.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/20/mulher-suspeita-de-furtar-36-coletes-balisticos-do-detran-se-apresenta-a-policia-e-e-presa.ghtml",
@@ -1978,7 +1980,12 @@
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNExlOWNCd2lxVFBQUFpvYXFvVl9TTnU1MTNGMXVWVkFmZDdld20yWDRpME10LVF1X2VzSkdxWkNTTklnUzdvR1NqMlZsOXprNnJYNDVEUEFsbE5tWU5RQ1R4Q3dMUURJMkkxNWtmYkNfQTlzdWx1RWloM1dXU3hEeGFTZVFHREcyYXVwQTFtcndDZ3IwaHhnbXlWS0ExSzg1aHVianpyZXJnSWh1MXVybmJQRDFlelg4MEVkLTNQSkhfaWc0d21OX3pmWkdRSnNEVTloNzBnZjc1VXpuWTl4STcyT1BVOFR5Y3gzVklKcnF4Z1VOT0HSAYQCQVVfeXFMT0Y1VVNQNTdKaVJNSi1ueTlWY19EUXdKN2ZKZ1daM01JeGZIeElveWFHZE5kUzNLNThQaUdmX0RGX2xPSEVBZzIxLTFqbFl5Qk5HRlA5dEUzNVAzb1ZKbnFHbnZtV01GdmhaZUotY3gxbTU2QmFidl9zT2I0TTdJUEUtR0pndHZINmNQYVV3LTY2WnVZUjRIWnRFbDM1VmxaMk5ycU1NX0R3OU02VXRlcEc4ZGJEcEMzZ3F4NW8tM3hVS21Wem5HUXo5VFU5clBYbktSZWQ3RkZ1ZXlZOVRhTm9UOHRqc3YwNVlhMFVac3FIc0NJWWMxdEc0M2ZmSEdyNzN5dGE?oc=5",
     "https://news.google.com/rss/articles/CBMilwJBVV95cUxQdFVBSkh0NmJLLXJOSzdNMmZDQmxYdVJsTHIxVllKMFRlQzkxODVnTWtYdnJXbV9mai1FZ1NxYnJJSEFmM0FDbFdWUHdKdUNLOTd1ZmF1NGYwRFhta0VnbWwtT04xalpzZDBIR29udW9UV3RNa2JiVWUzcGFLdzJjM1FrekVjRU5DNjlPNXRKTllhRFdsbWM4emkxZW0teUNESzVaYjVXZUZaUHZkZmhoVWdDNk1hYUV3MUhuLTVuc1BxUllnSi1NT2ZZUFlFR3gtaWcxXzh1RVRWQ3R4Z0taOG1kQjE3RzVzNmV6YTlMazZfRDQ4VDBZc0lPVFVWOTBLbXlYSEdXdGZ0TzNfenlzalBoVEk1UHM?oc=5",
     "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOW9iNWxPNU9XN1ZrdU1qdm9RTlNvZ1o2eUp5SkFxc01jU1hnWThhTGt2VGwyUzhQTGNlX3FrTGFLM3dXQUVFa3J3WWo2cVlVQkZfNDBreVR6TXRkZjlqTTlZd3FGNF9CODNQUzhXOXhMTk5qNnBnMEZCT0VTSExDZTZxeTV6NDBRMHEzZUVaSEZ2QktKY2d2eGg5QUVncW5VTS1JZXJSQ0REXzFzMEZCOGJJYzhjSHVhY3hfbERoTlNqejBPTHRUWS1Kd0tuZ0VfNHpDU0swSGRYSXptSkE?oc=5",
-    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3NDRTFzS3M3SWxxX2M2amFoXzRoWHQ5Sm5OdkNCYVlXd3NFRnFIV0xyTVNlZFd1aTA4MzAwc3I2QU41R1BtZnlkZUo1aFVBUDBrVnhWYnpidHBZbGxUdzhMRXFsM2U5N21iSnR6WTdMXzltcFJkS2o0ajZnSHB3bDlYMDU1blp0UE9QcEVkZjdTTWI4ZlRsYXVEV0Q3bU1sVkd3WFVsMEJxSjRqMGI5NWNQck9YYzB2ek9OZTdEcVhBZ1g3dDhDV1dkZ01GOFljVU0zdg?oc=5"
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ3NDRTFzS3M3SWxxX2M2amFoXzRoWHQ5Sm5OdkNCYVlXd3NFRnFIV0xyTVNlZFd1aTA4MzAwc3I2QU41R1BtZnlkZUo1aFVBUDBrVnhWYnpidHBZbGxUdzhMRXFsM2U5N21iSnR6WTdMXzltcFJkS2o0ajZnSHB3bDlYMDU1blp0UE9QcEVkZjdTTWI4ZlRsYXVEV0Q3bU1sVkd3WFVsMEJxSjRqMGI5NWNQck9YYzB2ek9OZTdEcVhBZ1g3dDhDV1dkZ01GOFljVU0zdg?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/10/29/defesa-diz-que-arquivos-de-celular-de-vorcaro-foram-modificados-apos-apreensao-e-questiona-provas-de-investigacao.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/29/fachin-decide-devolver-investigacao-do-inss-a-mendonca-presidente-do-stf-mantem-sob-sua-responsabilidade-caso-master.ghtml",
+    "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/29/rui-costa-articulacao-alcolumbre-senado-anistia-indulto-jair-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/10/29/aliados-avaliam-que-flavio-esvazia-lideranca-politica-ao-se-apresentar-moderado-na-campanha-e-extremista-em-carta-apos-fuga.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/vorcaro-nega-danos-ao-brb-e-diz-que-rombo-bilionario-foi-causado-pela-investigacao-banco-vive-de-credibilidade-veja-video.ghtml"
   ],
   "palavras": [
     {
@@ -4509,6 +4516,18 @@
       "exemplo": "来週新しい選手がチームに合流する見込みです。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-10-29",
+      "proxima": "2026-10-30",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-29-17:30-de",
+      "palavra": "die Politik",
+      "leitura": "diː ˈpoːlɪtɪk",
+      "sentido_pt": "a política",
+      "exemplo": "Die Politik beeinflusst unser tägliches Leben.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-10-29",
       "proxima": "2026-10-30",
       "acertos": 0
