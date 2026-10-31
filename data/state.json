@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-25-21:00-de",
   "ultima_palavra": {
-    "de": "Mannschaft",
+    "de": "Hexe",
     "jp": "再開"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Mannschaft spielt heute Abend in Rio de Janeiro.",
+      "frase": "Die Hexe wohnt in einem Haus aus Lebkuchen.",
       "leitura": ""
     },
     "jp": {
@@ -21,7 +21,7 @@
   },
   "obra_idx": {
     "jp": 22,
-    "de": 20
+    "de": 21
   },
   "dominadas": {
     "jp": 0,
@@ -1770,10 +1770,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-30",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-20-06:30",
     "2026-10-20-08:00",
     "2026-10-20-12:30",
     "2026-10-20-17:30",
@@ -1832,7 +1838,8 @@
     "2026-10-30-08:00",
     "2026-10-30-12:30",
     "2026-10-30-17:30",
-    "2026-10-30-19:30"
+    "2026-10-30-19:30",
+    "2026-10-30-21:00"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTklUZW9fNlZXdWJEdXp3ZW5rYnhJNGJ2Q3NSTE9DaEVTMXNObEpvNUN6M3ZYSDhWREJtaTVDSmtaTmRhNDZpaWJhdHpCYnF5UkJJSUlNczh4dTZLR2t6cDdCM0FYdUNfWmVJTzNfVDAxN1VlRUdpQ3FKZG9oaE0tTGI3MktfUVpST0gwd3E0WFRzc3BpSTNWd2RrdVMzdk1IVldHaVU2eGg1YnNrZzZrWHh3SWI2TkxfeGxidTkway05RlczZHc?oc=5",
@@ -4661,6 +4668,18 @@
       "exemplo": "バスは今日から運行を再開しました。",
       "lang": "jp",
       "tema": "brasilia",
+      "data": "2026-10-30",
+      "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-30-21:00-de",
+      "palavra": "die Hexe",
+      "leitura": "",
+      "sentido_pt": "a bruxa",
+      "exemplo": "Die Hexe wohnt in einem Haus aus Lebkuchen.",
+      "lang": "de",
+      "tema": "literatura",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
       "acertos": 0
