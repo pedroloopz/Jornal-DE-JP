@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Gesetz",
-    "jp": "警戒"
+    "jp": "信頼"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "ライバルチームの勝利により、クラブ内では警戒感が強まっています。",
-      "leitura": ""
+      "frase": "彼らの間には深い信頼がある。",
+      "leitura": "かれらのあいだにはふかいしんらいがある。"
     }
   },
   "obra_idx": {
-    "jp": 22,
+    "jp": 23,
     "de": 21
   },
   "dominadas": {
@@ -1791,10 +1791,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-31",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-20-17:30",
     "2026-10-20-19:30",
     "2026-10-20-21:00",
     "2026-10-21-06:30",
@@ -1853,7 +1859,8 @@
     "2026-10-30-19:30",
     "2026-10-30-21:00",
     "2026-10-31-06:30",
-    "2026-10-31-08:00"
+    "2026-10-31-08:00",
+    "2026-10-31-12:30"
   ],
   "links_usados": [
     "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/23/lula-x-flavio-bolsonaro-o-que-vai-decidir-a-eleicao-mais-acirrada-da-historia-o-assunto-1831.ghtml",
@@ -4718,6 +4725,18 @@
       "exemplo": "Das neue Gesetz ist sehr wichtig für das Land.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-10-31",
+      "proxima": "2026-11-01",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-31-12:30-jp",
+      "palavra": "信頼",
+      "leitura": "しんらい",
+      "sentido_pt": "confiança",
+      "exemplo": "彼らの間には深い信頼がある。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-10-31",
       "proxima": "2026-11-01",
       "acertos": 0
