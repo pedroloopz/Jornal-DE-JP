@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Mannschaft",
-    "jp": "期待"
+    "jp": "再開"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この製品は市場の期待を大きく上回った。",
-      "leitura": "このせいひんはしじょうのきだいをおおきうわまわった。"
+      "frase": "バスは今日から運行を再開しました。",
+      "leitura": "ばすはきょうからうんこうをさいかいしました。"
     }
   },
   "obra_idx": {
@@ -1763,10 +1763,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-30",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-19-21:00",
     "2026-10-20-06:30",
     "2026-10-20-08:00",
     "2026-10-20-12:30",
@@ -1825,14 +1831,10 @@
     "2026-10-30-06:30",
     "2026-10-30-08:00",
     "2026-10-30-12:30",
-    "2026-10-30-17:30"
+    "2026-10-30-17:30",
+    "2026-10-30-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/globo-entrevista-leandro-grass-candidato-ao-governo-do-df-nesta-quinta-veja-como-assistir.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/globo-e-afiliadas-promovem-debates-e-sabatinas-de-2o-turno-para-os-governos-do-ac-am-df-es-rn-e-to-veja-como-assistir.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/celina-leao-opta-por-nao-ir-a-debate-no-df-e-globo-entrevistara-leandro-grass-nesta-quinta.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/cnbb-prega-respeito-ao-resultado-da-eleicao-e-encoraja-ida-as-urnas-atentos-aos-pobres-aos-ameacados-e-aos-que-trabalham-pela-justica.ghtml",
-    "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-21-de-outubro-de-2026.ghtml",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTklUZW9fNlZXdWJEdXp3ZW5rYnhJNGJ2Q3NSTE9DaEVTMXNObEpvNUN6M3ZYSDhWREJtaTVDSmtaTmRhNDZpaWJhdHpCYnF5UkJJSUlNczh4dTZLR2t6cDdCM0FYdUNfWmVJTzNfVDAxN1VlRUdpQ3FKZG9oaE0tTGI3MktfUVpST0gwd3E0WFRzc3BpSTNWd2RrdVMzdk1IVldHaVU2eGg1YnNrZzZrWHh3SWI2TkxfeGxidTkway05RlczZHc?oc=5",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQU5ydnd5UmZwa29uN05seTE1NTZFYTNsM3FsREhVZGlSZGo4c0tIaDN3U0FxZlBzalVpYVJya0k2WEpHTVJCbU92b0FVaUlhSmtGMXhGWTF3cUVsMEYwRTRMM3hobHJ2dF9nNkxDOGtBS0k0cmZqeGx1QkI1Q1l3OC1lNXlaQ2VpR1dTT2trYkVVdkN5YkU0ZjVaZjJta0FJVmgzUTJLdFRQRUt1b2d5RDFsLWhFOG5l0gG-AUFVX3lxTE10aGhKeWpNOGw3LXBaeHJlbnJzSXhwZkVYbVZFOV85NlpPMjRNYWtHNDlYZEpBZUpzVWdoWjFDcjdzWVB4QkM2bmNteHhjbnloLVpDRFVfdXZPcHhmSFVXNWlwa1BFdWhBdXVfMTAwd2RsR1VEdFV6UHpucm1aX2ZLaGpkS1JmUS0zcTNtYUtUdUJVOVpBUmhGeGh3cFZuTWhjNjFRYzdtUGFBbXBmV094bW10QklWQzliMGlxRXc?oc=5",
     "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWUhwN1BFNnRtWFlBbFhCWlc4RTNscVdDRGU4c1BVdlh2ZVVvN0JSQ0t5NVZodmNPOWRfT3FXLU0xUEphSHNRRW8tRWw0ZzA0cnplWVhXUEY3OEdQNUdJNGFnVk1yYnJxdGVnS2o5WlhMSXF3dnp1anZmYU9aMXFmQlVrZ2UwdWpwcklXTXBwMXhwTXo5aDNrM3ROVjZvYThSSlRrQjExaDJ6bUZTRW9vRklDTzFneVhQYVRmVHQzWXhNNk5BQ1IwMDZJcmJjQ1J6bXF4TGRNazVVSjJUc05panFoR3FKMm9UNVNMVWpR0gH8AUFVX3lxTE5VN2doOHVwb2FQU3diY2VSUmQzZHdZTDBld1NmSXB2QnpwZ2pOeTZzZjJUX3FHVEtiWG9INlJXUUp3WXY0eUdPNHRTVFBwalRzcTZ5OGJnUEF4SnV2REtFUnNtdTB4V005ZjJpLTJLV2dOblFRc0plM0tTRV9BMHd5WjQ3U2xQM0I1Um5yRkRNN2g2R1ZqU2JaSGhXaXdlQkRHVTRyaHE5R2pJVlM1dW1HRzdRd3VtS3lVTEZnbFJDZXlVV2RQTlpjbGpPaENMbzdETUN5M2ktcXQtRTZuVVV1U0VrMUVTTlFBdHVJWnJ1NW9vYk1VRk9JM0Vkdg?oc=5",
@@ -2027,7 +2029,12 @@
     "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2QUhBWUJZdzBUN0FTYXQzUlJiUnJxMndiME1nTWdxNXZiMHI5NmNzTjhwYjAta21tazhhYzJNQllkREdOU3c3ajNpMEZyWVlTWGxMVUtXV216S1N2NFFfMElrcDJKeE1HZ0hWN3lIbjk?oc=5",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVTFiLVpnNjlTcFFGWk1BTUxkdGYzV29Ub2xwdEt4c0FSX0FQUEdZd3dZeXpRTFFYOXZYSGRYeHNFVG9NRWQ3bTM0X3lzWWc4RzRZUlJILWRFZXFPMmNyU0NPUVYxTWNpV3FjVDhZRmpjY09sbzFtQ3R3N0ZsVmZ2T3RQZkJ4aTFUVmRSVFZlNHZVOVhGZWtfWEp4MmdEZ2pVTzNSU0dsR0VUN25RWXRuWl9Qd0JJQ0VUbVJ3SGlYTlVOSFVFSTFqbUtRb1FSbHF2UFRET1M3bVZaVWR0OU5xaW5id3QyNmNhcGc?oc=5",
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzZpN25UQnVnYkdWZF9nalIzckt3ZnVJT2cxOTNWYjJ2eVE2MTlINmRzeC1yN2xKTko3NUNZNFVzNExINE42Tl9xLV9faU9uRUVMbzZqZ2ZEYjloekt4YXdkN29XeDdlNGEyLVZSalkwYmZYWXVuWjVQczRVcDRLUw?oc=5",
-    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmNGczdudGY2YnMtdFlNTzI5NEVINTl5YmtYNFZSLWlJWHdfRXd4TkE5UFNxaDZTVExQeWdCcEgzUXVQOHZKcTlkUktaTWdHcVd3dkVlN25BTmg3XzJIUFlIc0o2aHJ0d2FLZjh2a0JOSXZ5QUVKQjVRMW5jMDY2RUIzSTA1UzU4V3h0LUdDakMwMG9FMFRNR3hWMEo0bGNWVzhpc3kwbW54TDNOUm9pdHJFVXJvdmltTXV5WndzY2F4ZjExbURjdkh1WE5xUnZZaWxicjlnONIB5gFBVV95cUxNM1lmYTRvaEt5STYtZXQwRnpKNy1ZUHZ2NWJwaWk5cFg0cm15Z3ljaHd1bmJvNWhVT1BneUhCTmxaWFNJVGhCRm1oNnFlU0k2cHB6U1FZWUdHT0EtUmthT2hEZWZYMkViS1BWT28wOXFndjU1TWE4cmkwNlNGRnhEdFB1YzVOcDVTeXVaWFhoRFkyUzJZVXJRZVJ4RElOYzV1UWR2UV9xNmZBb29Gbk9VU09PNmh0YXBRN3pNQjNZYWttckNDWUxGcm94WkJFUC1yQ08zM2UzeHFaR2RWcjZBWXg4Tkdpdw?oc=5"
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmNGczdudGY2YnMtdFlNTzI5NEVINTl5YmtYNFZSLWlJWHdfRXd4TkE5UFNxaDZTVExQeWdCcEgzUXVQOHZKcTlkUktaTWdHcVd3dkVlN25BTmg3XzJIUFlIc0o2aHJ0d2FLZjh2a0JOSXZ5QUVKQjVRMW5jMDY2RUIzSTA1UzU4V3h0LUdDakMwMG9FMFRNR3hWMEo0bGNWVzhpc3kwbW54TDNOUm9pdHJFVXJvdmltTXV5WndzY2F4ZjExbURjdkh1WE5xUnZZaWxicjlnONIB5gFBVV95cUxNM1lmYTRvaEt5STYtZXQwRnpKNy1ZUHZ2NWJwaWk5cFg0cm15Z3ljaHd1bmJvNWhVT1BneUhCTmxaWFNJVGhCRm1oNnFlU0k2cHB6U1FZWUdHT0EtUmthT2hEZWZYMkViS1BWT28wOXFndjU1TWE4cmkwNlNGRnhEdFB1YzVOcDVTeXVaWFhoRFkyUzJZVXJRZVJ4RElOYzV1UWR2UV9xNmZBb29Gbk9VU09PNmh0YXBRN3pNQjNZYWttckNDWUxGcm94WkJFUC1yQ08zM2UzeHFaR2RWcjZBWXg4Tkdpdw?oc=5",
+    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-sexta-feira-30-de-outubro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-disputa-judicial-e-dois-dias-parados-90-onibus-da-marechal-voltam-a-circular-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-criticas-michelle-bolsonaro-faz-agradecimento-a-politicos-que-atuaram-na-campanha-de-flavio.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/diretora-do-servico-de-limpeza-urbana-do-df-deixa-o-cargo-apos-postar-criticas-a-eleitores-de-lula.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/compro-todos-ex-presidente-do-brb-diz-que-vorcaro-se-ofereceu-para-bancar-lista-de-imoveis-pf-apura-r-146-milhoes-em-propina.ghtml"
   ],
   "palavras": [
     {
@@ -4642,6 +4649,18 @@
       "exemplo": "Die Mannschaft spielt heute Abend in Rio de Janeiro.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-10-30",
+      "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-30-19:30-jp",
+      "palavra": "再開",
+      "leitura": "さいかい",
+      "sentido_pt": "retomada",
+      "exemplo": "バスは今日から運行を再開しました。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
       "acertos": 0
