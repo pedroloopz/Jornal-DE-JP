@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Hexe",
-    "jp": "再開"
+    "jp": "警戒"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "バスは今日から運行を再開しました。",
-      "leitura": "ばすはきょうからうんこうをさいかいしました。"
+      "frase": "ライバルチームの勝利により、クラブ内では警戒感が強まっています。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1777,10 +1777,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-31",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-20-08:00",
     "2026-10-20-12:30",
     "2026-10-20-17:30",
     "2026-10-20-19:30",
@@ -1839,14 +1845,10 @@
     "2026-10-30-12:30",
     "2026-10-30-17:30",
     "2026-10-30-19:30",
-    "2026-10-30-21:00"
+    "2026-10-30-21:00",
+    "2026-10-31-06:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTklUZW9fNlZXdWJEdXp3ZW5rYnhJNGJ2Q3NSTE9DaEVTMXNObEpvNUN6M3ZYSDhWREJtaTVDSmtaTmRhNDZpaWJhdHpCYnF5UkJJSUlNczh4dTZLR2t6cDdCM0FYdUNfWmVJTzNfVDAxN1VlRUdpQ3FKZG9oaE0tTGI3MktfUVpST0gwd3E0WFRzc3BpSTNWd2RrdVMzdk1IVldHaVU2eGg1YnNrZzZrWHh3SWI2TkxfeGxidTkway05RlczZHc?oc=5",
-    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQU5ydnd5UmZwa29uN05seTE1NTZFYTNsM3FsREhVZGlSZGo4c0tIaDN3U0FxZlBzalVpYVJya0k2WEpHTVJCbU92b0FVaUlhSmtGMXhGWTF3cUVsMEYwRTRMM3hobHJ2dF9nNkxDOGtBS0k0cmZqeGx1QkI1Q1l3OC1lNXlaQ2VpR1dTT2trYkVVdkN5YkU0ZjVaZjJta0FJVmgzUTJLdFRQRUt1b2d5RDFsLWhFOG5l0gG-AUFVX3lxTE10aGhKeWpNOGw3LXBaeHJlbnJzSXhwZkVYbVZFOV85NlpPMjRNYWtHNDlYZEpBZUpzVWdoWjFDcjdzWVB4QkM2bmNteHhjbnloLVpDRFVfdXZPcHhmSFVXNWlwa1BFdWhBdXVfMTAwd2RsR1VEdFV6UHpucm1aX2ZLaGpkS1JmUS0zcTNtYUtUdUJVOVpBUmhGeGh3cFZuTWhjNjFRYzdtUGFBbXBmV094bW10QklWQzliMGlxRXc?oc=5",
-    "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWUhwN1BFNnRtWFlBbFhCWlc4RTNscVdDRGU4c1BVdlh2ZVVvN0JSQ0t5NVZodmNPOWRfT3FXLU0xUEphSHNRRW8tRWw0ZzA0cnplWVhXUEY3OEdQNUdJNGFnVk1yYnJxdGVnS2o5WlhMSXF3dnp1anZmYU9aMXFmQlVrZ2UwdWpwcklXTXBwMXhwTXo5aDNrM3ROVjZvYThSSlRrQjExaDJ6bUZTRW9vRklDTzFneVhQYVRmVHQzWXhNNk5BQ1IwMDZJcmJjQ1J6bXF4TGRNazVVSjJUc05panFoR3FKMm9UNVNMVWpR0gH8AUFVX3lxTE5VN2doOHVwb2FQU3diY2VSUmQzZHdZTDBld1NmSXB2QnpwZ2pOeTZzZjJUX3FHVEtiWG9INlJXUUp3WXY0eUdPNHRTVFBwalRzcTZ5OGJnUEF4SnV2REtFUnNtdTB4V005ZjJpLTJLV2dOblFRc0plM0tTRV9BMHd5WjQ3U2xQM0I1Um5yRkRNN2g2R1ZqU2JaSGhXaXdlQkRHVTRyaHE5R2pJVlM1dW1HRzdRd3VtS3lVTEZnbFJDZXlVV2RQTlpjbGpPaENMbzdETUN5M2ktcXQtRTZuVVV1U0VrMUVTTlFBdHVJWnJ1NW9vYk1VRk9JM0Vkdg?oc=5",
-    "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdmdGZjltbWgwQTZZT1VGbklRSkNLY3JIUjhGamlXR3lqa3pqRk0xRmltbl9UUlZPN3o3Q1lrVjVzYUpPMGJESElZQ1pnVG02a3JjOXlGWWh4bWw3NnNEWHdqMFZtUTlyTmFITmU0SFQ0MElUUVVWXzdFeWpsZHg5dHhNOTFfQVkyY3JmWjZ2aVRxYkJNMEFFcVRzQ3VzQzlXT3N0a0ZRN3BvYXk2N0RpSkxmaXZFZzlfcXJpSDJFMlhtUnV3MnZyMDZ1dXdrQmZLMkhfVmwxaEtTLWdMc214VjJiSmJaQWhQLWJuN3lZZXg3N1FIckhHb2YzZG5jMlh0?oc=5",
-    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaGdQMmRmaFQxNkkwOEFaazJNcDFsQVRHX2ZCUF9VLUtGUWg2N0lXWnR0c3FLQmtGSmV2SEZzODJ5c1pxbUlnRUFCTjhiaXFXZ3JYbXpxdlF4UkplakZXZ3VmRVQyNHJoQlV6V19VaW9zYVVYYUdfUUFvaWNvNDZFWjdjY3hwUi1ZRmczV2hVWVl6ZkxTcTBqblRqcG1Ga0xUNkRPcGVYUkFHc1Z2b3dRM1VmRzdBek5kenlsenJCMWF6ZGNWY2lJY0I4SHM?oc=5",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/22/enfermeira-do-df-morre-durante-lua-de-mel-em-portugal.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/22/eleicoes-2026-escolas-publicas-e-privadas-do-df-nao-tem-aulas-nesta-sexta-por-conta-do-2o-turno.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quinta-feira-22-de-outubro-de-2026.ghtml",
@@ -2041,7 +2043,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-disputa-judicial-e-dois-dias-parados-90-onibus-da-marechal-voltam-a-circular-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/apos-criticas-michelle-bolsonaro-faz-agradecimento-a-politicos-que-atuaram-na-campanha-de-flavio.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/diretora-do-servico-de-limpeza-urbana-do-df-deixa-o-cargo-apos-postar-criticas-a-eleitores-de-lula.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/compro-todos-ex-presidente-do-brb-diz-que-vorcaro-se-ofereceu-para-bancar-lista-de-imoveis-pf-apura-r-146-milhoes-em-propina.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/30/compro-todos-ex-presidente-do-brb-diz-que-vorcaro-se-ofereceu-para-bancar-lista-de-imoveis-pf-apura-r-146-milhoes-em-propina.ghtml",
+    "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSU1yME5PS2NNbUtLdlY0NlpYcG44ZXZ3M1F1UExYUl9qRVlhOGw1by1ZaFJ5Sm12ZXowVmhrMkJfdkN1c1E2TzBkWXVEb0NDOGhCcjJSbUtDQkZoa3dGcXpGOXFSS3FRMDRsb3dGQ0NJOS1EeDdoWk44YzUxMFJLYld4TVBSc3lOVG03akdPSU41VGNSYVI5VXM3QW95enhnZDlsT1g0WE9Vcm9ZY2g0STVTeXlPbmw1UG1lVC12Zko1eElpN2puUkgwbUx3TGplejVIbUNDVUhaMjhhTTVuWUFmNUdtMmVEV0R6NWo4M1I3V20ydlhmQnFnZTdxV0dkNHFWMnpVUFF6eXlVVjh6Rm5VZ0pLNHfSAaYCQVVfeXFMTmVBcWZlOXEySWNxcHNzaGxGMXk5WVdXMGNLT0JtNTZncVBqNnR5YURvMjJJS0RzdjBsbmZZTF96blNMNEp1T2x5Y2RGamNmd3drVldhNzVqRXpsU1pCS3JNamR4b2dHRFV6OUo4RFR4OHhackY3VlIzVU9zRXBQZ1VVREhJNW9pZ3JDcEpJUWFJOWZldkZ4OU1ETFc1UzNTdFAtTW1JWWRrdHA4XzZEWGZLLW1PajhLc0VJaFdjVS1Tekk3UHVKLUhmX1VLVW55OHI2N1RELTVxWVVoN0RXOTJhRmMweGhVcWVjSW12VlNpTUdjOHJVTm1PanVEMFktWG55eVBOSjV4SkxkX2taS2pfam10aFB6Ync5ZUVsRUlBMHphN1Z3?oc=5",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTdoUTZ2d3g3dlFuWE40d3k4UUpQM3F2S3hFcXR5LVBtWENNRGU4ODV3TFdSTmQ2Y0RLWjR4NldPMEZMVHFjMDdHcFJtRzREdmNMX0VfVnZEaFZtNnc0bUpyZmFodFpOLXUxSTRndW5qVmJCNDhUM1FCOE5hdWQwMWdXM0VmbVRwcG9rOEZpUXJRYjVya1MtOE0wSzhhcnZyV3FIZHpXOWR1Y1Z1aUlYdVJOSV8tMEU?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMUIybU5TcHNPMjMwdV9sVjgyUklKNk5GNXJoa0llUjF3c1k1amxPQ1U2bmVmYUZpQW5KWnFjOVVScndibkplSXFKVWtpUnExQW5vYllENk1MejN6cTZlaGk3VzlxUkljbWtFSXZYSW9qR1N3dlk5U0JnbkVUaE11TUFpeFpqOVl1VEViMmNsREg1TXJqQmdsWVZucGc1ZXh3eG00Tm1WQUt1N01IYTdWanphRjJwNklYU2c?oc=5",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSVNRaWhqSFh3amdLZkZ0VU9rM0FiNmRqRVNnamxTSlo3SXJwcU9FX0FHRG1iMWxWWGJRb2tZYkRHR3J3MldXeXo1REZVWnlnOWJQcUJsYThuRWgwSHR6aW4xaHdSSmVIMlJNdjBpS2Z5WFNpUDBwZkxpMjlPc2JCVnFvSWg2dXRKdGtCS0NMTzNCX2UzMU9pR1hpTXNnZ0ZDV3FBRjhWcG9mT1pEMkRBUEd5aEw3TmF3LXdhdHpoUTdkUzJRN2d5LV9TSVUxME54OC1FV00tU3k3RWxSZkVN?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZm5qbkpBejJRMi1LS2tLVHR0amRteVVjTUR1WG8yQ1g0aXFQU3VJMy0teEpyc2NBcnJGVDRDWHJ2S2tEeEpfaU1hVXY4eGJXNl9VckV3QnV1TFNjcGVXbFZwUmJOcUVySlNwZTNrUmNMdXNlbVhJTjlQMXIxSldZbU1NaFc0VTRyMDN6SlJ2eWJfcGgtckJ3UjdoZG9oMlVsbnpR?oc=5"
   ],
   "palavras": [
     {
@@ -4682,6 +4689,18 @@
       "tema": "literatura",
       "data": "2026-10-30",
       "proxima": "2026-10-31",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-31-06:30-jp",
+      "palavra": "警戒",
+      "leitura": "けいかい",
+      "sentido_pt": "alerta, vigilância",
+      "exemplo": "ライバルチームの勝利により、クラブ内では警戒感が強まっています。",
+      "lang": "jp",
+      "tema": "botafogo",
+      "data": "2026-10-31",
+      "proxima": "2026-11-01",
       "acertos": 0
     }
   ]
