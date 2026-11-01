@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Fußballklub",
-    "jp": "見込み"
+    "jp": "協議"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "来週の利益増加の見込みは高いです。",
-      "leitura": ""
+      "frase": "関係者は慎重に協議を重ねています。",
+      "leitura": "かんけいしゃはしんちょうにきょうぎをかさねています。"
     }
   },
   "obra_idx": {
@@ -1833,10 +1833,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-01",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-21-17:30",
     "2026-10-21-19:30",
     "2026-10-21-21:00",
     "2026-10-22-08:00",
@@ -1895,14 +1901,10 @@
     "2026-10-31-19:30",
     "2026-10-31-21:00",
     "2026-11-01-06:30",
-    "2026-11-01-08:00"
+    "2026-11-01-08:00",
+    "2026-11-01-12:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWlYWjdubkxfRWVNd2hIcWZ2NGNrMThHRVo0aURCT0JHTklLZGtSNVQwaHFxUkdFYVpQWDJwSkhqeW00SWcwcVZTUTFsZGMzSmQ0V3lDdUV4Rm5ZQU1qbGo5bFBvSk5PX0FHeTBRUUtTcjlWNjRrVVdYeVZVR1dJbmRxUF9qeGhINmpoUE5zeHd3YUxtUjN5VFB2MmR3amg3VkxKeWtQdjA2SlJWbVNUUnJ5RGhUTTFuSUtkUg?oc=5",
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JGZUZ2YzF0RXhiSlFhQjJETkFVbVIzam1peTdMMjNHY2E5NVdldDFrREQ3RU9wcU00dkpNTWtjS0lDU2ltRVozcWNsSlZ5QzhIQXUwUW1UNnd3RWoyb0dBZHRDMm1aTmE2UWxob0NvbnNVODlmZnhFSGxWM2NBSGVCX1gzdjlGWklGNFRiMmVnd2FYVzRVd3FwM0JUSkk0MUh6dE5mcnZBLVE?oc=5",
-    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaWNBTE1zTVpKZGs1d3I0bTY5SkEzQ1lsUlQ3SHNwSk5qemxnazE4RkhBZzBQUmhUeXdrNC1tQXRtaFNGdXBMRGFVakoycDBsWnphaEtfTlJKdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RdmJzcVU4SEw1Tk95cUNTS2JwZHhpX3ZLQTFXUFlVeVJldVVWZ24wc2Naak40UjFaZXV6dkNoQ254RXhWa0pyalFzU25aeGlOZzBXLXB3?oc=5",
-    "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmd3TTVOQjJVRm9WajZfS1prNHRsRUtRU3hNeXlEQlpzYjZodlNidnQxdDRzTkw0cUQ1UzNvT29TVkJYaVJ5M1VueXBSX2psS0RHdmhCOTNwRE5jcGhZRExFcGdvdHdzbk5UeWpleF9PSGs1enpoejZmamRkQS1VbHJqNzkyNzRfb0ZldzZxNmZCRzhDOHhaUkJ3U2JpSXkxM3liRDRzZFljaDMtNkl1RXhmZ2VXZms5MlZGX2V6TkVCV0l4RTJURnVlM3R0MjN2RDJqNWhJNHR3SVNIalQyVnFnV3h5LXlyTU1tdDVncDZPTUlWNVIwaUxB?oc=5",
     "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWVkTTFmbWowX2tTUVRUd2p2aTNIMlg3SEVEWk93WmlJX0o0Rk8xYklhOEVTLWkwNnc4R3dZaGJXajdMcUREWk1qemxRcktMYlJ2N0o5bTh2VF9KUjB4UnN0ekVrQlZhd3Fla195M1hkaDg5M1ZDRlB6bUFKZEJ5Wk9QT3M5V0tOQnN5OW1iSWxIemRUejVURGljRno?oc=5",
     "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZGdNU0VaME4zdEJFSFd6X25OOEwxNnBrbGQ1ZHJ2bk1OZ0hzU0FHS0lrdW9FOVNNWWF2OW9yQld0YldtTWpjS2gzcHU3TXVfR19IcVFIQ0RVeTRXUlZSU051bzJnMGpZRVo1Tm1iek1IZHhaZmF1c3FFNWRuSUhMckF0ME9IMk4zOEliSGY1SVgyU21jOXNFTGFRSVJoY3I4cDQ1SHZSV0xLRGRRYk9kaEhfOFpHS1J4aXdueFlYNmhKYWliZDYtUWxRTmlOY1l0ZlVfdXhXM25mcG9ycjU4V1hB?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxPcm9oTFpXXzFiNlpSdTBQTHJxMXk2OTJpUE9PU0NxZVYtM3BKR1JmNHpkVHNQTWpVRU83Y00zN3U0MHNWdzFsT1BCZG15VWVET2p2bHNKaFZIczNoMWM2OF85XzdKVnBGeXNaY3diZHc4MDRQSVNhNThFY3QyVTR5QWNRaDU2Rkd2ZGVmZEpEX09KUmtGaTQwZHk2WTRWZw?oc=5",
@@ -2097,7 +2099,12 @@
     "https://www.fool.com/investing/2026/11/01/4-critical-minerals-stocks-that-could-benefit-as/?.tsrc=rss",
     "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
     "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923?.tsrc=rss",
-    "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/01/homem-entra-em-lanchonete-e-atira-em-funcionario-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/01/justica-quebra-sigilo-de-documentos-da-morte-de-tancredo-neves-entenda-o-que-pode-vir-a-tona.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/01/dia-de-finados-confira-horarios-de-missas-e-visitacao-aos-cemiterios-nesta-segunda-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/30/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/bancada-do-df-se-reune-com-hugo-motta-para-tentar-evitar-reducao-no-fundo-constitucional.ghtml"
   ],
   "palavras": [
     {
@@ -4832,6 +4839,18 @@
       "exemplo": "Der Fußballklub hat viele Fans in Brasilien.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-11-01",
+      "proxima": "2026-11-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-01-12:30-jp",
+      "palavra": "協議",
+      "leitura": "きょうぎ",
+      "sentido_pt": "deliberação, consulta, negociação",
+      "exemplo": "関係者は慎重に協議を重ねています。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-11-01",
       "proxima": "2026-11-02",
       "acertos": 0
