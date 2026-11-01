@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Börse",
-    "jp": "信頼"
+    "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼らの間には深い信頼がある。",
-      "leitura": "かれらのあいだにはふかいしんらいがある。"
+      "frase": "来年の予算が承認される見込みです。",
+      "leitura": "らいねんのよさがしょうにんされるみこみです。"
     }
   },
   "obra_idx": {
@@ -1805,10 +1805,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-10-31",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-20-21:00",
     "2026-10-21-06:30",
     "2026-10-21-08:00",
     "2026-10-21-12:30",
@@ -1867,14 +1873,10 @@
     "2026-10-31-06:30",
     "2026-10-31-08:00",
     "2026-10-31-12:30",
-    "2026-10-31-17:30"
+    "2026-10-31-17:30",
+    "2026-10-31-19:30"
   ],
   "links_usados": [
-    "https://finance.yahoo.com/video/how-apple-dethroned-nvidia-to-become-worlds-most-valuable-company-150819601.html?.tsrc=rss",
-    "https://finance.yahoo.com/video/the-case-for-why-load-bearing-ai-companies-should-not-be-bailed-out-143229389.html?.tsrc=rss",
-    "https://finance.yahoo.com/m/95c2a3e8-9bef-31b5-aba5-dcbd20d0d990/apple-stock-hits-record-high.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/23/not-intel-not-coreweave-this-underappreciated-nvid/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/23/facing-investing-fears/?.tsrc=rss",
     "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/23/sobe-para-5-o-numero-de-locais-de-votacao-alterados-no-2-turno-em-sp-veja-enderecos.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-novas-manifestacoes-mendonca-reitera-que-lula-e-flavio-podem-abrir-sigilos-por-conta-propria-e-que-tse-nao-fiscaliza-desafios.ghtml",
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/apos-flavio-citar-volta-do-perse-governo-fala-em-projeto-para-perdoar-dividas-de-bares-restaurantes-e-empresas-de-eventos-do-simples.ghtml",
@@ -2069,7 +2071,12 @@
     "https://www.fool.com/investing/2026/10/31/shopify-stock-is-more-than-10-below-its-record-should-you-buy-before-its-nov-3-report/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/31/want-1000-month-passive-income-schd-dividend-etf/?.tsrc=rss",
     "https://finance.yahoo.com/markets/stocks/articles/5-best-high-growth-stocks-213926607.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/31/labor-market-delivered-strong-signal-theres-catch/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/10/31/labor-market-delivered-strong-signal-theres-catch/?.tsrc=rss",
+    "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/31/mte-recebe-denuncias-de-assedio-eleitoral-no-trabalho.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/30/mauro-vieira-e-marco-rubio-se-encontram-no-g20-e-acertam-reuniao-em-novembro.ghtml",
+    "https://g1.globo.com/fato-ou-fake/noticia/2026/10/30/e-fake-que-lula-anunciou-corte-de-r-6-bilhoes-na-saude-e-na-educacao-apos-eleicao-de-2026-video-foi-exibido-no-ano-retrasado.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/30/alcolumbre-pauta-votacao-da-pec-da-seguranca-publica-para-a-proxima-terca-feira.ghtml",
+    "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/30/governo-diz-que-cnu-2027-pode-ofertar-ate-3-mil-vagas-realizacao-do-de-provas-depende-da-aprovacao-do-orcamento-de-2027.ghtml"
   ],
   "palavras": [
     {
@@ -4756,6 +4763,18 @@
       "exemplo": "Viele Menschen investieren Geld an der Börse.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-10-31",
+      "proxima": "2026-11-01",
+      "acertos": 0
+    },
+    {
+      "id": "2026-10-31-19:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "来年の予算が承認される見込みです。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-10-31",
       "proxima": "2026-11-01",
       "acertos": 0
