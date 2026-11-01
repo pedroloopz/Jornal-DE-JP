@@ -3,8 +3,8 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Polizei",
     "jp": "見込み"
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "来年の予算が承認される見込みです。",
-      "leitura": "らいねんのよさがしょうにんされるみこみです。"
+      "frase": "来週の利益増加の見込みは高いです。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1819,10 +1819,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-01",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-21-08:00",
     "2026-10-21-12:30",
     "2026-10-21-17:30",
     "2026-10-21-19:30",
@@ -1881,14 +1887,10 @@
     "2026-10-31-12:30",
     "2026-10-31-17:30",
     "2026-10-31-19:30",
-    "2026-10-31-21:00"
+    "2026-10-31-21:00",
+    "2026-11-01-06:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/ao-vivo/cobertura-apuracao-votacao-2-turno-distrito-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/23/familia-de-enfermeira-que-morreu-apos-comer-frutos-do-mar-em-portugal-ainda-aguarda-autopsia-para-trazer-corpo-ao-brasil.ghtml",
-    "https://g1.globo.com/df/distrito-federal/df1/playlist/videos-df1-de-sexta-feira-23-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/bom-dia-df/playlist/videos-bom-dia-df-de-sexta-feira-23-de-outubro-de-2026.ghtml",
     "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWlYWjdubkxfRWVNd2hIcWZ2NGNrMThHRVo0aURCT0JHTklLZGtSNVQwaHFxUkdFYVpQWDJwSkhqeW00SWcwcVZTUTFsZGMzSmQ0V3lDdUV4Rm5ZQU1qbGo5bFBvSk5PX0FHeTBRUUtTcjlWNjRrVVdYeVZVR1dJbmRxUF9qeGhINmpoUE5zeHd3YUxtUjN5VFB2MmR3amg3VkxKeWtQdjA2SlJWbVNUUnJ5RGhUTTFuSUtkUg?oc=5",
     "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1JGZUZ2YzF0RXhiSlFhQjJETkFVbVIzam1peTdMMjNHY2E5NVdldDFrREQ3RU9wcU00dkpNTWtjS0lDU2ltRVozcWNsSlZ5QzhIQXUwUW1UNnd3RWoyb0dBZHRDMm1aTmE2UWxob0NvbnNVODlmZnhFSGxWM2NBSGVCX1gzdjlGWklGNFRiMmVnd2FYVzRVd3FwM0JUSkk0MUh6dE5mcnZBLVE?oc=5",
     "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yaWNBTE1zTVpKZGs1d3I0bTY5SkEzQ1lsUlQ3SHNwSk5qemxnazE4RkhBZzBQUmhUeXdrNC1tQXRtaFNGdXBMRGFVakoycDBsWnphaEtfTlJKdw?oc=5",
@@ -2083,7 +2085,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/31/justica-do-df-condena-ex-sindico-a-pagamento-de-r-269-milhoes-por-irregulares-em-prestacao-de-contas.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/31/policia-do-df-apreende-quatro-adolescentes-por-suspeita-de-feminicidio-em-sobradinho.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/31/toda-literatura-e-sobre-experiencia-de-estar-vivo-diz-paulliny-tort-autora-do-df-premiada-por-romance.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/31/enfermeiros-denunciam-sobrecarga-no-hospital-de-santa-maria-no-df-somos-tirados-do-almoco-para-entrar-em-cirurgia.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/31/enfermeiros-denunciam-sobrecarga-no-hospital-de-santa-maria-no-df-somos-tirados-do-almoco-para-entrar-em-cirurgia.ghtml",
+    "https://www.fool.com/investing/2026/11/01/greg-abel-just-spent-330-million-on-tech-stock/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/11/01/4-critical-minerals-stocks-that-could-benefit-as/?.tsrc=rss",
+    "https://finance.yahoo.com/m/d0bc23d0-115b-314d-8989-07ca797bebfa/dow-jones-futures-loom-after.html?.tsrc=rss",
+    "https://stocktwits.com/news-articles/markets/equity/what-to-expect-markets-this-week-nov-1-2026/cNGes4VR923?.tsrc=rss",
+    "https://www.fool.com/investing/2026/11/01/unstoppable-etf-buying-bear-market-smh/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4796,6 +4803,18 @@
       "tema": "brasilia",
       "data": "2026-10-31",
       "proxima": "2026-11-01",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-01-06:30-jp",
+      "palavra": "見込み",
+      "leitura": "みこみ",
+      "sentido_pt": "perspectiva",
+      "exemplo": "来週の利益増加の見込みは高いです。",
+      "lang": "jp",
+      "tema": "bolsa",
+      "data": "2026-11-01",
+      "proxima": "2026-11-02",
       "acertos": 0
     }
   ]
