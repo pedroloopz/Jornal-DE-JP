@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Gewinn",
-    "jp": "警告"
+    "jp": "評価"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "この物語は自然に対する人間のおごりを警告しています。",
-      "leitura": "このものがたりはしぜんにたいするにんげんのおごりをけいこくしています。"
+      "frase": "その政策の評価はまだ決まっていない。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1875,10 +1875,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-23-06:30",
     "2026-10-23-08:00",
     "2026-10-23-12:30",
     "2026-10-23-17:30",
@@ -1937,14 +1943,10 @@
     "2026-11-01-19:30",
     "2026-11-01-21:00",
     "2026-11-02-06:30",
-    "2026-11-02-08:00"
+    "2026-11-02-08:00",
+    "2026-11-02-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/rn/rio-grande-do-norte/eleicoes/2026/noticia/2026/10/24/quaest-rn-governador-segundo-turno-24-outubro.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/quaest-2o-turno-votos-validos.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/24/datafolha-presidente-24-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-presidente-segundo-turno-24-outubro.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/datafolha-df-governador-segundo-turno-24-outubro.ghtml",
     "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/24/is-the-ai-bubble-about-to-burst-plus-apple-bets-on-doorbells/?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/24/flying-cars-smart-homes-and-cracks-in-the-ai-boom/?.tsrc=rss",
@@ -2139,7 +2141,12 @@
     "https://finance.yahoo.com/m/d2c3bbee-4bc3-3931-9b35-8ffcd691e60c/stock-market-today%3A-nasdaq.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/11/02/best-artificial-intelligence-ai-stocks-to-buy-nov/?.tsrc=rss",
     "https://247wallst.com/investing/2026/11/02/apple-is-up-24-in-2026-will-aapl-stock-hit-300-or-400-next/?.tsrc=rss",
-    "https://finance.yahoo.com/m/3c7d592d-9a8c-3b21-8708-8e9eaf5546b1/this-will-be-john-ternus%27s.html?.tsrc=rss"
+    "https://finance.yahoo.com/m/3c7d592d-9a8c-3b21-8708-8e9eaf5546b1/this-will-be-john-ternus%27s.html?.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/11/02/propostas-como-tabelar-os-juros-ou-queimar-reservas-cambiais-nao-estao-em-avaliacao-diz-durigan.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/02/flavio-bolsonaro-recorre-contra-apreensao-de-passaportes-defesa-pede-tambem-que-moraes-seja-declarado-impedido-em-investigacao.ghtml",
+    "https://g1.globo.com/economia/noticia/2026/11/02/vale-tiquete-maquinas-terao-de-aceitar-todos-os-cartoes-a-partir-de-7-de-novembro-diz-ministerio-do-trabalho.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/02/como-acesso-a-documentos-sobre-a-morte-do-primeiro-presidente-eleito-pos-ditadura-virou-batalha-juridica-vitoria-da-memoria.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/02/empresas-devem-oferecer-atendimento-humano-para-o-consumidor-a-partir-desta-segunda-feira.ghtml"
   ],
   "palavras": [
     {
@@ -4946,6 +4953,18 @@
       "exemplo": "Der Gewinn von Apple ist sehr hoch.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-11-02",
+      "proxima": "2026-11-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-02-12:30-jp",
+      "palavra": "評価",
+      "leitura": "ひょうか",
+      "sentido_pt": "avaliação",
+      "exemplo": "その政策の評価はまだ決まっていない。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-11-02",
       "proxima": "2026-11-03",
       "acertos": 0
