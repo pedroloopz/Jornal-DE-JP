@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Regierung",
-    "jp": "信頼"
+    "jp": "警告"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "彼は監督からの信頼を勝ち取った。",
-      "leitura": ""
+      "frase": "この物語は自然に対する人間のおごりを警告しています。",
+      "leitura": "このものがたりはしぜんにたいするにんげんのおごりをけいこくしています。"
     }
   },
   "obra_idx": {
-    "jp": 23,
+    "jp": 24,
     "de": 22
   },
   "dominadas": {
@@ -1861,10 +1861,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-22-12:30",
     "2026-10-22-21:00",
     "2026-10-23-06:30",
     "2026-10-23-08:00",
@@ -1923,7 +1929,8 @@
     "2026-11-01-12:30",
     "2026-11-01-17:30",
     "2026-11-01-19:30",
-    "2026-11-01-21:00"
+    "2026-11-01-21:00",
+    "2026-11-02-06:30"
   ],
   "links_usados": [
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaEpJOEpjcDg1MXN5clByUmtESWZ0XzhTMTljeW1PUVlsMWtORmRuLVFYLUtSQjdQV0thM1FXRjE5cjlUVkl4eE02bm5PZEpma2QzRU8tZDVUZ1hwSTctOVFadzFwdE1GRlVfa0dITFMzNXdCUlcwTTQ3TTZtNFYwbEFmbUZuYXcyVFNCeTFEMnpBR0JxTmxFT21sTnkxYVBiLXdwVE45R2t3Z21IdnVIelBsamxqczBVRkZveHZLUXBOb1RYLTFKZXVKeU5oQ0RyeXlsamFPejlzWjZrblZz0gHuAUFVX3lxTFBJRU9KSmtlbkpnTGJnUkNIUjd4YzZ1bE5Yampkb3VtVDc3ZWx0ZnZQZFFxLXFqSlBwZGdXendZRnQxMnFoZGdFMDdWampJMExPbXI3YlA0ZWRQRFdNZG5CX3VVblU5S19ZcmNzcnkyR2RZUW9HVDlUc3ZfeF80dGdrYlQ1dmxOUXYyRjg1Y1cwUVJfZUZfclZFUi1DVXRGMlFQQjRBdEx5U1pWTkpQQkdGRlZLenJGWjAya2xSaFdzbkE3bjdWQUViLTd4c2tFVmlwd3JibGI0VTI2ZTNta25hWE8wamtfVm5wdWZJNEE?oc=5",
@@ -4910,6 +4917,18 @@
       "tema": "politica",
       "data": "2026-11-01",
       "proxima": "2026-11-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-02-06:30-jp",
+      "palavra": "警告",
+      "leitura": "けいこく",
+      "sentido_pt": "advertência, aviso",
+      "exemplo": "この物語は自然に対する人間のおごりを警告しています。",
+      "lang": "jp",
+      "tema": "literatura",
+      "data": "2026-11-02",
+      "proxima": "2026-11-03",
       "acertos": 0
     }
   ]
