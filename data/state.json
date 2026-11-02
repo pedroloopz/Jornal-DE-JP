@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Geschichte",
+    "de": "Regierung",
     "jp": "信頼"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Geschichte von Kafka ist weltberühmt.",
+      "frase": "Die Regierung plant neue Gesetze für das Land.",
       "leitura": ""
     },
     "jp": {
@@ -1854,10 +1854,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-01",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-22-08:00",
     "2026-10-22-12:30",
     "2026-10-22-21:00",
     "2026-10-23-06:30",
@@ -1916,14 +1922,10 @@
     "2026-11-01-08:00",
     "2026-11-01-12:30",
     "2026-11-01-17:30",
-    "2026-11-01-19:30"
+    "2026-11-01-19:30",
+    "2026-11-01-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/cameras-corporais-veiculares-e-5-mil-pms-a-mais-nas-ruas-veja-esquema-de-seguranca-para-o-segundo-turno-das-eleicoes-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/fio-de-cabelo-de-sao-carlo-acutis-padroeiro-da-internet-e-exposto-para-visitacao-24-horas-em-santuario-de-brasilia-entenda.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/24/identidade-novos-apoios-e-busca-por-eleitorado-as-estrategias-de-celina-e-grass-no-2o-turno-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/24/df-tera-fim-de-semana-quente-com-previsao-de-chuvas-isoladas-no-segundo-turno-das-eleicoes.ghtml",
-    "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/10/24/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaEpJOEpjcDg1MXN5clByUmtESWZ0XzhTMTljeW1PUVlsMWtORmRuLVFYLUtSQjdQV0thM1FXRjE5cjlUVkl4eE02bm5PZEpma2QzRU8tZDVUZ1hwSTctOVFadzFwdE1GRlVfa0dITFMzNXdCUlcwTTQ3TTZtNFYwbEFmbUZuYXcyVFNCeTFEMnpBR0JxTmxFT21sTnkxYVBiLXdwVE45R2t3Z21IdnVIelBsamxqczBVRkZveHZLUXBOb1RYLTFKZXVKeU5oQ0RyeXlsamFPejlzWjZrblZz0gHuAUFVX3lxTFBJRU9KSmtlbkpnTGJnUkNIUjd4YzZ1bE5Yampkb3VtVDc3ZWx0ZnZQZFFxLXFqSlBwZGdXendZRnQxMnFoZGdFMDdWampJMExPbXI3YlA0ZWRQRFdNZG5CX3VVblU5S19ZcmNzcnkyR2RZUW9HVDlUc3ZfeF80dGdrYlQ1dmxOUXYyRjg1Y1cwUVJfZUZfclZFUi1DVXRGMlFQQjRBdEx5U1pWTkpQQkdGRlZLenJGWjAya2xSaFdzbkE3bjdWQUViLTd4c2tFVmlwd3JibGI0VTI2ZTNta25hWE8wamtfVm5wdWZJNEE?oc=5",
     "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWVo4bnBZd2lSUWZHbDFFbnZSU2I1ZlJnQWFhRGZjMm1tZWtoby1TMk4tNjJrMlRaQWNSZnVxV2hUUDhsS0Y2QWdPZDUtSjdUMG5PUGlRdjJ1VU1BeVhKdEQyWDNPTHNrMmtuUU5zQzU1YjRmVHhseE5EdVhudjRndllQME93SjFzaEQyR3ZNUHBST2hQel9JTHAxTUV6dW9NQ0NSMF9pLUszRjdpSURUUVB0UEtqR0E0NGs3eGVBTmZnQWlLX3VTRWxGWk8talJXQm12SjBtUS1PMlhubzFyLW1mYVlHN3JaMG5LcVpxTlE4aDg?oc=5",
     "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaXhqTXpseG1Rdlg2OVhxb1FTaTRBbThDRUtkLVpSTHNnb0tyOTZVQ21HYTZ3eXRZdThoT2lQZVBkMzNmSDkxWjJBSWJPVWhuOTdUdWo4c1g0eGRJMjRfQTNmb19KWko2cnB6VUQ5OGxPUlRMNFNuRzdIQ3l6LXZsd3ROTFdMY3pWckJzY1RObE9GRDZyYk54RWM5SkhKN2pCMDBMZmsyNGQ1TDlEbEhqaVRUVFdkZGNicHA0ZmFlNE92ak55S2tBa1BSY0VBS3U0Ni1fd9IB4wFBVV95cUxPUkRxZWFqNS0ya2F6NHp4U05KMTFPQzhMMlZzNGpiVDZaaldEVXhIWlRzMkdnR3FFVmdHbVlYMks2akdPNW5TbndBRC0xYldvaDJrLTdrNFBNbFpfYWVrMGpxb3R5NjByNHdxUFRsWjA4VHZUU0g2NG9tcnN3b2dSUE11blJEazJ3dm5hX3JWVmloMElIenl1YkE5LUk3LWttWC1Qc1NVOGx5YlJOQnVRNEpHMjlDcW5nU0xwdDlIYjFaaGdZRUE5UW9OZWtIcFc1dnVQN0ZUaC1yMlBmemZxay11UQ?oc=5",
@@ -2118,7 +2120,12 @@
     "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZGQwNWxYTGhFck1RWFItM1gyTHJqOWVjVi1WSF9qbmNpUEVhel92ajRWSXJoRHk0NUZiRndhaUFfZW9FU3M5OE5wQUFSMW11bW1MTzNlTTdZYWtZekZLQWYzYW03WWNDRFA3dlJQOGdLbUU3Xy1sdE03TXl0dkFTOXRUSzlpY2MwcXoweGYyOVBHWFJBNGRnN1I2RlhqdWNVN1gxN2JiSVluWFVfLXlZNmVMUW5TTXVOeDFBSGxJM0c5Vi03cjRRWHNXdkNqQV9pNFNBNmdheGM5UmVkZFVnZTJtWDdWZFVTallHX0o2WDlEeTg2?oc=5",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSzMyQmtGVzlNc2RZYjJUYU1jdGQxdnB1ODdYMm8tbjlLcW4zY0lYdE5pdTN1MU9JV3JrSG5EV3hESm9CaXJfVWdiTXUybkg2ZU5rVFh1STJONFNBZE5RM2dBOEZ1RWtyTUZwOGJPR0J0Qmx0QXVoS002X2kyUkFlaTJEWWxRcHBYcmxKczJvemQ2SjRzdUpUN1ZjUVZUNTREZ2dodmtuN1JWSUFfbUt1dXo0Y2xsZjNldGJmZ19tWmpfT3E4VjhoSTIzRDlndVJ2UWJUSEExY19aMFJxaXZ0WmxQR3RrVlBrRXBaOUlTS0JrYjhFTGfSAYQCQVVfeXFMUDdqSU5ZNWJrQVQ0V1pFekNqYWh4MkRJT0plLWxJa181RDFoSmRMVHZxR1p1RmxFQmIwZmQtMzJSQVZjX2Jfb1h2VmRoRVE1WjRFR0tWM1FJYU41dlVKVmJKcWRHNWVFWWVZWmE3NW9XZC1GQUhLZi0wWXBzZzJJWlppdUtrVi15QjAzMmI5MmxUeUcxTzJJWmp3Z3ZoYWtPRl81RzBvZERPUGtIQno2MUJBR08yS3hJclNtc0wwNHNINXRPdVZhVGxQUmt0U3c5Z2d4WWctZWJlYTRxbE84ekU1UWlLQmdERE01VkpDc3Y0bUFzdlA4WDluZWl6LTdHTEtkaUc?oc=5",
     "https://news.google.com/rss/articles/CBMickFVX3lxTE5EMFNJbEt6YjF5VXNIemlFb1Y1X3VBV3VEbWdsOU5FazQ5OWJrT2ppRDF1N0x5RVhYcm02Qlc2RzhhYVI2MFluSG1rVUhpT3Zhd0JPTVUyVFZuNVUydEpjbzkybEVLWFZpMjlwRXlqTWdLUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdm1VZENEUE5BUFBINTVOTGRvdHpPUHF0QUVObW9Md1RUM0dsNE9WTFJCSzBQbXN0T0sydXprc0JraDFCeWJ4cXFxVEhtc2QtWTIzT1Y0X3h2QjdMd0JMS2R2ZjYyOHEtQ1NWMF9Qc0pMdDZ0TUdsRTc0dFlBOU1IRlNfNjJwU29IbFZ3dEVueFRaNDl3djZfV0xMYi1YVnlqRVNGb1ZpWnZ4aHdtY2loZV9VWUFwYXYtV3BLdlF1TkctYzFJU3U3bDhwb290U3FX?oc=5"
+    "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdm1VZENEUE5BUFBINTVOTGRvdHpPUHF0QUVObW9Md1RUM0dsNE9WTFJCSzBQbXN0T0sydXprc0JraDFCeWJ4cXFxVEhtc2QtWTIzT1Y0X3h2QjdMd0JMS2R2ZjYyOHEtQ1NWMF9Qc0pMdDZ0TUdsRTc0dFlBOU1IRlNfNjJwU29IbFZ3dEVueFRaNDl3djZfV0xMYi1YVnlqRVNGb1ZpWnZ4aHdtY2loZV9VWUFwYXYtV3BLdlF1TkctYzFJU3U3bDhwb290U3FX?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/11/02/presidencia-do-senado-pl-deve-ter-candidato-proprio-mesmo-com-aproximacao-de-alcolumbre.ghtml",
+    "https://g1.globo.com/saude/saude-mental/noticia/2026/11/01/por-que-quem-vota-diferente-parece-nao-enxergar-o-obvio-entenda-o-realismo-ingenuo.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/01/camara-quer-mudar-a-forma-de-eleicao-dos-deputados-entenda-o-novo-modelo-em-discussao.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/30/itamaraty-convoca-representante-da-embaixada-da-argentina-apos-flavio-cruzar-fronteira-do-brasil-com-o-pais-vizinho-e-fugir-para-eua.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/10/30/senado-esquerda-bancada-recorde-do-pl.ghtml"
   ],
   "palavras": [
     {
@@ -4889,6 +4896,18 @@
       "exemplo": "彼は監督からの信頼を勝ち取った。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-11-01",
+      "proxima": "2026-11-02",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-01-21:00-de",
+      "palavra": "die Regierung",
+      "leitura": "",
+      "sentido_pt": "o governo",
+      "exemplo": "Die Regierung plant neue Gesetze für das Land.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-11-01",
       "proxima": "2026-11-02",
       "acertos": 0
