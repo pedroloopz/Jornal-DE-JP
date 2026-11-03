@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Wetter",
+    "de": "Druck",
     "jp": "予測"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das Wetter in Brasília ist heute sehr warm.",
+      "frase": "Der Botafogo spürt großen Druck vor dem Spiel.",
       "leitura": ""
     },
     "jp": {
@@ -1896,10 +1896,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-02",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-23-17:30",
     "2026-10-23-19:30",
     "2026-10-23-21:00",
     "2026-10-24-06:30",
@@ -1958,14 +1964,10 @@
     "2026-11-02-08:00",
     "2026-11-02-12:30",
     "2026-11-02-17:30",
-    "2026-11-02-19:30"
+    "2026-11-02-19:30",
+    "2026-11-02-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/suspeita-de-boca-de-urna-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/leandro-grass-pt-vota-no-guara-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-pp-vota-no-lago-norte-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/maioria-das-eleicoes-para-governador-no-df-teve-2-turno-veja-como-foi-cada-disputa.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/sabia-que-o-df-ja-teve-prefeitos-entenda-como-era-a-organizacao-politica-da-capital-antes-de-1969.ghtml",
     "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXVXeGwxVjROb2NObFdYODg0ZEpSeXp1M0FaWnFNak1IeDEwSVJWdWhCU2VPbVhlOEFoU0VDTjZpaDlwZXJlSVB4SlpNbEdLS0pNY2lPY3pIb29RYjNHSFZtbGRocGtVWF9uX3g3TVpjLUJiZGFxdkNQVW5rT3JmUnRoSEpXbktENHRqT1FuVmZYdXhjWmlfTnVIVVpXcVJPWXc?oc=5",
     "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTBGUzJTNEdyRXlrZHRqZ1dQTVpERkRCR0p4enpLbFRDWEdTM1NTYjJKQVo4a25FVEJhd2RMSFdXZXI2UnhGRFN0T3ZRWVZzZ2xLeGlmZGV2am1fcl9tX29SbmJ2bEpkMXJINjJDZHlsSFVqd0l3LUhFd3FMc3cwUm56Wk0yYldjS21nZ01EMlVUR0ZhY2llR2xuckhGT20wOHJHZ3BoSmlLQ0FJUGx6N0ctN1ZoMFh5eHJ1YlAyMGVHWTBWcUE?oc=5",
     "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hR2VVaTVRU2MyZ3VYY183WGdaNUg5SHBHaHNLTlFxaEh0MGRzUjZZV2J1bUc4S1NjTWxadF94bmk1eVpOaVRvNXpZS3pEdGxvWWJENVhtdEtKQ3c5X2hnLXJZalJyVzBWVW42WktVMA?oc=5",
@@ -2160,7 +2162,12 @@
     "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
     "https://finance.yahoo.com/video/apple-forecast-tops-estimates-disappoints-021855229.html?.tsrc=rss",
     "https://finance.yahoo.com/technology/articles/apple-may-try-increase-revenue-014952790.html?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-apple-013106272.html?.tsrc=rss"
+    "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-apple-013106272.html?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNUhxRWE4aEJSRGN4RmJ0WnlCQXVpWWxQOVBMSWRiQldQOUZrUWpqaXR1dHQ1MHVDT0FLNm5XdGxiSXlYWjJKOVlobkpsS0dscGZUN3J3OXczcmlxRFJmZEhjUmN6SmxlU2FTRmdycmxuSUpPUl9wSDZjN2syT0tDQjNfOTlYdUZEOGFiT04xeU52V1VmY0p0clRvVWlBU1NGZ01TNGlkWXI0Q0p0b0RyYjUwZVdfTXNVdzNKZ0EyTWZpaTNHSjliYmR2QU1USzVQX3B2aVFyTmNTb3Y1a2dj?oc=5",
+    "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdElPbm9YREQ0MnVZYkJFbk9icm85aFlvMzh5eFhEM01KckpucXdySWJHbVFRNjlIUW1vRkd6NUw2ckhzMmRwbEhDMzdiQ2Y5d1B1OGZlNTc2cE9sY2RDM2VOblFtTEJPX0ZaQzZoeXRzQzBXMDdzS01TNjBZMlk5ZnBGXzhSOFpWaFd0dWYycXlCc1FvTkZhc1pkZjNjZFgyVW1TT092OTZJWlJ6S080a181djFsMXJBMGM0NXdrZjdLRUpRNFNZZjdYaGJuc1pTUW1aekJqck54NC10Zk1iTlVISlJSOENLSXNqUWN4TjlZeXR2MlFwcERvQVZpdi1D0gGPAkFVX3lxTE9PODVPclNuTnY1WldLVzlZeUwyaENIQXQwT3ZMcVhWNTN2MTg3NlBhRWtmU2JKaEsyV0ctc2xpMmZnOVlCLWQ3eG1Oa1BPOVM0OXBjZmxXV1BvazRRSmt4aXYzZHlxRkd2YnB3ajE2elF1bFU0bWlNQnJ6ZVkyMGNUZHVrcWdCdldMeHZMMXdiVUtWb1NfbGJhejVmVFQ1WXl0UWtzWk52N2tsQ0NETFpobGtRUW4xY1R5Y1RyeS11NDVTS3RPdUhqeGI4YTdHcjJkVkh4LUlhd0JyVWhjV3gzQ1lvRHNKTDhNUVNmNVBnV3ZnSmhnQ2ZFVm5IYXY0UWhfSEVlMFIyUTRILW5FUGs?oc=5",
+    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWnV4SGpOX01rQnMwUEZVa2kzbWpHakp6blZwZGprWFBoQWt1Y0lLSmNZZW0xanZ3SzRxbUpVZU4wdzdUbHZNYU8zM2hNR2tib3pSYVFiMjFSV1JodXF5ZHB4RFR1ek9ZdE1kblpFUzdzVldIWkNzeGxUUENSY3RHXzJxZDNSUEZVdEhoQ3RCU2I2WllHRXdUcWxNdnN1aFU2RXpneWxIbXdOcV9mUUZkMDgwZ3ZlaGxIZU1UaHRXSDNTVDY5elF3MU40VjRudzh6c2xXd2Y1R0xPdw?oc=5",
+    "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSFVuSlFMNFEzc3ljaUpmZVE1ejlxUXYwVXNCY3pNcHJVZUp3c3FVcnZIY1Y3VFdBdTAxZmJLandnTm9TTjRFSk9fX2ZSNEpGYVIwNnpYYlIycUtzSmI1TV9aVnlWakZsOHpZMmkxQXJsWTRmRHBpTjFpTWk2NWVTVm95UUdXNXp1dFFwTjJJRk1UVGo3cnZVdzRMaDFPeGVQcjhNYm5WNnpXcGplMEIwR0o3UXFtUDQ3VlJSSVE5ZnppR2paUHQ1NHlFRFhpT3pjd1FJWTNMM0d4OFM1bk1JSFowcHVwUHdfeEJYLWtpSXdnQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUVzTmZhZFRmNXNoUHdOVWpmTlh0aVI4YjJxQ1hnMmVYUUhCaGsxV3hNb29BRnlmY1JTeW1JT1lzcFVjelBqalJ0YXNkUUYxem1rcjVxd29uSEtIR2NIcnM1dkNwLUZsX1NnZXJySW9PUkdFekFyOG5YVlRQT0NBSEN1ME5qYkFZWlJxZlVoVi00dXlYTFl2dG82MWhfMmtUNWg0?oc=5"
   ],
   "palavras": [
     {
@@ -5003,6 +5010,18 @@
       "exemplo": "会社は来年の売上予測を発表した。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-11-02",
+      "proxima": "2026-11-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-02-21:00-de",
+      "palavra": "der Druck",
+      "leitura": "bo-ta-fo-go",
+      "sentido_pt": "a pressão",
+      "exemplo": "Der Botafogo spürt großen Druck vor dem Spiel.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-11-02",
       "proxima": "2026-11-03",
       "acertos": 0
