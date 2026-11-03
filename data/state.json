@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-17:30-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-22-06:30-jp",
   "ultima_palavra": {
     "de": "Wetter",
-    "jp": "評価"
+    "jp": "予測"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "その政策の評価はまだ決まっていない。",
-      "leitura": ""
+      "frase": "会社は来年の売上予測を発表した。",
+      "leitura": "かいしゃはらいねんのうりょくそくをはっぴょうした。"
     }
   },
   "obra_idx": {
@@ -1889,10 +1889,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-02",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-23-12:30",
     "2026-10-23-17:30",
     "2026-10-23-19:30",
     "2026-10-23-21:00",
@@ -1951,14 +1957,10 @@
     "2026-11-02-06:30",
     "2026-11-02-08:00",
     "2026-11-02-12:30",
-    "2026-11-02-17:30"
+    "2026-11-02-17:30",
+    "2026-11-02-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/mundo/noticia/2026/10/25/repercute-internacional-votacao-2o-turno-eleicoes-lula-flavio-bolsonaro.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/sete-municipios-terao-eleicoes-suplementares-para-prefeito-e-vice-neste-domingo-veja-lista.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/andre-mendonca-vota-em-brasilia-que-o-grande-vencedor-seja-o-eleitor-seja-o-pais.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/25/famosos-votam-no-2o-turno-das-eleicoes-de-2026-fotos.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/25/daniel-vorcaro-e-alessandro-stefanutto-votam-na-papuda-bolsonaro-nao-pode-votar.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/suspeita-de-boca-de-urna-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/leandro-grass-pt-vota-no-guara-no-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-pp-vota-no-lago-norte-no-df.ghtml",
@@ -2153,7 +2155,12 @@
     "https://g1.globo.com/df/distrito-federal/df1/playlist/videos-df1-de-segunda-feira-02-de-novembro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/02/previsao-do-tempo-hoje-para-brasilia-df-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/02/bombeiros-localizam-corpo-de-mulher-desaparecida-em-cachoeira-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-segunda-feira-2-de-novembro-de-2026.ghtml"
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-segunda-feira-2-de-novembro-de-2026.ghtml",
+    "https://finance.yahoo.com/markets/stocks/articles/apple-suppliers-split-asia-strong-025825667.html?.tsrc=rss",
+    "https://finance.yahoo.com/m/4fe38c4f-79dc-38c4-99cf-7844e9e446ee/dow-jones-futures%3A-ai-trade.html?.tsrc=rss",
+    "https://finance.yahoo.com/video/apple-forecast-tops-estimates-disappoints-021855229.html?.tsrc=rss",
+    "https://finance.yahoo.com/technology/articles/apple-may-try-increase-revenue-014952790.html?.tsrc=rss",
+    "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-apple-013106272.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -4984,6 +4991,18 @@
       "exemplo": "Das Wetter in Brasília ist heute sehr warm.",
       "lang": "de",
       "tema": "brasilia",
+      "data": "2026-11-02",
+      "proxima": "2026-11-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-02-19:30-jp",
+      "palavra": "予測",
+      "leitura": "よそく",
+      "sentido_pt": "previsão",
+      "exemplo": "会社は来年の売上予測を発表した。",
+      "lang": "jp",
+      "tema": "bolsa",
       "data": "2026-11-02",
       "proxima": "2026-11-03",
       "acertos": 0
