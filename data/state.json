@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Erzählung",
-    "jp": "確保"
+    "jp": "獲得"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "安全な場所の確保が必要です。",
-      "leitura": ""
+      "frase": "クラブは新しい選手の獲得を目指しています。",
+      "leitura": "くらぶはあたらしいせんしゅのかくとくをめざしています。"
     }
   },
   "obra_idx": {
@@ -1917,10 +1917,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-24-06:30",
     "2026-10-24-08:00",
     "2026-10-24-12:30",
     "2026-10-24-17:30",
@@ -1979,14 +1985,10 @@
     "2026-11-02-19:30",
     "2026-11-02-21:00",
     "2026-11-03-06:30",
-    "2026-11-03-08:00"
+    "2026-11-03-08:00",
+    "2026-11-03-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-fala-em-governar-para-todos-apos-ser-reeleita-no-df-fazer-desta-capital-um-modelo-para-o-brasil.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/conheca-a-trajetoria-e-as-propostas-de-celina-leao-primeira-mulher-eleita-governadora-do-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-e-reeleita-governadora-do-distrito-federal.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/eleitor-no-df-relata-ter-sido-agredido-apos-fazer-o-l-para-uma-amiga-em-area-publica-neste-domingo.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/fechamento-urnas-df-prorrogacao.ghtml",
     "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcWZvTG5rSjRaNXhPdHZTOXVycVEtV0dYY21kLThNcXhpdm5keHA0MmI0ZWFqY3REMnIwcDJCUUhwZkZnUGc3WVlabjNkWnBpMGwyU3BETV9fczJJRVNfYmJNRHFNYWlMaGU0ZWx4ekNLUDdZeks2cUQyTTl3OWQ4OUtXZG4wLW1EV0ktRmpXMHg0UWttTEJOMlp1V1ZDVDQ3Q0VuZVUtbnlRWHdzS1lhb3pxeDhQRWxhMTVkaHFfZUFkZ2pnQ0VlcTlyS0tlc1psTDZyWHdCQXJuN21OS0FzOVJxRDR4N056NUR5Z0dSSkVFNGNleUHSAYQCQVVfeXFMTkg3dkRaYW91dWZrY2F4SFpNbWZfeU91b0l5Z3BJUHhKd1RpQnZRZmtvdWdYclg0ZEYzSTIwSVZ5eUdpZDZjOG9mNllyd3g2cGZNX3BkZjdHMVZDQ3RPQlJtNmItY09HZ1IwYWx5OVZPS2kyYWNwYW5DQS14V1RWRGpkNDRVeXllX3RJdmpQd1hpVFQ5WDZwcDdtMGczM3BKcloxTHk3MV80dXpUb09SSDlWQXFIbG1ya3RRMUxXQlhRc3M5clItWEZUcEZsQXBVdEFOS2J1RXF1NnpWVjZsU0Z0bWkycnJtRjFuOGJJWTlMNWF6NktnbXJoaWVWS3Z4VTctRDA?oc=5",
     "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa01NQlE3NHFVUXVmRlR1U1hrR2drd1drQnNUUU1SV0cyV29mQTZfZmlQTERqcjZ4YlF5NUJjS2QyZ3VHd1NIWnIzZGNIemx5Y3U0dXRCTW1hSUYzUFhxV0NLd21zelNIY3p1Zndyd2R2X01QTlFvbEgzSGkzU1NaTndhWjV4WFlEU2ZESWRRczZ3aDlmbXROVWlvUC1KQ2hNT3dMTm9zQkpaZXJ4U19aRXBUbXpGWHpnWlZ3dHI0bFRPcG52RHJZ?oc=5",
     "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXduM0c0ZVpmaldYeEt2TTY4c3BGNzhqbkVPYWVJZkg0WnBRRFpIWXJ6UVRNNkptcElNb2NvUXpMekNUYy1PdmliMWdtemt3dEpaSTJkRnVvbTBmek9tNkJKcDg1cXpVdXY1THJCR20wM1o2U1NJTGlqNzVjamktTURaRE1rMlIwUTFlcUNCRmpOT1VpQl8yTGQ1UUZPbHZucloxemNla24zRWNHUE1BZHFR?oc=5",
@@ -2181,7 +2183,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/pf-investiga-ameacas-e-ataques-racistas-contra-deputada-federal-na-internet.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/df-tem-aulao-gratuito-de-redacao-para-o-enem-nesta-quinta-feira-5-veja-como-participar.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-terca-feira-3-de-novembro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/qualificadf-abre-10-mil-vagas-para-cursos-gratuitos-no-df-veja-como-se-inscrever.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/qualificadf-abre-10-mil-vagas-para-cursos-gratuitos-no-df-veja-como-se-inscrever.ghtml",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDJQTTd4VnNmdWNJNW5HSnc1cTJDSzNWQzB6UXpkSmZoZGpxbm5ySEFPS3JqV0lBbmN5blZ1ejlpdTFCNUNzOWY1RnF2SVBvcElmNEkyODVzZG1qVFMxSDZqc1ZoZFowRnllWTNOOUp0QkNwRGJxODlnOFU2cnF2T2pNWndxcm9ZM0w1YnlIWFFxdV9DSFAwSjR4dnh5WEU5TEF2ZHZ0Tmo4bmPSAbMBQVVfeXFMUFgybGNxR3FPc0toRWZYd2VhVGRpY0ZheTBBTmJ1TmQxclRiM3l4dGNBQ1JUXy10M3RpaUcyN0M2Wncxb2lSUEFMS255MlkzbUlTX2hpVVJpTEUwUk9YWXJvUVJVek1mMzJLY205WlByandzTHRkQi1HNFlBR1o4TXQ2WHhDWlJHc0lRMC1nWmo2N0Q2RTRxR2plU3JWbTl4MVFmWUEyTEJCSjhPYzlIOHE5SnM?oc=5",
+    "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSkpRWmdKTkM0Tk5mZXFjeXJ4aGM3UVJGQTBseGxaR2JtLVBrVEdKTGExVWVvWnlTWUVIWnpCcURUYmtMcFdvbGw4eWlwWHcySEx5bjYxNmx6bnpuOEhEXzlZYUo0NlZQVnhrc2NheHNfUFdjQXZhN3JUaEExWGRseTBHTkltZGpVQkM2NDhWTV93cDFBUy03cnFLSkRWUThIRUVmMEEzOWdJOVY2bi1xMTd5cExScHpSbFJCY3pWNUFHS1YtWVYwa0JjRUVickxVTk9vbU4tUU5WbFAtUVlIX2pB?oc=5",
+    "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY241TjU2M3VPWmc2WUlrSllweVBoeW1TSWFHRDZCTVoxdkpock5BdjQtVkIyRXdOTm9FM1RZcHZCaDkxbm1TMmRpQmMwSU9ieWc2bTdXLXJwMkZaNHRVWGxPcTU5b1hCU0piY2pJZUx0TGk4WmpBLTJpc3p0b2FhdWtWaXVpVENOb1hyWEdxeXZ1RzRfR1JWRUxjenVSOWtWOVVtVVIxMzJSMHVydk0wMk5xRFFLWGs1M0w0TEpTbU5iM1hrb19SZEtKZXFpbnl2Z2hsN290bE0yTUYwYWc?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWU9MZm5TWjVwaHpsM09mT29NQXRuVm4wMS1TbTNqQnkwRDNkVHRvZVlxT0VZUU9idnhnZnZTQjFTdVFwczhWcF9KTlhzekwwd0k0dUFBLTI3a1hRNm9wUm1MMFJjM1BjcFdFU05VU3duQmNOWFQ2c2p1RTdIcTdjcGhIcTlmdmdpbHQwMXNMLXM3Qk42Z1ZiMHdUQUp3N1hVM0VfdkJBbmhFR21hUl92ZVF5V3dWdVEtc2VzWlNvd0MwUHg2dXV3M1lfLU9zVE4tWGhQUtIB2gFBVV95cUxPaWlaRjVWRkdWM01DUmZXR1RWNTZHQmJXZU1HaHU5bGd3R2JobmVWZVQ5MHo1NkVkRXRrUkVvWVV6NnpQdXZRNEtlOURQODZOd21ZV09kc05rTU1xR1RPLXFhUXBPU2JOdEtaZXh1T01DSHlfckRmT2c1NGdWWkJOVFpjYkgydUhFSnZVT3FjSWhya1pyb0RyMnJDcjlwTkY4SUduc19wZnBtam9YOVBPelFjRV9jQm1fekhRTnN5RTBWVmFCR0txNzJCVmdPMlM2a3c0MUZVdXVadw?oc=5",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNa1V4OEJobEhuOTlWOU8xTFBUVVZsLXJhZFhoMHRoREZFS0NESE5CV2NWY1lHWXVmLUNSNWc5Wk1mRUNJblk1bW93T2l6R19lX3JNa1ppdjJtNjBFYTcyNTg2NEtPdGNJNUFpT1JldG1sVC1kcUhPYWRPeEd0SGZUdlNILTZBMXBlNHFqQ1JJbE0yX2RHX0FoYXZvU2xNOE9jS19wOUt5X2x3TWxOMmQwVnN0Q184ZWVBQWZMUHdiNWJKUTNVYV92WjJWS2lSQTQ3UFBHVlpqaEdtRnNKVV9TcndMR1JXR0FCYXlZUUg0THh4b3Y4TUdrcG5Ec0FQZw?oc=5"
   ],
   "palavras": [
     {
@@ -5060,6 +5067,18 @@
       "exemplo": "Diese alte Erzählung ist sehr bekannt.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-11-03",
+      "proxima": "2026-11-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-03-12:30-jp",
+      "palavra": "獲得",
+      "leitura": "かくとく",
+      "sentido_pt": "aquisição / contratação",
+      "exemplo": "クラブは新しい選手の獲得を目指しています。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-11-03",
       "proxima": "2026-11-04",
       "acertos": 0
