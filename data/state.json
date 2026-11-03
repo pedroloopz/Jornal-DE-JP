@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Druck",
-    "jp": "予測"
+    "jp": "確保"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "会社は来年の売上予測を発表した。",
-      "leitura": "かいしゃはらいねんのうりょくそくをはっぴょうした。"
+      "frase": "安全な場所の確保が必要です。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -1903,10 +1903,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-23-19:30",
     "2026-10-23-21:00",
     "2026-10-24-06:30",
     "2026-10-24-08:00",
@@ -1965,14 +1971,10 @@
     "2026-11-02-12:30",
     "2026-11-02-17:30",
     "2026-11-02-19:30",
-    "2026-11-02-21:00"
+    "2026-11-02-21:00",
+    "2026-11-03-06:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXVXeGwxVjROb2NObFdYODg0ZEpSeXp1M0FaWnFNak1IeDEwSVJWdWhCU2VPbVhlOEFoU0VDTjZpaDlwZXJlSVB4SlpNbEdLS0pNY2lPY3pIb29RYjNHSFZtbGRocGtVWF9uX3g3TVpjLUJiZGFxdkNQVW5rT3JmUnRoSEpXbktENHRqT1FuVmZYdXhjWmlfTnVIVVpXcVJPWXc?oc=5",
-    "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMTBGUzJTNEdyRXlrZHRqZ1dQTVpERkRCR0p4enpLbFRDWEdTM1NTYjJKQVo4a25FVEJhd2RMSFdXZXI2UnhGRFN0T3ZRWVZzZ2xLeGlmZGV2am1fcl9tX29SbmJ2bEpkMXJINjJDZHlsSFVqd0l3LUhFd3FMc3cwUm56Wk0yYldjS21nZ01EMlVUR0ZhY2llR2xuckhGT20wOHJHZ3BoSmlLQ0FJUGx6N0ctN1ZoMFh5eHJ1YlAyMGVHWTBWcUE?oc=5",
-    "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hR2VVaTVRU2MyZ3VYY183WGdaNUg5SHBHaHNLTlFxaEh0MGRzUjZZV2J1bUc4S1NjTWxadF94bmk1eVpOaVRvNXpZS3pEdGxvWWJENVhtdEtKQ3c5X2hnLXJZalJyVzBWVW42WktVMA?oc=5",
-    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQOF9mMHY4bFlXLV9od3dsbDRjaWJyU0Z4UG81TVExQ2FsWTB4bHo3ZU9PWFFNYm5jQ1JKWGE5WlZtYnhWRG5LM1BzZFFkdmg2SE1VZnIwcDhBd29CaHNwVXVBbmNPbjFORHZSQktRZ0J6Q05JaGhDUlotdVkyMmxRWXR6aVhicGZjWEFJYTQ5Skh6cHI4VXk3dnB0VGllRUhuc0trRTJyc1Fsei1DQjZKMll1b0Y1bnppdjFGNzVfWVdsZWtWdFJKbGdpeTlrTVhUdGNxSFN6Q1Fkc1U5dFpDVmRWWi1fSy1ERmFvS0Vtaw?oc=5",
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZjR1ZWZ3emFMUW1PbEdYa2xzQ04wNWZnZ2tZYTdndHYtQ3Q5Rk95Z3dFalFOWERTZHlBeEpuZ3RrVWM5WmMybWZOR3VSa0ZuQnZwczd1UklrWlVqdWRFWjU0QmQxMmNfaGVBVENyaE9uSV9JWm1KdTZaQzVUMUk0T19jREc2QXRzQ1dQMkxrcDlVTGs1?oc=5",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-fala-em-governar-para-todos-apos-ser-reeleita-no-df-fazer-desta-capital-um-modelo-para-o-brasil.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/conheca-a-trajetoria-e-as-propostas-de-celina-leao-primeira-mulher-eleita-governadora-do-df.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/25/celina-leao-e-reeleita-governadora-do-distrito-federal.ghtml",
@@ -2167,7 +2169,12 @@
     "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdElPbm9YREQ0MnVZYkJFbk9icm85aFlvMzh5eFhEM01KckpucXdySWJHbVFRNjlIUW1vRkd6NUw2ckhzMmRwbEhDMzdiQ2Y5d1B1OGZlNTc2cE9sY2RDM2VOblFtTEJPX0ZaQzZoeXRzQzBXMDdzS01TNjBZMlk5ZnBGXzhSOFpWaFd0dWYycXlCc1FvTkZhc1pkZjNjZFgyVW1TT092OTZJWlJ6S080a181djFsMXJBMGM0NXdrZjdLRUpRNFNZZjdYaGJuc1pTUW1aekJqck54NC10Zk1iTlVISlJSOENLSXNqUWN4TjlZeXR2MlFwcERvQVZpdi1D0gGPAkFVX3lxTE9PODVPclNuTnY1WldLVzlZeUwyaENIQXQwT3ZMcVhWNTN2MTg3NlBhRWtmU2JKaEsyV0ctc2xpMmZnOVlCLWQ3eG1Oa1BPOVM0OXBjZmxXV1BvazRRSmt4aXYzZHlxRkd2YnB3ajE2elF1bFU0bWlNQnJ6ZVkyMGNUZHVrcWdCdldMeHZMMXdiVUtWb1NfbGJhejVmVFQ1WXl0UWtzWk52N2tsQ0NETFpobGtRUW4xY1R5Y1RyeS11NDVTS3RPdUhqeGI4YTdHcjJkVkh4LUlhd0JyVWhjV3gzQ1lvRHNKTDhNUVNmNVBnV3ZnSmhnQ2ZFVm5IYXY0UWhfSEVlMFIyUTRILW5FUGs?oc=5",
     "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWnV4SGpOX01rQnMwUEZVa2kzbWpHakp6blZwZGprWFBoQWt1Y0lLSmNZZW0xanZ3SzRxbUpVZU4wdzdUbHZNYU8zM2hNR2tib3pSYVFiMjFSV1JodXF5ZHB4RFR1ek9ZdE1kblpFUzdzVldIWkNzeGxUUENSY3RHXzJxZDNSUEZVdEhoQ3RCU2I2WllHRXdUcWxNdnN1aFU2RXpneWxIbXdOcV9mUUZkMDgwZ3ZlaGxIZU1UaHRXSDNTVDY5elF3MU40VjRudzh6c2xXd2Y1R0xPdw?oc=5",
     "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSFVuSlFMNFEzc3ljaUpmZVE1ejlxUXYwVXNCY3pNcHJVZUp3c3FVcnZIY1Y3VFdBdTAxZmJLandnTm9TTjRFSk9fX2ZSNEpGYVIwNnpYYlIycUtzSmI1TV9aVnlWakZsOHpZMmkxQXJsWTRmRHBpTjFpTWk2NWVTVm95UUdXNXp1dFFwTjJJRk1UVGo3cnZVdzRMaDFPeGVQcjhNYm5WNnpXcGplMEIwR0o3UXFtUDQ3VlJSSVE5ZnppR2paUHQ1NHlFRFhpT3pjd1FJWTNMM0d4OFM1bk1JSFowcHVwUHdfeEJYLWtpSXdnQQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUVzTmZhZFRmNXNoUHdOVWpmTlh0aVI4YjJxQ1hnMmVYUUhCaGsxV3hNb29BRnlmY1JTeW1JT1lzcFVjelBqalJ0YXNkUUYxem1rcjVxd29uSEtIR2NIcnM1dkNwLUZsX1NnZXJySW9PUkdFekFyOG5YVlRQT0NBSEN1ME5qYkFZWlJxZlVoVi00dXlYTFl2dG82MWhfMmtUNWg0?oc=5"
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYUVzTmZhZFRmNXNoUHdOVWpmTlh0aVI4YjJxQ1hnMmVYUUhCaGsxV3hNb29BRnlmY1JTeW1JT1lzcFVjelBqalJ0YXNkUUYxem1rcjVxd29uSEtIR2NIcnM1dkNwLUZsX1NnZXJySW9PUkdFekFyOG5YVlRQT0NBSEN1ME5qYkFZWlJxZlVoVi00dXlYTFl2dG82MWhfMmtUNWg0?oc=5",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/precos-de-hospedagens-no-df-disparam-para-periodo-da-posse-presidencial.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/pf-investiga-ameacas-e-ataques-racistas-contra-deputada-federal-na-internet.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/df-tem-aulao-gratuito-de-redacao-para-o-enem-nesta-quinta-feira-5-veja-como-participar.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-terca-feira-3-de-novembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/03/qualificadf-abre-10-mil-vagas-para-cursos-gratuitos-no-df-veja-como-se-inscrever.ghtml"
   ],
   "palavras": [
     {
@@ -5024,6 +5031,18 @@
       "tema": "botafogo",
       "data": "2026-11-02",
       "proxima": "2026-11-03",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-03-06:30-jp",
+      "palavra": "確保",
+      "leitura": "かくほ",
+      "sentido_pt": "garantia, obtenção",
+      "exemplo": "安全な場所の確保が必要です。",
+      "lang": "jp",
+      "tema": "brasilia",
+      "data": "2026-11-03",
+      "proxima": "2026-11-04",
       "acertos": 0
     }
   ]
