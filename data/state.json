@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-17:30-de",
   "ultima_palavra": {
-    "de": "Geld",
+    "de": "Schule",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Apple zahlt viel Geld für Chips.",
-      "leitura": "das Geld"
+      "frase": "Die Kinder gehen jeden Tag in die Schule.",
+      "leitura": ""
     },
     "jp": {
       "frase": "彼は来年日本へ留学する見込みです。",
@@ -1952,10 +1952,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-04",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-24-21:00",
     "2026-10-25-06:30",
     "2026-10-25-08:00",
     "2026-10-25-17:30",
@@ -2014,14 +2020,10 @@
     "2026-11-03-17:30",
     "2026-11-03-19:30",
     "2026-11-03-21:00",
-    "2026-11-04-06:30"
+    "2026-11-04-06:30",
+    "2026-11-04-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/pl-reconhece-resultado-das-eleicoes.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/26/governo-federal-transfere-ponto-facultativo-do-dia-do-servidor-publico-para-30-de-outubro.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/26/aprovacao-de-trump-sobe-1percent-e-chega-a-32percent-antes-das-eleicoes-nos-eua.ghtml",
-    "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/26/investigacao-acorrentado-barra.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/26/moraes-determina-que-flavio-bolsonaro-entregue-passaporte.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/neoenergia-oferece-54-vagas-gratuitas-para-formar-eletricistas-no-df-saiba-como-se-inscrever.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/26/cnbb-parabeniza-lula-e-diz-que-polarizacao-nao-pode-determinar-o-horizonte-do-proximo-governo.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/26/camara-do-df-pode-mudar-regra-e-liberar-3o-mandato-de-wellington-luiz-na-presidencia-da-casa.ghtml",
@@ -2216,7 +2218,12 @@
     "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/11/04/paes-pede-investigacao-de-douglas-ruas-por-suspeitas-de-compra-de-votos-e-irregularidades-eleitorais.ghtml",
     "https://g1.globo.com/ba/bahia/noticia/2026/11/04/operacao-faroeste-mpf-pede-condenacao-dos-reus-e-defende-perdao-judicial-do-delator.ghtml",
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/04/lula-deve-fazer-pronunciamento-no-domingo-garantir-que-nao-havera-estelionato-eleitoral-e-que-fara-ajuste-fiscal.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/11/04/eleicoes-nos-eua-politicos-brasileiros-repercutem-resultado-que-deu-aos-democratas-maioria-no-congresso.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/11/04/eleicoes-nos-eua-politicos-brasileiros-repercutem-resultado-que-deu-aos-democratas-maioria-no-congresso.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-4-de-novembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/mpox-df-teve-23-casos-confirmados-em-2026-sendo-8-apenas-em-outubro.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/inscricao-para-novos-alunos-e-renovacao-de-matriculas-na-rede-publica-do-df-comecou-veja-como-fazer.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/preso-suspeito-de-matar-homem-com-disparo-na-cabeca-durante-discussao-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-bom-dia-df/playlist/videos-bom-dia-df-de-quarta-feira-4-de-novembro-de-2026.ghtml"
   ],
   "palavras": [
     {
@@ -5155,6 +5162,18 @@
       "exemplo": "彼は来年日本へ留学する見込みです。",
       "lang": "jp",
       "tema": "politica",
+      "data": "2026-11-04",
+      "proxima": "2026-11-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-04-08:00-de",
+      "palavra": "die Schule",
+      "leitura": "",
+      "sentido_pt": "a escola",
+      "exemplo": "Die Kinder gehen jeden Tag in die Schule.",
+      "lang": "de",
+      "tema": "brasilia",
       "data": "2026-11-04",
       "proxima": "2026-11-05",
       "acertos": 0
