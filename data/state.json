@@ -3,16 +3,16 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Gesetz",
+    "de": "Geld",
     "jp": "描写"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Das neue Gesetz bringt mehr Sicherheit für die Bürger.",
-      "leitura": ""
+      "frase": "Apple zahlt viel Geld für Chips.",
+      "leitura": "das Geld"
     },
     "jp": {
       "frase": "この小説の美しい自然の描写に感動しました。",
@@ -1938,10 +1938,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-03",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-24-17:30",
     "2026-10-24-19:30",
     "2026-10-24-21:00",
     "2026-10-25-06:30",
@@ -2000,14 +2006,10 @@
     "2026-11-03-08:00",
     "2026-11-03-12:30",
     "2026-11-03-17:30",
-    "2026-11-03-19:30"
+    "2026-11-03-19:30",
+    "2026-11-03-21:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-pf-registrou-86-ocorrencias-de-possiveis-crimes-eleitorais-em-20-estados-e-no-df.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-no-exterior-flavio-bolsonaro-superou-lula-na-venezuela.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/26/lula-enfrentara-congresso-a-direita-crise-no-stf-e-precisara-conciliar-promessas-com-economia-no-4o-mandato.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/26/eleicoes-2026-onde-lula-e-flavio-viraram-votos-no-exterior.ghtml",
-    "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/grafico-mostra-momento-da-virada-de-lula-sobre-flavio-no-segundo-turno.ghtml",
     "https://www.fool.com/investing/2026/10/26/why-range-resources-stock-surged-today/?.tsrc=rss",
     "https://www.fool.com/coverage/charts/2026/10/26/intel-vs-nvidia-flat-trends-vs-rapid-expansion-in-revenue/?.tsrc=rss",
     "https://www.thestreet.com/crypto/markets/mark-cuban-puts-bitcoin-and-apple-in-the-same-bucket?.tsrc=rss",
@@ -2202,7 +2204,12 @@
     "https://g1.globo.com/politica/noticia/2026/11/03/lula-comemora-aprovacao-da-pec-da-seguranca-publica.ghtml",
     "https://g1.globo.com/politica/noticia/2026/11/03/senado-conclui-votacao-da-pec-da-seguranca-veja-como-ficou-texto.ghtml",
     "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/03/forum-brasileiro-de-seguranca-publica-celebra-aprovacao-da-pec-da-seguranca-mas-diz-que-texto-nao-resolve-problemas-estruturais.ghtml",
-    "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/03/pec-seguranca-publica-como-votaram-senadores-partidos.ghtml"
+    "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/03/pec-seguranca-publica-como-votaram-senadores-partidos.ghtml",
+    "https://www.fool.com/investing/2026/11/03/apple-says-it-will-keep-paying-more-for-memory-chips-after-december-that-s-good-news-for-micron-stock/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/articles/aptiv-aptv-deepens-push-production-031701541.html?.tsrc=rss",
+    "https://www.thestreet.com/investing/tom-lee-says-ai-investors-may-be-selling-at-the-wrong-time?.tsrc=rss",
+    "https://www.fool.com/investing/2026/11/03/99-chance-democrats-retake-the-house-history-says-shift-will-have-huge-impact-on-stocks/?.tsrc=rss",
+    "https://finance.yahoo.com/technology/ai/articles/korea-industry-daily-robotworld-2026-014900079.html?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -5117,6 +5124,18 @@
       "exemplo": "この小説の美しい自然の描写に感動しました。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-11-03",
+      "proxima": "2026-11-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-03-21:00-de",
+      "palavra": "das Geld",
+      "leitura": "das Geld",
+      "sentido_pt": "o dinheiro",
+      "exemplo": "Apple zahlt viel Geld für Chips.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-11-03",
       "proxima": "2026-11-04",
       "acertos": 0
