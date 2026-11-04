@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-06:30-jp",
   "ultima_palavra": {
     "de": "Gesetz",
-    "jp": "獲得"
+    "jp": "描写"
   },
   "ultima_frase": {
     "de": {
@@ -15,12 +15,12 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "クラブは新しい選手の獲得を目指しています。",
-      "leitura": "くらぶはあたらしいせんしゅのかくとくをめざしています。"
+      "frase": "この小説の美しい自然の描写に感動しました。",
+      "leitura": ""
     }
   },
   "obra_idx": {
-    "jp": 24,
+    "jp": 25,
     "de": 23
   },
   "dominadas": {
@@ -1931,10 +1931,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-03",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-24-12:30",
     "2026-10-24-17:30",
     "2026-10-24-19:30",
     "2026-10-24-21:00",
@@ -1993,7 +1999,8 @@
     "2026-11-03-06:30",
     "2026-11-03-08:00",
     "2026-11-03-12:30",
-    "2026-11-03-17:30"
+    "2026-11-03-17:30",
+    "2026-11-03-19:30"
   ],
   "links_usados": [
     "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/26/eleicoes-2026-pf-registrou-86-ocorrencias-de-possiveis-crimes-eleitorais-em-20-estados-e-no-df.ghtml",
@@ -5098,6 +5105,18 @@
       "exemplo": "Das neue Gesetz bringt mehr Sicherheit für die Bürger.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-11-03",
+      "proxima": "2026-11-04",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-03-19:30-jp",
+      "palavra": "描写",
+      "leitura": "びょうしゃ",
+      "sentido_pt": "descrição",
+      "exemplo": "この小説の美しい自然の描写に感動しました。",
+      "lang": "jp",
+      "tema": "literatura",
       "data": "2026-11-03",
       "proxima": "2026-11-04",
       "acertos": 0
