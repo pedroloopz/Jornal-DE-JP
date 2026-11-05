@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Spiel",
-    "jp": "見込み"
+    "jp": "取り組み"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "来年の市場成長の見込みは明るい。",
-      "leitura": "らいねんのしじょうせいちょうのみこみはあかるい。"
+      "frase": "政府は新しい取り組みを進めている。",
+      "leitura": "せいふはあたらしいとりくみをすすめている。"
     }
   },
   "obra_idx": {
@@ -1973,10 +1973,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-04",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-25-17:30",
     "2026-10-25-19:30",
     "2026-10-25-21:00",
     "2026-10-26-06:30",
@@ -2035,14 +2041,10 @@
     "2026-11-04-06:30",
     "2026-11-04-08:00",
     "2026-11-04-12:30",
-    "2026-11-04-17:30"
+    "2026-11-04-17:30",
+    "2026-11-04-19:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk8xbFZsOXRtcXg5WmdVWTRpZkp3S21SOEwxN1MtMGduMzk3ZGh6VGdIZUVhRnMyRXg2eElhZVRpWXc5ajFsOUY2NWs5UUc4VWRpS0NSb0ZHc1BCSFZVOFpKQ2VTZGt1YndMRTBzeHE1YjFzZ1p0eDNDVUVxMElvZkpDV0VhU2piTnVUTG9qRkpqZ0IzVndaY0l2S1hwUW5DbVI3VGJONFBjREw5c2UxYzdqWEh6VTIyNTlsWFpIUUlFUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlZobnRWVXREaWNZTDRIeExJZm5odEVJNkhVS3BpOXNBX3c4UWRMeFZ3WW93MmVreHhvVGplZHlSRU13WnpScFdqLVlsa3ZWXzhqOHYxMC1LX2ZPRWlESkN1UjJ3azhZeXFicHM3amVHa3RnSEgySmlDa053RW9ZXzYzMktBS2x6NGItLVJyb21CQzdxTHg2Q0FxMzVJSERWRUl6bjUxemg5dw?oc=5",
-    "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0FMZzNJZTZ6ekJ3VzRKWE1LOUtMcEFRcW1pVHZXTDB4UUphRGdsam5XQjZSUmpKZVVMdEpiWWhNN3o1dkpjcHFGVWo5TnByYmtPalF0NVBmeDRYVFRuajBOdmdIcWVNbkdLRk1sQlhRYWV4SUlHQzZNUm5mbnBiajl4VnFUVXRxWDNfS3M3aXlzdWo3bzNBd1VzZndLdnl5QUdDb1FhYTZrM1NOWGg1SHpnVGpOeTVEb3ZwTUxQTDhZSm90Z180aHkwWThJZ3FtS3RyWmw3YVByWXZLVy1XM2J5UmNVQlpnb3c?oc=5",
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGR0U0NkNFBfQVp3ZWVKWThRaXpRWGl2ZElCUXpnQ2Z6Nk5WX3IzMmtzTVpfTDFzRWw4eGFRUFBKV0RGdDYxOC1PTHdWbzM2LVpJR1NHM0dUU3pMM0k4MjE4UTQ0RGpxMWc4R09BLUl4RF9rSkVHa2pzMXhMQzBnZGF4ejhmYXRPanRkZw?oc=5",
-    "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcW9zM2lGUDV4X1JmXzFzc0dGNGVlV1BiMVFCYV9CbkxtX1lhLTVpcGxGTzQ0dFB1YkpzQ2h5dXh5X2Y3Z0IzWFVtSG5Fd3gtRjdvalZRakV4TE1qSHd2V1N1Rm1vQUhLUW5VNXRXOHRZUEFWR2NyNm5ZWUVScDk5TllFZ3g4QlNJSEc5aklrWEEtM2xVZ2t3TC1Ea092cEFhWFJhSFdYVzFhRVlobmhRSEQ0eG1qcFVxN082aVFHZmhqRzZHM2JUZmZoTG96ZlhmVk5tQWljdW45UQ?oc=5",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-27-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/27/celina-leao-promete-reduzir-tempo-de-espera-na-saude-e-reafirma-compromisso-com-tarifa-zero-e-educacao-integral.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/caseiro-e-resgatado-apos-28-anos-de-trabalho-escravo-domestico-no-df-ele-era-usado-como-laranja-em-esquema-da-familia.ghtml",
@@ -2237,7 +2239,12 @@
     "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSF8yZ004bElQam9HazV1VEFpWU9wel9ZekhsWktyQURxUWNJR1A1OVNteWFpMHRORlFhYlY2YjdncTd2ZUUtRmxnaHJISkYyWXMyNUtpV28weE1lOGFXcy1kQ3Z1TU5DUzM1OHd4dTFfQ3pOQk1xSG50VFZYUTVmS3kxRTcwaWg0cVJmVHEtQnNVRDVsRVl3d21xc2FwQlp3WlV4ZnY2bkZhcVlyb0s1WV9mSmJXQmJCN0NIcm9vZkZGdTg1bkNzcGxkTUhpS0pjUkthaElwNGpnV2NXZ2RMdTJOalExREVjdVNpZ1ZDOHUyTWtKYVRwZnVjR01lb0tIZnItQnhESQ?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjB3eWJ0Ui1Pempsb0hwYWM1T01mSy1IZ0xMbEdBVnpRVTZ6ZkRrcjVUWXNNcE82VGM3Wm1YVWZKd1IwNnZsZGU0VGZFbWhHUkpTU01vdVZMdm9UZkt6Mi1Ic0h4SlFlY0NaZGxpQmJxWjQySEVpdllYWkVIQVAyRVRDV0Q4czlZUnhfTy10UXQ0eDliNXBpSnVZaWpGZ2ZCbUJraXB0X1NNMmpYNG5IQ1FqZUEwcUNNempvNThsaVp5NS1uSG5aMTNiN1oyX1k?oc=5",
     "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmRRQUN0dnBUYmNoTlVlNWtodV9kQkkwUTQ1NDUxT2o0NUZoTll0N0FCdVBRUjlUb1g1TGpHMWExSmhSNXhwazk4dW0zalU2YktJcE1HZWtfelhvOTRGNzVtUGYtUmJ1d3Y4eXFBWkdMVGFiRnRCZzBiLVZPNDdiZ01Venk3SGwwcjVadEZnLVF5RlVPeXc5WjVCUElpYmhNVFhKV3hQS0U5XzhhOG1zQ0gxd1g5LWtRa2YyNlJIamFncWJrT3lNVDlvWm7SAdsBQVVfeXFMUGdPYlU0bkNuY0t1TTFVTW90LUFtXzhuNzF0SUVJUHBsaXlFWnUtNzB6QlFRbFhPWGEzVFRqb05uRFc1Ynh3dzdKTk5hMEppZ2gxU1VMVkVtWjVLOVFyTDh1SVpBTldqODNkbnN6aXZCeUZURF91M0ZZcUJmSWJyb3ZXUC1fYU1zNmtMUjJSbVN4Y1VMWGswcUFNb0JYRWRVakxsa3VuRklvZlg4UzNsVmJFQU5EVERmQm9MS0ZxVnNfQU9kTENSZUhCTDdlaHFCcktYV2V3dkJabVd3?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXBQYnczUE1qRVdsaUdSQnNCOG1GZFFFR0JHZEU4bXFSY0M3N3M2OVN4LVVUNW56UmV6MmFwNkF2M1ctMWlzYnBGUkZBLWtBX1RMSDl1blFSQndDVTZxUlJ6MEgzUUUwWC1uVDJYN0x5LW1sZGFuU1JZNnNERm5Db0ZKTWxPdktyRnNNcHVqNXh0SDBYWXZBWjNjbVhqdw?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXBQYnczUE1qRVdsaUdSQnNCOG1GZFFFR0JHZEU4bXFSY0M3N3M2OVN4LVVUNW56UmV6MmFwNkF2M1ctMWlzYnBGUkZBLWtBX1RMSDl1blFSQndDVTZxUlJ6MEgzUUUwWC1uVDJYN0x5LW1sZGFuU1JZNnNERm5Db0ZKTWxPdktyRnNNcHVqNXh0SDBYWXZBWjNjbVhqdw?oc=5",
+    "https://g1.globo.com/df/distrito-federal/videos-df2/playlist/videos-df2-de-quarta-feira-4-de-novembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/diplomatas-indigenas-e-quilombola-tomam-posse-no-itamaraty-turma-tem-27-representantes-de-minorias.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/quase-100-mil-aguardam-receber-dinheiro-do-nota-legal-no-df-governo-quer-pagar-ainda-este-mes.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/homem-e-sequestrado-e-espancado-por-3-dias-apos-amigo-colocar-divida-de-drogas-em-seu-nome-no-entorno-do-df-agressoes-foram-filmadas.ghtml",
+    "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/04/operacao-chave-mestra-quatro-estados-invadir-banco.ghtml"
   ],
   "palavras": [
     {
@@ -5212,6 +5219,18 @@
       "exemplo": "Das Spiel beginnt um zwanzig Uhr.",
       "lang": "de",
       "tema": "botafogo",
+      "data": "2026-11-04",
+      "proxima": "2026-11-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-04-19:30-jp",
+      "palavra": "取り組み",
+      "leitura": "とりくみ",
+      "sentido_pt": "iniciativa",
+      "exemplo": "政府は新しい取り組みを進めている。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-11-04",
       "proxima": "2026-11-05",
       "acertos": 0
