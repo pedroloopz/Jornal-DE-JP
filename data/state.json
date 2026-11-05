@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-21:00-de",
   "ultima_palavra": {
-    "de": "Schule",
+    "de": "Spiel",
     "jp": "見込み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Kinder gehen jeden Tag in die Schule.",
+      "frase": "Das Spiel beginnt um zwanzig Uhr.",
       "leitura": ""
     },
     "jp": {
@@ -1966,10 +1966,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-04",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-25-08:00",
     "2026-10-25-17:30",
     "2026-10-25-19:30",
     "2026-10-25-21:00",
@@ -2028,14 +2034,10 @@
     "2026-11-03-21:00",
     "2026-11-04-06:30",
     "2026-11-04-08:00",
-    "2026-11-04-12:30"
+    "2026-11-04-12:30",
+    "2026-11-04-17:30"
   ],
   "links_usados": [
-    "https://247wallst.com/investing/2026/10/27/dont-be-surprised-if-nvidia-micron-and-sandisk-outperform-the-market-again/?.tsrc=rss",
-    "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-vs-msft-googl-145956028.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/27/3-dirt-cheap-dividend-stocks-to-buy-hand-over-fist/?.tsrc=rss",
-    "https://beincrypto.com/cramer-broadcom-anthropic-deal-nvidia/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/800-vdc-data-center-power-141400243.html?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQk8xbFZsOXRtcXg5WmdVWTRpZkp3S21SOEwxN1MtMGduMzk3ZGh6VGdIZUVhRnMyRXg2eElhZVRpWXc5ajFsOUY2NWs5UUc4VWRpS0NSb0ZHc1BCSFZVOFpKQ2VTZGt1YndMRTBzeHE1YjFzZ1p0eDNDVUVxMElvZkpDV0VhU2piTnVUTG9qRkpqZ0IzVndaY0l2S1hwUW5DbVI3VGJONFBjREw5c2UxYzdqWEh6VTIyNTlsWFpIUUlFUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlZobnRWVXREaWNZTDRIeExJZm5odEVJNkhVS3BpOXNBX3c4UWRMeFZ3WW93MmVreHhvVGplZHlSRU13WnpScFdqLVlsa3ZWXzhqOHYxMC1LX2ZPRWlESkN1UjJ3azhZeXFicHM3amVHa3RnSEgySmlDa053RW9ZXzYzMktBS2x6NGItLVJyb21CQzdxTHg2Q0FxMzVJSERWRUl6bjUxemg5dw?oc=5",
     "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPR0FMZzNJZTZ6ekJ3VzRKWE1LOUtMcEFRcW1pVHZXTDB4UUphRGdsam5XQjZSUmpKZVVMdEpiWWhNN3o1dkpjcHFGVWo5TnByYmtPalF0NVBmeDRYVFRuajBOdmdIcWVNbkdLRk1sQlhRYWV4SUlHQzZNUm5mbnBiajl4VnFUVXRxWDNfS3M3aXlzdWo3bzNBd1VzZndLdnl5QUdDb1FhYTZrM1NOWGg1SHpnVGpOeTVEb3ZwTUxQTDhZSm90Z180aHkwWThJZ3FtS3RyWmw3YVByWXZLVy1XM2J5UmNVQlpnb3c?oc=5",
@@ -2230,7 +2232,12 @@
     "https://www.thestreet.com/crypto/innovation/hive-lines-up-129-million-to-buy-nvidia-ai-chips?.tsrc=rss",
     "https://www.fool.com/investing/2026/11/04/alphabet-amazon-and-microsoft-all-surged-today-you-can-thank-the-big-blue-wave/?.tsrc=rss",
     "https://finance.yahoo.com/m/280f9056-9586-3201-ac6c-cdb248e692b6/dow-heads-for-best.html?.tsrc=rss",
-    "https://www.fool.com/investing/2026/11/04/why-spacex-stock-is-down-today/?.tsrc=rss"
+    "https://www.fool.com/investing/2026/11/04/why-spacex-stock-is-down-today/?.tsrc=rss",
+    "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVNBQjNma2J2NE1Kdk9BUXNsYmpvcUp6TllNLTNNLXNTdEhDT1hlS2RiNmR1eDBBcjJvUjdXbkpNQks4a0NtTGQwbEFta3pVcmF4M25ScTQ0c1U1R2swOGVLTjlfdndWSkptbUlRX054dDE1bFhURGI3LTNpTTRwMnA5emNDLXFiYzJzWDFxazVpUThUODF2Y3czcFgxdWhuZzlyLUphdmgxSmVfdE5naXFwZmIxTDZveVYzaHF1V0JHdUdCWExWQTh0X2FQM2o2SWNF?oc=5",
+    "https://news.google.com/rss/articles/CBMihwJBVV95cUxQSF8yZ004bElQam9HazV1VEFpWU9wel9ZekhsWktyQURxUWNJR1A1OVNteWFpMHRORlFhYlY2YjdncTd2ZUUtRmxnaHJISkYyWXMyNUtpV28weE1lOGFXcy1kQ3Z1TU5DUzM1OHd4dTFfQ3pOQk1xSG50VFZYUTVmS3kxRTcwaWg0cVJmVHEtQnNVRDVsRVl3d21xc2FwQlp3WlV4ZnY2bkZhcVlyb0s1WV9mSmJXQmJCN0NIcm9vZkZGdTg1bkNzcGxkTUhpS0pjUkthaElwNGpnV2NXZ2RMdTJOalExREVjdVNpZ1ZDOHUyTWtKYVRwZnVjR01lb0tIZnItQnhESQ?oc=5",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbjB3eWJ0Ui1Pempsb0hwYWM1T01mSy1IZ0xMbEdBVnpRVTZ6ZkRrcjVUWXNNcE82VGM3Wm1YVWZKd1IwNnZsZGU0VGZFbWhHUkpTU01vdVZMdm9UZkt6Mi1Ic0h4SlFlY0NaZGxpQmJxWjQySEVpdllYWkVIQVAyRVRDV0Q4czlZUnhfTy10UXQ0eDliNXBpSnVZaWpGZ2ZCbUJraXB0X1NNMmpYNG5IQ1FqZUEwcUNNempvNThsaVp5NS1uSG5aMTNiN1oyX1k?oc=5",
+    "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMmRRQUN0dnBUYmNoTlVlNWtodV9kQkkwUTQ1NDUxT2o0NUZoTll0N0FCdVBRUjlUb1g1TGpHMWExSmhSNXhwazk4dW0zalU2YktJcE1HZWtfelhvOTRGNzVtUGYtUmJ1d3Y4eXFBWkdMVGFiRnRCZzBiLVZPNDdiZ01Venk3SGwwcjVadEZnLVF5RlVPeXc5WjVCUElpYmhNVFhKV3hQS0U5XzhhOG1zQ0gxd1g5LWtRa2YyNlJIamFncWJrT3lNVDlvWm7SAdsBQVVfeXFMUGdPYlU0bkNuY0t1TTFVTW90LUFtXzhuNzF0SUVJUHBsaXlFWnUtNzB6QlFRbFhPWGEzVFRqb05uRFc1Ynh3dzdKTk5hMEppZ2gxU1VMVkVtWjVLOVFyTDh1SVpBTldqODNkbnN6aXZCeUZURF91M0ZZcUJmSWJyb3ZXUC1fYU1zNmtMUjJSbVN4Y1VMWGswcUFNb0JYRWRVakxsa3VuRklvZlg4UzNsVmJFQU5EVERmQm9MS0ZxVnNfQU9kTENSZUhCTDdlaHFCcktYV2V3dkJabVd3?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxQWXBQYnczUE1qRVdsaUdSQnNCOG1GZFFFR0JHZEU4bXFSY0M3N3M2OVN4LVVUNW56UmV6MmFwNkF2M1ctMWlzYnBGUkZBLWtBX1RMSDl1blFSQndDVTZxUlJ6MEgzUUUwWC1uVDJYN0x5LW1sZGFuU1JZNnNERm5Db0ZKTWxPdktyRnNNcHVqNXh0SDBYWXZBWjNjbVhqdw?oc=5"
   ],
   "palavras": [
     {
@@ -5193,6 +5200,18 @@
       "exemplo": "来年の市場成長の見込みは明るい。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-11-04",
+      "proxima": "2026-11-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-04-17:30-de",
+      "palavra": "das Spiel",
+      "leitura": "",
+      "sentido_pt": "o jogo",
+      "exemplo": "Das Spiel beginnt um zwanzig Uhr.",
+      "lang": "de",
+      "tema": "botafogo",
       "data": "2026-11-04",
       "proxima": "2026-11-05",
       "acertos": 0
