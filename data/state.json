@@ -4,15 +4,15 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Buch",
+    "de": "Information",
     "jp": "取り組み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Ich lese jeden Abend ein spannendes Buch.",
-      "leitura": "Das Buch liegt auf dem Tisch."
+      "frase": "Diese Information ist wichtig für uns alle.",
+      "leitura": ""
     },
     "jp": {
       "frase": "政府は新しい取り組みを進めている。",
@@ -1987,10 +1987,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-05",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-25-21:00",
     "2026-10-26-06:30",
     "2026-10-26-08:00",
     "2026-10-26-17:30",
@@ -2049,14 +2055,10 @@
     "2026-11-04-12:30",
     "2026-11-04-17:30",
     "2026-11-04-19:30",
-    "2026-11-04-21:00"
+    "2026-11-04-21:00",
+    "2026-11-05-08:00"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-terca-feira-27-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/27/celina-leao-promete-reduzir-tempo-de-espera-na-saude-e-reafirma-compromisso-com-tarifa-zero-e-educacao-integral.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/caseiro-e-resgatado-apos-28-anos-de-trabalho-escravo-domestico-no-df-ele-era-usado-como-laranja-em-esquema-da-familia.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/policia-investiga-morte-de-bebe-de-1-anos-em-upa-do-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/27/video-apos-denuncia-de-som-alto-grupo-ataca-carro-da-pm-e-destroi-portao-de-vizinha-no-df.ghtml",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFpscEpmV1hTVTlLLWFjV1pkd3dKVnlxZ0Vvbm0wUTlQQXAzZXhuUDREOGJmVzcwOTZySTdOLUV1WFM4ZEx2NV9acTVoOXBoaEtVOFMtVEY4d0pLZmY5UzZuR2tnaEtpTVdZaWpVSEI0U0lVS29pWGNCVnBQOHFjcWxWVnRHUkRVU0VQeTVwRldKNWpZUFVFa21Nd1dJS3hwcnc2R0h1YldmNHpWU1hOdGd0N2YxU1JYMFHSAcgBQVVfeXFMUEdOTF8yWmVneld3SkpaT0JqQTdlR2Y5ZHFGU1E4X1ZwR0R5Z09ERzRFMllrX3hWUnVtOWNnVE5YQXYwUEN6U3dxamtCbHo2RWxocG1KNlFmV092LXdZRl9acEVxekJma0psY002SjdnWGtKOFVoWFJVVUlVWk1ySnI1eDNjRU1BVlkzYW02WWxYWWhPRFRKYXVGVzQza1hla2d5bmhTNEVqekNhdUZDZV9fSHl3c2IzdDNRTWw1OWlEa21VMm8wdEg?oc=5",
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUZ6ZGctNWNrdzJZRU1nNENtcF9EeVh1YXhPcU5rbXBEMkdlcmQ0UVY5NWxRRGsxbU0xak1tU3BSSUZDajh6QWU5c3pfV3JhRkZmak5sWF9nVmRhUzRHTTJyNmQzLVU3Uk13dG1zWWhiMGRTWHlqN2h0dWhrRjd2WXdOblJWTlJxYWNGZGE3dl9ELTc0MlNqaTFDUFpJeHVVWlhLVVhHbjJjaTlZdVFCbTNfYU1TTkVFMVFFd3FwSDA?oc=5",
     "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTJ4M0ZLV3g0X1BPTHhrMEl5YllqRlVwa1hIdXp0VFNncGExVHVGZFNsN2FtVnpUcHRYZWpHd2tzNmtEYUpaRThGY3N3Y244Q2E4WkpfbzhkU1ZuY3A5Q2lURUxMWWUza2ExSW1wcmdZeFRBU1J1d2R2ekZkVzRYZFRJYWt2Q3VNVllFUWp0VUFEZEpxajhBYmV6VWlZSkNtX3kwQVRqMHJlNmYtd3I2cTFKRGx4b2I1SG42SHluNTNqY2Uz?oc=5",
@@ -2251,7 +2253,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/diplomatas-indigenas-e-quilombola-tomam-posse-no-itamaraty-turma-tem-27-representantes-de-minorias.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/quase-100-mil-aguardam-receber-dinheiro-do-nota-legal-no-df-governo-quer-pagar-ainda-este-mes.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/04/homem-e-sequestrado-e-espancado-por-3-dias-apos-amigo-colocar-divida-de-drogas-em-seu-nome-no-entorno-do-df-agressoes-foram-filmadas.ghtml",
-    "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/04/operacao-chave-mestra-quatro-estados-invadir-banco.ghtml"
+    "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2026/11/04/operacao-chave-mestra-quatro-estados-invadir-banco.ghtml",
+    "https://g1.globo.com/fato-ou-fake/noticia/2026/11/05/e-fake-que-cena-de-pessoas-pegando-comida-em-caminhao-de-lixo-ocorreu-durante-governo-lula-video-foi-gravado-em-2021.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/tse-permite-manter-mandato-de-mulher-eleita-em-chapa-com-fraude-a-cota-de-genero.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/bolsonaro-pede-a-moraes-autorizacao-para-receber-marinho-e-tereza-que-devem-disputar-presidencia-do-senado.ghtml",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/lula-convoca-ministro-da-fazenda-e-economistas-do-pt-para-discutir-medidas-para-economia-apos-bc-parar-corte-de-juros.ghtml",
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml"
   ],
   "palavras": [
     {
@@ -5252,6 +5259,18 @@
       "tema": "literatura",
       "data": "2026-11-04",
       "proxima": "2026-11-05",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-05-08:00-de",
+      "palavra": "die Information",
+      "leitura": "",
+      "sentido_pt": "a informação",
+      "exemplo": "Diese Information ist wichtig für uns alle.",
+      "lang": "de",
+      "tema": "politica",
+      "data": "2026-11-05",
+      "proxima": "2026-11-06",
       "acertos": 0
     }
   ]
