@@ -4,14 +4,14 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-22-21:00-de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Information",
+    "de": "Aktie",
     "jp": "取り組み"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Diese Information ist wichtig für uns alle.",
+      "frase": "Jede Aktie hat heute viel Wert verloren.",
       "leitura": ""
     },
     "jp": {
@@ -1994,10 +1994,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-05",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-26-06:30",
     "2026-10-26-08:00",
     "2026-10-26-17:30",
     "2026-10-26-19:30",
@@ -2056,14 +2062,10 @@
     "2026-11-04-17:30",
     "2026-11-04-19:30",
     "2026-11-04-21:00",
-    "2026-11-05-08:00"
+    "2026-11-05-08:00",
+    "2026-11-05-17:30"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFpscEpmV1hTVTlLLWFjV1pkd3dKVnlxZ0Vvbm0wUTlQQXAzZXhuUDREOGJmVzcwOTZySTdOLUV1WFM4ZEx2NV9acTVoOXBoaEtVOFMtVEY4d0pLZmY5UzZuR2tnaEtpTVdZaWpVSEI0U0lVS29pWGNCVnBQOHFjcWxWVnRHUkRVU0VQeTVwRldKNWpZUFVFa21Nd1dJS3hwcnc2R0h1YldmNHpWU1hOdGd0N2YxU1JYMFHSAcgBQVVfeXFMUEdOTF8yWmVneld3SkpaT0JqQTdlR2Y5ZHFGU1E4X1ZwR0R5Z09ERzRFMllrX3hWUnVtOWNnVE5YQXYwUEN6U3dxamtCbHo2RWxocG1KNlFmV092LXdZRl9acEVxekJma0psY002SjdnWGtKOFVoWFJVVUlVWk1ySnI1eDNjRU1BVlkzYW02WWxYWWhPRFRKYXVGVzQza1hla2d5bmhTNEVqekNhdUZDZV9fSHl3c2IzdDNRTWw1OWlEa21VMm8wdEg?oc=5",
-    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSUZ6ZGctNWNrdzJZRU1nNENtcF9EeVh1YXhPcU5rbXBEMkdlcmQ0UVY5NWxRRGsxbU0xak1tU3BSSUZDajh6QWU5c3pfV3JhRkZmak5sWF9nVmRhUzRHTTJyNmQzLVU3Uk13dG1zWWhiMGRTWHlqN2h0dWhrRjd2WXdOblJWTlJxYWNGZGE3dl9ELTc0MlNqaTFDUFpJeHVVWlhLVVhHbjJjaTlZdVFCbTNfYU1TTkVFMVFFd3FwSDA?oc=5",
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSTJ4M0ZLV3g0X1BPTHhrMEl5YllqRlVwa1hIdXp0VFNncGExVHVGZFNsN2FtVnpUcHRYZWpHd2tzNmtEYUpaRThGY3N3Y244Q2E4WkpfbzhkU1ZuY3A5Q2lURUxMWWUza2ExSW1wcmdZeFRBU1J1d2R2ekZkVzRYZFRJYWt2Q3VNVllFUWp0VUFEZEpxajhBYmV6VWlZSkNtX3kwQVRqMHJlNmYtd3I2cTFKRGx4b2I1SG42SHluNTNqY2Uz?oc=5",
-    "https://news.google.com/rss/articles/CBMiogJBVV95cUxQZWN6QUttQVh0YXFaLUhzaTJPZ09rSm5ZOFVTT0dHR19HNFRHOXNvd2tZQm54OGdVdnh2UmZuSWFnYV9MYWtJeFQ4QjQ3QnZGRWVYOEEzUEZGd2tBcndaOG1zNnZwSVI2TFp4U1BjWU9PWkkxV0JhQUxXVzNTM1hvNzZfTW5zdWdjenhFVFpjeVl1YS11Q05BLThpZkQwa0hsU1FiM2VwZDFDbUw5Um1oZzRkaUVrX2hlclRwU0h3dlZ3Ul93V2x1OWdIZ05QeTlESUh3WWozVDdUTDJSdFR5SnEtVkZMNERIeXVJWk5hYmVTbDRGa3Ixb2dnYTdRZlVrZEd2WkU1VU55NDVfelZBZEpXVFRFcXhnWUxKSklndkhXdw?oc=5",
-    "https://news.google.com/rss/articles/CBMickFVX3lxTFBzdDM4RU92UldabGw3eXE1REtROFEyRUJWWkFQMVpxZzE2QWR5dE5nZktPOGxfbWJzRTRST0k0OG5HSjA0aC1wTGFOSDhHN05xTDhKdVhGQl95bEhkOXZha1NZWS1xcWlGTFRMNzZIdXctUQ?oc=5",
     "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/28/a-rota-de-fuga-de-flavio-bolsonaro-o-assunto-1834.ghtml",
     "https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml",
     "https://g1.globo.com/politica/noticia/2026/10/27/camara-aprova-projeto-que-da-incentivos-para-a-producao-de-cana-no-nordeste.ghtml",
@@ -2258,7 +2260,12 @@
     "https://g1.globo.com/politica/noticia/2026/11/05/tse-permite-manter-mandato-de-mulher-eleita-em-chapa-com-fraude-a-cota-de-genero.ghtml",
     "https://g1.globo.com/politica/noticia/2026/11/05/bolsonaro-pede-a-moraes-autorizacao-para-receber-marinho-e-tereza-que-devem-disputar-presidencia-do-senado.ghtml",
     "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/lula-convoca-ministro-da-fazenda-e-economistas-do-pt-para-discutir-medidas-para-economia-apos-bc-parar-corte-de-juros.ghtml",
-    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml"
+    "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/11/05/pt-e-parte-da-equipe-de-lula-atacam-bc-apos-copom-interromper-ciclo-de-corte-de-juros-por-duvidas-sobre-ajuste-fiscal.ghtml",
+    "https://finance.yahoo.com/m/0cd2227b-7753-3d54-a8c5-286efe82ac39/dow-jones-futures-fall%2C-techs.html?.tsrc=rss",
+    "https://www.marketbeat.com/instant-alerts/event-box-unveils-ai-agent-tools-and-nvidia-partnership-at-boxworks-2026-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+    "https://247wallst.com/investing/2026/11/05/nvidia-stock-just-crashed-22-jim-cramer-says-its-the-cheapest-in-a-decade/?.tsrc=rss",
+    "https://app.moby.co/home/research/tools/earningsCalendar/earnings-amylyx-pharmaceuticals-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "https://app.moby.co/home/research/tools/earningsCalendar/earnings-evolent-health-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss"
   ],
   "palavras": [
     {
@@ -5269,6 +5276,18 @@
       "exemplo": "Diese Information ist wichtig für uns alle.",
       "lang": "de",
       "tema": "politica",
+      "data": "2026-11-05",
+      "proxima": "2026-11-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-05-17:30-de",
+      "palavra": "die Aktie",
+      "leitura": "",
+      "sentido_pt": "a ação",
+      "exemplo": "Jede Aktie hat heute viel Wert verloren.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-11-05",
       "proxima": "2026-11-06",
       "acertos": 0
