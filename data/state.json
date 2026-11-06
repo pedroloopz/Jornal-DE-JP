@@ -4,10 +4,10 @@
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
   "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-22-06:30-jp",
+  "revisao_aberta": "2026-09-24-06:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "見通し"
+    "jp": "調査"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "経済の回復について明るい見通しが発表された。",
-      "leitura": "けいざいのかいふくについてあかるいみとおしがはっぴょうされた。"
+      "frase": "警察は事件の調査を続けています。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -2015,10 +2015,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-06",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-26-19:30",
     "2026-10-26-21:00",
     "2026-10-27-06:30",
     "2026-10-27-08:00",
@@ -2077,14 +2083,10 @@
     "2026-11-05-08:00",
     "2026-11-05-17:30",
     "2026-11-05-19:30",
-    "2026-11-06-06:30"
+    "2026-11-06-06:30",
+    "2026-11-06-12:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/politica/noticia/2026/10/28/proibicao-de-flavio-bolsonaro-deixar-o-pais-era-medida-logica-apos-cancelamento-do-passaporte-diz-moraes.ghtml",
-    "https://g1.globo.com/mundo/ao-vivo/voo-flavio-bolsonaro-eua.ghtml",
-    "https://g1.globo.com/politica/blog/andreia-sadi/2026/lula-4-composicao-edinho-silva.ghtml",
-    "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/10/28/pf-flavio-bolsonaro-ordem-judicial.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/pf-indiciamentos-vorcaro-master.ghtml",
     "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-28-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/caso-master-veja-os-nomes-e-as-condutas-dos-15-indiciados-no-relatorio-da-pf-lista-inclui-vorcaro-e-ex-presidente-do-brb.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/diretoria-do-brb-foi-alertada-sobre-falhas-em-90percent-de-carteira-do-master-em-2024-diz-relatorio-da-pf.ghtml",
@@ -2279,7 +2281,12 @@
     "https://finance.yahoo.com/m/aeb920dc-4bcd-3531-8458-6a642b7135df/analyst-calls-tech-stock.html?.tsrc=rss",
     "https://www.tikr.com/blog/tsmc-soars-5-on-report-its-weighing-advanced-memory-chips-for-nvidia-after-chip-rout?ref=yahoofinance&tlnk=yf-261106-8jhx34mg&.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/micron-amd-nvidia-lead-ai-160157661.html?.tsrc=rss",
-    "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow-pares.html?.tsrc=rss"
+    "https://finance.yahoo.com/m/259a2432-7041-3624-978f-9a7336f10b31/stock-market-today%3A-dow-pares.html?.tsrc=rss",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/policia-prende-namorado-da-mae-do-bebe-de-1-ano-que-morreu-na-upa-de-samambaia-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/historia-do-crime-triplo-assassinato-na-113-sul-teve-inocente-preso-por-14-anos-e-condenacao-anulada.ghtml",
+    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-6-de-novembro-de-2026.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/policia-investiga-homem-que-pintou-suastica-em-calcada-no-df.ghtml",
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/suspeito-de-matar-vitima-com-golpes-na-cabeca-e-encontrado-em-area-rural-do-df-video.ghtml"
   ],
   "palavras": [
     {
@@ -5326,6 +5333,18 @@
       "exemplo": "経済の回復について明るい見通しが発表された。",
       "lang": "jp",
       "tema": "bolsa",
+      "data": "2026-11-06",
+      "proxima": "2026-11-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-06-12:30-jp",
+      "palavra": "調査",
+      "leitura": "ちょうさ",
+      "sentido_pt": "investigação",
+      "exemplo": "警察は事件の調査を続けています。",
+      "lang": "jp",
+      "tema": "brasilia",
       "data": "2026-11-06",
       "proxima": "2026-11-07",
       "acertos": 0
