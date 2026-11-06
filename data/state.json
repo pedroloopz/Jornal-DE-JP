@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-23-08:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-23-12:30-jp",
   "ultima_palavra": {
     "de": "Aktie",
-    "jp": "取り組み"
+    "jp": "話し合い"
   },
   "ultima_frase": {
     "de": {
@@ -15,8 +15,8 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "政府は新しい取り組みを進めている。",
-      "leitura": "せいふはあたらしいとりくみをすすめている。"
+      "frase": "関係者との話し合いが続いています。",
+      "leitura": ""
     }
   },
   "obra_idx": {
@@ -2001,10 +2001,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-05",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-26-08:00",
     "2026-10-26-17:30",
     "2026-10-26-19:30",
     "2026-10-26-21:00",
@@ -2063,14 +2069,10 @@
     "2026-11-04-19:30",
     "2026-11-04-21:00",
     "2026-11-05-08:00",
-    "2026-11-05-17:30"
+    "2026-11-05-17:30",
+    "2026-11-05-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/28/a-rota-de-fuga-de-flavio-bolsonaro-o-assunto-1834.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/27/flavio-bolsonaro-chega-aos-eua-diz-bbc.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/10/27/camara-aprova-projeto-que-da-incentivos-para-a-producao-de-cana-no-nordeste.ghtml",
-    "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/10/27/xuxa-comenta-caso-de-pastor-agredido-por-estar-com-camiseta-vermelha-no-dia-da-eleicao-em-goiania-que-odio-meu-deus.ghtml",
-    "https://g1.globo.com/mundo/noticia/2026/10/27/parlamentares-da-argentina-pedem-investigacao-sobre-possivel-fuga-de-flavio-pelo-pais-diz-jornal.ghtml",
     "https://finance.yahoo.com/m/6921f512-7bf2-33e1-8213-72c6fd574804/nvidia-partner-vertiv-soars.html?.tsrc=rss",
     "https://www.fool.com/investing/2026/10/28/why-micron-technology-stock-rallied-today/?.tsrc=rss",
     "https://finance.yahoo.com/technology/articles/onq-unveils-retail-security-brackets-160000275.html?.tsrc=rss",
@@ -2265,7 +2267,12 @@
     "https://www.marketbeat.com/instant-alerts/event-box-unveils-ai-agent-tools-and-nvidia-partnership-at-boxworks-2026-2026-11-05/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
     "https://247wallst.com/investing/2026/11/05/nvidia-stock-just-crashed-22-jim-cramer-says-its-the-cheapest-in-a-decade/?.tsrc=rss",
     "https://app.moby.co/home/research/tools/earningsCalendar/earnings-amylyx-pharmaceuticals-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
-    "https://app.moby.co/home/research/tools/earningsCalendar/earnings-evolent-health-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss"
+    "https://app.moby.co/home/research/tools/earningsCalendar/earnings-evolent-health-inc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+    "https://g1.globo.com/politica/noticia/2026/11/05/tereza-cristina-disputa-presidencia-senado-jair-bolsonaro.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/vitoria-para-o-mundo-diz-lula-sobre-resultados-nas-eleicoes-no-brasil-em-israel-e-nos-eua.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/fraudes-no-inss-mendonca-substitui-prisao-preventiva-de-empresario-mauricio-camisotti-por-prisao-domiciliar.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/fachin-mantem-prisao-de-cunhado-de-vorcaro-e-pede-manifestacao-da-pgr-sobre-liberdade-de-ex-banqueiro.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/05/tse-admite-acao-do-novo-contra-lula-e-alckmin-por-abuso-de-poder-politico.ghtml"
   ],
   "palavras": [
     {
@@ -5288,6 +5295,18 @@
       "exemplo": "Jede Aktie hat heute viel Wert verloren.",
       "lang": "de",
       "tema": "bolsa",
+      "data": "2026-11-05",
+      "proxima": "2026-11-06",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-05-19:30-jp",
+      "palavra": "話し合い",
+      "leitura": "はなしあい",
+      "sentido_pt": "conversa",
+      "exemplo": "関係者との話し合いが続いています。",
+      "lang": "jp",
+      "tema": "politica",
       "data": "2026-11-05",
       "proxima": "2026-11-06",
       "acertos": 0
