@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-23-06:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-23-08:00-de",
   "ultima_palavra": {
-    "de": "Regierung",
+    "de": "Werkzeug",
     "jp": "才能"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Die Regierung plant eine wichtige Reform.",
+      "frase": "Geduld ist das beste Werkzeug für den Erfolg.",
       "leitura": ""
     },
     "jp": {
@@ -2050,10 +2050,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-07",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-27-17:30",
     "2026-10-27-19:30",
     "2026-10-27-21:00",
     "2026-10-28-06:30",
@@ -2112,14 +2118,10 @@
     "2026-11-06-17:30",
     "2026-11-06-19:30",
     "2026-11-06-21:00",
-    "2026-11-07-06:30"
+    "2026-11-07-06:30",
+    "2026-11-07-08:00"
   ],
   "links_usados": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamJQdDdVeG1PaDRRZFM1UXBVdF9WXzBtWUpKV29La2RIVE43bTZlSHFudkpzdGRRQXdHZVNQdEZUbjVyMzVQRC1NUzlZTlBXNFFlREhDQ1B3T3Q1SVhlQXlMUFp3UnhBU0FXNWVKTnNGaGkyTXRXNklZem9NS0VUV2JoVGxLaFVBWVlQZVNvbDZkZXpxQUd6RVJLUWtSakl3?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWpCZGllTnVXYmZKUm1PLUVuX2REYVQ1WkhiVlhXNHQ0eWRSdGhzSU5DeFNtRDc0SDZEWEpReTlTVGRhbTBKNTNQQklGUWdZamJKN2pSN1pxX1hlYnZ5X1Z4cGpEMmM5aUFZY0hnc1h4eFJFcWU0SXZHck5vYzdVdXBhOVdveUo3dHlBTFY4M3J5SlhQN3ZGRGVGT0lTUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnJGMER6REdCOF9oSktha3pmRVNpMWlZdDBGY3NGbmJBaFVfSnBJQTdiTXRueVV2N0RVRHRlXzZaR0JEOGl6LWVqYlNYMFJ6MERySi1OZW5ZVnRTVWlLVTRBWEVQR0piSEliRUU0VmYxSlY3d3Z0d0ttaE85U1dISnU1MXMzR3hVOEFaelJRMGotQ0oyTnpWZnlEQ2xjOFBJa01WRkpvWU5YMWdCdWdoeFVMTlJlNGFiYnc?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2IyNmtlcER5SU5taTlUc1hmTEd4SVJPREZ5cjl5aVhhellDaHJmQkdwUlEwODFaZEtrNTVpMkwxN1FqVk1uelM1UEVGUHdfc3doRWlPRUFEcVdTQ2cxLXVpYV9PVjBHVTZ4bFRHRU5YTk9GVEhSaVo0R1ZHMThISUVZR3VqSm5sSTE3bzVYS3ZNcU9XV2JDeFJ2U1k5aGV2bnlQd3hlVm5wZS1WZmtF?oc=5",
-    "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTVBXd0VJalhabHktVDNTT2xSY1pNNzZyTno0MUo3anZ5NVgyVUluTTZXUVdnTXVxNGNrckVKa3JqRWh0TWxOX1FGMXhaX0FWV1NOWXl4a2d1Z2xNZmZxSFFjaml5WEpndU9ZQzVmWlY4YW9nRy1LRnFwUkNsalNpTGNWV2dadktuSnZxODQxT3h4aTFaaHlyenlrb29iVWwwa3pRa05BU2FZQmZ6eE5EaERvV1dyaWdvaWVTMzBrX2hpcFQ2LWo5OWR1ZWNKZllJMW5lbjA2RkFNMy1hbGlJM3dhTGFtMTY2TkdrNW9jMnNpTkVjQ1E?oc=5",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quinta-feira-29-de-outubro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/secretaria-de-mobilidade-deve-mais-de-r-1-bilhao-a-fornecedores-aponta-tcdf-governo-afirma-que-85percent-da-divida-foi-regularizada.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/10/29/policia-identifica-suspeitos-de-esfaquearem-adolescente-de-13-anos-em-roubo-de-bicicleta-no-df-video-mostra-acao.ghtml",
@@ -2314,7 +2316,12 @@
     "https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml",
     "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml",
     "https://g1.globo.com/politica/noticia/2026/11/06/governo-suspende-registro-de-imoveis-de-willer-tomaz-em-angra-incluindo-ilha-de-richarlison.ghtml",
-    "https://g1.globo.com/politica/noticia/2026/11/06/pdt-aprova-ingresso-em-federacao-com-solidariedade-prd-e-avante-e-defende-inclusao-do-psb.ghtml"
+    "https://g1.globo.com/politica/noticia/2026/11/06/pdt-aprova-ingresso-em-federacao-com-solidariedade-prd-e-avante-e-defende-inclusao-do-psb.ghtml",
+    "https://www.fool.com/investing/2026/11/07/1-ai-stock-ill-buy-hand-over-fist-if-market-crash/?.tsrc=rss",
+    "https://finance.yahoo.com/m/283e1bd9-349e-390b-a32b-b4ed9a9034f3/dow-jones-futures%3A-market.html?.tsrc=rss",
+    "https://247wallst.com/investing/2026/11/07/wall-street-may-have-lost-2-5-trillion-but-this-30-warning-could-be-an-even-bigger-problem-for-ai-stocks/?.tsrc=rss",
+    "https://247wallst.com/investing/2026/11/07/tsmc-jumped-6-on-a-report-it-could-make-memory-chips-for-nvidia/?.tsrc=rss",
+    "https://www.fool.com/investing/2026/11/07/how-these-6-big-bank-stocks-make-their-money/?.tsrc=rss"
   ],
   "palavras": [
     {
@@ -5421,6 +5428,18 @@
       "exemplo": "彼は音楽の才能があります。",
       "lang": "jp",
       "tema": "literatura",
+      "data": "2026-11-07",
+      "proxima": "2026-11-08",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-07-08:00-de",
+      "palavra": "das Werkzeug",
+      "leitura": "",
+      "sentido_pt": "a ferramenta",
+      "exemplo": "Geduld ist das beste Werkzeug für den Erfolg.",
+      "lang": "de",
+      "tema": "bolsa",
       "data": "2026-11-07",
       "proxima": "2026-11-08",
       "acertos": 0
