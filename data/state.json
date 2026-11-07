@@ -3,11 +3,11 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "de",
-  "revisao_aberta": "2026-09-25-21:00-de",
+  "ultimo_lang": "jp",
+  "revisao_aberta": "2026-09-24-12:30-jp",
   "ultima_palavra": {
     "de": "Literatur",
-    "jp": "調査"
+    "jp": "採用"
   },
   "ultima_frase": {
     "de": {
@@ -15,7 +15,7 @@
       "leitura": ""
     },
     "jp": {
-      "frase": "警察は事件の調査を続けています。",
+      "frase": "クラブは新しいスタッフの採用を発表した。",
       "leitura": ""
     }
   },
@@ -2029,10 +2029,16 @@
       "lang": "de",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-06",
+      "t": "nova",
+      "lang": "jp",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-27-06:30",
     "2026-10-27-08:00",
     "2026-10-27-12:30",
     "2026-10-27-17:30",
@@ -2091,14 +2097,10 @@
     "2026-11-05-19:30",
     "2026-11-06-06:30",
     "2026-11-06-12:30",
-    "2026-11-06-17:30"
+    "2026-11-06-17:30",
+    "2026-11-06-19:30"
   ],
   "links_usados": [
-    "https://g1.globo.com/df/distrito-federal/df2/playlist/videos-df2-de-quarta-feira-28-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/caso-master-veja-os-nomes-e-as-condutas-dos-15-indiciados-no-relatorio-da-pf-lista-inclui-vorcaro-e-ex-presidente-do-brb.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/diretoria-do-brb-foi-alertada-sobre-falhas-em-90percent-de-carteira-do-master-em-2024-diz-relatorio-da-pf.ghtml",
-    "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-quarta-feira-28-de-outubro-de-2026.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/10/28/paciente-ganha-cerimonia-de-casamento-com-ajuda-de-funcionarios-de-hospital-publico-no-df.ghtml",
     "https://www.fool.com/investing/2026/10/28/openai-reportedly-plans-to-buy-google-s-ai-chips-should-you-sell-nvidia-stock/?.tsrc=rss",
     "https://finance.yahoo.com/technology/ai/articles/november-already-dated-homeview-ships-001307571.html?.tsrc=rss",
     "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
@@ -2293,7 +2295,12 @@
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/historia-do-crime-triplo-assassinato-na-113-sul-teve-inocente-preso-por-14-anos-e-condenacao-anulada.ghtml",
     "https://g1.globo.com/df/distrito-federal/videos-df1/playlist/videos-df1-de-sexta-feira-6-de-novembro-de-2026.ghtml",
     "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/policia-investiga-homem-que-pintou-suastica-em-calcada-no-df.ghtml",
-    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/suspeito-de-matar-vitima-com-golpes-na-cabeca-e-encontrado-em-area-rural-do-df-video.ghtml"
+    "https://g1.globo.com/df/distrito-federal/noticia/2026/11/06/suspeito-de-matar-vitima-com-golpes-na-cabeca-e-encontrado-em-area-rural-do-df-video.ghtml",
+    "https://news.google.com/rss/articles/CBMingJBVV95cUxPSTlYckVEcXJmQkZGWlVTZzF3QmJKTGJyNlliRHlELWw2M3N1ZWRFeDVERDZzNEpNWnJGeC1kQ1p3Y1dBaTFfRkZUV0pEUm9KNmlIZE00ckREOTBNMFdpSHNISG5reDV0OGFQSmxPV0tudHZOVmwxR2NyOHRsQlJVTy1rT1AzT2VtdklzSUhBS1dVVnJVNzBYOG9qUWF6U3c5cGpnbi1wVjZ1LTFWVHBldUpGb2dDcUJTVVEwODJGYzZyUHJ5MFNNNFhFYU5CN3c4QVpuVXJ3b2NwbHN1NzZfNFlqLUw1N1VveXVJZzJodzVNYzlsVXU5ZXZyWl9NajBURnM0Ui1TZGpuT0RrdThja3JYNlY5UThSc1RpS2dB0gGsAkFVX3lxTFBwUlY0R0prMDdHM3MydTVaZlBsbFptV2lmN1NyYmFxa2RFTEJJcUstZmVRdkM2R29pOXVPUVZBXzU3VGtVNk43dm9XWUFSTWN3TXJaemxuU2ZXTF9YQVpjaDREVDhJUjJ5VWh2aERsV1RHSEdXdjdfZGZ5QmVTNm9VRnBlVldVMkJ0bTloVndHSi0wdWpxUjV0LUJLYjJva0dGLUhDX2FhODVvalEzU2dGUW1xN0lGaGlzV2pDeGIxTGwwdk5ReU1IcXhYakI2N1UtZVd6MnVNRWQwZTdoNXNYYWFBZE9lVzRhR0pNaTV2ekxaMmhRMnZyZGg3VnFLZHpDRmdMWUtpU1AtQUpiaTU3bDRDdkpncUJGbU9TMGl6QjdBU2x3cm1TZVprcw?oc=5",
+    "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVZFX05JUEcxV2RGV2N6X2EwQWJ4dkNYMlEyZVZ3Q2VmQVd1cTFOQTlkanlCR0NHZWRrWEpIc01IOUhYX2lQcGRJQ3lDeDFpRUdPbEdJLWp5UW5WZU9KRUF4WUZ0WTJCTE9IY1N1ckZBdVR0eEZvY0JPaGtfOHU0YWFyTGJTQWk2RWUzeEMwV3FZX1hKWjJNZk5iSG9WMEhzbkJiYl92Ui04QkNIVXNXVUdseXFxWnpiNkdQb2lONjBTM0lrWnJrdVBNZThZR2RPMkR2ZzN5ZkhjQ1VXeUEzaFpvOWlvX3NPdHJKa09xTQ?oc=5",
+    "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTl1MTY4bVN3S3RHUVZpTERsS3ZLa2thclNNY054Tl9jdDktVnR1NWNUZElxclVBWGdYQjd4STU5bGs3aVcxUC1nNGNYMWpSWlg4WFU4Ni1pWGRjMlJDVEpQblpHYmRSQkZpdEh0WG9aU0tzN3dIbnh2clRsczhuY2p6T0JBSlhpbVY2d0ZqeFFEVk00eFZJQmUzOURONlcyMDJybU1FMUxIdHlubjZvWThMTlN2Q0xFcWtqcWhOVXBhSG5FTEVtNjdkSTA1ZUtfU0xMSHlIVnNMc2tQUWVvQjRCNEhxZ1pYOENz?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjI2ajNMZENTZDBlbUlsQ05CSFhDZHlNckJaWnhWVXlrU0xidFB1dkFSU3ZYQ2V1cG9BT3c4TWprMnVKZG9sZGsydFBqT1BpVlBvQks5cDdNanNsZVdGeXlMdVdCSjVzanJia0c2MVdrZ21fUEd5N1FyS0JSUVYzTFZXRWtkYWwxMnlwTEJjUnVXX3Mxb2VXVFIzNEJnQ0U?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FSMzFRZG5GUWFRV2FpeEQ5bUpZc2lsLXNBaU01dVVFVUhPTVhaQ0lNWjBLRWZ5a25jM3BqTGJwRGc1amtRcnFrZ3hvNm5NLWp0d19Zc2lMaUd2TmNTSFNzbnRaQ3RIeHJWSXVBbndNZG1kdEw2aVhjSXMwQ0I0SHdnX1pQVGpJaXBLYXJtODhzbGF5b1VsRUo3QTNnUk1JZVZTNGRQZWdVU1NKLUQxczNOZ1VpcE1jelBLMW9wUzBvU0s0WjRicXl3?oc=5"
   ],
   "palavras": [
     {
@@ -5364,6 +5371,18 @@
       "exemplo": "Er liest gern deutsche Literatur am Abend.",
       "lang": "de",
       "tema": "literatura",
+      "data": "2026-11-06",
+      "proxima": "2026-11-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-06-19:30-jp",
+      "palavra": "採用",
+      "leitura": "さいよう",
+      "sentido_pt": "contratação",
+      "exemplo": "クラブは新しいスタッフの採用を発表した。",
+      "lang": "jp",
+      "tema": "botafogo",
       "data": "2026-11-06",
       "proxima": "2026-11-07",
       "acertos": 0
