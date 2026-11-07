@@ -3,15 +3,15 @@
   "skip_date": null,
   "nivel_jp": "N3",
   "nivel_de": "A2-B1",
-  "ultimo_lang": "jp",
-  "revisao_aberta": "2026-09-24-12:30-jp",
+  "ultimo_lang": "de",
+  "revisao_aberta": "2026-09-22-21:00-de",
   "ultima_palavra": {
-    "de": "Literatur",
+    "de": "Regierung",
     "jp": "採用"
   },
   "ultima_frase": {
     "de": {
-      "frase": "Er liest gern deutsche Literatur am Abend.",
+      "frase": "Die Regierung plant eine wichtige Reform.",
       "leitura": ""
     },
     "jp": {
@@ -2036,10 +2036,16 @@
       "lang": "jp",
       "ok": null,
       "nota": null
+    },
+    {
+      "d": "2026-11-06",
+      "t": "nova",
+      "lang": "de",
+      "ok": null,
+      "nota": null
     }
   ],
   "enviados": [
-    "2026-10-27-08:00",
     "2026-10-27-12:30",
     "2026-10-27-17:30",
     "2026-10-27-19:30",
@@ -2098,14 +2104,10 @@
     "2026-11-06-06:30",
     "2026-11-06-12:30",
     "2026-11-06-17:30",
-    "2026-11-06-19:30"
+    "2026-11-06-19:30",
+    "2026-11-06-21:00"
   ],
   "links_usados": [
-    "https://www.fool.com/investing/2026/10/28/openai-reportedly-plans-to-buy-google-s-ai-chips-should-you-sell-nvidia-stock/?.tsrc=rss",
-    "https://finance.yahoo.com/technology/ai/articles/november-already-dated-homeview-ships-001307571.html?.tsrc=rss",
-    "https://beincrypto.com/wall-street-giants-block-tokenized-stock/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/28/the-fed-holds-interest-rates-in-a-102-vote-heres-what-this-means-for-artificial-intelligence-ai-stocks/?.tsrc=rss",
-    "https://www.fool.com/investing/2026/10/28/building-investment-portfolio-scratch-2-etfs/?.tsrc=rss",
     "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamJQdDdVeG1PaDRRZFM1UXBVdF9WXzBtWUpKV29La2RIVE43bTZlSHFudkpzdGRRQXdHZVNQdEZUbjVyMzVQRC1NUzlZTlBXNFFlREhDQ1B3T3Q1SVhlQXlMUFp3UnhBU0FXNWVKTnNGaGkyTXRXNklZem9NS0VUV2JoVGxLaFVBWVlQZVNvbDZkZXpxQUd6RVJLUWtSakl3?oc=5",
     "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWpCZGllTnVXYmZKUm1PLUVuX2REYVQ1WkhiVlhXNHQ0eWRSdGhzSU5DeFNtRDc0SDZEWEpReTlTVGRhbTBKNTNQQklGUWdZamJKN2pSN1pxX1hlYnZ5X1Z4cGpEMmM5aUFZY0hnc1h4eFJFcWU0SXZHck5vYzdVdXBhOVdveUo3dHlBTFY4M3J5SlhQN3ZGRGVGT0lTUQ?oc=5",
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRnJGMER6REdCOF9oSktha3pmRVNpMWlZdDBGY3NGbmJBaFVfSnBJQTdiTXRueVV2N0RVRHRlXzZaR0JEOGl6LWVqYlNYMFJ6MERySi1OZW5ZVnRTVWlLVTRBWEVQR0piSEliRUU0VmYxSlY3d3Z0d0ttaE85U1dISnU1MXMzR3hVOEFaelJRMGotQ0oyTnpWZnlEQ2xjOFBJa01WRkpvWU5YMWdCdWdoeFVMTlJlNGFiYnc?oc=5",
@@ -2300,7 +2302,12 @@
     "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQVZFX05JUEcxV2RGV2N6X2EwQWJ4dkNYMlEyZVZ3Q2VmQVd1cTFOQTlkanlCR0NHZWRrWEpIc01IOUhYX2lQcGRJQ3lDeDFpRUdPbEdJLWp5UW5WZU9KRUF4WUZ0WTJCTE9IY1N1ckZBdVR0eEZvY0JPaGtfOHU0YWFyTGJTQWk2RWUzeEMwV3FZX1hKWjJNZk5iSG9WMEhzbkJiYl92Ui04QkNIVXNXVUdseXFxWnpiNkdQb2lONjBTM0lrWnJrdVBNZThZR2RPMkR2ZzN5ZkhjQ1VXeUEzaFpvOWlvX3NPdHJKa09xTQ?oc=5",
     "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaTl1MTY4bVN3S3RHUVZpTERsS3ZLa2thclNNY054Tl9jdDktVnR1NWNUZElxclVBWGdYQjd4STU5bGs3aVcxUC1nNGNYMWpSWlg4WFU4Ni1pWGRjMlJDVEpQblpHYmRSQkZpdEh0WG9aU0tzN3dIbnh2clRsczhuY2p6T0JBSlhpbVY2d0ZqeFFEVk00eFZJQmUzOURONlcyMDJybU1FMUxIdHlubjZvWThMTlN2Q0xFcWtqcWhOVXBhSG5FTEVtNjdkSTA1ZUtfU0xMSHlIVnNMc2tQUWVvQjRCNEhxZ1pYOENz?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQjI2ajNMZENTZDBlbUlsQ05CSFhDZHlNckJaWnhWVXlrU0xidFB1dkFSU3ZYQ2V1cG9BT3c4TWprMnVKZG9sZGsydFBqT1BpVlBvQks5cDdNanNsZVdGeXlMdVdCSjVzanJia0c2MVdrZ21fUEd5N1FyS0JSUVYzTFZXRWtkYWwxMnlwTEJjUnVXX3Mxb2VXVFIzNEJnQ0U?oc=5",
-    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FSMzFRZG5GUWFRV2FpeEQ5bUpZc2lsLXNBaU01dVVFVUhPTVhaQ0lNWjBLRWZ5a25jM3BqTGJwRGc1amtRcnFrZ3hvNm5NLWp0d19Zc2lMaUd2TmNTSFNzbnRaQ3RIeHJWSXVBbndNZG1kdEw2aVhjSXMwQ0I0SHdnX1pQVGpJaXBLYXJtODhzbGF5b1VsRUo3QTNnUk1JZVZTNGRQZWdVU1NKLUQxczNOZ1VpcE1jelBLMW9wUzBvU0s0WjRicXl3?oc=5"
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ1FSMzFRZG5GUWFRV2FpeEQ5bUpZc2lsLXNBaU01dVVFVUhPTVhaQ0lNWjBLRWZ5a25jM3BqTGJwRGc1amtRcnFrZ3hvNm5NLWp0d19Zc2lMaUd2TmNTSFNzbnRaQ3RIeHJWSXVBbndNZG1kdEw2aVhjSXMwQ0I0SHdnX1pQVGpJaXBLYXJtODhzbGF5b1VsRUo3QTNnUk1JZVZTNGRQZWdVU1NKLUQxczNOZ1VpcE1jelBLMW9wUzBvU0s0WjRicXl3?oc=5",
+    "https://g1.globo.com/politica/noticia/2026/11/07/maioridade-penal-mundo.ghtml",
+    "https://g1.globo.com/economia/noticia/2026/11/07/aliquotas-de-ate-12percent-para-tributo-federal-sobre-consumo-e-imposto-do-pecado-compare-propostas-das-gestoes-lula-e-bolsonaro.ghtml",
+    "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/11/06/e-fake-que-votos-de-lula-nas-eleicoes-superaram-total-de-habitantes-em-cidades-do-brasil-video-foi-fabricado-com-ia.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/06/governo-suspende-registro-de-imoveis-de-willer-tomaz-em-angra-incluindo-ilha-de-richarlison.ghtml",
+    "https://g1.globo.com/politica/noticia/2026/11/06/pdt-aprova-ingresso-em-federacao-com-solidariedade-prd-e-avante-e-defende-inclusao-do-psb.ghtml"
   ],
   "palavras": [
     {
@@ -5383,6 +5390,18 @@
       "exemplo": "クラブは新しいスタッフの採用を発表した。",
       "lang": "jp",
       "tema": "botafogo",
+      "data": "2026-11-06",
+      "proxima": "2026-11-07",
+      "acertos": 0
+    },
+    {
+      "id": "2026-11-06-21:00-de",
+      "palavra": "die Regierung",
+      "leitura": "",
+      "sentido_pt": "o governo",
+      "exemplo": "Die Regierung plant eine wichtige Reform.",
+      "lang": "de",
+      "tema": "politica",
       "data": "2026-11-06",
       "proxima": "2026-11-07",
       "acertos": 0
